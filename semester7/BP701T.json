@@ -1,0 +1,1056 @@
+{
+  "subject_code": "BP701T",
+  "subject_name": "Instrumental Methods of Analysis",
+  "units": {
+    "unit_1": {
+      "unit_name": "UV-Visible Spectroscopy and Fluorimetry",
+      "topics": [
+        "UV-Visible Spectroscopy",
+        "Fluorimetry"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the main principle of UV-Visible spectroscopy?",
+          "options": [
+            "Electronic transitions",
+            "Nuclear transitions",
+            "Molecular transitions",
+            "Atomic transitions"
+          ],
+          "correct_answer": "Electronic transitions"
+        },
+        {
+          "question": "What is a chromophore?",
+          "options": [
+            "Part of molecule responsible for color",
+            "Part of molecule responsible for size",
+            "Part of molecule responsible for shape",
+            "Part of molecule responsible for weight"
+          ],
+          "correct_answer": "Part of molecule responsible for color"
+        },
+        {
+          "question": "What is Beer-Lambert's law?",
+          "options": [
+            "Relationship between absorbance and concentration",
+            "Relationship between color and concentration",
+            "Relationship between size and concentration",
+            "Relationship between shape and concentration"
+          ],
+          "correct_answer": "Relationship between absorbance and concentration"
+        },
+        {
+          "question": "What is the main component of a spectrophotometer?",
+          "options": [
+            "Source of radiation",
+            "Color source",
+            "Size source",
+            "Shape source"
+          ],
+          "correct_answer": "Source of radiation"
+        },
+        {
+          "question": "What is a photomultiplier tube used for?",
+          "options": [
+            "Detecting light",
+            "Changing color",
+            "Changing size",
+            "Changing shape"
+          ],
+          "correct_answer": "Detecting light"
+        },
+        {
+          "question": "What is the main application of spectrophotometry?",
+          "options": [
+            "Quantitative analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Quantitative analysis"
+        },
+        {
+          "question": "What is fluorescence?",
+          "options": [
+            "Emission of light",
+            "Emission of color",
+            "Emission of size",
+            "Emission of shape"
+          ],
+          "correct_answer": "Emission of light"
+        },
+        {
+          "question": "What is a singlet state?",
+          "options": [
+            "Electronic state with paired spins",
+            "Color state",
+            "Size state",
+            "Shape state"
+          ],
+          "correct_answer": "Electronic state with paired spins"
+        },
+        {
+          "question": "What is quenching in fluorimetry?",
+          "options": [
+            "Reduction of fluorescence",
+            "Reduction of color",
+            "Reduction of size",
+            "Reduction of shape"
+          ],
+          "correct_answer": "Reduction of fluorescence"
+        },
+        {
+          "question": "What is the main application of fluorimetry?",
+          "options": [
+            "Trace analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Trace analysis"
+        },
+        {
+          "question": "What is an auxochrome?",
+          "options": [
+            "Group that shifts absorption",
+            "Group that changes color",
+            "Group that changes size",
+            "Group that changes shape"
+          ],
+          "correct_answer": "Group that shifts absorption"
+        },
+        {
+          "question": "What is solvent effect?",
+          "options": [
+            "Change in absorption due to solvent",
+            "Change in color due to solvent",
+            "Change in size due to solvent",
+            "Change in shape due to solvent"
+          ],
+          "correct_answer": "Change in absorption due to solvent"
+        },
+        {
+          "question": "What is a photodiode?",
+          "options": [
+            "Light detector",
+            "Color detector",
+            "Size detector",
+            "Shape detector"
+          ],
+          "correct_answer": "Light detector"
+        },
+        {
+          "question": "What is spectrophotometric titration?",
+          "options": [
+            "Titration using light absorption",
+            "Titration using color",
+            "Titration using size",
+            "Titration using shape"
+          ],
+          "correct_answer": "Titration using light absorption"
+        },
+        {
+          "question": "What is a triplet state?",
+          "options": [
+            "Electronic state with unpaired spins",
+            "Color state",
+            "Size state",
+            "Shape state"
+          ],
+          "correct_answer": "Electronic state with unpaired spins"
+        },
+        {
+          "question": "What is internal conversion?",
+          "options": [
+            "Non-radiative transition",
+            "Color transition",
+            "Size transition",
+            "Shape transition"
+          ],
+          "correct_answer": "Non-radiative transition"
+        },
+        {
+          "question": "What is external conversion?",
+          "options": [
+            "Energy transfer to environment",
+            "Color transfer",
+            "Size transfer",
+            "Shape transfer"
+          ],
+          "correct_answer": "Energy transfer to environment"
+        },
+        {
+          "question": "What affects fluorescence intensity?",
+          "options": [
+            "Temperature and pH",
+            "Color and size",
+            "Shape and weight",
+            "Volume and mass"
+          ],
+          "correct_answer": "Temperature and pH"
+        },
+        {
+          "question": "What is a wavelength selector?",
+          "options": [
+            "Device to select specific wavelength",
+            "Device to select color",
+            "Device to select size",
+            "Device to select shape"
+          ],
+          "correct_answer": "Device to select specific wavelength"
+        },
+        {
+          "question": "What is multi-component analysis?",
+          "options": [
+            "Analysis of multiple components",
+            "Analysis of colors",
+            "Analysis of sizes",
+            "Analysis of shapes"
+          ],
+          "correct_answer": "Analysis of multiple components"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "IR Spectroscopy and Other Techniques",
+      "topics": [
+        "IR Spectroscopy",
+        "Flame Photometry",
+        "Atomic Absorption Spectroscopy",
+        "Nepheloturbidometry"
+      ],
+      "mcqs": [
+        {
+          "question": "What is IR spectroscopy based on?",
+          "options": [
+            "Molecular vibrations",
+            "Color changes",
+            "Size changes",
+            "Shape changes"
+          ],
+          "correct_answer": "Molecular vibrations"
+        },
+        {
+          "question": "What is a fundamental mode of vibration?",
+          "options": [
+            "Basic molecular motion",
+            "Color motion",
+            "Size motion",
+            "Shape motion"
+          ],
+          "correct_answer": "Basic molecular motion"
+        },
+        {
+          "question": "What is a Golay cell?",
+          "options": [
+            "IR detector",
+            "Color detector",
+            "Size detector",
+            "Shape detector"
+          ],
+          "correct_answer": "IR detector"
+        },
+        {
+          "question": "What is flame photometry used for?",
+          "options": [
+            "Metal analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Metal analysis"
+        },
+        {
+          "question": "What is atomic absorption spectroscopy based on?",
+          "options": [
+            "Ground state atoms",
+            "Color atoms",
+            "Size atoms",
+            "Shape atoms"
+          ],
+          "correct_answer": "Ground state atoms"
+        },
+        {
+          "question": "What is nepheloturbidometry used for?",
+          "options": [
+            "Particle analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Particle analysis"
+        },
+        {
+          "question": "What is a bolometer?",
+          "options": [
+            "Temperature detector",
+            "Color detector",
+            "Size detector",
+            "Shape detector"
+          ],
+          "correct_answer": "Temperature detector"
+        },
+        {
+          "question": "What is a thermocouple?",
+          "options": [
+            "Temperature sensor",
+            "Color sensor",
+            "Size sensor",
+            "Shape sensor"
+          ],
+          "correct_answer": "Temperature sensor"
+        },
+        {
+          "question": "What is a pyroelectric detector?",
+          "options": [
+            "IR radiation detector",
+            "Color detector",
+            "Size detector",
+            "Shape detector"
+          ],
+          "correct_answer": "IR radiation detector"
+        },
+        {
+          "question": "What is interference in flame photometry?",
+          "options": [
+            "Spectral overlap",
+            "Color overlap",
+            "Size overlap",
+            "Shape overlap"
+          ],
+          "correct_answer": "Spectral overlap"
+        },
+        {
+          "question": "What is sample handling in IR?",
+          "options": [
+            "Preparation of sample",
+            "Color preparation",
+            "Size preparation",
+            "Shape preparation"
+          ],
+          "correct_answer": "Preparation of sample"
+        },
+        {
+          "question": "What affects IR vibrations?",
+          "options": [
+            "Molecular structure",
+            "Color structure",
+            "Size structure",
+            "Shape structure"
+          ],
+          "correct_answer": "Molecular structure"
+        },
+        {
+          "question": "What is a thermister?",
+          "options": [
+            "Temperature sensor",
+            "Color sensor",
+            "Size sensor",
+            "Shape sensor"
+          ],
+          "correct_answer": "Temperature sensor"
+        },
+        {
+          "question": "What is the principle of flame photometry?",
+          "options": [
+            "Emission spectroscopy",
+            "Color spectroscopy",
+            "Size spectroscopy",
+            "Shape spectroscopy"
+          ],
+          "correct_answer": "Emission spectroscopy"
+        },
+        {
+          "question": "What is the principle of atomic absorption?",
+          "options": [
+            "Absorption of light",
+            "Absorption of color",
+            "Absorption of size",
+            "Absorption of shape"
+          ],
+          "correct_answer": "Absorption of light"
+        },
+        {
+          "question": "What is the principle of nepheloturbidometry?",
+          "options": [
+            "Light scattering",
+            "Color scattering",
+            "Size scattering",
+            "Shape scattering"
+          ],
+          "correct_answer": "Light scattering"
+        },
+        {
+          "question": "What is wavelength selection in IR?",
+          "options": [
+            "Monochromator",
+            "Color selector",
+            "Size selector",
+            "Shape selector"
+          ],
+          "correct_answer": "Monochromator"
+        },
+        {
+          "question": "What is sample preparation for IR?",
+          "options": [
+            "KBr pellet",
+            "Color pellet",
+            "Size pellet",
+            "Shape pellet"
+          ],
+          "correct_answer": "KBr pellet"
+        },
+        {
+          "question": "What is the source in IR?",
+          "options": [
+            "Nernst glower",
+            "Color source",
+            "Size source",
+            "Shape source"
+          ],
+          "correct_answer": "Nernst glower"
+        },
+        {
+          "question": "What is the application of IR?",
+          "options": [
+            "Functional group analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Functional group analysis"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Chromatography and Electrophoresis",
+      "topics": [
+        "Column Chromatography",
+        "Thin Layer Chromatography",
+        "Paper Chromatography",
+        "Electrophoresis"
+      ],
+      "mcqs": [
+        {
+          "question": "What is adsorption chromatography?",
+          "options": [
+            "Separation by surface adsorption",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation by surface adsorption"
+        },
+        {
+          "question": "What is partition chromatography?",
+          "options": [
+            "Separation by distribution",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation by distribution"
+        },
+        {
+          "question": "What is Rf value?",
+          "options": [
+            "Retention factor",
+            "Color factor",
+            "Size factor",
+            "Shape factor"
+          ],
+          "correct_answer": "Retention factor"
+        },
+        {
+          "question": "What is TLC?",
+          "options": [
+            "Thin Layer Chromatography",
+            "Thin Layer Color",
+            "Thin Layer Size",
+            "Thin Layer Shape"
+          ],
+          "correct_answer": "Thin Layer Chromatography"
+        },
+        {
+          "question": "What is paper chromatography?",
+          "options": [
+            "Separation on paper",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation on paper"
+        },
+        {
+          "question": "What is electrophoresis?",
+          "options": [
+            "Separation by charge",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation by charge"
+        },
+        {
+          "question": "What affects electrophoretic mobility?",
+          "options": [
+            "Charge and size",
+            "Color and shape",
+            "Weight and volume",
+            "Mass and density"
+          ],
+          "correct_answer": "Charge and size"
+        },
+        {
+          "question": "What is gel electrophoresis?",
+          "options": [
+            "Separation in gel",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation in gel"
+        },
+        {
+          "question": "What is capillary electrophoresis?",
+          "options": [
+            "Separation in capillary",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation in capillary"
+        },
+        {
+          "question": "What is the advantage of TLC?",
+          "options": [
+            "Rapid analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Rapid analysis"
+        },
+        {
+          "question": "What is the disadvantage of column chromatography?",
+          "options": [
+            "Time consuming",
+            "Color consuming",
+            "Size consuming",
+            "Shape consuming"
+          ],
+          "correct_answer": "Time consuming"
+        },
+        {
+          "question": "What is development in chromatography?",
+          "options": [
+            "Movement of solvent",
+            "Movement of color",
+            "Movement of size",
+            "Movement of shape"
+          ],
+          "correct_answer": "Movement of solvent"
+        },
+        {
+          "question": "What is the application of paper chromatography?",
+          "options": [
+            "Amino acid separation",
+            "Color separation",
+            "Size separation",
+            "Shape separation"
+          ],
+          "correct_answer": "Amino acid separation"
+        },
+        {
+          "question": "What is the application of electrophoresis?",
+          "options": [
+            "Protein separation",
+            "Color separation",
+            "Size separation",
+            "Shape separation"
+          ],
+          "correct_answer": "Protein separation"
+        },
+        {
+          "question": "What is the principle of chromatography?",
+          "options": [
+            "Differential migration",
+            "Color migration",
+            "Size migration",
+            "Shape migration"
+          ],
+          "correct_answer": "Differential migration"
+        },
+        {
+          "question": "What is the stationary phase?",
+          "options": [
+            "Immobile phase",
+            "Color phase",
+            "Size phase",
+            "Shape phase"
+          ],
+          "correct_answer": "Immobile phase"
+        },
+        {
+          "question": "What is the mobile phase?",
+          "options": [
+            "Moving phase",
+            "Color phase",
+            "Size phase",
+            "Shape phase"
+          ],
+          "correct_answer": "Moving phase"
+        },
+        {
+          "question": "What is the application of column chromatography?",
+          "options": [
+            "Purification",
+            "Color purification",
+            "Size purification",
+            "Shape purification"
+          ],
+          "correct_answer": "Purification"
+        },
+        {
+          "question": "What is the advantage of electrophoresis?",
+          "options": [
+            "High resolution",
+            "Color resolution",
+            "Size resolution",
+            "Shape resolution"
+          ],
+          "correct_answer": "High resolution"
+        },
+        {
+          "question": "What is the disadvantage of paper chromatography?",
+          "options": [
+            "Poor resolution",
+            "Color resolution",
+            "Size resolution",
+            "Shape resolution"
+          ],
+          "correct_answer": "Poor resolution"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Gas and Liquid Chromatography",
+      "topics": [
+        "Gas Chromatography",
+        "High Performance Liquid Chromatography"
+      ],
+      "mcqs": [
+        {
+          "question": "What is gas chromatography?",
+          "options": [
+            "Separation in gas phase",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation in gas phase"
+        },
+        {
+          "question": "What is HPLC?",
+          "options": [
+            "High Performance Liquid Chromatography",
+            "High Performance Color Chromatography",
+            "High Performance Size Chromatography",
+            "High Performance Shape Chromatography"
+          ],
+          "correct_answer": "High Performance Liquid Chromatography"
+        },
+        {
+          "question": "What is derivatization?",
+          "options": [
+            "Chemical modification",
+            "Color modification",
+            "Size modification",
+            "Shape modification"
+          ],
+          "correct_answer": "Chemical modification"
+        },
+        {
+          "question": "What is temperature programming?",
+          "options": [
+            "Temperature control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Temperature control"
+        },
+        {
+          "question": "What is the advantage of GC?",
+          "options": [
+            "High resolution",
+            "Color resolution",
+            "Size resolution",
+            "Shape resolution"
+          ],
+          "correct_answer": "High resolution"
+        },
+        {
+          "question": "What is the disadvantage of HPLC?",
+          "options": [
+            "Costly",
+            "Color cost",
+            "Size cost",
+            "Shape cost"
+          ],
+          "correct_answer": "Costly"
+        },
+        {
+          "question": "What is the application of GC?",
+          "options": [
+            "Volatile analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Volatile analysis"
+        },
+        {
+          "question": "What is the application of HPLC?",
+          "options": [
+            "Non-volatile analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Non-volatile analysis"
+        },
+        {
+          "question": "What is the principle of GC?",
+          "options": [
+            "Partition in gas",
+            "Partition by color",
+            "Partition by size",
+            "Partition by shape"
+          ],
+          "correct_answer": "Partition in gas"
+        },
+        {
+          "question": "What is the principle of HPLC?",
+          "options": [
+            "Partition in liquid",
+            "Partition by color",
+            "Partition by size",
+            "Partition by shape"
+          ],
+          "correct_answer": "Partition in liquid"
+        },
+        {
+          "question": "What is the detector in GC?",
+          "options": [
+            "FID",
+            "Color detector",
+            "Size detector",
+            "Shape detector"
+          ],
+          "correct_answer": "FID"
+        },
+        {
+          "question": "What is the detector in HPLC?",
+          "options": [
+            "UV detector",
+            "Color detector",
+            "Size detector",
+            "Shape detector"
+          ],
+          "correct_answer": "UV detector"
+        },
+        {
+          "question": "What is the column in GC?",
+          "options": [
+            "Capillary column",
+            "Color column",
+            "Size column",
+            "Shape column"
+          ],
+          "correct_answer": "Capillary column"
+        },
+        {
+          "question": "What is the column in HPLC?",
+          "options": [
+            "Packed column",
+            "Color column",
+            "Size column",
+            "Shape column"
+          ],
+          "correct_answer": "Packed column"
+        },
+        {
+          "question": "What is the mobile phase in GC?",
+          "options": [
+            "Carrier gas",
+            "Color gas",
+            "Size gas",
+            "Shape gas"
+          ],
+          "correct_answer": "Carrier gas"
+        },
+        {
+          "question": "What is the mobile phase in HPLC?",
+          "options": [
+            "Solvent",
+            "Color solvent",
+            "Size solvent",
+            "Shape solvent"
+          ],
+          "correct_answer": "Solvent"
+        },
+        {
+          "question": "What is the advantage of HPLC?",
+          "options": [
+            "Versatile",
+            "Color versatile",
+            "Size versatile",
+            "Shape versatile"
+          ],
+          "correct_answer": "Versatile"
+        },
+        {
+          "question": "What is the disadvantage of GC?",
+          "options": [
+            "Limited to volatiles",
+            "Limited to colors",
+            "Limited to sizes",
+            "Limited to shapes"
+          ],
+          "correct_answer": "Limited to volatiles"
+        },
+        {
+          "question": "What is the application of GC?",
+          "options": [
+            "Drug analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Drug analysis"
+        },
+        {
+          "question": "What is the application of HPLC?",
+          "options": [
+            "Pharmaceutical analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Pharmaceutical analysis"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Special Chromatographic Techniques",
+      "topics": [
+        "Ion Exchange Chromatography",
+        "Gel Chromatography",
+        "Affinity Chromatography"
+      ],
+      "mcqs": [
+        {
+          "question": "What is ion exchange chromatography?",
+          "options": [
+            "Separation by charge",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation by charge"
+        },
+        {
+          "question": "What is gel chromatography?",
+          "options": [
+            "Separation by size",
+            "Separation by color",
+            "Separation by charge",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation by size"
+        },
+        {
+          "question": "What is affinity chromatography?",
+          "options": [
+            "Separation by binding",
+            "Separation by color",
+            "Separation by size",
+            "Separation by shape"
+          ],
+          "correct_answer": "Separation by binding"
+        },
+        {
+          "question": "What is an ion exchange resin?",
+          "options": [
+            "Polymer with charged groups",
+            "Polymer with color",
+            "Polymer with size",
+            "Polymer with shape"
+          ],
+          "correct_answer": "Polymer with charged groups"
+        },
+        {
+          "question": "What affects ion exchange?",
+          "options": [
+            "pH and ionic strength",
+            "Color and size",
+            "Shape and weight",
+            "Volume and mass"
+          ],
+          "correct_answer": "pH and ionic strength"
+        },
+        {
+          "question": "What is the principle of gel chromatography?",
+          "options": [
+            "Molecular sieving",
+            "Color sieving",
+            "Charge sieving",
+            "Shape sieving"
+          ],
+          "correct_answer": "Molecular sieving"
+        },
+        {
+          "question": "What is the principle of affinity chromatography?",
+          "options": [
+            "Specific binding",
+            "Color binding",
+            "Size binding",
+            "Shape binding"
+          ],
+          "correct_answer": "Specific binding"
+        },
+        {
+          "question": "What is the application of ion exchange?",
+          "options": [
+            "Protein purification",
+            "Color purification",
+            "Size purification",
+            "Shape purification"
+          ],
+          "correct_answer": "Protein purification"
+        },
+        {
+          "question": "What is the application of gel chromatography?",
+          "options": [
+            "Molecular weight determination",
+            "Color determination",
+            "Charge determination",
+            "Shape determination"
+          ],
+          "correct_answer": "Molecular weight determination"
+        },
+        {
+          "question": "What is the application of affinity chromatography?",
+          "options": [
+            "Enzyme purification",
+            "Color purification",
+            "Size purification",
+            "Shape purification"
+          ],
+          "correct_answer": "Enzyme purification"
+        },
+        {
+          "question": "What is the advantage of ion exchange?",
+          "options": [
+            "High capacity",
+            "Color capacity",
+            "Size capacity",
+            "Shape capacity"
+          ],
+          "correct_answer": "High capacity"
+        },
+        {
+          "question": "What is the advantage of gel chromatography?",
+          "options": [
+            "Mild conditions",
+            "Color conditions",
+            "Charge conditions",
+            "Shape conditions"
+          ],
+          "correct_answer": "Mild conditions"
+        },
+        {
+          "question": "What is the advantage of affinity chromatography?",
+          "options": [
+            "High specificity",
+            "Color specificity",
+            "Size specificity",
+            "Shape specificity"
+          ],
+          "correct_answer": "High specificity"
+        },
+        {
+          "question": "What is the disadvantage of ion exchange?",
+          "options": [
+            "Limited pH range",
+            "Limited color range",
+            "Limited size range",
+            "Limited shape range"
+          ],
+          "correct_answer": "Limited pH range"
+        },
+        {
+          "question": "What is the disadvantage of gel chromatography?",
+          "options": [
+            "Low resolution",
+            "Color resolution",
+            "Charge resolution",
+            "Shape resolution"
+          ],
+          "correct_answer": "Low resolution"
+        },
+        {
+          "question": "What is the disadvantage of affinity chromatography?",
+          "options": [
+            "Costly",
+            "Color cost",
+            "Size cost",
+            "Shape cost"
+          ],
+          "correct_answer": "Costly"
+        },
+        {
+          "question": "What is the mechanism of ion exchange?",
+          "options": [
+            "Ion replacement",
+            "Color replacement",
+            "Size replacement",
+            "Shape replacement"
+          ],
+          "correct_answer": "Ion replacement"
+        },
+        {
+          "question": "What is the mechanism of gel chromatography?",
+          "options": [
+            "Size exclusion",
+            "Color exclusion",
+            "Charge exclusion",
+            "Shape exclusion"
+          ],
+          "correct_answer": "Size exclusion"
+        },
+        {
+          "question": "What is the mechanism of affinity chromatography?",
+          "options": [
+            "Biospecific interaction",
+            "Color interaction",
+            "Size interaction",
+            "Shape interaction"
+          ],
+          "correct_answer": "Biospecific interaction"
+        },
+        {
+          "question": "What is the application of these techniques?",
+          "options": [
+            "Biomolecule purification",
+            "Color purification",
+            "Size purification",
+            "Shape purification"
+          ],
+          "correct_answer": "Biomolecule purification"
+        }
+      ]
+    }
+  }
+} 

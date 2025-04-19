@@ -1,0 +1,1056 @@
+{
+  "subject_code": "BP704T",
+  "subject_name": "Novel Drug Delivery Systems",
+  "units": {
+    "unit_1": {
+      "unit_name": "Controlled Drug Delivery Systems",
+      "topics": [
+        "Introduction to Controlled Release",
+        "Design Approaches",
+        "Drug Properties",
+        "Polymers in Drug Delivery"
+      ],
+      "mcqs": [
+        {
+          "question": "What is controlled drug delivery?",
+          "options": [
+            "Sustained release",
+            "Color release",
+            "Size release",
+            "Shape release"
+          ],
+          "correct_answer": "Sustained release"
+        },
+        {
+          "question": "What is the main advantage of controlled release?",
+          "options": [
+            "Reduced dosing frequency",
+            "Color frequency",
+            "Size frequency",
+            "Shape frequency"
+          ],
+          "correct_answer": "Reduced dosing frequency"
+        },
+        {
+          "question": "What is diffusion-based release?",
+          "options": [
+            "Membrane control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Membrane control"
+        },
+        {
+          "question": "What is dissolution-based release?",
+          "options": [
+            "Matrix control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Matrix control"
+        },
+        {
+          "question": "What is ion exchange release?",
+          "options": [
+            "Charge control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Charge control"
+        },
+        {
+          "question": "What is polymer classification?",
+          "options": [
+            "Material type",
+            "Color type",
+            "Size type",
+            "Shape type"
+          ],
+          "correct_answer": "Material type"
+        },
+        {
+          "question": "What is polymer property?",
+          "options": [
+            "Material characteristic",
+            "Color characteristic",
+            "Size characteristic",
+            "Shape characteristic"
+          ],
+          "correct_answer": "Material characteristic"
+        },
+        {
+          "question": "What is drug candidate selection?",
+          "options": [
+            "Formulation choice",
+            "Color choice",
+            "Size choice",
+            "Shape choice"
+          ],
+          "correct_answer": "Formulation choice"
+        },
+        {
+          "question": "What is physicochemical property?",
+          "options": [
+            "Drug characteristic",
+            "Color characteristic",
+            "Size characteristic",
+            "Shape characteristic"
+          ],
+          "correct_answer": "Drug characteristic"
+        },
+        {
+          "question": "What is biological property?",
+          "options": [
+            "Drug behavior",
+            "Color behavior",
+            "Size behavior",
+            "Shape behavior"
+          ],
+          "correct_answer": "Drug behavior"
+        },
+        {
+          "question": "What is polymer application?",
+          "options": [
+            "Material use",
+            "Color use",
+            "Size use",
+            "Shape use"
+          ],
+          "correct_answer": "Material use"
+        },
+        {
+          "question": "What is controlled release advantage?",
+          "options": [
+            "Patient benefit",
+            "Color benefit",
+            "Size benefit",
+            "Shape benefit"
+          ],
+          "correct_answer": "Patient benefit"
+        },
+        {
+          "question": "What is controlled release disadvantage?",
+          "options": [
+            "Formulation limitation",
+            "Color limitation",
+            "Size limitation",
+            "Shape limitation"
+          ],
+          "correct_answer": "Formulation limitation"
+        },
+        {
+          "question": "What is drug selection criteria?",
+          "options": [
+            "Formulation requirement",
+            "Color requirement",
+            "Size requirement",
+            "Shape requirement"
+          ],
+          "correct_answer": "Formulation requirement"
+        },
+        {
+          "question": "What is polymer advantage?",
+          "options": [
+            "Material benefit",
+            "Color benefit",
+            "Size benefit",
+            "Shape benefit"
+          ],
+          "correct_answer": "Material benefit"
+        },
+        {
+          "question": "What is polymer disadvantage?",
+          "options": [
+            "Material limitation",
+            "Color limitation",
+            "Size limitation",
+            "Shape limitation"
+          ],
+          "correct_answer": "Material limitation"
+        },
+        {
+          "question": "What is release mechanism?",
+          "options": [
+            "Drug delivery process",
+            "Color process",
+            "Size process",
+            "Shape process"
+          ],
+          "correct_answer": "Drug delivery process"
+        },
+        {
+          "question": "What is formulation approach?",
+          "options": [
+            "Design method",
+            "Color method",
+            "Size method",
+            "Shape method"
+          ],
+          "correct_answer": "Design method"
+        },
+        {
+          "question": "What is drug property?",
+          "options": [
+            "Active ingredient characteristic",
+            "Color characteristic",
+            "Size characteristic",
+            "Shape characteristic"
+          ],
+          "correct_answer": "Active ingredient characteristic"
+        },
+        {
+          "question": "What is polymer role?",
+          "options": [
+            "Material function",
+            "Color function",
+            "Size function",
+            "Shape function"
+          ],
+          "correct_answer": "Material function"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Microencapsulation and Mucosal Delivery",
+      "topics": [
+        "Microencapsulation",
+        "Mucosal Drug Delivery",
+        "Implantable Systems"
+      ],
+      "mcqs": [
+        {
+          "question": "What is microencapsulation?",
+          "options": [
+            "Particle coating",
+            "Color coating",
+            "Size coating",
+            "Shape coating"
+          ],
+          "correct_answer": "Particle coating"
+        },
+        {
+          "question": "What is microsphere?",
+          "options": [
+            "Spherical particle",
+            "Color particle",
+            "Size particle",
+            "Shape particle"
+          ],
+          "correct_answer": "Spherical particle"
+        },
+        {
+          "question": "What is microcapsule?",
+          "options": [
+            "Coated particle",
+            "Color particle",
+            "Size particle",
+            "Shape particle"
+          ],
+          "correct_answer": "Coated particle"
+        },
+        {
+          "question": "What is bioadhesion?",
+          "options": [
+            "Tissue binding",
+            "Color binding",
+            "Size binding",
+            "Shape binding"
+          ],
+          "correct_answer": "Tissue binding"
+        },
+        {
+          "question": "What is mucoadhesion?",
+          "options": [
+            "Mucus binding",
+            "Color binding",
+            "Size binding",
+            "Shape binding"
+          ],
+          "correct_answer": "Mucus binding"
+        },
+        {
+          "question": "What is implantable system?",
+          "options": [
+            "Internal device",
+            "Color device",
+            "Size device",
+            "Shape device"
+          ],
+          "correct_answer": "Internal device"
+        },
+        {
+          "question": "What is osmotic pump?",
+          "options": [
+            "Pressure device",
+            "Color device",
+            "Size device",
+            "Shape device"
+          ],
+          "correct_answer": "Pressure device"
+        },
+        {
+          "question": "What is encapsulation method?",
+          "options": [
+            "Coating technique",
+            "Color technique",
+            "Size technique",
+            "Shape technique"
+          ],
+          "correct_answer": "Coating technique"
+        },
+        {
+          "question": "What is mucosal permeability?",
+          "options": [
+            "Tissue absorption",
+            "Color absorption",
+            "Size absorption",
+            "Shape absorption"
+          ],
+          "correct_answer": "Tissue absorption"
+        },
+        {
+          "question": "What is buccal delivery?",
+          "options": [
+            "Mouth absorption",
+            "Color absorption",
+            "Size absorption",
+            "Shape absorption"
+          ],
+          "correct_answer": "Mouth absorption"
+        },
+        {
+          "question": "What is implant advantage?",
+          "options": [
+            "Long-term delivery",
+            "Color delivery",
+            "Size delivery",
+            "Shape delivery"
+          ],
+          "correct_answer": "Long-term delivery"
+        },
+        {
+          "question": "What is implant disadvantage?",
+          "options": [
+            "Surgical requirement",
+            "Color requirement",
+            "Size requirement",
+            "Shape requirement"
+          ],
+          "correct_answer": "Surgical requirement"
+        },
+        {
+          "question": "What is encapsulation application?",
+          "options": [
+            "Particle use",
+            "Color use",
+            "Size use",
+            "Shape use"
+          ],
+          "correct_answer": "Particle use"
+        },
+        {
+          "question": "What is mucosal advantage?",
+          "options": [
+            "Direct absorption",
+            "Color absorption",
+            "Size absorption",
+            "Shape absorption"
+          ],
+          "correct_answer": "Direct absorption"
+        },
+        {
+          "question": "What is mucosal disadvantage?",
+          "options": [
+            "Limited area",
+            "Color area",
+            "Size area",
+            "Shape area"
+          ],
+          "correct_answer": "Limited area"
+        },
+        {
+          "question": "What is implant concept?",
+          "options": [
+            "Device principle",
+            "Color principle",
+            "Size principle",
+            "Shape principle"
+          ],
+          "correct_answer": "Device principle"
+        },
+        {
+          "question": "What is osmotic principle?",
+          "options": [
+            "Pressure mechanism",
+            "Color mechanism",
+            "Size mechanism",
+            "Shape mechanism"
+          ],
+          "correct_answer": "Pressure mechanism"
+        },
+        {
+          "question": "What is particle size?",
+          "options": [
+            "Micro dimension",
+            "Color dimension",
+            "Size dimension",
+            "Shape dimension"
+          ],
+          "correct_answer": "Micro dimension"
+        },
+        {
+          "question": "What is coating material?",
+          "options": [
+            "Encapsulation substance",
+            "Color substance",
+            "Size substance",
+            "Shape substance"
+          ],
+          "correct_answer": "Encapsulation substance"
+        },
+        {
+          "question": "What is mucosal formulation?",
+          "options": [
+            "Delivery design",
+            "Color design",
+            "Size design",
+            "Shape design"
+          ],
+          "correct_answer": "Delivery design"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Transdermal and Gastroretentive Systems",
+      "topics": [
+        "Transdermal Drug Delivery",
+        "Gastroretentive Systems",
+        "Nasopulmonary Delivery"
+      ],
+      "mcqs": [
+        {
+          "question": "What is transdermal delivery?",
+          "options": [
+            "Skin absorption",
+            "Color absorption",
+            "Size absorption",
+            "Shape absorption"
+          ],
+          "correct_answer": "Skin absorption"
+        },
+        {
+          "question": "What is skin permeation?",
+          "options": [
+            "Barrier crossing",
+            "Color crossing",
+            "Size crossing",
+            "Shape crossing"
+          ],
+          "correct_answer": "Barrier crossing"
+        },
+        {
+          "question": "What is permeation enhancer?",
+          "options": [
+            "Absorption aid",
+            "Color aid",
+            "Size aid",
+            "Shape aid"
+          ],
+          "correct_answer": "Absorption aid"
+        },
+        {
+          "question": "What is TDDS component?",
+          "options": [
+            "Patch element",
+            "Color element",
+            "Size element",
+            "Shape element"
+          ],
+          "correct_answer": "Patch element"
+        },
+        {
+          "question": "What is GRDDS?",
+          "options": [
+            "Stomach retention",
+            "Color retention",
+            "Size retention",
+            "Shape retention"
+          ],
+          "correct_answer": "Stomach retention"
+        },
+        {
+          "question": "What is floating system?",
+          "options": [
+            "Density control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Density control"
+        },
+        {
+          "question": "What is nasal delivery?",
+          "options": [
+            "Nose absorption",
+            "Color absorption",
+            "Size absorption",
+            "Shape absorption"
+          ],
+          "correct_answer": "Nose absorption"
+        },
+        {
+          "question": "What is pulmonary delivery?",
+          "options": [
+            "Lung absorption",
+            "Color absorption",
+            "Size absorption",
+            "Shape absorption"
+          ],
+          "correct_answer": "Lung absorption"
+        },
+        {
+          "question": "What is inhaler?",
+          "options": [
+            "Breathing device",
+            "Color device",
+            "Size device",
+            "Shape device"
+          ],
+          "correct_answer": "Breathing device"
+        },
+        {
+          "question": "What is nebulizer?",
+          "options": [
+            "Mist device",
+            "Color device",
+            "Size device",
+            "Shape device"
+          ],
+          "correct_answer": "Mist device"
+        },
+        {
+          "question": "What is skin factor?",
+          "options": [
+            "Permeation influence",
+            "Color influence",
+            "Size influence",
+            "Shape influence"
+          ],
+          "correct_answer": "Permeation influence"
+        },
+        {
+          "question": "What is patch formulation?",
+          "options": [
+            "TDDS design",
+            "Color design",
+            "Size design",
+            "Shape design"
+          ],
+          "correct_answer": "TDDS design"
+        },
+        {
+          "question": "What is gastric retention?",
+          "options": [
+            "Stomach stay",
+            "Color stay",
+            "Size stay",
+            "Shape stay"
+          ],
+          "correct_answer": "Stomach stay"
+        },
+        {
+          "question": "What is high density system?",
+          "options": [
+            "Weight control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Weight control"
+        },
+        {
+          "question": "What is inflatable system?",
+          "options": [
+            "Size control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Size control"
+        },
+        {
+          "question": "What is gastroadhesive system?",
+          "options": [
+            "Stomach binding",
+            "Color binding",
+            "Size binding",
+            "Shape binding"
+          ],
+          "correct_answer": "Stomach binding"
+        },
+        {
+          "question": "What is dry powder inhaler?",
+          "options": [
+            "Solid device",
+            "Color device",
+            "Size device",
+            "Shape device"
+          ],
+          "correct_answer": "Solid device"
+        },
+        {
+          "question": "What is metered dose inhaler?",
+          "options": [
+            "Liquid device",
+            "Color device",
+            "Size device",
+            "Shape device"
+          ],
+          "correct_answer": "Liquid device"
+        },
+        {
+          "question": "What is nasal spray?",
+          "options": [
+            "Liquid delivery",
+            "Color delivery",
+            "Size delivery",
+            "Shape delivery"
+          ],
+          "correct_answer": "Liquid delivery"
+        },
+        {
+          "question": "What is pulmonary advantage?",
+          "options": [
+            "Direct absorption",
+            "Color absorption",
+            "Size absorption",
+            "Shape absorption"
+          ],
+          "correct_answer": "Direct absorption"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Targeted Drug Delivery",
+      "topics": [
+        "Targeted Delivery Concepts",
+        "Liposomes and Niosomes",
+        "Nanoparticles and Antibodies"
+      ],
+      "mcqs": [
+        {
+          "question": "What is targeted delivery?",
+          "options": [
+            "Specific delivery",
+            "Color delivery",
+            "Size delivery",
+            "Shape delivery"
+          ],
+          "correct_answer": "Specific delivery"
+        },
+        {
+          "question": "What is liposome?",
+          "options": [
+            "Lipid vesicle",
+            "Color vesicle",
+            "Size vesicle",
+            "Shape vesicle"
+          ],
+          "correct_answer": "Lipid vesicle"
+        },
+        {
+          "question": "What is niosome?",
+          "options": [
+            "Non-ionic vesicle",
+            "Color vesicle",
+            "Size vesicle",
+            "Shape vesicle"
+          ],
+          "correct_answer": "Non-ionic vesicle"
+        },
+        {
+          "question": "What is nanoparticle?",
+          "options": [
+            "Small particle",
+            "Color particle",
+            "Size particle",
+            "Shape particle"
+          ],
+          "correct_answer": "Small particle"
+        },
+        {
+          "question": "What is monoclonal antibody?",
+          "options": [
+            "Specific protein",
+            "Color protein",
+            "Size protein",
+            "Shape protein"
+          ],
+          "correct_answer": "Specific protein"
+        },
+        {
+          "question": "What is targeting advantage?",
+          "options": [
+            "Specific delivery",
+            "Color delivery",
+            "Size delivery",
+            "Shape delivery"
+          ],
+          "correct_answer": "Specific delivery"
+        },
+        {
+          "question": "What is targeting disadvantage?",
+          "options": [
+            "Complex design",
+            "Color design",
+            "Size design",
+            "Shape design"
+          ],
+          "correct_answer": "Complex design"
+        },
+        {
+          "question": "What is vesicle structure?",
+          "options": [
+            "Membrane form",
+            "Color form",
+            "Size form",
+            "Shape form"
+          ],
+          "correct_answer": "Membrane form"
+        },
+        {
+          "question": "What is particle size?",
+          "options": [
+            "Nano dimension",
+            "Color dimension",
+            "Size dimension",
+            "Shape dimension"
+          ],
+          "correct_answer": "Nano dimension"
+        },
+        {
+          "question": "What is antibody function?",
+          "options": [
+            "Target binding",
+            "Color binding",
+            "Size binding",
+            "Shape binding"
+          ],
+          "correct_answer": "Target binding"
+        },
+        {
+          "question": "What is targeting approach?",
+          "options": [
+            "Delivery method",
+            "Color method",
+            "Size method",
+            "Shape method"
+          ],
+          "correct_answer": "Delivery method"
+        },
+        {
+          "question": "What is vesicle advantage?",
+          "options": [
+            "Encapsulation",
+            "Color encapsulation",
+            "Size encapsulation",
+            "Shape encapsulation"
+          ],
+          "correct_answer": "Encapsulation"
+        },
+        {
+          "question": "What is particle advantage?",
+          "options": [
+            "Small size",
+            "Color size",
+            "Size size",
+            "Shape size"
+          ],
+          "correct_answer": "Small size"
+        },
+        {
+          "question": "What is antibody advantage?",
+          "options": [
+            "Specificity",
+            "Color specificity",
+            "Size specificity",
+            "Shape specificity"
+          ],
+          "correct_answer": "Specificity"
+        },
+        {
+          "question": "What is targeting concept?",
+          "options": [
+            "Delivery principle",
+            "Color principle",
+            "Size principle",
+            "Shape principle"
+          ],
+          "correct_answer": "Delivery principle"
+        },
+        {
+          "question": "What is vesicle application?",
+          "options": [
+            "Delivery use",
+            "Color use",
+            "Size use",
+            "Shape use"
+          ],
+          "correct_answer": "Delivery use"
+        },
+        {
+          "question": "What is particle application?",
+          "options": [
+            "Delivery use",
+            "Color use",
+            "Size use",
+            "Shape use"
+          ],
+          "correct_answer": "Delivery use"
+        },
+        {
+          "question": "What is antibody application?",
+          "options": [
+            "Targeting use",
+            "Color use",
+            "Size use",
+            "Shape use"
+          ],
+          "correct_answer": "Targeting use"
+        },
+        {
+          "question": "What is targeting mechanism?",
+          "options": [
+            "Delivery process",
+            "Color process",
+            "Size process",
+            "Shape process"
+          ],
+          "correct_answer": "Delivery process"
+        },
+        {
+          "question": "What is vesicle preparation?",
+          "options": [
+            "Formulation method",
+            "Color method",
+            "Size method",
+            "Shape method"
+          ],
+          "correct_answer": "Formulation method"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Ocular and Intrauterine Delivery",
+      "topics": [
+        "Ocular Drug Delivery",
+        "Intrauterine Systems"
+      ],
+      "mcqs": [
+        {
+          "question": "What is ocular delivery?",
+          "options": [
+            "Eye administration",
+            "Color administration",
+            "Size administration",
+            "Shape administration"
+          ],
+          "correct_answer": "Eye administration"
+        },
+        {
+          "question": "What is intraocular barrier?",
+          "options": [
+            "Eye protection",
+            "Color protection",
+            "Size protection",
+            "Shape protection"
+          ],
+          "correct_answer": "Eye protection"
+        },
+        {
+          "question": "What is ocusert?",
+          "options": [
+            "Eye device",
+            "Color device",
+            "Size device",
+            "Shape device"
+          ],
+          "correct_answer": "Eye device"
+        },
+        {
+          "question": "What is intrauterine device?",
+          "options": [
+            "Uterus implant",
+            "Color implant",
+            "Size implant",
+            "Shape implant"
+          ],
+          "correct_answer": "Uterus implant"
+        },
+        {
+          "question": "What is ocular formulation?",
+          "options": [
+            "Eye preparation",
+            "Color preparation",
+            "Size preparation",
+            "Shape preparation"
+          ],
+          "correct_answer": "Eye preparation"
+        },
+        {
+          "question": "What is IUD advantage?",
+          "options": [
+            "Long-term effect",
+            "Color effect",
+            "Size effect",
+            "Shape effect"
+          ],
+          "correct_answer": "Long-term effect"
+        },
+        {
+          "question": "What is IUD disadvantage?",
+          "options": [
+            "Insertion requirement",
+            "Color requirement",
+            "Size requirement",
+            "Shape requirement"
+          ],
+          "correct_answer": "Insertion requirement"
+        },
+        {
+          "question": "What is ocular barrier?",
+          "options": [
+            "Eye protection",
+            "Color protection",
+            "Size protection",
+            "Shape protection"
+          ],
+          "correct_answer": "Eye protection"
+        },
+        {
+          "question": "What is barrier method?",
+          "options": [
+            "Protection approach",
+            "Color approach",
+            "Size approach",
+            "Shape approach"
+          ],
+          "correct_answer": "Protection approach"
+        },
+        {
+          "question": "What is IUD development?",
+          "options": [
+            "Device design",
+            "Color design",
+            "Size design",
+            "Shape design"
+          ],
+          "correct_answer": "Device design"
+        },
+        {
+          "question": "What is ocular advantage?",
+          "options": [
+            "Direct delivery",
+            "Color delivery",
+            "Size delivery",
+            "Shape delivery"
+          ],
+          "correct_answer": "Direct delivery"
+        },
+        {
+          "question": "What is ocular disadvantage?",
+          "options": [
+            "Limited volume",
+            "Color volume",
+            "Size volume",
+            "Shape volume"
+          ],
+          "correct_answer": "Limited volume"
+        },
+        {
+          "question": "What is preliminary study?",
+          "options": [
+            "Initial research",
+            "Color research",
+            "Size research",
+            "Shape research"
+          ],
+          "correct_answer": "Initial research"
+        },
+        {
+          "question": "What is ocular formulation?",
+          "options": [
+            "Eye preparation",
+            "Color preparation",
+            "Size preparation",
+            "Shape preparation"
+          ],
+          "correct_answer": "Eye preparation"
+        },
+        {
+          "question": "What is IUD application?",
+          "options": [
+            "Device use",
+            "Color use",
+            "Size use",
+            "Shape use"
+          ],
+          "correct_answer": "Device use"
+        },
+        {
+          "question": "What is barrier overcome?",
+          "options": [
+            "Protection bypass",
+            "Color bypass",
+            "Size bypass",
+            "Shape bypass"
+          ],
+          "correct_answer": "Protection bypass"
+        },
+        {
+          "question": "What is ocular device?",
+          "options": [
+            "Eye implant",
+            "Color implant",
+            "Size implant",
+            "Shape implant"
+          ],
+          "correct_answer": "Eye implant"
+        },
+        {
+          "question": "What is IUD type?",
+          "options": [
+            "Device form",
+            "Color form",
+            "Size form",
+            "Shape form"
+          ],
+          "correct_answer": "Device form"
+        },
+        {
+          "question": "What is ocular method?",
+          "options": [
+            "Delivery approach",
+            "Color approach",
+            "Size approach",
+            "Shape approach"
+          ],
+          "correct_answer": "Delivery approach"
+        },
+        {
+          "question": "What is IUD principle?",
+          "options": [
+            "Device concept",
+            "Color concept",
+            "Size concept",
+            "Shape concept"
+          ],
+          "correct_answer": "Device concept"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,1059 @@
+{
+  "subject_code": "BP703T",
+  "subject_name": "Pharmacy Practice",
+  "units": {
+    "unit_1": {
+      "unit_name": "Hospital and Community Pharmacy",
+      "topics": [
+        "Hospital Organization",
+        "Hospital Pharmacy",
+        "Adverse Drug Reactions",
+        "Community Pharmacy"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the definition of a hospital?",
+          "options": [
+            "Healthcare institution",
+            "Color institution",
+            "Size institution",
+            "Shape institution"
+          ],
+          "correct_answer": "Healthcare institution"
+        },
+        {
+          "question": "What are primary hospitals?",
+          "options": [
+            "Basic healthcare providers",
+            "Color providers",
+            "Size providers",
+            "Shape providers"
+          ],
+          "correct_answer": "Basic healthcare providers"
+        },
+        {
+          "question": "What are secondary hospitals?",
+          "options": [
+            "Specialized care providers",
+            "Color providers",
+            "Size providers",
+            "Shape providers"
+          ],
+          "correct_answer": "Specialized care providers"
+        },
+        {
+          "question": "What are tertiary hospitals?",
+          "options": [
+            "Advanced care providers",
+            "Color providers",
+            "Size providers",
+            "Shape providers"
+          ],
+          "correct_answer": "Advanced care providers"
+        },
+        {
+          "question": "What is hospital pharmacy?",
+          "options": [
+            "Pharmacy department",
+            "Color department",
+            "Size department",
+            "Shape department"
+          ],
+          "correct_answer": "Pharmacy department"
+        },
+        {
+          "question": "What are hospital pharmacist responsibilities?",
+          "options": [
+            "Drug management",
+            "Color management",
+            "Size management",
+            "Shape management"
+          ],
+          "correct_answer": "Drug management"
+        },
+        {
+          "question": "What is an adverse drug reaction?",
+          "options": [
+            "Unwanted effect",
+            "Color effect",
+            "Size effect",
+            "Shape effect"
+          ],
+          "correct_answer": "Unwanted effect"
+        },
+        {
+          "question": "What is drug interaction?",
+          "options": [
+            "Drug effect modification",
+            "Color modification",
+            "Size modification",
+            "Shape modification"
+          ],
+          "correct_answer": "Drug effect modification"
+        },
+        {
+          "question": "What is community pharmacy?",
+          "options": [
+            "Retail pharmacy",
+            "Color pharmacy",
+            "Size pharmacy",
+            "Shape pharmacy"
+          ],
+          "correct_answer": "Retail pharmacy"
+        },
+        {
+          "question": "What are legal requirements for drug store?",
+          "options": [
+            "Regulatory compliance",
+            "Color compliance",
+            "Size compliance",
+            "Shape compliance"
+          ],
+          "correct_answer": "Regulatory compliance"
+        },
+        {
+          "question": "What is hospital organization structure?",
+          "options": [
+            "Administrative hierarchy",
+            "Color hierarchy",
+            "Size hierarchy",
+            "Shape hierarchy"
+          ],
+          "correct_answer": "Administrative hierarchy"
+        },
+        {
+          "question": "What are medical staff functions?",
+          "options": [
+            "Patient care",
+            "Color care",
+            "Size care",
+            "Shape care"
+          ],
+          "correct_answer": "Patient care"
+        },
+        {
+          "question": "What is hospital pharmacy location?",
+          "options": [
+            "Strategic placement",
+            "Color placement",
+            "Size placement",
+            "Shape placement"
+          ],
+          "correct_answer": "Strategic placement"
+        },
+        {
+          "question": "What is hospital pharmacy layout?",
+          "options": [
+            "Space organization",
+            "Color organization",
+            "Size organization",
+            "Shape organization"
+          ],
+          "correct_answer": "Space organization"
+        },
+        {
+          "question": "What is ADR classification?",
+          "options": [
+            "Reaction types",
+            "Color types",
+            "Size types",
+            "Shape types"
+          ],
+          "correct_answer": "Reaction types"
+        },
+        {
+          "question": "What is drug interaction detection?",
+          "options": [
+            "Monitoring methods",
+            "Color methods",
+            "Size methods",
+            "Shape methods"
+          ],
+          "correct_answer": "Monitoring methods"
+        },
+        {
+          "question": "What is ADR reporting?",
+          "options": [
+            "Incident documentation",
+            "Color documentation",
+            "Size documentation",
+            "Shape documentation"
+          ],
+          "correct_answer": "Incident documentation"
+        },
+        {
+          "question": "What is retail drug store?",
+          "options": [
+            "Community pharmacy",
+            "Color pharmacy",
+            "Size pharmacy",
+            "Shape pharmacy"
+          ],
+          "correct_answer": "Community pharmacy"
+        },
+        {
+          "question": "What is wholesale drug store?",
+          "options": [
+            "Bulk distribution",
+            "Color distribution",
+            "Size distribution",
+            "Shape distribution"
+          ],
+          "correct_answer": "Bulk distribution"
+        },
+        {
+          "question": "What is record maintenance?",
+          "options": [
+            "Documentation system",
+            "Color system",
+            "Size system",
+            "Shape system"
+          ],
+          "correct_answer": "Documentation system"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Drug Distribution and Monitoring",
+      "topics": [
+        "Drug Distribution System",
+        "Hospital Formulary",
+        "Therapeutic Drug Monitoring",
+        "Medication Adherence"
+      ],
+      "mcqs": [
+        {
+          "question": "What is inpatient drug dispensing?",
+          "options": [
+            "Hospital distribution",
+            "Color distribution",
+            "Size distribution",
+            "Shape distribution"
+          ],
+          "correct_answer": "Hospital distribution"
+        },
+        {
+          "question": "What is ambulatory dispensing?",
+          "options": [
+            "Outpatient distribution",
+            "Color distribution",
+            "Size distribution",
+            "Shape distribution"
+          ],
+          "correct_answer": "Outpatient distribution"
+        },
+        {
+          "question": "What is controlled drug dispensing?",
+          "options": [
+            "Regulated distribution",
+            "Color distribution",
+            "Size distribution",
+            "Shape distribution"
+          ],
+          "correct_answer": "Regulated distribution"
+        },
+        {
+          "question": "What is hospital formulary?",
+          "options": [
+            "Drug list",
+            "Color list",
+            "Size list",
+            "Shape list"
+          ],
+          "correct_answer": "Drug list"
+        },
+        {
+          "question": "What is therapeutic drug monitoring?",
+          "options": [
+            "Drug level check",
+            "Color check",
+            "Size check",
+            "Shape check"
+          ],
+          "correct_answer": "Drug level check"
+        },
+        {
+          "question": "What is medication adherence?",
+          "options": [
+            "Patient compliance",
+            "Color compliance",
+            "Size compliance",
+            "Shape compliance"
+          ],
+          "correct_answer": "Patient compliance"
+        },
+        {
+          "question": "What is medication history?",
+          "options": [
+            "Patient record",
+            "Color record",
+            "Size record",
+            "Shape record"
+          ],
+          "correct_answer": "Patient record"
+        },
+        {
+          "question": "What is community pharmacy management?",
+          "options": [
+            "Store operation",
+            "Color operation",
+            "Size operation",
+            "Shape operation"
+          ],
+          "correct_answer": "Store operation"
+        },
+        {
+          "question": "What is drug distribution system?",
+          "options": [
+            "Supply chain",
+            "Color chain",
+            "Size chain",
+            "Shape chain"
+          ],
+          "correct_answer": "Supply chain"
+        },
+        {
+          "question": "What is charging policy?",
+          "options": [
+            "Cost management",
+            "Color management",
+            "Size management",
+            "Shape management"
+          ],
+          "correct_answer": "Cost management"
+        },
+        {
+          "question": "What is formulary preparation?",
+          "options": [
+            "Drug selection",
+            "Color selection",
+            "Size selection",
+            "Shape selection"
+          ],
+          "correct_answer": "Drug selection"
+        },
+        {
+          "question": "What is formulary revision?",
+          "options": [
+            "List update",
+            "Color update",
+            "Size update",
+            "Shape update"
+          ],
+          "correct_answer": "List update"
+        },
+        {
+          "question": "What is TDM need?",
+          "options": [
+            "Safety check",
+            "Color check",
+            "Size check",
+            "Shape check"
+          ],
+          "correct_answer": "Safety check"
+        },
+        {
+          "question": "What is TDM factor?",
+          "options": [
+            "Monitoring parameter",
+            "Color parameter",
+            "Size parameter",
+            "Shape parameter"
+          ],
+          "correct_answer": "Monitoring parameter"
+        },
+        {
+          "question": "What is non-adherence cause?",
+          "options": [
+            "Patient factor",
+            "Color factor",
+            "Size factor",
+            "Shape factor"
+          ],
+          "correct_answer": "Patient factor"
+        },
+        {
+          "question": "What is pharmacist role in adherence?",
+          "options": [
+            "Patient education",
+            "Color education",
+            "Size education",
+            "Shape education"
+          ],
+          "correct_answer": "Patient education"
+        },
+        {
+          "question": "What is medication monitoring?",
+          "options": [
+            "Compliance check",
+            "Color check",
+            "Size check",
+            "Shape check"
+          ],
+          "correct_answer": "Compliance check"
+        },
+        {
+          "question": "What is interview form?",
+          "options": [
+            "Data collection",
+            "Color collection",
+            "Size collection",
+            "Shape collection"
+          ],
+          "correct_answer": "Data collection"
+        },
+        {
+          "question": "What is infrastructure requirement?",
+          "options": [
+            "Facility need",
+            "Color need",
+            "Size need",
+            "Shape need"
+          ],
+          "correct_answer": "Facility need"
+        },
+        {
+          "question": "What is staff requirement?",
+          "options": [
+            "Personnel need",
+            "Color need",
+            "Size need",
+            "Shape need"
+          ],
+          "correct_answer": "Personnel need"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Pharmacy Services and Education",
+      "topics": [
+        "Pharmacy and Therapeutic Committee",
+        "Drug Information Services",
+        "Patient Counseling",
+        "Education and Training"
+      ],
+      "mcqs": [
+        {
+          "question": "What is PTC?",
+          "options": [
+            "Pharmacy and Therapeutic Committee",
+            "Color Committee",
+            "Size Committee",
+            "Shape Committee"
+          ],
+          "correct_answer": "Pharmacy and Therapeutic Committee"
+        },
+        {
+          "question": "What is drug information service?",
+          "options": [
+            "Information provision",
+            "Color provision",
+            "Size provision",
+            "Shape provision"
+          ],
+          "correct_answer": "Information provision"
+        },
+        {
+          "question": "What is patient counseling?",
+          "options": [
+            "Patient education",
+            "Color education",
+            "Size education",
+            "Shape education"
+          ],
+          "correct_answer": "Patient education"
+        },
+        {
+          "question": "What is hospital education?",
+          "options": [
+            "Staff training",
+            "Color training",
+            "Size training",
+            "Shape training"
+          ],
+          "correct_answer": "Staff training"
+        },
+        {
+          "question": "What is PTC function?",
+          "options": [
+            "Drug policy",
+            "Color policy",
+            "Size policy",
+            "Shape policy"
+          ],
+          "correct_answer": "Drug policy"
+        },
+        {
+          "question": "What is drug information center?",
+          "options": [
+            "Information hub",
+            "Color hub",
+            "Size hub",
+            "Shape hub"
+          ],
+          "correct_answer": "Information hub"
+        },
+        {
+          "question": "What is counseling step?",
+          "options": [
+            "Process stage",
+            "Color stage",
+            "Size stage",
+            "Shape stage"
+          ],
+          "correct_answer": "Process stage"
+        },
+        {
+          "question": "What is training program?",
+          "options": [
+            "Education plan",
+            "Color plan",
+            "Size plan",
+            "Shape plan"
+          ],
+          "correct_answer": "Education plan"
+        },
+        {
+          "question": "What is formulary policy?",
+          "options": [
+            "Drug inclusion",
+            "Color inclusion",
+            "Size inclusion",
+            "Shape inclusion"
+          ],
+          "correct_answer": "Drug inclusion"
+        },
+        {
+          "question": "What is information source?",
+          "options": [
+            "Data origin",
+            "Color origin",
+            "Size origin",
+            "Shape origin"
+          ],
+          "correct_answer": "Data origin"
+        },
+        {
+          "question": "What is special counseling?",
+          "options": [
+            "Specific case",
+            "Color case",
+            "Size case",
+            "Shape case"
+          ],
+          "correct_answer": "Specific case"
+        },
+        {
+          "question": "What is internal training?",
+          "options": [
+            "In-house education",
+            "Color education",
+            "Size education",
+            "Shape education"
+          ],
+          "correct_answer": "In-house education"
+        },
+        {
+          "question": "What is emergency list?",
+          "options": [
+            "Critical drugs",
+            "Color drugs",
+            "Size drugs",
+            "Shape drugs"
+          ],
+          "correct_answer": "Critical drugs"
+        },
+        {
+          "question": "What is information storage?",
+          "options": [
+            "Data management",
+            "Color management",
+            "Size management",
+            "Shape management"
+          ],
+          "correct_answer": "Data management"
+        },
+        {
+          "question": "What is counseling definition?",
+          "options": [
+            "Patient guidance",
+            "Color guidance",
+            "Size guidance",
+            "Shape guidance"
+          ],
+          "correct_answer": "Patient guidance"
+        },
+        {
+          "question": "What is external training?",
+          "options": [
+            "Outside education",
+            "Color education",
+            "Size education",
+            "Shape education"
+          ],
+          "correct_answer": "Outside education"
+        },
+        {
+          "question": "What is automatic stop?",
+          "options": [
+            "Order limit",
+            "Color limit",
+            "Size limit",
+            "Shape limit"
+          ],
+          "correct_answer": "Order limit"
+        },
+        {
+          "question": "What is information retrieval?",
+          "options": [
+            "Data access",
+            "Color access",
+            "Size access",
+            "Shape access"
+          ],
+          "correct_answer": "Data access"
+        },
+        {
+          "question": "What is nursing home service?",
+          "options": [
+            "Care facility support",
+            "Color support",
+            "Size support",
+            "Shape support"
+          ],
+          "correct_answer": "Care facility support"
+        },
+        {
+          "question": "What is code of ethics?",
+          "options": [
+            "Professional standard",
+            "Color standard",
+            "Size standard",
+            "Shape standard"
+          ],
+          "correct_answer": "Professional standard"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Clinical Pharmacy and OTC",
+      "topics": [
+        "Budget Management",
+        "Clinical Pharmacy",
+        "OTC Sales"
+      ],
+      "mcqs": [
+        {
+          "question": "What is budget preparation?",
+          "options": [
+            "Financial planning",
+            "Color planning",
+            "Size planning",
+            "Shape planning"
+          ],
+          "correct_answer": "Financial planning"
+        },
+        {
+          "question": "What is clinical pharmacy?",
+          "options": [
+            "Patient care",
+            "Color care",
+            "Size care",
+            "Shape care"
+          ],
+          "correct_answer": "Patient care"
+        },
+        {
+          "question": "What is OTC sales?",
+          "options": [
+            "Non-prescription",
+            "Color prescription",
+            "Size prescription",
+            "Shape prescription"
+          ],
+          "correct_answer": "Non-prescription"
+        },
+        {
+          "question": "What is budget implementation?",
+          "options": [
+            "Plan execution",
+            "Color execution",
+            "Size execution",
+            "Shape execution"
+          ],
+          "correct_answer": "Plan execution"
+        },
+        {
+          "question": "What is clinical pharmacist role?",
+          "options": [
+            "Patient care",
+            "Color care",
+            "Size care",
+            "Shape care"
+          ],
+          "correct_answer": "Patient care"
+        },
+        {
+          "question": "What is OTC medication?",
+          "options": [
+            "Self-care drug",
+            "Color drug",
+            "Size drug",
+            "Shape drug"
+          ],
+          "correct_answer": "Self-care drug"
+        },
+        {
+          "question": "What is drug therapy monitoring?",
+          "options": [
+            "Treatment check",
+            "Color check",
+            "Size check",
+            "Shape check"
+          ],
+          "correct_answer": "Treatment check"
+        },
+        {
+          "question": "What is ward round?",
+          "options": [
+            "Patient visit",
+            "Color visit",
+            "Size visit",
+            "Shape visit"
+          ],
+          "correct_answer": "Patient visit"
+        },
+        {
+          "question": "What is pharmaceutical care?",
+          "options": [
+            "Patient service",
+            "Color service",
+            "Size service",
+            "Shape service"
+          ],
+          "correct_answer": "Patient service"
+        },
+        {
+          "question": "What is rational OTC use?",
+          "options": [
+            "Proper usage",
+            "Color usage",
+            "Size usage",
+            "Shape usage"
+          ],
+          "correct_answer": "Proper usage"
+        },
+        {
+          "question": "What is medication chart?",
+          "options": [
+            "Treatment record",
+            "Color record",
+            "Size record",
+            "Shape record"
+          ],
+          "correct_answer": "Treatment record"
+        },
+        {
+          "question": "What is clinical review?",
+          "options": [
+            "Patient assessment",
+            "Color assessment",
+            "Size assessment",
+            "Shape assessment"
+          ],
+          "correct_answer": "Patient assessment"
+        },
+        {
+          "question": "What is pharmacist intervention?",
+          "options": [
+            "Treatment modification",
+            "Color modification",
+            "Size modification",
+            "Shape modification"
+          ],
+          "correct_answer": "Treatment modification"
+        },
+        {
+          "question": "What is dosing pattern?",
+          "options": [
+            "Administration schedule",
+            "Color schedule",
+            "Size schedule",
+            "Shape schedule"
+          ],
+          "correct_answer": "Administration schedule"
+        },
+        {
+          "question": "What is disease pattern?",
+          "options": [
+            "Condition type",
+            "Color type",
+            "Size type",
+            "Shape type"
+          ],
+          "correct_answer": "Condition type"
+        },
+        {
+          "question": "What is OTC introduction?",
+          "options": [
+            "Product launch",
+            "Color launch",
+            "Size launch",
+            "Shape launch"
+          ],
+          "correct_answer": "Product launch"
+        },
+        {
+          "question": "What is common OTC?",
+          "options": [
+            "Frequent use",
+            "Color use",
+            "Size use",
+            "Shape use"
+          ],
+          "correct_answer": "Frequent use"
+        },
+        {
+          "question": "What is budget control?",
+          "options": [
+            "Financial management",
+            "Color management",
+            "Size management",
+            "Shape management"
+          ],
+          "correct_answer": "Financial management"
+        },
+        {
+          "question": "What is clinical function?",
+          "options": [
+            "Patient service",
+            "Color service",
+            "Size service",
+            "Shape service"
+          ],
+          "correct_answer": "Patient service"
+        },
+        {
+          "question": "What is OTC management?",
+          "options": [
+            "Product control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Product control"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Drug Store and Laboratory",
+      "topics": [
+        "Drug Store Management",
+        "Investigational Drugs",
+        "Clinical Laboratory Tests"
+      ],
+      "mcqs": [
+        {
+          "question": "What is drug store organization?",
+          "options": [
+            "Storage system",
+            "Color system",
+            "Size system",
+            "Shape system"
+          ],
+          "correct_answer": "Storage system"
+        },
+        {
+          "question": "What is inventory control?",
+          "options": [
+            "Stock management",
+            "Color management",
+            "Size management",
+            "Shape management"
+          ],
+          "correct_answer": "Stock management"
+        },
+        {
+          "question": "What is investigational drug?",
+          "options": [
+            "Research medicine",
+            "Color medicine",
+            "Size medicine",
+            "Shape medicine"
+          ],
+          "correct_answer": "Research medicine"
+        },
+        {
+          "question": "What is clinical laboratory test?",
+          "options": [
+            "Diagnostic check",
+            "Color check",
+            "Size check",
+            "Shape check"
+          ],
+          "correct_answer": "Diagnostic check"
+        },
+        {
+          "question": "What is storage condition?",
+          "options": [
+            "Environmental control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Environmental control"
+        },
+        {
+          "question": "What is purchase procedure?",
+          "options": [
+            "Acquisition process",
+            "Color process",
+            "Size process",
+            "Shape process"
+          ],
+          "correct_answer": "Acquisition process"
+        },
+        {
+          "question": "What is economic order quantity?",
+          "options": [
+            "Optimal purchase",
+            "Color purchase",
+            "Size purchase",
+            "Shape purchase"
+          ],
+          "correct_answer": "Optimal purchase"
+        },
+        {
+          "question": "What is reorder level?",
+          "options": [
+            "Stock trigger",
+            "Color trigger",
+            "Size trigger",
+            "Shape trigger"
+          ],
+          "correct_answer": "Stock trigger"
+        },
+        {
+          "question": "What is drug expenditure?",
+          "options": [
+            "Cost analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Cost analysis"
+        },
+        {
+          "question": "What is investigational use?",
+          "options": [
+            "Research application",
+            "Color application",
+            "Size application",
+            "Shape application"
+          ],
+          "correct_answer": "Research application"
+        },
+        {
+          "question": "What is blood chemistry?",
+          "options": [
+            "Biochemical test",
+            "Color test",
+            "Size test",
+            "Shape test"
+          ],
+          "correct_answer": "Biochemical test"
+        },
+        {
+          "question": "What is hematology?",
+          "options": [
+            "Blood study",
+            "Color study",
+            "Size study",
+            "Shape study"
+          ],
+          "correct_answer": "Blood study"
+        },
+        {
+          "question": "What is urinalysis?",
+          "options": [
+            "Urine test",
+            "Color test",
+            "Size test",
+            "Shape test"
+          ],
+          "correct_answer": "Urine test"
+        },
+        {
+          "question": "What is purchase order?",
+          "options": [
+            "Buying document",
+            "Color document",
+            "Size document",
+            "Shape document"
+          ],
+          "correct_answer": "Buying document"
+        },
+        {
+          "question": "What is procurement?",
+          "options": [
+            "Acquisition process",
+            "Color process",
+            "Size process",
+            "Shape process"
+          ],
+          "correct_answer": "Acquisition process"
+        },
+        {
+          "question": "What is stocking?",
+          "options": [
+            "Inventory storage",
+            "Color storage",
+            "Size storage",
+            "Shape storage"
+          ],
+          "correct_answer": "Inventory storage"
+        },
+        {
+          "question": "What is investigational control?",
+          "options": [
+            "Research regulation",
+            "Color regulation",
+            "Size regulation",
+            "Shape regulation"
+          ],
+          "correct_answer": "Research regulation"
+        },
+        {
+          "question": "What is advisory committee?",
+          "options": [
+            "Expert group",
+            "Color group",
+            "Size group",
+            "Shape group"
+          ],
+          "correct_answer": "Expert group"
+        },
+        {
+          "question": "What is test interpretation?",
+          "options": [
+            "Result analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Result analysis"
+        },
+        {
+          "question": "What is laboratory test?",
+          "options": [
+            "Diagnostic procedure",
+            "Color procedure",
+            "Size procedure",
+            "Shape procedure"
+          ],
+          "correct_answer": "Diagnostic procedure"
+        }
+      ]
+    }
+  }
+} 

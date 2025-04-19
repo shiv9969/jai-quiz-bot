@@ -1,0 +1,1051 @@
+{
+  "subject_code": "BP702T",
+  "subject_name": "Industrial Pharmacy II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Pilot Plant Scale Up Techniques",
+      "topics": [
+        "General Considerations",
+        "Scale Up for Different Dosage Forms",
+        "SUPAC Guidelines",
+        "Platform Technology"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the main purpose of pilot plant scale up?",
+          "options": [
+            "Process optimization",
+            "Color optimization",
+            "Size optimization",
+            "Shape optimization"
+          ],
+          "correct_answer": "Process optimization"
+        },
+        {
+          "question": "What is the significance of personnel requirements in scale up?",
+          "options": [
+            "Ensure proper training",
+            "Ensure proper color",
+            "Ensure proper size",
+            "Ensure proper shape"
+          ],
+          "correct_answer": "Ensure proper training"
+        },
+        {
+          "question": "What is the importance of space requirements?",
+          "options": [
+            "Efficient workflow",
+            "Color workflow",
+            "Size workflow",
+            "Shape workflow"
+          ],
+          "correct_answer": "Efficient workflow"
+        },
+        {
+          "question": "What is SUPAC?",
+          "options": [
+            "Scale Up and Post Approval Changes",
+            "Scale Up and Post Approval Color",
+            "Scale Up and Post Approval Size",
+            "Scale Up and Post Approval Shape"
+          ],
+          "correct_answer": "Scale Up and Post Approval Changes"
+        },
+        {
+          "question": "What is platform technology?",
+          "options": [
+            "Standardized approach",
+            "Color approach",
+            "Size approach",
+            "Shape approach"
+          ],
+          "correct_answer": "Standardized approach"
+        },
+        {
+          "question": "What is the main consideration for solid dosage forms?",
+          "options": [
+            "Mixing uniformity",
+            "Color uniformity",
+            "Size uniformity",
+            "Shape uniformity"
+          ],
+          "correct_answer": "Mixing uniformity"
+        },
+        {
+          "question": "What is the main consideration for liquid orals?",
+          "options": [
+            "Stability",
+            "Color stability",
+            "Size stability",
+            "Shape stability"
+          ],
+          "correct_answer": "Stability"
+        },
+        {
+          "question": "What is the main consideration for semi-solids?",
+          "options": [
+            "Viscosity control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Viscosity control"
+        },
+        {
+          "question": "What is the importance of documentation?",
+          "options": [
+            "Regulatory compliance",
+            "Color compliance",
+            "Size compliance",
+            "Shape compliance"
+          ],
+          "correct_answer": "Regulatory compliance"
+        },
+        {
+          "question": "What is the purpose of raw material evaluation?",
+          "options": [
+            "Quality assurance",
+            "Color assurance",
+            "Size assurance",
+            "Shape assurance"
+          ],
+          "correct_answer": "Quality assurance"
+        },
+        {
+          "question": "What is the main advantage of platform technology?",
+          "options": [
+            "Reduced development time",
+            "Reduced color time",
+            "Reduced size time",
+            "Reduced shape time"
+          ],
+          "correct_answer": "Reduced development time"
+        },
+        {
+          "question": "What is the purpose of process validation?",
+          "options": [
+            "Ensure consistency",
+            "Ensure color",
+            "Ensure size",
+            "Ensure shape"
+          ],
+          "correct_answer": "Ensure consistency"
+        },
+        {
+          "question": "What is the importance of equipment selection?",
+          "options": [
+            "Process efficiency",
+            "Color efficiency",
+            "Size efficiency",
+            "Shape efficiency"
+          ],
+          "correct_answer": "Process efficiency"
+        },
+        {
+          "question": "What is the purpose of scale up studies?",
+          "options": [
+            "Process optimization",
+            "Color optimization",
+            "Size optimization",
+            "Shape optimization"
+          ],
+          "correct_answer": "Process optimization"
+        },
+        {
+          "question": "What is the importance of environmental control?",
+          "options": [
+            "Product quality",
+            "Color quality",
+            "Size quality",
+            "Shape quality"
+          ],
+          "correct_answer": "Product quality"
+        },
+        {
+          "question": "What is the purpose of stability testing?",
+          "options": [
+            "Shelf life determination",
+            "Color determination",
+            "Size determination",
+            "Shape determination"
+          ],
+          "correct_answer": "Shelf life determination"
+        },
+        {
+          "question": "What is the importance of process parameters?",
+          "options": [
+            "Quality control",
+            "Color control",
+            "Size control",
+            "Shape control"
+          ],
+          "correct_answer": "Quality control"
+        },
+        {
+          "question": "What is the purpose of batch records?",
+          "options": [
+            "Documentation",
+            "Color documentation",
+            "Size documentation",
+            "Shape documentation"
+          ],
+          "correct_answer": "Documentation"
+        },
+        {
+          "question": "What is the importance of cleaning validation?",
+          "options": [
+            "Cross contamination prevention",
+            "Color prevention",
+            "Size prevention",
+            "Shape prevention"
+          ],
+          "correct_answer": "Cross contamination prevention"
+        },
+        {
+          "question": "What is the purpose of equipment qualification?",
+          "options": [
+            "Performance verification",
+            "Color verification",
+            "Size verification",
+            "Shape verification"
+          ],
+          "correct_answer": "Performance verification"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Technology Development and Transfer",
+      "topics": [
+        "WHO Guidelines",
+        "Quality Risk Management",
+        "Transfer Process",
+        "Documentation and Legal Aspects"
+      ],
+      "mcqs": [
+        {
+          "question": "What is technology transfer?",
+          "options": [
+            "Knowledge transfer",
+            "Color transfer",
+            "Size transfer",
+            "Shape transfer"
+          ],
+          "correct_answer": "Knowledge transfer"
+        },
+        {
+          "question": "What is the purpose of TT protocol?",
+          "options": [
+            "Standardize transfer",
+            "Standardize color",
+            "Standardize size",
+            "Standardize shape"
+          ],
+          "correct_answer": "Standardize transfer"
+        },
+        {
+          "question": "What is quality risk management?",
+          "options": [
+            "Risk assessment",
+            "Color assessment",
+            "Size assessment",
+            "Shape assessment"
+          ],
+          "correct_answer": "Risk assessment"
+        },
+        {
+          "question": "What is transferred from R&D to production?",
+          "options": [
+            "Process knowledge",
+            "Color knowledge",
+            "Size knowledge",
+            "Shape knowledge"
+          ],
+          "correct_answer": "Process knowledge"
+        },
+        {
+          "question": "What is granularity in TT?",
+          "options": [
+            "Level of detail",
+            "Level of color",
+            "Level of size",
+            "Level of shape"
+          ],
+          "correct_answer": "Level of detail"
+        },
+        {
+          "question": "What is the purpose of documentation?",
+          "options": [
+            "Record keeping",
+            "Color keeping",
+            "Size keeping",
+            "Shape keeping"
+          ],
+          "correct_answer": "Record keeping"
+        },
+        {
+          "question": "What is the importance of premises?",
+          "options": [
+            "Facility requirements",
+            "Color requirements",
+            "Size requirements",
+            "Shape requirements"
+          ],
+          "correct_answer": "Facility requirements"
+        },
+        {
+          "question": "What is the purpose of validation?",
+          "options": [
+            "Process verification",
+            "Color verification",
+            "Size verification",
+            "Shape verification"
+          ],
+          "correct_answer": "Process verification"
+        },
+        {
+          "question": "What is analytical method transfer?",
+          "options": [
+            "Method validation",
+            "Color validation",
+            "Size validation",
+            "Shape validation"
+          ],
+          "correct_answer": "Method validation"
+        },
+        {
+          "question": "What is commercialization?",
+          "options": [
+            "Market launch",
+            "Color launch",
+            "Size launch",
+            "Shape launch"
+          ],
+          "correct_answer": "Market launch"
+        },
+        {
+          "question": "What is APCTD?",
+          "options": [
+            "Technology development agency",
+            "Color agency",
+            "Size agency",
+            "Shape agency"
+          ],
+          "correct_answer": "Technology development agency"
+        },
+        {
+          "question": "What is NRDC?",
+          "options": [
+            "Research development council",
+            "Color council",
+            "Size council",
+            "Shape council"
+          ],
+          "correct_answer": "Research development council"
+        },
+        {
+          "question": "What is TIFAC?",
+          "options": [
+            "Technology forecasting agency",
+            "Color agency",
+            "Size agency",
+            "Shape agency"
+          ],
+          "correct_answer": "Technology forecasting agency"
+        },
+        {
+          "question": "What is BCIL?",
+          "options": [
+            "Biotechnology corporation",
+            "Color corporation",
+            "Size corporation",
+            "Shape corporation"
+          ],
+          "correct_answer": "Biotechnology corporation"
+        },
+        {
+          "question": "What is TBSE/SIDBI?",
+          "options": [
+            "Financial institution",
+            "Color institution",
+            "Size institution",
+            "Shape institution"
+          ],
+          "correct_answer": "Financial institution"
+        },
+        {
+          "question": "What is a confidentiality agreement?",
+          "options": [
+            "Legal document",
+            "Color document",
+            "Size document",
+            "Shape document"
+          ],
+          "correct_answer": "Legal document"
+        },
+        {
+          "question": "What is a licensing agreement?",
+          "options": [
+            "Permission document",
+            "Color document",
+            "Size document",
+            "Shape document"
+          ],
+          "correct_answer": "Permission document"
+        },
+        {
+          "question": "What is an MoU?",
+          "options": [
+            "Memorandum of Understanding",
+            "Memorandum of Color",
+            "Memorandum of Size",
+            "Memorandum of Shape"
+          ],
+          "correct_answer": "Memorandum of Understanding"
+        },
+        {
+          "question": "What are legal issues in TT?",
+          "options": [
+            "Intellectual property",
+            "Color property",
+            "Size property",
+            "Shape property"
+          ],
+          "correct_answer": "Intellectual property"
+        },
+        {
+          "question": "What is the purpose of quality control?",
+          "options": [
+            "Product quality",
+            "Color quality",
+            "Size quality",
+            "Shape quality"
+          ],
+          "correct_answer": "Product quality"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Regulatory Affairs",
+      "topics": [
+        "Introduction to Regulatory Affairs",
+        "Drug Development Process",
+        "Clinical Research",
+        "Regulatory Submissions"
+      ],
+      "mcqs": [
+        {
+          "question": "What is regulatory affairs?",
+          "options": [
+            "Compliance management",
+            "Color management",
+            "Size management",
+            "Shape management"
+          ],
+          "correct_answer": "Compliance management"
+        },
+        {
+          "question": "What is the role of regulatory authorities?",
+          "options": [
+            "Oversight",
+            "Color oversight",
+            "Size oversight",
+            "Shape oversight"
+          ],
+          "correct_answer": "Oversight"
+        },
+        {
+          "question": "What is non-clinical development?",
+          "options": [
+            "Pre-clinical studies",
+            "Color studies",
+            "Size studies",
+            "Shape studies"
+          ],
+          "correct_answer": "Pre-clinical studies"
+        },
+        {
+          "question": "What is an IND?",
+          "options": [
+            "Investigational New Drug",
+            "Investigational New Color",
+            "Investigational New Size",
+            "Investigational New Shape"
+          ],
+          "correct_answer": "Investigational New Drug"
+        },
+        {
+          "question": "What is an IB?",
+          "options": [
+            "Investigator's Brochure",
+            "Investigator's Color",
+            "Investigator's Size",
+            "Investigator's Shape"
+          ],
+          "correct_answer": "Investigator's Brochure"
+        },
+        {
+          "question": "What is an NDA?",
+          "options": [
+            "New Drug Application",
+            "New Color Application",
+            "New Size Application",
+            "New Shape Application"
+          ],
+          "correct_answer": "New Drug Application"
+        },
+        {
+          "question": "What is clinical research?",
+          "options": [
+            "Human studies",
+            "Color studies",
+            "Size studies",
+            "Shape studies"
+          ],
+          "correct_answer": "Human studies"
+        },
+        {
+          "question": "What is a clinical protocol?",
+          "options": [
+            "Study plan",
+            "Color plan",
+            "Size plan",
+            "Shape plan"
+          ],
+          "correct_answer": "Study plan"
+        },
+        {
+          "question": "What is biostatistics?",
+          "options": [
+            "Data analysis",
+            "Color analysis",
+            "Size analysis",
+            "Shape analysis"
+          ],
+          "correct_answer": "Data analysis"
+        },
+        {
+          "question": "What is FDA submission?",
+          "options": [
+            "Regulatory filing",
+            "Color filing",
+            "Size filing",
+            "Shape filing"
+          ],
+          "correct_answer": "Regulatory filing"
+        },
+        {
+          "question": "What is drug development team?",
+          "options": [
+            "Multidisciplinary group",
+            "Color group",
+            "Size group",
+            "Shape group"
+          ],
+          "correct_answer": "Multidisciplinary group"
+        },
+        {
+          "question": "What is pharmacology?",
+          "options": [
+            "Drug action study",
+            "Color study",
+            "Size study",
+            "Shape study"
+          ],
+          "correct_answer": "Drug action study"
+        },
+        {
+          "question": "What is drug metabolism?",
+          "options": [
+            "Drug breakdown",
+            "Color breakdown",
+            "Size breakdown",
+            "Shape breakdown"
+          ],
+          "correct_answer": "Drug breakdown"
+        },
+        {
+          "question": "What is toxicology?",
+          "options": [
+            "Safety study",
+            "Color study",
+            "Size study",
+            "Shape study"
+          ],
+          "correct_answer": "Safety study"
+        },
+        {
+          "question": "What is BE study?",
+          "options": [
+            "Bioequivalence study",
+            "Color study",
+            "Size study",
+            "Shape study"
+          ],
+          "correct_answer": "Bioequivalence study"
+        },
+        {
+          "question": "What is clinical study management?",
+          "options": [
+            "Study coordination",
+            "Color coordination",
+            "Size coordination",
+            "Shape coordination"
+          ],
+          "correct_answer": "Study coordination"
+        },
+        {
+          "question": "What is regulatory compliance?",
+          "options": [
+            "Rule adherence",
+            "Color adherence",
+            "Size adherence",
+            "Shape adherence"
+          ],
+          "correct_answer": "Rule adherence"
+        },
+        {
+          "question": "What is data presentation?",
+          "options": [
+            "Results reporting",
+            "Color reporting",
+            "Size reporting",
+            "Shape reporting"
+          ],
+          "correct_answer": "Results reporting"
+        },
+        {
+          "question": "What is study monitoring?",
+          "options": [
+            "Progress tracking",
+            "Color tracking",
+            "Size tracking",
+            "Shape tracking"
+          ],
+          "correct_answer": "Progress tracking"
+        },
+        {
+          "question": "What is regulatory documentation?",
+          "options": [
+            "Compliance records",
+            "Color records",
+            "Size records",
+            "Shape records"
+          ],
+          "correct_answer": "Compliance records"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Quality Management Systems",
+      "topics": [
+        "Quality Management",
+        "Quality Certifications",
+        "Quality Standards",
+        "Quality Control"
+      ],
+      "mcqs": [
+        {
+          "question": "What is quality management?",
+          "options": [
+            "Quality control system",
+            "Color control system",
+            "Size control system",
+            "Shape control system"
+          ],
+          "correct_answer": "Quality control system"
+        },
+        {
+          "question": "What is TQM?",
+          "options": [
+            "Total Quality Management",
+            "Total Color Management",
+            "Total Size Management",
+            "Total Shape Management"
+          ],
+          "correct_answer": "Total Quality Management"
+        },
+        {
+          "question": "What is QbD?",
+          "options": [
+            "Quality by Design",
+            "Color by Design",
+            "Size by Design",
+            "Shape by Design"
+          ],
+          "correct_answer": "Quality by Design"
+        },
+        {
+          "question": "What is Six Sigma?",
+          "options": [
+            "Quality improvement",
+            "Color improvement",
+            "Size improvement",
+            "Shape improvement"
+          ],
+          "correct_answer": "Quality improvement"
+        },
+        {
+          "question": "What is OOS?",
+          "options": [
+            "Out of Specification",
+            "Out of Color",
+            "Out of Size",
+            "Out of Shape"
+          ],
+          "correct_answer": "Out of Specification"
+        },
+        {
+          "question": "What is change control?",
+          "options": [
+            "Process management",
+            "Color management",
+            "Size management",
+            "Shape management"
+          ],
+          "correct_answer": "Process management"
+        },
+        {
+          "question": "What is ISO 9000?",
+          "options": [
+            "Quality standard",
+            "Color standard",
+            "Size standard",
+            "Shape standard"
+          ],
+          "correct_answer": "Quality standard"
+        },
+        {
+          "question": "What is ISO 14000?",
+          "options": [
+            "Environmental standard",
+            "Color standard",
+            "Size standard",
+            "Shape standard"
+          ],
+          "correct_answer": "Environmental standard"
+        },
+        {
+          "question": "What is NABL?",
+          "options": [
+            "Laboratory accreditation",
+            "Color accreditation",
+            "Size accreditation",
+            "Shape accreditation"
+          ],
+          "correct_answer": "Laboratory accreditation"
+        },
+        {
+          "question": "What is GLP?",
+          "options": [
+            "Good Laboratory Practice",
+            "Good Color Practice",
+            "Good Size Practice",
+            "Good Shape Practice"
+          ],
+          "correct_answer": "Good Laboratory Practice"
+        },
+        {
+          "question": "What is quality certification?",
+          "options": [
+            "Quality recognition",
+            "Color recognition",
+            "Size recognition",
+            "Shape recognition"
+          ],
+          "correct_answer": "Quality recognition"
+        },
+        {
+          "question": "What is quality standard?",
+          "options": [
+            "Quality requirement",
+            "Color requirement",
+            "Size requirement",
+            "Shape requirement"
+          ],
+          "correct_answer": "Quality requirement"
+        },
+        {
+          "question": "What is quality control?",
+          "options": [
+            "Quality check",
+            "Color check",
+            "Size check",
+            "Shape check"
+          ],
+          "correct_answer": "Quality check"
+        },
+        {
+          "question": "What is quality assurance?",
+          "options": [
+            "Quality verification",
+            "Color verification",
+            "Size verification",
+            "Shape verification"
+          ],
+          "correct_answer": "Quality verification"
+        },
+        {
+          "question": "What is quality audit?",
+          "options": [
+            "Quality inspection",
+            "Color inspection",
+            "Size inspection",
+            "Shape inspection"
+          ],
+          "correct_answer": "Quality inspection"
+        },
+        {
+          "question": "What is quality documentation?",
+          "options": [
+            "Quality records",
+            "Color records",
+            "Size records",
+            "Shape records"
+          ],
+          "correct_answer": "Quality records"
+        },
+        {
+          "question": "What is quality training?",
+          "options": [
+            "Quality education",
+            "Color education",
+            "Size education",
+            "Shape education"
+          ],
+          "correct_answer": "Quality education"
+        },
+        {
+          "question": "What is quality monitoring?",
+          "options": [
+            "Quality tracking",
+            "Color tracking",
+            "Size tracking",
+            "Shape tracking"
+          ],
+          "correct_answer": "Quality tracking"
+        },
+        {
+          "question": "What is quality improvement?",
+          "options": [
+            "Quality enhancement",
+            "Color enhancement",
+            "Size enhancement",
+            "Shape enhancement"
+          ],
+          "correct_answer": "Quality enhancement"
+        },
+        {
+          "question": "What is quality reporting?",
+          "options": [
+            "Quality documentation",
+            "Color documentation",
+            "Size documentation",
+            "Shape documentation"
+          ],
+          "correct_answer": "Quality documentation"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Indian Regulatory Requirements",
+      "topics": [
+        "CDSCO and State Licensing",
+        "Regulatory Requirements",
+        "Approval Procedures",
+        "Documentation"
+      ],
+      "mcqs": [
+        {
+          "question": "What is CDSCO?",
+          "options": [
+            "Central Drug Standard Control Organization",
+            "Central Color Standard Control Organization",
+            "Central Size Standard Control Organization",
+            "Central Shape Standard Control Organization"
+          ],
+          "correct_answer": "Central Drug Standard Control Organization"
+        },
+        {
+          "question": "What is state licensing authority?",
+          "options": [
+            "State regulator",
+            "Color regulator",
+            "Size regulator",
+            "Shape regulator"
+          ],
+          "correct_answer": "State regulator"
+        },
+        {
+          "question": "What is COPP?",
+          "options": [
+            "Certificate of Pharmaceutical Product",
+            "Certificate of Color Product",
+            "Certificate of Size Product",
+            "Certificate of Shape Product"
+          ],
+          "correct_answer": "Certificate of Pharmaceutical Product"
+        },
+        {
+          "question": "What is new drug approval?",
+          "options": [
+            "Regulatory clearance",
+            "Color clearance",
+            "Size clearance",
+            "Shape clearance"
+          ],
+          "correct_answer": "Regulatory clearance"
+        },
+        {
+          "question": "What is regulatory requirement?",
+          "options": [
+            "Compliance need",
+            "Color need",
+            "Size need",
+            "Shape need"
+          ],
+          "correct_answer": "Compliance need"
+        },
+        {
+          "question": "What is approval procedure?",
+          "options": [
+            "Application process",
+            "Color process",
+            "Size process",
+            "Shape process"
+          ],
+          "correct_answer": "Application process"
+        },
+        {
+          "question": "What is regulatory documentation?",
+          "options": [
+            "Compliance records",
+            "Color records",
+            "Size records",
+            "Shape records"
+          ],
+          "correct_answer": "Compliance records"
+        },
+        {
+          "question": "What is regulatory inspection?",
+          "options": [
+            "Facility check",
+            "Color check",
+            "Size check",
+            "Shape check"
+          ],
+          "correct_answer": "Facility check"
+        },
+        {
+          "question": "What is regulatory compliance?",
+          "options": [
+            "Rule adherence",
+            "Color adherence",
+            "Size adherence",
+            "Shape adherence"
+          ],
+          "correct_answer": "Rule adherence"
+        },
+        {
+          "question": "What is regulatory approval?",
+          "options": [
+            "Permission grant",
+            "Color grant",
+            "Size grant",
+            "Shape grant"
+          ],
+          "correct_answer": "Permission grant"
+        },
+        {
+          "question": "What is regulatory authority?",
+          "options": [
+            "Governing body",
+            "Color body",
+            "Size body",
+            "Shape body"
+          ],
+          "correct_answer": "Governing body"
+        },
+        {
+          "question": "What is regulatory framework?",
+          "options": [
+            "Rule structure",
+            "Color structure",
+            "Size structure",
+            "Shape structure"
+          ],
+          "correct_answer": "Rule structure"
+        },
+        {
+          "question": "What is regulatory guideline?",
+          "options": [
+            "Compliance instruction",
+            "Color instruction",
+            "Size instruction",
+            "Shape instruction"
+          ],
+          "correct_answer": "Compliance instruction"
+        },
+        {
+          "question": "What is regulatory standard?",
+          "options": [
+            "Quality requirement",
+            "Color requirement",
+            "Size requirement",
+            "Shape requirement"
+          ],
+          "correct_answer": "Quality requirement"
+        },
+        {
+          "question": "What is regulatory policy?",
+          "options": [
+            "Rule framework",
+            "Color framework",
+            "Size framework",
+            "Shape framework"
+          ],
+          "correct_answer": "Rule framework"
+        },
+        {
+          "question": "What is regulatory enforcement?",
+          "options": [
+            "Rule implementation",
+            "Color implementation",
+            "Size implementation",
+            "Shape implementation"
+          ],
+          "correct_answer": "Rule implementation"
+        },
+        {
+          "question": "What is regulatory monitoring?",
+          "options": [
+            "Compliance tracking",
+            "Color tracking",
+            "Size tracking",
+            "Shape tracking"
+          ],
+          "correct_answer": "Compliance tracking"
+        },
+        {
+          "question": "What is regulatory reporting?",
+          "options": [
+            "Compliance documentation",
+            "Color documentation",
+            "Size documentation",
+            "Shape documentation"
+          ],
+          "correct_answer": "Compliance documentation"
+        },
+        {
+          "question": "What is regulatory review?",
+          "options": [
+            "Application assessment",
+            "Color assessment",
+            "Size assessment",
+            "Shape assessment"
+          ],
+          "correct_answer": "Application assessment"
+        }
+      ]
+    }
+  }
+} 
