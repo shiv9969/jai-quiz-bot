@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP601T",
+  "subject_name": "Medicinal Chemistry III",
+  "units": {
+    "unit_1": {
+      "unit_name": "Antibiotics I",
+      "topics": [
+        "β-Lactam antibiotics",
+        "Aminoglycosides",
+        "Tetracyclines",
+        "Structure activity relationship",
+        "Chemical degradation"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is a β-Lactam antibiotic?",
+          "options": ["Penicillin", "Cepholosporins", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an aminoglycoside?",
+          "options": ["Streptomycin", "Neomycin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tetracycline?",
+          "options": ["Tetracycline", "Oxytetracycline", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is structure activity relationship?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is chemical degradation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a β-Lactamase inhibitor?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a monobactam?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a kanamycin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a chlortetracycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a minocycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a doxycycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a penicillin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a cepholosporin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a streptomycin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a neomycin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tetracycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an oxytetracycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a chlortetracycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a minocycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a doxycycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Antibiotics II and Antimalarials",
+      "topics": [
+        "Macrolide antibiotics",
+        "Miscellaneous antibiotics",
+        "Prodrugs",
+        "Antimalarials",
+        "Quinolines and Biguanides"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is a macrolide?",
+          "options": ["Erythromycin", "Clarithromycin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a miscellaneous antibiotic?",
+          "options": ["Chloramphenicol", "Clindamycin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a prodrug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antimalarial?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a quinoline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a biguanide?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an azithromycin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a chloramphenicol?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a clindamycin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a quinine sulphate?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a chloroquine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an amodiaquine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a primaquine phosphate?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a pamaquine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a quinacrine hydrochloride?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a mefloquine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a cycloguanil pamoate?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a proguanil?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a pyrimethamine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an artesunete?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Anti-tubercular and Antiviral Agents",
+      "topics": [
+        "Synthetic anti-tubercular agents",
+        "Anti-tubercular antibiotics",
+        "Urinary tract anti-infective agents",
+        "Quinolones",
+        "Antiviral agents"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is a synthetic anti-tubercular agent?",
+          "options": ["Isoniozid", "Ethionamide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anti-tubercular antibiotic?",
+          "options": ["Rifampicin", "Rifabutin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a urinary tract anti-infective?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a quinolone?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antiviral agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an ethambutol?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a pyrazinamide?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a para amino salicylic acid?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a cycloserine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a streptomycine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a capreomycin sulphate?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a nalidixic acid?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a norfloxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an enoxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a ciprofloxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an ofloxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a lomefloxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sparfloxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a gatifloxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a moxifloxacin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Antifungal and Antiprotozoal Agents",
+      "topics": [
+        "Antifungal antibiotics",
+        "Synthetic antifungal agents",
+        "Antiprotozoal agents",
+        "Anthelmintics",
+        "Sulphonamides and Sulfones"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is an antifungal antibiotic?",
+          "options": ["Amphotericin-B", "Nystatin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a synthetic antifungal agent?",
+          "options": ["Clotrimazole", "Econazole", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antiprotozoal agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anthelmintic?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a sulphonamide?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a natamycin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a griseofulvin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a butoconazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an oxiconazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tioconozole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a miconazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a ketoconazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a terconazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an itraconazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a fluconazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a naftifine hydrochloride?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a tolnaftate?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a metronidazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a tinidazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an ornidazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Drug Design",
+      "topics": [
+        "Drug design approaches",
+        "QSAR parameters",
+        "Pharmacophore modeling",
+        "Docking techniques",
+        "Combinatorial Chemistry"
+      ],
+      "mcqs": [
+        {
+          "question": "What is drug design?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a QSAR parameter?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is pharmacophore modeling?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a docking technique?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is combinatorial chemistry?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a partition coefficient?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Hammet's electronic parameter?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is Taft's steric parameter?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Hansch analysis?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a solid phase synthesis?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a solution phase synthesis?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a drug design approach?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a QSAR?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a pharmacophore?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a docking?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a combinatorial chemistry?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a partition coefficient?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a Hammet's parameter?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a Taft's parameter?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a Hansch analysis?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

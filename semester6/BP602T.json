@@ -1,0 +1,556 @@
+{
+  "subject_code": "BP602T",
+  "subject_name": "Pharmacology III",
+  "units": {
+    "unit_1": {
+      "unit_name": "Respiratory and Gastrointestinal Pharmacology",
+      "topics": [
+        "Anti-asthmatic drugs",
+        "COPD management drugs",
+        "Expectorants and antitussives",
+        "Nasal decongestants",
+        "Antiulcer agents"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is an anti-asthmatic drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a COPD drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an expectorant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antitussive?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a nasal decongestant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antiulcer agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a constipation drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a diarrhoea drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an appetite stimulant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an appetite suppressant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a digestant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a carminative?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an emetic?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anti-emetic?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a respiratory stimulant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a COPD management drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an expectorant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antitussive?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a nasal decongestant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antiulcer agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Chemotherapy I",
+      "topics": [
+        "General principles of chemotherapy",
+        "Sulfonamides and cotrimoxazole",
+        "Penicillins and cephalosporins",
+        "Chloramphenicol and macrolides",
+        "Quinolones and tetracyclines"
+      ],
+      "mcqs": [
+        {
+          "question": "What is chemotherapy?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sulfonamide?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is cotrimoxazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a penicillin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a cephalosporin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a chloramphenicol?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a macrolide?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a quinolone?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a fluoroquinolin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tetracycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an aminoglycoside?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a general principle?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a sulfonamide?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cotrimoxazole?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a penicillin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cephalosporin?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a chloramphenicol?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a macrolide?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a quinolone?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tetracycline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Chemotherapy II",
+      "topics": [
+        "Antitubercular agents",
+        "Antileprotic agents",
+        "Antifungal agents",
+        "Antiviral drugs",
+        "Anthelmintics"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is an antitubercular agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antileprotic agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antifungal agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antiviral drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an anthelmintic?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antimalarial drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antiamoebic agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antitubercular agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antileprotic agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antifungal agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antiviral drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anthelmintic?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antimalarial drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antiamoebic agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antitubercular agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antileprotic agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an antifungal agent?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an antiviral drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an anthelmintic?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Chemotherapy III and Immunopharmacology",
+      "topics": [
+        "Urinary tract infections",
+        "Sexually transmitted diseases",
+        "Chemotherapy of malignancy",
+        "Immunostimulants",
+        "Immunosuppressants"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a urinary tract infection?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sexually transmitted disease?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is chemotherapy of malignancy?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an immunostimulant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an immunosuppressant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a protein drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a monoclonal antibody?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a target drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a biosimilar?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a urinary tract infection?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a sexually transmitted disease?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is chemotherapy of malignancy?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an immunostimulant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an immunosuppressant?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a protein drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a monoclonal antibody?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a target drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a biosimilar?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a urinary tract infection?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Toxicology and Chronopharmacology",
+      "topics": [
+        "Acute and chronic toxicity",
+        "Genotoxicity and carcinogenicity",
+        "Treatment of poisoning",
+        "Clinical symptoms and management",
+        "Chronopharmacology"
+      ],
+      "mcqs": [
+        {
+          "question": "What is acute toxicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is chronic toxicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is genotoxicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is carcinogenicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is teratogenicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is mutagenicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is treatment of poisoning?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a clinical symptom?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is management of poisoning?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is chronopharmacology?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a rhythm?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cycle?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a biological clock?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is chronotherapy?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is acute toxicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is chronic toxicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is genotoxicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is carcinogenicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is teratogenicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is mutagenicity?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

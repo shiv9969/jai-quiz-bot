@@ -1,0 +1,1060 @@
+{
+  "subject_code": "BP604T",
+  "subject_name": "Biopharmaceutics and Pharmacokinetics",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Biopharmaceutics and Drug Absorption",
+      "topics": [
+        "Introduction to Biopharmaceutics",
+        "Mechanisms of drug absorption through GIT",
+        "Factors influencing drug absorption through GIT",
+        "Absorption of drug from Non per oral extra-vascular routes",
+        "Drug distribution and protein binding"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary focus of biopharmaceutics?",
+          "options": [
+            "Study of drug absorption, distribution, metabolism, and excretion",
+            "Study of drug synthesis",
+            "Study of drug stability",
+            "Study of drug packaging"
+          ],
+          "correct_answer": "Study of drug absorption, distribution, metabolism, and excretion"
+        },
+        {
+          "question": "Which of these is NOT a mechanism of drug absorption through GIT?",
+          "options": [
+            "Passive diffusion",
+            "Active transport",
+            "Facilitated diffusion",
+            "Chemical synthesis"
+          ],
+          "correct_answer": "Chemical synthesis"
+        },
+        {
+          "question": "What is the main factor affecting drug absorption through GIT?",
+          "options": [
+            "Physicochemical properties of drug",
+            "Color of drug",
+            "Packaging of drug",
+            "Manufacturing process"
+          ],
+          "correct_answer": "Physicochemical properties of drug"
+        },
+        {
+          "question": "Which of these is NOT a non-oral route of drug administration?",
+          "options": [
+            "Intravenous",
+            "Intramuscular",
+            "Subcutaneous",
+            "Gastric"
+          ],
+          "correct_answer": "Gastric"
+        },
+        {
+          "question": "What is apparent volume of distribution?",
+          "options": [
+            "Theoretical volume required to contain total drug in body",
+            "Actual volume of blood in body",
+            "Volume of drug solution",
+            "Volume of drug container"
+          ],
+          "correct_answer": "Theoretical volume required to contain total drug in body"
+        },
+        {
+          "question": "Which of these factors does NOT affect protein-drug binding?",
+          "options": [
+            "Drug concentration",
+            "Protein concentration",
+            "Drug structure",
+            "Drug color"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the clinical significance of protein binding?",
+          "options": [
+            "Affects drug distribution and elimination",
+            "Affects drug color",
+            "Affects drug packaging",
+            "Affects drug manufacturing"
+          ],
+          "correct_answer": "Affects drug distribution and elimination"
+        },
+        {
+          "question": "Which of these is NOT a type of protein-drug binding?",
+          "options": [
+            "Covalent binding",
+            "Ionic binding",
+            "Hydrogen bonding",
+            "Color binding"
+          ],
+          "correct_answer": "Color binding"
+        },
+        {
+          "question": "What is tissue permeability?",
+          "options": [
+            "Ability of drug to pass through biological membranes",
+            "Color of tissue",
+            "Size of tissue",
+            "Shape of tissue"
+          ],
+          "correct_answer": "Ability of drug to pass through biological membranes"
+        },
+        {
+          "question": "Which of these is NOT a factor affecting drug distribution?",
+          "options": [
+            "Blood flow to tissues",
+            "Tissue binding",
+            "Membrane permeability",
+            "Drug color"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the main purpose of studying drug absorption?",
+          "options": [
+            "To optimize drug delivery",
+            "To change drug color",
+            "To modify packaging",
+            "To alter manufacturing"
+          ],
+          "correct_answer": "To optimize drug delivery"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of passive diffusion?",
+          "options": [
+            "Requires energy",
+            "Follows concentration gradient",
+            "No carrier needed",
+            "Non-saturable"
+          ],
+          "correct_answer": "Requires energy"
+        },
+        {
+          "question": "What is the main advantage of intravenous route?",
+          "options": [
+            "100% bioavailability",
+            "Easy administration",
+            "Self-administration",
+            "No side effects"
+          ],
+          "correct_answer": "100% bioavailability"
+        },
+        {
+          "question": "Which of these is NOT a plasma protein that binds drugs?",
+          "options": [
+            "Albumin",
+            "Globulin",
+            "Fibrinogen",
+            "Melanin"
+          ],
+          "correct_answer": "Melanin"
+        },
+        {
+          "question": "What is the significance of high protein binding?",
+          "options": [
+            "Longer duration of action",
+            "Faster absorption",
+            "Better taste",
+            "Improved color"
+          ],
+          "correct_answer": "Longer duration of action"
+        },
+        {
+          "question": "Which of these is NOT a factor affecting GIT absorption?",
+          "options": [
+            "pH of GI tract",
+            "Gastric emptying",
+            "Food",
+            "Drug color"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the main purpose of studying drug distribution?",
+          "options": [
+            "To understand drug concentration at site of action",
+            "To modify drug color",
+            "To change packaging",
+            "To alter manufacturing"
+          ],
+          "correct_answer": "To understand drug concentration at site of action"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of active transport?",
+          "options": [
+            "No energy required",
+            "Against concentration gradient",
+            "Saturable",
+            "Specific"
+          ],
+          "correct_answer": "No energy required"
+        },
+        {
+          "question": "What is the main advantage of intramuscular route?",
+          "options": [
+            "Sustained release",
+            "100% bioavailability",
+            "No pain",
+            "No side effects"
+          ],
+          "correct_answer": "Sustained release"
+        },
+        {
+          "question": "Which of these is NOT a factor affecting tissue distribution?",
+          "options": [
+            "Blood flow",
+            "Tissue binding",
+            "Membrane permeability",
+            "Drug color"
+          ],
+          "correct_answer": "Drug color"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Drug Elimination and Bioavailability",
+      "topics": [
+        "Drug metabolism and metabolic pathways",
+        "Renal excretion of drugs",
+        "Non-renal routes of drug excretion",
+        "Bioavailability and bioequivalence",
+        "In-vitro drug dissolution models"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the main purpose of drug metabolism?",
+          "options": [
+            "To make drugs more water soluble for excretion",
+            "To change drug color",
+            "To improve taste",
+            "To modify packaging"
+          ],
+          "correct_answer": "To make drugs more water soluble for excretion"
+        },
+        {
+          "question": "Which of these is NOT a phase I metabolic reaction?",
+          "options": [
+            "Glucuronidation",
+            "Oxidation",
+            "Reduction",
+            "Hydrolysis"
+          ],
+          "correct_answer": "Glucuronidation"
+        },
+        {
+          "question": "What is the main organ responsible for drug metabolism?",
+          "options": [
+            "Liver",
+            "Kidney",
+            "Heart",
+            "Lung"
+          ],
+          "correct_answer": "Liver"
+        },
+        {
+          "question": "Which of these is NOT a factor affecting renal excretion?",
+          "options": [
+            "Drug color",
+            "Urine pH",
+            "Blood flow to kidneys",
+            "Protein binding"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is renal clearance?",
+          "options": [
+            "Volume of plasma cleared of drug by kidneys per unit time",
+            "Color of urine",
+            "Size of kidney",
+            "Shape of kidney"
+          ],
+          "correct_answer": "Volume of plasma cleared of drug by kidneys per unit time"
+        },
+        {
+          "question": "Which of these is NOT a non-renal route of excretion?",
+          "options": [
+            "Renal excretion",
+            "Biliary excretion",
+            "Pulmonary excretion",
+            "Sweat excretion"
+          ],
+          "correct_answer": "Renal excretion"
+        },
+        {
+          "question": "What is bioavailability?",
+          "options": [
+            "Fraction of drug reaching systemic circulation",
+            "Color of drug",
+            "Taste of drug",
+            "Size of drug"
+          ],
+          "correct_answer": "Fraction of drug reaching systemic circulation"
+        },
+        {
+          "question": "What is absolute bioavailability?",
+          "options": [
+            "Comparison with IV route",
+            "Comparison with oral route",
+            "Comparison with IM route",
+            "Comparison with SC route"
+          ],
+          "correct_answer": "Comparison with IV route"
+        },
+        {
+          "question": "Which of these is NOT a method to measure bioavailability?",
+          "options": [
+            "Color measurement",
+            "Plasma concentration",
+            "Urinary excretion",
+            "Pharmacological response"
+          ],
+          "correct_answer": "Color measurement"
+        },
+        {
+          "question": "What is bioequivalence?",
+          "options": [
+            "Similar bioavailability of two drug products",
+            "Same color of two drugs",
+            "Same packaging of two drugs",
+            "Same manufacturing process"
+          ],
+          "correct_answer": "Similar bioavailability of two drug products"
+        },
+        {
+          "question": "Which of these is NOT a dissolution model?",
+          "options": [
+            "Color model",
+            "Rotating basket",
+            "Paddle",
+            "Flow-through cell"
+          ],
+          "correct_answer": "Color model"
+        },
+        {
+          "question": "What is IVIVC?",
+          "options": [
+            "In-vitro in-vivo correlation",
+            "Intravenous injection",
+            "In-vitro investigation",
+            "In-vivo investigation"
+          ],
+          "correct_answer": "In-vitro in-vivo correlation"
+        },
+        {
+          "question": "Which of these is NOT a method to enhance dissolution?",
+          "options": [
+            "Change drug color",
+            "Particle size reduction",
+            "Salt formation",
+            "Solid dispersion"
+          ],
+          "correct_answer": "Change drug color"
+        },
+        {
+          "question": "What is the main purpose of bioequivalence studies?",
+          "options": [
+            "To ensure therapeutic equivalence",
+            "To match drug colors",
+            "To match packaging",
+            "To match manufacturing"
+          ],
+          "correct_answer": "To ensure therapeutic equivalence"
+        },
+        {
+          "question": "Which of these is NOT a phase II metabolic reaction?",
+          "options": [
+            "Oxidation",
+            "Glucuronidation",
+            "Sulfation",
+            "Acetylation"
+          ],
+          "correct_answer": "Oxidation"
+        },
+        {
+          "question": "What is the main advantage of biliary excretion?",
+          "options": [
+            "Enterohepatic circulation",
+            "Faster excretion",
+            "No metabolism",
+            "No side effects"
+          ],
+          "correct_answer": "Enterohepatic circulation"
+        },
+        {
+          "question": "Which of these is NOT a factor affecting bioavailability?",
+          "options": [
+            "Drug color",
+            "First pass metabolism",
+            "Formulation factors",
+            "Physiological factors"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the main purpose of dissolution testing?",
+          "options": [
+            "To predict in-vivo performance",
+            "To measure color",
+            "To test packaging",
+            "To check manufacturing"
+          ],
+          "correct_answer": "To predict in-vivo performance"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of good bioavailability?",
+          "options": [
+            "High first pass metabolism",
+            "Good solubility",
+            "Good permeability",
+            "Stable in GI tract"
+          ],
+          "correct_answer": "High first pass metabolism"
+        },
+        {
+          "question": "What is the main advantage of pulmonary excretion?",
+          "options": [
+            "Rapid elimination of volatile drugs",
+            "No metabolism",
+            "No side effects",
+            "No first pass effect"
+          ],
+          "correct_answer": "Rapid elimination of volatile drugs"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Pharmacokinetics: Basic Concepts",
+      "topics": [
+        "Introduction to pharmacokinetics",
+        "Compartment models",
+        "One compartment open model",
+        "Pharmacokinetic parameters",
+        "Methods of elimination"
+      ],
+      "mcqs": [
+        {
+          "question": "What is pharmacokinetics?",
+          "options": [
+            "Study of drug movement in body",
+            "Study of drug synthesis",
+            "Study of drug color",
+            "Study of drug packaging"
+          ],
+          "correct_answer": "Study of drug movement in body"
+        },
+        {
+          "question": "Which of these is NOT a compartment model?",
+          "options": [
+            "Color model",
+            "One compartment",
+            "Two compartment",
+            "Multi-compartment"
+          ],
+          "correct_answer": "Color model"
+        },
+        {
+          "question": "What is elimination rate constant (Ke)?",
+          "options": [
+            "Fraction of drug eliminated per unit time",
+            "Color of drug",
+            "Size of drug",
+            "Shape of drug"
+          ],
+          "correct_answer": "Fraction of drug eliminated per unit time"
+        },
+        {
+          "question": "What is half-life (t1/2)?",
+          "options": [
+            "Time for drug concentration to reduce by half",
+            "Color of drug",
+            "Size of drug",
+            "Shape of drug"
+          ],
+          "correct_answer": "Time for drug concentration to reduce by half"
+        },
+        {
+          "question": "What is volume of distribution (Vd)?",
+          "options": [
+            "Apparent volume to contain total drug",
+            "Actual blood volume",
+            "Color of drug",
+            "Size of drug"
+          ],
+          "correct_answer": "Apparent volume to contain total drug"
+        },
+        {
+          "question": "What is AUC?",
+          "options": [
+            "Area under concentration-time curve",
+            "Color of drug",
+            "Size of drug",
+            "Shape of drug"
+          ],
+          "correct_answer": "Area under concentration-time curve"
+        },
+        {
+          "question": "What is absorption rate constant (Ka)?",
+          "options": [
+            "Rate of drug absorption",
+            "Color of drug",
+            "Size of drug",
+            "Shape of drug"
+          ],
+          "correct_answer": "Rate of drug absorption"
+        },
+        {
+          "question": "What is total clearance (Clt)?",
+          "options": [
+            "Volume of plasma cleared per unit time",
+            "Color of drug",
+            "Size of drug",
+            "Shape of drug"
+          ],
+          "correct_answer": "Volume of plasma cleared per unit time"
+        },
+        {
+          "question": "What is renal clearance (Clr)?",
+          "options": [
+            "Volume of plasma cleared by kidneys per unit time",
+            "Color of drug",
+            "Size of drug",
+            "Shape of drug"
+          ],
+          "correct_answer": "Volume of plasma cleared by kidneys per unit time"
+        },
+        {
+          "question": "Which of these is NOT a method of elimination?",
+          "options": [
+            "Color elimination",
+            "Renal excretion",
+            "Metabolism",
+            "Biliary excretion"
+          ],
+          "correct_answer": "Color elimination"
+        },
+        {
+          "question": "What is the main advantage of one compartment model?",
+          "options": [
+            "Simplicity",
+            "Accuracy",
+            "Color prediction",
+            "Size prediction"
+          ],
+          "correct_answer": "Simplicity"
+        },
+        {
+          "question": "Which of these is NOT a pharmacokinetic parameter?",
+          "options": [
+            "Drug color",
+            "Half-life",
+            "Clearance",
+            "Volume of distribution"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the significance of AUC?",
+          "options": [
+            "Total drug exposure",
+            "Drug color",
+            "Drug size",
+            "Drug shape"
+          ],
+          "correct_answer": "Total drug exposure"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of first order kinetics?",
+          "options": [
+            "Constant amount eliminated",
+            "Constant fraction eliminated",
+            "Exponential decay",
+            "Half-life independent of dose"
+          ],
+          "correct_answer": "Constant amount eliminated"
+        },
+        {
+          "question": "What is the main purpose of pharmacokinetic studies?",
+          "options": [
+            "To optimize drug dosing",
+            "To change drug color",
+            "To modify packaging",
+            "To alter manufacturing"
+          ],
+          "correct_answer": "To optimize drug dosing"
+        },
+        {
+          "question": "Which of these is NOT a factor affecting clearance?",
+          "options": [
+            "Drug color",
+            "Blood flow",
+            "Protein binding",
+            "Enzyme activity"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the significance of volume of distribution?",
+          "options": [
+            "Indicates drug distribution in body",
+            "Indicates drug color",
+            "Indicates drug size",
+            "Indicates drug shape"
+          ],
+          "correct_answer": "Indicates drug distribution in body"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of zero order kinetics?",
+          "options": [
+            "Constant fraction eliminated",
+            "Constant amount eliminated",
+            "Linear decay",
+            "Half-life dependent on dose"
+          ],
+          "correct_answer": "Constant fraction eliminated"
+        },
+        {
+          "question": "What is the main advantage of clearance concept?",
+          "options": [
+            "Independent of volume of distribution",
+            "Indicates color",
+            "Indicates size",
+            "Indicates shape"
+          ],
+          "correct_answer": "Independent of volume of distribution"
+        },
+        {
+          "question": "Which of these is NOT a use of pharmacokinetic parameters?",
+          "options": [
+            "To determine drug color",
+            "To calculate dosing regimen",
+            "To predict drug interactions",
+            "To optimize therapy"
+          ],
+          "correct_answer": "To determine drug color"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Multicompartment Models and Multiple Dosing",
+      "topics": [
+        "Two compartment open model",
+        "IV bolus kinetics",
+        "Multiple dosing kinetics",
+        "Steady state drug levels",
+        "Loading and maintenance doses"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the main advantage of two compartment model?",
+          "options": [
+            "More accurate for many drugs",
+            "Simpler calculations",
+            "Better color prediction",
+            "Better size prediction"
+          ],
+          "correct_answer": "More accurate for many drugs"
+        },
+        {
+          "question": "What is distribution phase in two compartment model?",
+          "options": [
+            "Initial rapid decline in plasma concentration",
+            "Color change",
+            "Size change",
+            "Shape change"
+          ],
+          "correct_answer": "Initial rapid decline in plasma concentration"
+        },
+        {
+          "question": "What is elimination phase in two compartment model?",
+          "options": [
+            "Slower decline in plasma concentration",
+            "Color change",
+            "Size change",
+            "Shape change"
+          ],
+          "correct_answer": "Slower decline in plasma concentration"
+        },
+        {
+          "question": "What is steady state?",
+          "options": [
+            "When drug input equals output",
+            "When color is stable",
+            "When size is stable",
+            "When shape is stable"
+          ],
+          "correct_answer": "When drug input equals output"
+        },
+        {
+          "question": "What is loading dose?",
+          "options": [
+            "Initial dose to reach steady state quickly",
+            "Color dose",
+            "Size dose",
+            "Shape dose"
+          ],
+          "correct_answer": "Initial dose to reach steady state quickly"
+        },
+        {
+          "question": "What is maintenance dose?",
+          "options": [
+            "Dose to maintain steady state",
+            "Color dose",
+            "Size dose",
+            "Shape dose"
+          ],
+          "correct_answer": "Dose to maintain steady state"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of multiple dosing?",
+          "options": [
+            "Color accumulation",
+            "Drug accumulation",
+            "Fluctuation in levels",
+            "Steady state achievement"
+          ],
+          "correct_answer": "Color accumulation"
+        },
+        {
+          "question": "What is accumulation factor?",
+          "options": [
+            "Ratio of steady state to single dose levels",
+            "Color ratio",
+            "Size ratio",
+            "Shape ratio"
+          ],
+          "correct_answer": "Ratio of steady state to single dose levels"
+        },
+        {
+          "question": "What is the main advantage of loading dose?",
+          "correct_answer": "Quick achievement of therapeutic levels"
+        },
+        {
+          "question": "Which of these is NOT a factor affecting steady state?",
+          "options": [
+            "Drug color",
+            "Dosing interval",
+            "Half-life",
+            "Dose"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the significance of two compartment model?",
+          "options": [
+            "Better prediction of drug behavior",
+            "Better color prediction",
+            "Better size prediction",
+            "Better shape prediction"
+          ],
+          "correct_answer": "Better prediction of drug behavior"
+        },
+        {
+          "question": "Which of these is NOT a parameter in two compartment model?",
+          "options": [
+            "Color constant",
+            "Distribution rate constant",
+            "Elimination rate constant",
+            "Volume of central compartment"
+          ],
+          "correct_answer": "Color constant"
+        },
+        {
+          "question": "What is the main purpose of multiple dosing?",
+          "options": [
+            "To maintain therapeutic levels",
+            "To change color",
+            "To modify size",
+            "To alter shape"
+          ],
+          "correct_answer": "To maintain therapeutic levels"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of steady state?",
+          "options": [
+            "Color stability",
+            "Constant average levels",
+            "Peak and trough levels",
+            "Dose-dependent levels"
+          ],
+          "correct_answer": "Color stability"
+        },
+        {
+          "question": "What is the main advantage of maintenance dose?",
+          "options": [
+            "Maintains therapeutic levels",
+            "Changes color",
+            "Modifies size",
+            "Alters shape"
+          ],
+          "correct_answer": "Maintains therapeutic levels"
+        },
+        {
+          "question": "Which of these is NOT a factor in loading dose calculation?",
+          "options": [
+            "Drug color",
+            "Volume of distribution",
+            "Target concentration",
+            "Bioavailability"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the significance of fluctuation?",
+          "options": [
+            "Indicates variation in drug levels",
+            "Indicates color change",
+            "Indicates size change",
+            "Indicates shape change"
+          ],
+          "correct_answer": "Indicates variation in drug levels"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of IV bolus?",
+          "options": [
+            "Color change",
+            "Rapid distribution",
+            "Two phase decline",
+            "Complete bioavailability"
+          ],
+          "correct_answer": "Color change"
+        },
+        {
+          "question": "What is the main advantage of steady state?",
+          "options": [
+            "Predictable drug levels",
+            "Color stability",
+            "Size stability",
+            "Shape stability"
+          ],
+          "correct_answer": "Predictable drug levels"
+        },
+        {
+          "question": "Which of these is NOT a use of two compartment model?",
+          "options": [
+            "Color prediction",
+            "Dose calculation",
+            "Drug interaction prediction",
+            "Therapy optimization"
+          ],
+          "correct_answer": "Color prediction"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Nonlinear Pharmacokinetics",
+      "topics": [
+        "Introduction to nonlinear pharmacokinetics",
+        "Factors causing nonlinearity",
+        "Michaelis-Menten kinetics",
+        "Parameter estimation",
+        "Examples of nonlinear drugs"
+      ],
+      "mcqs": [
+        {
+          "question": "What is nonlinear pharmacokinetics?",
+          "options": [
+            "When pharmacokinetic parameters change with dose",
+            "When color changes with dose",
+            "When size changes with dose",
+            "When shape changes with dose"
+          ],
+          "correct_answer": "When pharmacokinetic parameters change with dose"
+        },
+        {
+          "question": "Which of these is NOT a factor causing nonlinearity?",
+          "options": [
+            "Drug color",
+            "Enzyme saturation",
+            "Protein binding saturation",
+            "Absorption saturation"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is Michaelis-Menten equation?",
+          "options": [
+            "Describes enzyme kinetics",
+            "Describes color change",
+            "Describes size change",
+            "Describes shape change"
+          ],
+          "correct_answer": "Describes enzyme kinetics"
+        },
+        {
+          "question": "What is Vmax in Michaelis-Menten kinetics?",
+          "options": [
+            "Maximum rate of reaction",
+            "Maximum color",
+            "Maximum size",
+            "Maximum shape"
+          ],
+          "correct_answer": "Maximum rate of reaction"
+        },
+        {
+          "question": "What is Km in Michaelis-Menten kinetics?",
+          "options": [
+            "Substrate concentration at half Vmax",
+            "Color at half maximum",
+            "Size at half maximum",
+            "Shape at half maximum"
+          ],
+          "correct_answer": "Substrate concentration at half Vmax"
+        },
+        {
+          "question": "Which of these is NOT an example of nonlinear drug?",
+          "options": [
+            "Water",
+            "Phenytoin",
+            "Ethanol",
+            "Aspirin"
+          ],
+          "correct_answer": "Water"
+        },
+        {
+          "question": "What is the main advantage of Michaelis-Menten kinetics?",
+          "options": [
+            "Describes enzyme saturation",
+            "Describes color change",
+            "Describes size change",
+            "Describes shape change"
+          ],
+          "correct_answer": "Describes enzyme saturation"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of nonlinear kinetics?",
+          "options": [
+            "Color changes with dose",
+            "Half-life changes with dose",
+            "Clearance changes with dose",
+            "AUC not proportional to dose"
+          ],
+          "correct_answer": "Color changes with dose"
+        },
+        {
+          "question": "What is the main purpose of studying nonlinear kinetics?",
+          "options": [
+            "To optimize dosing of nonlinear drugs",
+            "To change drug color",
+            "To modify packaging",
+            "To alter manufacturing"
+          ],
+          "correct_answer": "To optimize dosing of nonlinear drugs"
+        },
+        {
+          "question": "Which of these is NOT a method to estimate Michaelis-Menten parameters?",
+          "options": [
+            "Color measurement",
+            "Lineweaver-Burk plot",
+            "Eadie-Hofstee plot",
+            "Direct linear plot"
+          ],
+          "correct_answer": "Color measurement"
+        },
+        {
+          "question": "What is the significance of enzyme saturation?",
+          "options": [
+            "Causes nonlinear kinetics",
+            "Changes color",
+            "Changes size",
+            "Changes shape"
+          ],
+          "correct_answer": "Causes nonlinear kinetics"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of phenytoin kinetics?",
+          "options": [
+            "Color changes with dose",
+            "Nonlinear absorption",
+            "Nonlinear metabolism",
+            "Narrow therapeutic index"
+          ],
+          "correct_answer": "Color changes with dose"
+        },
+        {
+          "question": "What is the main advantage of Lineweaver-Burk plot?",
+          "options": [
+            "Easy estimation of Vmax and Km",
+            "Color prediction",
+            "Size prediction",
+            "Shape prediction"
+          ],
+          "correct_answer": "Easy estimation of Vmax and Km"
+        },
+        {
+          "question": "Which of these is NOT a factor in nonlinear absorption?",
+          "options": [
+            "Drug color",
+            "Carrier saturation",
+            "Poor solubility",
+            "Formulation factors"
+          ],
+          "correct_answer": "Drug color"
+        },
+        {
+          "question": "What is the main advantage of Eadie-Hofstee plot?",
+          "options": [
+            "Better error distribution",
+            "Better color prediction",
+            "Better size prediction",
+            "Better shape prediction"
+          ],
+          "correct_answer": "Better error distribution"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of ethanol kinetics?",
+          "options": [
+            "Color changes with dose",
+            "Zero order at high doses",
+            "First order at low doses",
+            "Enzyme saturation"
+          ],
+          "correct_answer": "Color changes with dose"
+        },
+        {
+          "question": "What is the significance of protein binding saturation?",
+          "options": [
+            "Causes nonlinear distribution",
+            "Changes color",
+            "Changes size",
+            "Changes shape"
+          ],
+          "correct_answer": "Causes nonlinear distribution"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of aspirin kinetics?",
+          "options": [
+            "Color changes with dose",
+            "Nonlinear protein binding",
+            "Nonlinear metabolism",
+            "Dose-dependent half-life"
+          ],
+          "correct_answer": "Color changes with dose"
+        },
+        {
+          "question": "What is the main advantage of direct linear plot?",
+          "options": [
+            "No transformation of data",
+            "Better color prediction",
+            "Better size prediction",
+            "Better shape prediction"
+          ],
+          "correct_answer": "No transformation of data"
+        },
+        {
+          "question": "Which of these is NOT a use of nonlinear kinetics?",
+          "options": [
+            "Color prediction",
+            "Dose optimization",
+            "Drug interaction prediction",
+            "Therapy individualization"
+          ],
+          "correct_answer": "Color prediction"
+        }
+      ]
+    }
+  }
+} 

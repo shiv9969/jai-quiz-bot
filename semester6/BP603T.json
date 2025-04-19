@@ -1,0 +1,1066 @@
+{
+  "subject_code": "BP603T",
+  "subject_name": "Herbal Drug Technology",
+  "units": {
+    "unit_1": {
+      "unit_name": "Herbs as Raw Materials and Indian Systems of Medicine",
+      "topics": [
+        "Definition and sources of herbs",
+        "Selection and authentication of herbal materials",
+        "Processing of herbal raw material",
+        "Biodynamic Agriculture and GAP",
+        "Indian Systems of Medicine"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the definition of herbal medicine according to WHO?",
+          "options": [
+            "Finished, labeled medicinal products containing active ingredients from plants",
+            "Raw materials from plants used in traditional medicine",
+            "Only Ayurvedic formulations",
+            "Synthetic drugs derived from plants"
+          ],
+          "correct_answer": "Finished, labeled medicinal products containing active ingredients from plants"
+        },
+        {
+          "question": "Which of the following is NOT a method for authentication of herbal materials?",
+          "options": [
+            "Macroscopic examination",
+            "Microscopic examination",
+            "Chemical fingerprinting",
+            "Taste testing"
+          ],
+          "correct_answer": "Taste testing"
+        },
+        {
+          "question": "What is the main principle of biodynamic agriculture?",
+          "options": [
+            "Use of synthetic fertilizers",
+            "Chemical pest control",
+            "Working with natural rhythms and cycles",
+            "Monoculture farming"
+          ],
+          "correct_answer": "Working with natural rhythms and cycles"
+        },
+        {
+          "question": "Which of these is NOT a basic principle of Ayurveda?",
+          "options": [
+            "Tridosha theory",
+            "Panchamahabhuta",
+            "Theory of relativity",
+            "Saptadhatu"
+          ],
+          "correct_answer": "Theory of relativity"
+        },
+        {
+          "question": "What is the main difference between Arista and Asava?",
+          "options": [
+            "Arista is fermented while Asava is not",
+            "Asava is fermented while Arista is not",
+            "Arista contains alcohol while Asava does not",
+            "Asava is solid while Arista is liquid"
+          ],
+          "correct_answer": "Asava is fermented while Arista is not"
+        },
+        {
+          "question": "Which of these is NOT a source of herbal drugs?",
+          "options": [
+            "Plants",
+            "Animals",
+            "Minerals",
+            "Synthetic chemicals"
+          ],
+          "correct_answer": "Synthetic chemicals"
+        },
+        {
+          "question": "What is the primary purpose of Good Agricultural Practices (GAP)?",
+          "options": [
+            "Ensure quality and safety of herbal materials",
+            "Increase production quantity",
+            "Reduce production costs",
+            "Speed up harvesting"
+          ],
+          "correct_answer": "Ensure quality and safety of herbal materials"
+        },
+        {
+          "question": "Which of these is NOT a step in processing herbal raw material?",
+          "options": [
+            "Drying",
+            "Grinding",
+            "Fermentation",
+            "Synthesis"
+          ],
+          "correct_answer": "Synthesis"
+        },
+        {
+          "question": "What is the main focus of Siddha system of medicine?",
+          "options": [
+            "Balance of three humors",
+            "Five elements theory",
+            "Seven tissues theory",
+            "Four humors theory"
+          ],
+          "correct_answer": "Balance of three humors"
+        },
+        {
+          "question": "Which of these is NOT a type of Ayurvedic formulation?",
+          "options": [
+            "Churna",
+            "Bhasma",
+            "Lehya",
+            "Synthesis"
+          ],
+          "correct_answer": "Synthesis"
+        },
+        {
+          "question": "What is the main purpose of organic farming in medicinal plants?",
+          "options": [
+            "Avoid chemical residues",
+            "Increase yield",
+            "Reduce cost",
+            "Speed up growth"
+          ],
+          "correct_answer": "Avoid chemical residues"
+        },
+        {
+          "question": "Which of these is NOT a method of pest management in medicinal plants?",
+          "options": [
+            "Biopesticides",
+            "Chemical pesticides",
+            "Natural predators",
+            "Crop rotation"
+          ],
+          "correct_answer": "Chemical pesticides"
+        },
+        {
+          "question": "What is the main principle of Unani system of medicine?",
+          "options": [
+            "Four humors theory",
+            "Three doshas theory",
+            "Five elements theory",
+            "Seven tissues theory"
+          ],
+          "correct_answer": "Four humors theory"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of Ghutika?",
+          "options": [
+            "Tablet form",
+            "Pill form",
+            "Powder form",
+            "Liquid form"
+          ],
+          "correct_answer": "Liquid form"
+        },
+        {
+          "question": "What is the main purpose of Bhasma preparation?",
+          "options": [
+            "Purification and potentiation",
+            "Quick absorption",
+            "Easy administration",
+            "Prolonged shelf life"
+          ],
+          "correct_answer": "Purification and potentiation"
+        },
+        {
+          "question": "Which of these is NOT a step in biodynamic agriculture?",
+          "options": [
+            "Use of chemical fertilizers",
+            "Compost preparation",
+            "Crop rotation",
+            "Natural pest control"
+          ],
+          "correct_answer": "Use of chemical fertilizers"
+        },
+        {
+          "question": "What is the main advantage of Lehya formulation?",
+          "options": [
+            "Easy administration",
+            "Quick absorption",
+            "Long shelf life",
+            "High potency"
+          ],
+          "correct_answer": "Easy administration"
+        },
+        {
+          "question": "Which of these is NOT a principle of Homeopathy?",
+          "options": [
+            "Law of similars",
+            "Law of minimum dose",
+            "Law of maximum dose",
+            "Law of individualization"
+          ],
+          "correct_answer": "Law of maximum dose"
+        },
+        {
+          "question": "What is the main purpose of Churna preparation?",
+          "options": [
+            "Easy administration and absorption",
+            "Long shelf life",
+            "High potency",
+            "Quick action"
+          ],
+          "correct_answer": "Easy administration and absorption"
+        },
+        {
+          "question": "Which of these is NOT a quality parameter for herbal materials?",
+          "options": [
+            "Color",
+            "Odor",
+            "Taste",
+            "Price"
+          ],
+          "correct_answer": "Price"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Nutraceuticals and Herb-Drug Interactions",
+      "topics": [
+        "General aspects of nutraceuticals",
+        "Health benefits of nutraceuticals",
+        "Study of specific herbs as health food",
+        "Herb-Drug interactions",
+        "Herb-Food interactions"
+      ],
+      "mcqs": [
+        {
+          "question": "Which of the following is NOT a health benefit of nutraceuticals?",
+          "options": [
+            "Prevention of diseases",
+            "Treatment of diseases",
+            "Replacement of conventional drugs",
+            "Health promotion"
+          ],
+          "correct_answer": "Replacement of conventional drugs"
+        },
+        {
+          "question": "Which herb is known for its adaptogenic properties?",
+          "options": [
+            "Ginseng",
+            "Garlic",
+            "Ginger",
+            "Fenugreek"
+          ],
+          "correct_answer": "Ginseng"
+        },
+        {
+          "question": "What is the main active component in Garlic responsible for its health benefits?",
+          "options": [
+            "Allicin",
+            "Curcumin",
+            "Gingerol",
+            "Capsaicin"
+          ],
+          "correct_answer": "Allicin"
+        },
+        {
+          "question": "Which of these herbs is known to interact with anticoagulant drugs?",
+          "options": [
+            "Ginkgo biloba",
+            "Ginger",
+            "Fenugreek",
+            "Amla"
+          ],
+          "correct_answer": "Ginkgo biloba"
+        },
+        {
+          "question": "What is the main concern with Kava-Kava usage?",
+          "options": [
+            "Liver toxicity",
+            "Kidney damage",
+            "Heart problems",
+            "Lung issues"
+          ],
+          "correct_answer": "Liver toxicity"
+        },
+        {
+          "question": "Which of these is NOT a nutraceutical category?",
+          "options": [
+            "Dietary supplements",
+            "Functional foods",
+            "Medicinal foods",
+            "Synthetic drugs"
+          ],
+          "correct_answer": "Synthetic drugs"
+        },
+        {
+          "question": "What is the main active component in Turmeric?",
+          "options": [
+            "Curcumin",
+            "Allicin",
+            "Gingerol",
+            "Capsaicin"
+          ],
+          "correct_answer": "Curcumin"
+        },
+        {
+          "question": "Which herb is known for its anti-diabetic properties?",
+          "options": [
+            "Fenugreek",
+            "Garlic",
+            "Ginger",
+            "Ginseng"
+          ],
+          "correct_answer": "Fenugreek"
+        },
+        {
+          "question": "What is the main active component in Ginger?",
+          "options": [
+            "Gingerol",
+            "Curcumin",
+            "Allicin",
+            "Capsaicin"
+          ],
+          "correct_answer": "Gingerol"
+        },
+        {
+          "question": "Which herb is known for its immune-modulatory properties?",
+          "options": [
+            "Ashwagandha",
+            "Garlic",
+            "Ginger",
+            "Fenugreek"
+          ],
+          "correct_answer": "Ashwagandha"
+        },
+        {
+          "question": "What is the main active component in Amla?",
+          "options": [
+            "Vitamin C",
+            "Curcumin",
+            "Allicin",
+            "Gingerol"
+          ],
+          "correct_answer": "Vitamin C"
+        },
+        {
+          "question": "Which herb is known for its anti-inflammatory properties?",
+          "options": [
+            "Turmeric",
+            "Garlic",
+            "Ginger",
+            "Fenugreek"
+          ],
+          "correct_answer": "Turmeric"
+        },
+        {
+          "question": "What is the main active component in Spirulina?",
+          "options": [
+            "Protein",
+            "Carbohydrates",
+            "Fats",
+            "Minerals"
+          ],
+          "correct_answer": "Protein"
+        },
+        {
+          "question": "Which herb is known for its anti-oxidant properties?",
+          "options": [
+            "Amla",
+            "Garlic",
+            "Ginger",
+            "Fenugreek"
+          ],
+          "correct_answer": "Amla"
+        },
+        {
+          "question": "What is the main active component in Chicory?",
+          "options": [
+            "Inulin",
+            "Curcumin",
+            "Allicin",
+            "Gingerol"
+          ],
+          "correct_answer": "Inulin"
+        },
+        {
+          "question": "Which herb is known for its anti-microbial properties?",
+          "options": [
+            "Garlic",
+            "Ginger",
+            "Fenugreek",
+            "Amla"
+          ],
+          "correct_answer": "Garlic"
+        },
+        {
+          "question": "What is the main active component in Honey?",
+          "options": [
+            "Fructose",
+            "Glucose",
+            "Sucrose",
+            "All of the above"
+          ],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "Which herb is known for its anti-cancer properties?",
+          "options": [
+            "Turmeric",
+            "Garlic",
+            "Ginger",
+            "Fenugreek"
+          ],
+          "correct_answer": "Turmeric"
+        },
+        {
+          "question": "What is the main active component in Alfaalfa?",
+          "options": [
+            "Saponins",
+            "Curcumin",
+            "Allicin",
+            "Gingerol"
+          ],
+          "correct_answer": "Saponins"
+        },
+        {
+          "question": "Which herb is known for its anti-hypertensive properties?",
+          "options": [
+            "Garlic",
+            "Ginger",
+            "Fenugreek",
+            "Amla"
+          ],
+          "correct_answer": "Garlic"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Herbal Cosmetics and Formulations",
+      "topics": [
+        "Herbal raw materials in cosmetics",
+        "Herbal excipients",
+        "Conventional herbal formulations",
+        "Novel dosage forms",
+        "Skin and hair care products"
+      ],
+      "mcqs": [
+        {
+          "question": "Which of the following is NOT a natural colorant used in herbal cosmetics?",
+          "options": [
+            "Henna",
+            "Turmeric",
+            "Indigo",
+            "Titanium dioxide"
+          ],
+          "correct_answer": "Titanium dioxide"
+        },
+        {
+          "question": "What is the main advantage of using herbal excipients?",
+          "options": [
+            "Lower cost",
+            "Better stability",
+            "Natural origin and safety",
+            "Faster dissolution"
+          ],
+          "correct_answer": "Natural origin and safety"
+        },
+        {
+          "question": "Which of these is a novel herbal dosage form?",
+          "options": [
+            "Phytosome",
+            "Tablet",
+            "Syrup",
+            "Mixture"
+          ],
+          "correct_answer": "Phytosome"
+        },
+        {
+          "question": "What is the main function of antioxidants in herbal cosmetics?",
+          "options": [
+            "Prevent rancidity",
+            "Increase viscosity",
+            "Provide color",
+            "Enhance fragrance"
+          ],
+          "correct_answer": "Prevent rancidity"
+        },
+        {
+          "question": "Which natural ingredient is commonly used as a viscosity builder?",
+          "options": [
+            "Guar gum",
+            "Turmeric",
+            "Neem",
+            "Aloe vera"
+          ],
+          "correct_answer": "Guar gum"
+        },
+        {
+          "question": "Which of these is NOT a natural wax used in cosmetics?",
+          "options": [
+            "Beeswax",
+            "Carnauba wax",
+            "Paraffin wax",
+            "Candelilla wax"
+          ],
+          "correct_answer": "Paraffin wax"
+        },
+        {
+          "question": "What is the main function of natural gums in cosmetics?",
+          "options": [
+            "Thickening agent",
+            "Colorant",
+            "Preservative",
+            "Fragrance"
+          ],
+          "correct_answer": "Thickening agent"
+        },
+        {
+          "question": "Which of these is NOT a natural preservative?",
+          "options": [
+            "Neem oil",
+            "Tea tree oil",
+            "Sodium benzoate",
+            "Tulsi extract"
+          ],
+          "correct_answer": "Sodium benzoate"
+        },
+        {
+          "question": "What is the main advantage of phytosomes?",
+          "options": [
+            "Enhanced bioavailability",
+            "Reduced cost",
+            "Easier manufacturing",
+            "Better taste"
+          ],
+          "correct_answer": "Enhanced bioavailability"
+        },
+        {
+          "question": "Which natural ingredient is commonly used as a humectant?",
+          "options": [
+            "Glycerin",
+            "Turmeric",
+            "Neem",
+            "Aloe vera"
+          ],
+          "correct_answer": "Glycerin"
+        },
+        {
+          "question": "Which of these is NOT a natural emulsifier?",
+          "options": [
+            "Lecithin",
+            "Beeswax",
+            "Polysorbate 80",
+            "Carnauba wax"
+          ],
+          "correct_answer": "Polysorbate 80"
+        },
+        {
+          "question": "What is the main function of natural oils in cosmetics?",
+          "options": [
+            "Moisturizing",
+            "Coloring",
+            "Preserving",
+            "Fragrancing"
+          ],
+          "correct_answer": "Moisturizing"
+        },
+        {
+          "question": "Which of these is NOT a natural surfactant?",
+          "options": [
+            "Saponins",
+            "Lecithin",
+            "Sodium lauryl sulfate",
+            "Bile salts"
+          ],
+          "correct_answer": "Sodium lauryl sulfate"
+        },
+        {
+          "question": "What is the main advantage of herbal liposomes?",
+          "options": [
+            "Targeted delivery",
+            "Reduced cost",
+            "Easier manufacturing",
+            "Better taste"
+          ],
+          "correct_answer": "Targeted delivery"
+        },
+        {
+          "question": "Which natural ingredient is commonly used as a sunscreen?",
+          "options": [
+            "Aloe vera",
+            "Turmeric",
+            "Neem",
+            "Henna"
+          ],
+          "correct_answer": "Aloe vera"
+        },
+        {
+          "question": "Which of these is NOT a natural antioxidant?",
+          "options": [
+            "Vitamin E",
+            "Vitamin C",
+            "BHA",
+            "Green tea extract"
+          ],
+          "correct_answer": "BHA"
+        },
+        {
+          "question": "What is the main function of natural perfumes in cosmetics?",
+          "options": [
+            "Fragrancing",
+            "Preserving",
+            "Coloring",
+            "Thickening"
+          ],
+          "correct_answer": "Fragrancing"
+        },
+        {
+          "question": "Which of these is NOT a natural hair conditioner?",
+          "options": [
+            "Amla",
+            "Shikakai",
+            "Reetha",
+            "Sodium lauryl sulfate"
+          ],
+          "correct_answer": "Sodium lauryl sulfate"
+        },
+        {
+          "question": "What is the main advantage of herbal nanoemulsions?",
+          "options": [
+            "Enhanced penetration",
+            "Reduced cost",
+            "Easier manufacturing",
+            "Better taste"
+          ],
+          "correct_answer": "Enhanced penetration"
+        },
+        {
+          "question": "Which natural ingredient is commonly used as a skin lightener?",
+          "options": [
+            "Licorice",
+            "Turmeric",
+            "Neem",
+            "Henna"
+          ],
+          "correct_answer": "Licorice"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Evaluation and Regulatory Aspects",
+      "topics": [
+        "WHO and ICH guidelines",
+        "Stability testing",
+        "Patenting and IPR",
+        "Regulatory requirements",
+        "Case studies"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the main purpose of stability testing for herbal drugs?",
+          "options": [
+            "To determine shelf life",
+            "To identify active constituents",
+            "To assess toxicity",
+            "To improve taste"
+          ],
+          "correct_answer": "To determine shelf life"
+        },
+        {
+          "question": "Which of these is NOT a type of intellectual property right?",
+          "options": [
+            "Patent",
+            "Copyright",
+            "Trademark",
+            "Heritage right"
+          ],
+          "correct_answer": "Heritage right"
+        },
+        {
+          "question": "What is biopiracy?",
+          "options": [
+            "Unauthorized use of biological resources",
+            "Legal patenting of natural products",
+            "Traditional knowledge documentation",
+            "Biological resource conservation"
+          ],
+          "correct_answer": "Unauthorized use of biological resources"
+        },
+        {
+          "question": "Which schedule of Drugs & Cosmetics Act deals with ASU drugs?",
+          "options": [
+            "Schedule T",
+            "Schedule Z",
+            "Schedule Y",
+            "Schedule X"
+          ],
+          "correct_answer": "Schedule Z"
+        },
+        {
+          "question": "What was the significance of the Neem patent case?",
+          "options": [
+            "Established traditional knowledge protection",
+            "Allowed patenting of all natural products",
+            "Banned herbal medicine research",
+            "Limited traditional medicine use"
+          ],
+          "correct_answer": "Established traditional knowledge protection"
+        },
+        {
+          "question": "Which of these is NOT a WHO guideline for herbal drugs?",
+          "options": [
+            "Quality control",
+            "Safety assessment",
+            "Efficacy evaluation",
+            "Price control"
+          ],
+          "correct_answer": "Price control"
+        },
+        {
+          "question": "What is the main purpose of ICH guidelines?",
+          "options": [
+            "Harmonize regulatory requirements",
+            "Increase drug prices",
+            "Limit drug availability",
+            "Reduce research"
+          ],
+          "correct_answer": "Harmonize regulatory requirements"
+        },
+        {
+          "question": "Which of these is NOT a stability testing parameter?",
+          "options": [
+            "Physical appearance",
+            "Chemical composition",
+            "Microbial content",
+            "Market price"
+          ],
+          "correct_answer": "Market price"
+        },
+        {
+          "question": "What is the main purpose of patent protection?",
+          "options": [
+            "Encourage innovation",
+            "Limit access",
+            "Increase prices",
+            "Reduce competition"
+          ],
+          "correct_answer": "Encourage innovation"
+        },
+        {
+          "question": "Which of these is NOT a regulatory requirement for herbal drugs?",
+          "options": [
+            "Quality control",
+            "Safety assessment",
+            "Efficacy evaluation",
+            "Price control"
+          ],
+          "correct_answer": "Price control"
+        },
+        {
+          "question": "What is the main purpose of traditional knowledge documentation?",
+          "options": [
+            "Protect indigenous knowledge",
+            "Increase drug prices",
+            "Limit access",
+            "Reduce research"
+          ],
+          "correct_answer": "Protect indigenous knowledge"
+        },
+        {
+          "question": "Which of these is NOT a case study in herbal drug regulation?",
+          "options": [
+            "Neem case",
+            "Turmeric case",
+            "Basmati case",
+            "Aspirin case"
+          ],
+          "correct_answer": "Aspirin case"
+        },
+        {
+          "question": "What is the main purpose of ASU DTAB?",
+          "options": [
+            "Regulate Ayurvedic drugs",
+            "Increase drug prices",
+            "Limit access",
+            "Reduce research"
+          ],
+          "correct_answer": "Regulate Ayurvedic drugs"
+        },
+        {
+          "question": "Which of these is NOT a regulatory authority for herbal drugs?",
+          "options": [
+            "ASU DTAB",
+            "FDA",
+            "WHO",
+            "ICH"
+          ],
+          "correct_answer": "ICH"
+        },
+        {
+          "question": "What is the main purpose of Schedule T?",
+          "options": [
+            "Good Manufacturing Practices",
+            "Price control",
+            "Access control",
+            "Research control"
+          ],
+          "correct_answer": "Good Manufacturing Practices"
+        },
+        {
+          "question": "Which of these is NOT a requirement for herbal drug registration?",
+          "options": [
+            "Quality data",
+            "Safety data",
+            "Efficacy data",
+            "Price data"
+          ],
+          "correct_answer": "Price data"
+        },
+        {
+          "question": "What is the main purpose of bioprospecting?",
+          "options": [
+            "Discover new drugs",
+            "Increase prices",
+            "Limit access",
+            "Reduce research"
+          ],
+          "correct_answer": "Discover new drugs"
+        },
+        {
+          "question": "Which of these is NOT a regulatory document?",
+          "options": [
+            "Certificate of Analysis",
+            "Batch Manufacturing Record",
+            "Market Research Report",
+            "Stability Study Report"
+          ],
+          "correct_answer": "Market Research Report"
+        },
+        {
+          "question": "What is the main purpose of pharmacovigilance?",
+          "options": [
+            "Monitor drug safety",
+            "Increase prices",
+            "Limit access",
+            "Reduce research"
+          ],
+          "correct_answer": "Monitor drug safety"
+        },
+        {
+          "question": "Which of these is NOT a regulatory compliance requirement?",
+          "options": [
+            "Quality control",
+            "Documentation",
+            "Training",
+            "Marketing"
+          ],
+          "correct_answer": "Marketing"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Herbal Industry and GMP",
+      "topics": [
+        "Herbal drugs industry",
+        "Plant based industries",
+        "GMP requirements",
+        "Infrastructure requirements",
+        "Documentation and records"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the main objective of GMP in herbal industry?",
+          "options": [
+            "Ensure product quality and safety",
+            "Reduce production costs",
+            "Increase product variety",
+            "Speed up production"
+          ],
+          "correct_answer": "Ensure product quality and safety"
+        },
+        {
+          "question": "Which of these is NOT a component of GMP infrastructure?",
+          "options": [
+            "Working space",
+            "Storage area",
+            "Machinery and equipment",
+            "Employee housing"
+          ],
+          "correct_answer": "Employee housing"
+        },
+        {
+          "question": "What is the purpose of SOPs in herbal industry?",
+          "options": [
+            "Standardize operations",
+            "Reduce paperwork",
+            "Increase profits",
+            "Speed up production"
+          ],
+          "correct_answer": "Standardize operations"
+        },
+        {
+          "question": "Which organization is responsible for regulating ASU drugs in India?",
+          "options": [
+            "ASU DTAB",
+            "FDA",
+            "WHO",
+            "ICH"
+          ],
+          "correct_answer": "ASU DTAB"
+        },
+        {
+          "question": "What is the main focus of Schedule T?",
+          "options": [
+            "Good Manufacturing Practices",
+            "Drug pricing",
+            "Clinical trials",
+            "Marketing authorization"
+          ],
+          "correct_answer": "Good Manufacturing Practices"
+        },
+        {
+          "question": "Which of these is NOT a requirement for herbal drug manufacturing?",
+          "options": [
+            "Quality control",
+            "Documentation",
+            "Training",
+            "Marketing"
+          ],
+          "correct_answer": "Marketing"
+        },
+        {
+          "question": "What is the main purpose of batch records?",
+          "options": [
+            "Document manufacturing process",
+            "Increase production",
+            "Reduce costs",
+            "Speed up approval"
+          ],
+          "correct_answer": "Document manufacturing process"
+        },
+        {
+          "question": "Which of these is NOT a GMP requirement?",
+          "options": [
+            "Quality control",
+            "Documentation",
+            "Training",
+            "Marketing"
+          ],
+          "correct_answer": "Marketing"
+        },
+        {
+          "question": "What is the main purpose of validation?",
+          "options": [
+            "Ensure process reliability",
+            "Increase production",
+            "Reduce costs",
+            "Speed up approval"
+          ],
+          "correct_answer": "Ensure process reliability"
+        },
+        {
+          "question": "Which of these is NOT a documentation requirement?",
+          "options": [
+            "Batch records",
+            "Validation reports",
+            "Training records",
+            "Marketing plans"
+          ],
+          "correct_answer": "Marketing plans"
+        },
+        {
+          "question": "What is the main purpose of quality control?",
+          "options": [
+            "Ensure product quality",
+            "Increase production",
+            "Reduce costs",
+            "Speed up approval"
+          ],
+          "correct_answer": "Ensure product quality"
+        },
+        {
+          "question": "Which of these is NOT a training requirement?",
+          "options": [
+            "GMP training",
+            "Safety training",
+            "Quality training",
+            "Marketing training"
+          ],
+          "correct_answer": "Marketing training"
+        },
+        {
+          "question": "What is the main purpose of equipment qualification?",
+          "options": [
+            "Ensure equipment suitability",
+            "Increase production",
+            "Reduce costs",
+            "Speed up approval"
+          ],
+          "correct_answer": "Ensure equipment suitability"
+        },
+        {
+          "question": "Which of these is NOT a facility requirement?",
+          "options": [
+            "Clean rooms",
+            "Storage areas",
+            "Production areas",
+            "Marketing areas"
+          ],
+          "correct_answer": "Marketing areas"
+        },
+        {
+          "question": "What is the main purpose of environmental monitoring?",
+          "options": [
+            "Ensure clean environment",
+            "Increase production",
+            "Reduce costs",
+            "Speed up approval"
+          ],
+          "correct_answer": "Ensure clean environment"
+        },
+        {
+          "question": "Which of these is NOT a personnel requirement?",
+          "options": [
+            "Qualified staff",
+            "Trained staff",
+            "Healthy staff",
+            "Marketing staff"
+          ],
+          "correct_answer": "Marketing staff"
+        },
+        {
+          "question": "What is the main purpose of process validation?",
+          "options": [
+            "Ensure process reliability",
+            "Increase production",
+            "Reduce costs",
+            "Speed up approval"
+          ],
+          "correct_answer": "Ensure process reliability"
+        },
+        {
+          "question": "Which of these is NOT a cleaning requirement?",
+          "options": [
+            "Equipment cleaning",
+            "Facility cleaning",
+            "Personnel cleaning",
+            "Marketing cleaning"
+          ],
+          "correct_answer": "Marketing cleaning"
+        },
+        {
+          "question": "What is the main purpose of change control?",
+          "options": [
+            "Manage changes systematically",
+            "Increase production",
+            "Reduce costs",
+            "Speed up approval"
+          ],
+          "correct_answer": "Manage changes systematically"
+        },
+        {
+          "question": "Which of these is NOT a record keeping requirement?",
+          "options": [
+            "Batch records",
+            "Training records",
+            "Validation records",
+            "Marketing records"
+          ],
+          "correct_answer": "Marketing records"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,1066 @@
+{
+  "subject_code": "BP605T",
+  "subject_name": "Pharmaceutical Biotechnology",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Biotechnology and Enzyme Technology",
+      "topics": [
+        "Introduction to Biotechnology",
+        "Enzyme Biotechnology and Immobilization",
+        "Biosensors",
+        "Protein Engineering",
+        "Microbial Production of Enzymes",
+        "Genetic Engineering Principles"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the main focus of pharmaceutical biotechnology?",
+          "options": [
+            "Application of biological systems in drug development",
+            "Study of drug synthesis",
+            "Study of drug stability",
+            "Study of drug packaging"
+          ],
+          "correct_answer": "Application of biological systems in drug development"
+        },
+        {
+          "question": "Which of these is NOT a method of enzyme immobilization?",
+          "options": [
+            "Color binding",
+            "Adsorption",
+            "Covalent binding",
+            "Entrapment"
+          ],
+          "correct_answer": "Color binding"
+        },
+        {
+          "question": "What is the main advantage of enzyme immobilization?",
+          "options": [
+            "Reusability of enzymes",
+            "Change in enzyme color",
+            "Change in enzyme size",
+            "Change in enzyme shape"
+          ],
+          "correct_answer": "Reusability of enzymes"
+        },
+        {
+          "question": "What is the main component of a biosensor?",
+          "options": [
+            "Biological recognition element",
+            "Color detector",
+            "Size detector",
+            "Shape detector"
+          ],
+          "correct_answer": "Biological recognition element"
+        },
+        {
+          "question": "What is protein engineering?",
+          "options": [
+            "Modification of protein structure and function",
+            "Study of protein color",
+            "Study of protein size",
+            "Study of protein shape"
+          ],
+          "correct_answer": "Modification of protein structure and function"
+        },
+        {
+          "question": "Which of these is NOT a microbial enzyme?",
+          "options": [
+            "Colorase",
+            "Amylase",
+            "Catalase",
+            "Lipase"
+          ],
+          "correct_answer": "Colorase"
+        },
+        {
+          "question": "What is the main purpose of genetic engineering?",
+          "options": [
+            "Modification of genetic material",
+            "Change in color",
+            "Change in size",
+            "Change in shape"
+          ],
+          "correct_answer": "Modification of genetic material"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of biosensors?",
+          "options": [
+            "Color detection",
+            "Specificity",
+            "Sensitivity",
+            "Rapid response"
+          ],
+          "correct_answer": "Color detection"
+        },
+        {
+          "question": "What is the main advantage of microbial enzyme production?",
+          "options": [
+            "Cost-effective production",
+            "Color production",
+            "Size production",
+            "Shape production"
+          ],
+          "correct_answer": "Cost-effective production"
+        },
+        {
+          "question": "Which of these is NOT a basic principle of genetic engineering?",
+          "options": [
+            "Color manipulation",
+            "DNA isolation",
+            "Gene cloning",
+            "Gene expression"
+          ],
+          "correct_answer": "Color manipulation"
+        },
+        {
+          "question": "What is the main application of enzyme biotechnology?",
+          "options": [
+            "Industrial processes",
+            "Color production",
+            "Size production",
+            "Shape production"
+          ],
+          "correct_answer": "Industrial processes"
+        },
+        {
+          "question": "Which of these is NOT a type of biosensor?",
+          "options": [
+            "Color sensor",
+            "Enzyme sensor",
+            "Immunosensor",
+            "DNA sensor"
+          ],
+          "correct_answer": "Color sensor"
+        },
+        {
+          "question": "What is the main advantage of protein engineering?",
+          "options": [
+            "Improved protein properties",
+            "Color improvement",
+            "Size improvement",
+            "Shape improvement"
+          ],
+          "correct_answer": "Improved protein properties"
+        },
+        {
+          "question": "Which of these is NOT a factor in enzyme production?",
+          "options": [
+            "Color of medium",
+            "Temperature",
+            "pH",
+            "Nutrients"
+          ],
+          "correct_answer": "Color of medium"
+        },
+        {
+          "question": "What is the main purpose of genetic engineering in pharmaceuticals?",
+          "options": [
+            "Production of therapeutic proteins",
+            "Color production",
+            "Size production",
+            "Shape production"
+          ],
+          "correct_answer": "Production of therapeutic proteins"
+        },
+        {
+          "question": "Which of these is NOT an application of biosensors?",
+          "options": [
+            "Color detection",
+            "Glucose monitoring",
+            "Drug screening",
+            "Environmental monitoring"
+          ],
+          "correct_answer": "Color detection"
+        },
+        {
+          "question": "What is the main advantage of immobilized enzymes?",
+          "options": [
+            "Stability and reusability",
+            "Color stability",
+            "Size stability",
+            "Shape stability"
+          ],
+          "correct_answer": "Stability and reusability"
+        },
+        {
+          "question": "Which of these is NOT a method of protein engineering?",
+          "options": [
+            "Color modification",
+            "Site-directed mutagenesis",
+            "Directed evolution",
+            "Protein fusion"
+          ],
+          "correct_answer": "Color modification"
+        },
+        {
+          "question": "What is the main advantage of microbial production?",
+          "options": [
+            "Scalability",
+            "Color production",
+            "Size production",
+            "Shape production"
+          ],
+          "correct_answer": "Scalability"
+        },
+        {
+          "question": "Which of these is NOT a tool of genetic engineering?",
+          "options": [
+            "Color marker",
+            "Restriction enzymes",
+            "DNA ligase",
+            "Vectors"
+          ],
+          "correct_answer": "Color marker"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Recombinant DNA Technology and Applications",
+      "topics": [
+        "Cloning Vectors and Restriction Enzymes",
+        "Recombinant DNA Technology",
+        "Production of Therapeutic Proteins",
+        "Polymerase Chain Reaction"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a cloning vector?",
+          "options": [
+            "DNA molecule used to carry foreign DNA",
+            "Color carrier",
+            "Size carrier",
+            "Shape carrier"
+          ],
+          "correct_answer": "DNA molecule used to carry foreign DNA"
+        },
+        {
+          "question": "What is the function of restriction endonucleases?",
+          "options": [
+            "Cut DNA at specific sequences",
+            "Change DNA color",
+            "Change DNA size",
+            "Change DNA shape"
+          ],
+          "correct_answer": "Cut DNA at specific sequences"
+        },
+        {
+          "question": "What is the function of DNA ligase?",
+          "options": [
+            "Join DNA fragments",
+            "Change DNA color",
+            "Change DNA size",
+            "Change DNA shape"
+          ],
+          "correct_answer": "Join DNA fragments"
+        },
+        {
+          "question": "What is recombinant DNA technology?",
+          "options": [
+            "Combining DNA from different sources",
+            "Changing DNA color",
+            "Changing DNA size",
+            "Changing DNA shape"
+          ],
+          "correct_answer": "Combining DNA from different sources"
+        },
+        {
+          "question": "Which of these is NOT produced using rDNA technology?",
+          "options": [
+            "Color proteins",
+            "Insulin",
+            "Interferon",
+            "Hepatitis B vaccine"
+          ],
+          "correct_answer": "Color proteins"
+        },
+        {
+          "question": "What is the main advantage of recombinant insulin?",
+          "options": [
+            "Identical to human insulin",
+            "Different color",
+            "Different size",
+            "Different shape"
+          ],
+          "correct_answer": "Identical to human insulin"
+        },
+        {
+          "question": "What is PCR used for?",
+          "options": [
+            "Amplifying DNA",
+            "Changing DNA color",
+            "Changing DNA size",
+            "Changing DNA shape"
+          ],
+          "correct_answer": "Amplifying DNA"
+        },
+        {
+          "question": "Which of these is NOT a component of PCR?",
+          "options": [
+            "Color primer",
+            "DNA template",
+            "Primers",
+            "Taq polymerase"
+          ],
+          "correct_answer": "Color primer"
+        },
+        {
+          "question": "What is the main advantage of recombinant vaccines?",
+          "options": [
+            "Safety and efficacy",
+            "Color production",
+            "Size production",
+            "Shape production"
+          ],
+          "correct_answer": "Safety and efficacy"
+        },
+        {
+          "question": "Which of these is NOT a step in rDNA technology?",
+          "options": [
+            "Color selection",
+            "DNA isolation",
+            "Gene cloning",
+            "Expression"
+          ],
+          "correct_answer": "Color selection"
+        },
+        {
+          "question": "What is the main advantage of recombinant interferon?",
+          "options": [
+            "Consistent quality",
+            "Different color",
+            "Different size",
+            "Different shape"
+          ],
+          "correct_answer": "Consistent quality"
+        },
+        {
+          "question": "Which of these is NOT a type of cloning vector?",
+          "options": [
+            "Color vector",
+            "Plasmid",
+            "Bacteriophage",
+            "Cosmid"
+          ],
+          "correct_answer": "Color vector"
+        },
+        {
+          "question": "What is the main advantage of PCR?",
+          "options": [
+            "Rapid DNA amplification",
+            "Color amplification",
+            "Size amplification",
+            "Shape amplification"
+          ],
+          "correct_answer": "Rapid DNA amplification"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of restriction enzymes?",
+          "options": [
+            "Color specificity",
+            "Sequence specificity",
+            "Palindromic recognition",
+            "Sticky or blunt ends"
+          ],
+          "correct_answer": "Color specificity"
+        },
+        {
+          "question": "What is the main advantage of recombinant hepatitis B vaccine?",
+          "options": [
+            "No risk of infection",
+            "Different color",
+            "Different size",
+            "Different shape"
+          ],
+          "correct_answer": "No risk of infection"
+        },
+        {
+          "question": "Which of these is NOT a step in PCR?",
+          "options": [
+            "Color cycling",
+            "Denaturation",
+            "Annealing",
+            "Extension"
+          ],
+          "correct_answer": "Color cycling"
+        },
+        {
+          "question": "What is the main advantage of DNA ligase?",
+          "options": [
+            "Joins DNA fragments",
+            "Changes DNA color",
+            "Changes DNA size",
+            "Changes DNA shape"
+          ],
+          "correct_answer": "Joins DNA fragments"
+        },
+        {
+          "question": "Which of these is NOT an application of rDNA technology?",
+          "options": [
+            "Color production",
+            "Gene therapy",
+            "Vaccine production",
+            "Hormone production"
+          ],
+          "correct_answer": "Color production"
+        },
+        {
+          "question": "What is the main advantage of cloning vectors?",
+          "options": [
+            "Carry foreign DNA",
+            "Change DNA color",
+            "Change DNA size",
+            "Change DNA shape"
+          ],
+          "correct_answer": "Carry foreign DNA"
+        },
+        {
+          "question": "Which of these is NOT a use of PCR?",
+          "options": [
+            "Color detection",
+            "DNA sequencing",
+            "Genetic testing",
+            "Forensic analysis"
+          ],
+          "correct_answer": "Color detection"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Immunology and Vaccines",
+      "topics": [
+        "Types of Immunity",
+        "Immunoglobulins and MHC",
+        "Hypersensitivity and Immune Modulation",
+        "Vaccine Production and Storage",
+        "Hybridoma Technology",
+        "Blood Products"
+      ],
+      "mcqs": [
+        {
+          "question": "What is humoral immunity?",
+          "options": [
+            "Antibody-mediated immunity",
+            "Color-mediated immunity",
+            "Size-mediated immunity",
+            "Shape-mediated immunity"
+          ],
+          "correct_answer": "Antibody-mediated immunity"
+        },
+        {
+          "question": "What is cellular immunity?",
+          "options": [
+            "T-cell mediated immunity",
+            "Color-mediated immunity",
+            "Size-mediated immunity",
+            "Shape-mediated immunity"
+          ],
+          "correct_answer": "T-cell mediated immunity"
+        },
+        {
+          "question": "What is the structure of immunoglobulins?",
+          "options": [
+            "Y-shaped protein",
+            "Color protein",
+            "Size protein",
+            "Shape protein"
+          ],
+          "correct_answer": "Y-shaped protein"
+        },
+        {
+          "question": "What is the function of MHC?",
+          "options": [
+            "Antigen presentation",
+            "Color presentation",
+            "Size presentation",
+            "Shape presentation"
+          ],
+          "correct_answer": "Antigen presentation"
+        },
+        {
+          "question": "Which of these is NOT a type of hypersensitivity?",
+          "options": [
+            "Color hypersensitivity",
+            "Type I",
+            "Type II",
+            "Type III"
+          ],
+          "correct_answer": "Color hypersensitivity"
+        },
+        {
+          "question": "What is hybridoma technology?",
+          "options": [
+            "Production of monoclonal antibodies",
+            "Production of color",
+            "Production of size",
+            "Production of shape"
+          ],
+          "correct_answer": "Production of monoclonal antibodies"
+        },
+        {
+          "question": "Which of these is NOT a blood product?",
+          "options": [
+            "Color plasma",
+            "Whole blood",
+            "Plasma derivatives",
+            "Cellular components"
+          ],
+          "correct_answer": "Color plasma"
+        },
+        {
+          "question": "What is the main advantage of monoclonal antibodies?",
+          "options": [
+            "Specificity",
+            "Color specificity",
+            "Size specificity",
+            "Shape specificity"
+          ],
+          "correct_answer": "Specificity"
+        },
+        {
+          "question": "Which of these is NOT a vaccine type?",
+          "options": [
+            "Color vaccine",
+            "Live attenuated",
+            "Inactivated",
+            "Subunit"
+          ],
+          "correct_answer": "Color vaccine"
+        },
+        {
+          "question": "What is the main purpose of immune suppression?",
+          "options": [
+            "Prevent rejection",
+            "Change color",
+            "Change size",
+            "Change shape"
+          ],
+          "correct_answer": "Prevent rejection"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of immunoglobulins?",
+          "options": [
+            "Color variation",
+            "Antigen binding",
+            "Effector functions",
+            "Isotype switching"
+          ],
+          "correct_answer": "Color variation"
+        },
+        {
+          "question": "What is the main advantage of plasma substitutes?",
+          "options": [
+            "Volume expansion",
+            "Color expansion",
+            "Size expansion",
+            "Shape expansion"
+          ],
+          "correct_answer": "Volume expansion"
+        },
+        {
+          "question": "Which of these is NOT a method of vaccine production?",
+          "options": [
+            "Color production",
+            "Cell culture",
+            "Egg culture",
+            "Recombinant DNA"
+          ],
+          "correct_answer": "Color production"
+        },
+        {
+          "question": "What is the main purpose of immune stimulation?",
+          "options": [
+            "Enhance immune response",
+            "Change color",
+            "Change size",
+            "Change shape"
+          ],
+          "correct_answer": "Enhance immune response"
+        },
+        {
+          "question": "Which of these is NOT a storage condition for vaccines?",
+          "options": [
+            "Color control",
+            "Temperature",
+            "Light",
+            "Humidity"
+          ],
+          "correct_answer": "Color control"
+        },
+        {
+          "question": "What is the main advantage of toxoids?",
+          "options": [
+            "Safe and effective",
+            "Different color",
+            "Different size",
+            "Different shape"
+          ],
+          "correct_answer": "Safe and effective"
+        },
+        {
+          "question": "Which of these is NOT a component of hybridoma technology?",
+          "options": [
+            "Color fusion",
+            "Myeloma cells",
+            "B cells",
+            "Selection medium"
+          ],
+          "correct_answer": "Color fusion"
+        },
+        {
+          "question": "What is the main advantage of blood products?",
+          "options": [
+            "Life-saving therapy",
+            "Color therapy",
+            "Size therapy",
+            "Shape therapy"
+          ],
+          "correct_answer": "Life-saving therapy"
+        },
+        {
+          "question": "Which of these is NOT a type of immune response?",
+          "options": [
+            "Color response",
+            "Primary response",
+            "Secondary response",
+            "Memory response"
+          ],
+          "correct_answer": "Color response"
+        },
+        {
+          "question": "What is the main advantage of monoclonal antibody purification?",
+          "options": [
+            "High purity",
+            "Color purity",
+            "Size purity",
+            "Shape purity"
+          ],
+          "correct_answer": "High purity"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Immunoblotting and Microbial Genetics",
+      "topics": [
+        "Immunoblotting Techniques",
+        "Genetic Organization",
+        "Microbial Genetics",
+        "Biotransformation",
+        "Mutation"
+      ],
+      "mcqs": [
+        {
+          "question": "What is ELISA?",
+          "options": [
+            "Enzyme-linked immunosorbent assay",
+            "Color-linked assay",
+            "Size-linked assay",
+            "Shape-linked assay"
+          ],
+          "correct_answer": "Enzyme-linked immunosorbent assay"
+        },
+        {
+          "question": "What is Western blotting used for?",
+          "options": [
+            "Protein detection",
+            "Color detection",
+            "Size detection",
+            "Shape detection"
+          ],
+          "correct_answer": "Protein detection"
+        },
+        {
+          "question": "What is Southern blotting used for?",
+          "options": [
+            "DNA detection",
+            "Color detection",
+            "Size detection",
+            "Shape detection"
+          ],
+          "correct_answer": "DNA detection"
+        },
+        {
+          "question": "What is the main difference between prokaryotic and eukaryotic DNA?",
+          "options": [
+            "Organization and structure",
+            "Color",
+            "Size",
+            "Shape"
+          ],
+          "correct_answer": "Organization and structure"
+        },
+        {
+          "question": "Which of these is NOT a method of gene transfer?",
+          "options": [
+            "Color transfer",
+            "Transformation",
+            "Transduction",
+            "Conjugation"
+          ],
+          "correct_answer": "Color transfer"
+        },
+        {
+          "question": "What is microbial biotransformation?",
+          "options": [
+            "Enzymatic modification of compounds",
+            "Color modification",
+            "Size modification",
+            "Shape modification"
+          ],
+          "correct_answer": "Enzymatic modification of compounds"
+        },
+        {
+          "question": "Which of these is NOT a type of mutation?",
+          "options": [
+            "Color mutation",
+            "Point mutation",
+            "Frameshift mutation",
+            "Chromosomal mutation"
+          ],
+          "correct_answer": "Color mutation"
+        },
+        {
+          "question": "What is the main advantage of immunoblotting?",
+          "options": [
+            "Specific detection",
+            "Color detection",
+            "Size detection",
+            "Shape detection"
+          ],
+          "correct_answer": "Specific detection"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of plasmids?",
+          "options": [
+            "Color replication",
+            "Independent replication",
+            "Multiple copies",
+            "Transferable"
+          ],
+          "correct_answer": "Color replication"
+        },
+        {
+          "question": "What is the main advantage of microbial biotransformation?",
+          "options": [
+            "Specific reactions",
+            "Color reactions",
+            "Size reactions",
+            "Shape reactions"
+          ],
+          "correct_answer": "Specific reactions"
+        },
+        {
+          "question": "Which of these is NOT a step in ELISA?",
+          "options": [
+            "Color development",
+            "Coating",
+            "Blocking",
+            "Detection"
+          ],
+          "correct_answer": "Color development"
+        },
+        {
+          "question": "What is the main advantage of transposons?",
+          "options": [
+            "Gene transfer",
+            "Color transfer",
+            "Size transfer",
+            "Shape transfer"
+          ],
+          "correct_answer": "Gene transfer"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of mutations?",
+          "options": [
+            "Color change",
+            "Heritable",
+            "Random",
+            "Permanent"
+          ],
+          "correct_answer": "Color change"
+        },
+        {
+          "question": "What is the main advantage of Western blotting?",
+          "options": [
+            "Protein identification",
+            "Color identification",
+            "Size identification",
+            "Shape identification"
+          ],
+          "correct_answer": "Protein identification"
+        },
+        {
+          "question": "Which of these is NOT a feature of microbial genetics?",
+          "options": [
+            "Color inheritance",
+            "Gene transfer",
+            "Mutation",
+            "Recombination"
+          ],
+          "correct_answer": "Color inheritance"
+        },
+        {
+          "question": "What is the main advantage of Southern blotting?",
+          "options": [
+            "DNA identification",
+            "Color identification",
+            "Size identification",
+            "Shape identification"
+          ],
+          "correct_answer": "DNA identification"
+        },
+        {
+          "question": "Which of these is NOT a type of biotransformation?",
+          "options": [
+            "Color transformation",
+            "Oxidation",
+            "Reduction",
+            "Hydrolysis"
+          ],
+          "correct_answer": "Color transformation"
+        },
+        {
+          "question": "What is the main advantage of mutation studies?",
+          "options": [
+            "Understanding gene function",
+            "Understanding color",
+            "Understanding size",
+            "Understanding shape"
+          ],
+          "correct_answer": "Understanding gene function"
+        },
+        {
+          "question": "Which of these is NOT a component of immunoblotting?",
+          "options": [
+            "Color marker",
+            "Antibodies",
+            "Substrate",
+            "Membrane"
+          ],
+          "correct_answer": "Color marker"
+        },
+        {
+          "question": "What is the main advantage of microbial genetics?",
+          "options": [
+            "Genetic manipulation",
+            "Color manipulation",
+            "Size manipulation",
+            "Shape manipulation"
+          ],
+          "correct_answer": "Genetic manipulation"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Fermentation Technology and Production",
+      "topics": [
+        "Fermentation Methods",
+        "Fermenter Design",
+        "Production of Pharmaceuticals",
+        "Blood Products Processing"
+      ],
+      "mcqs": [
+        {
+          "question": "What is fermentation?",
+          "options": [
+            "Microbial growth and product formation",
+            "Color production",
+            "Size production",
+            "Shape production"
+          ],
+          "correct_answer": "Microbial growth and product formation"
+        },
+        {
+          "question": "Which of these is NOT a requirement for fermentation?",
+          "options": [
+            "Color control",
+            "Sterile conditions",
+            "Nutrients",
+            "Temperature control"
+          ],
+          "correct_answer": "Color control"
+        },
+        {
+          "question": "What is the main purpose of aeration in fermentation?",
+          "options": [
+            "Oxygen supply",
+            "Color supply",
+            "Size supply",
+            "Shape supply"
+          ],
+          "correct_answer": "Oxygen supply"
+        },
+        {
+          "question": "What is the main purpose of stirring in fermentation?",
+          "options": [
+            "Mixing and oxygen transfer",
+            "Color mixing",
+            "Size mixing",
+            "Shape mixing"
+          ],
+          "correct_answer": "Mixing and oxygen transfer"
+        },
+        {
+          "question": "Which of these is NOT produced by fermentation?",
+          "options": [
+            "Color",
+            "Penicillin",
+            "Citric acid",
+            "Vitamin B12"
+          ],
+          "correct_answer": "Color"
+        },
+        {
+          "question": "What is the main advantage of large-scale fermentation?",
+          "options": [
+            "Economical production",
+            "Color production",
+            "Size production",
+            "Shape production"
+          ],
+          "correct_answer": "Economical production"
+        },
+        {
+          "question": "Which of these is NOT a control parameter in fermentation?",
+          "options": [
+            "Color control",
+            "pH",
+            "Temperature",
+            "Dissolved oxygen"
+          ],
+          "correct_answer": "Color control"
+        },
+        {
+          "question": "What is the main advantage of fermenter design?",
+          "options": [
+            "Optimized production",
+            "Color optimization",
+            "Size optimization",
+            "Shape optimization"
+          ],
+          "correct_answer": "Optimized production"
+        },
+        {
+          "question": "Which of these is NOT a blood product?",
+          "options": [
+            "Color plasma",
+            "Whole blood",
+            "Plasma derivatives",
+            "Cellular components"
+          ],
+          "correct_answer": "Color plasma"
+        },
+        {
+          "question": "What is the main purpose of blood processing?",
+          "options": [
+            "Safe transfusion",
+            "Color change",
+            "Size change",
+            "Shape change"
+          ],
+          "correct_answer": "Safe transfusion"
+        },
+        {
+          "question": "Which of these is NOT a step in blood collection?",
+          "options": [
+            "Color testing",
+            "Donor screening",
+            "Collection",
+            "Testing"
+          ],
+          "correct_answer": "Color testing"
+        },
+        {
+          "question": "What is the main advantage of plasma substitutes?",
+          "options": [
+            "Volume expansion",
+            "Color expansion",
+            "Size expansion",
+            "Shape expansion"
+          ],
+          "correct_answer": "Volume expansion"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of fermentation media?",
+          "options": [
+            "Color",
+            "Nutrient composition",
+            "pH",
+            "Osmolarity"
+          ],
+          "correct_answer": "Color"
+        },
+        {
+          "question": "What is the main advantage of sterilization in fermentation?",
+          "options": [
+            "Prevent contamination",
+            "Change color",
+            "Change size",
+            "Change shape"
+          ],
+          "correct_answer": "Prevent contamination"
+        },
+        {
+          "question": "Which of these is NOT a type of fermenter?",
+          "options": [
+            "Color fermenter",
+            "Stirred tank",
+            "Air lift",
+            "Packed bed"
+          ],
+          "correct_answer": "Color fermenter"
+        },
+        {
+          "question": "What is the main advantage of blood storage?",
+          "options": [
+            "Maintain viability",
+            "Change color",
+            "Change size",
+            "Change shape"
+          ],
+          "correct_answer": "Maintain viability"
+        },
+        {
+          "question": "Which of these is NOT a factor in fermentation scale-up?",
+          "options": [
+            "Color scale",
+            "Mixing",
+            "Heat transfer",
+            "Mass transfer"
+          ],
+          "correct_answer": "Color scale"
+        },
+        {
+          "question": "What is the main advantage of plasma processing?",
+          "options": [
+            "Safe products",
+            "Color products",
+            "Size products",
+            "Shape products"
+          ],
+          "correct_answer": "Safe products"
+        },
+        {
+          "question": "Which of these is NOT a characteristic of fermentation products?",
+          "options": [
+            "Color",
+            "Purity",
+            "Yield",
+            "Activity"
+          ],
+          "correct_answer": "Color"
+        },
+        {
+          "question": "What is the main advantage of blood component separation?",
+          "options": [
+            "Specific therapy",
+            "Color therapy",
+            "Size therapy",
+            "Shape therapy"
+          ],
+          "correct_answer": "Specific therapy"
+        }
+      ]
+    }
+  }
+} 

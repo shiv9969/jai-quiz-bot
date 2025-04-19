@@ -1,0 +1,1057 @@
+{
+    "subject_code": "BP606T",
+    "subject_name": "Pharmaceutical Quality Assurance",
+    "units": {
+        "unit_1": {
+            "unit_name": "Quality Management and Standards",
+            "topics": [
+                "Quality Control and Assurance",
+                "Total Quality Management",
+                "ICH Guidelines",
+                "Quality by Design",
+                "ISO Standards",
+                "NABL Accreditation"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the main purpose of Quality Control?",
+                    "options": [
+                        "Testing products to ensure they meet specifications",
+                        "Changing product color",
+                        "Changing product size",
+                        "Changing product shape"
+                    ],
+                    "correct_answer": "Testing products to ensure they meet specifications"
+                },
+                {
+                    "question": "What is GMP?",
+                    "options": [
+                        "Good Manufacturing Practice",
+                        "Good Material Practice",
+                        "Good Measurement Practice",
+                        "Good Mixing Practice"
+                    ],
+                    "correct_answer": "Good Manufacturing Practice"
+                },
+                {
+                    "question": "What is the main focus of TQM?",
+                    "options": [
+                        "Continuous improvement in all aspects",
+                        "Color improvement",
+                        "Size improvement",
+                        "Shape improvement"
+                    ],
+                    "correct_answer": "Continuous improvement in all aspects"
+                },
+                {
+                    "question": "What is the purpose of ICH guidelines?",
+                    "options": [
+                        "Harmonize technical requirements",
+                        "Change product color",
+                        "Change product size",
+                        "Change product shape"
+                    ],
+                    "correct_answer": "Harmonize technical requirements"
+                },
+                {
+                    "question": "What is Quality by Design?",
+                    "options": [
+                        "Systematic approach to product development",
+                        "Color design",
+                        "Size design",
+                        "Shape design"
+                    ],
+                    "correct_answer": "Systematic approach to product development"
+                },
+                {
+                    "question": "What is the main benefit of ISO 9000?",
+                    "options": [
+                        "Quality management system",
+                        "Color management",
+                        "Size management",
+                        "Shape management"
+                    ],
+                    "correct_answer": "Quality management system"
+                },
+                {
+                    "question": "What is NABL accreditation?",
+                    "options": [
+                        "Laboratory accreditation",
+                        "Color accreditation",
+                        "Size accreditation",
+                        "Shape accreditation"
+                    ],
+                    "correct_answer": "Laboratory accreditation"
+                },
+                {
+                    "question": "Which of these is NOT an element of TQM?",
+                    "options": [
+                        "Color management",
+                        "Customer focus",
+                        "Continuous improvement",
+                        "Employee involvement"
+                    ],
+                    "correct_answer": "Color management"
+                },
+                {
+                    "question": "What is the main purpose of ICH stability testing?",
+                    "options": [
+                        "Ensure product stability",
+                        "Change product color",
+                        "Change product size",
+                        "Change product shape"
+                    ],
+                    "correct_answer": "Ensure product stability"
+                },
+                {
+                    "question": "Which of these is NOT a QbD tool?",
+                    "options": [
+                        "Color analysis",
+                        "Risk assessment",
+                        "Design space",
+                        "Control strategy"
+                    ],
+                    "correct_answer": "Color analysis"
+                },
+                {
+                    "question": "What is ISO 14000 related to?",
+                    "options": [
+                        "Environmental management",
+                        "Color management",
+                        "Size management",
+                        "Shape management"
+                    ],
+                    "correct_answer": "Environmental management"
+                },
+                {
+                    "question": "What is the main purpose of NABL?",
+                    "options": [
+                        "Accredit testing laboratories",
+                        "Change product color",
+                        "Change product size",
+                        "Change product shape"
+                    ],
+                    "correct_answer": "Accredit testing laboratories"
+                },
+                {
+                    "question": "Which of these is NOT a Q-series guideline?",
+                    "options": [
+                        "Color guidelines",
+                        "Quality guidelines",
+                        "Safety guidelines",
+                        "Efficacy guidelines"
+                    ],
+                    "correct_answer": "Color guidelines"
+                },
+                {
+                    "question": "What is the main benefit of ISO certification?",
+                    "options": [
+                        "International recognition",
+                        "Color recognition",
+                        "Size recognition",
+                        "Shape recognition"
+                    ],
+                    "correct_answer": "International recognition"
+                },
+                {
+                    "question": "Which of these is NOT a step in ISO registration?",
+                    "options": [
+                        "Color assessment",
+                        "Documentation",
+                        "Implementation",
+                        "Certification"
+                    ],
+                    "correct_answer": "Color assessment"
+                },
+                {
+                    "question": "What is the main purpose of quality assurance?",
+                    "options": [
+                        "Prevent defects",
+                        "Change color",
+                        "Change size",
+                        "Change shape"
+                    ],
+                    "correct_answer": "Prevent defects"
+                },
+                {
+                    "question": "Which of these is NOT a principle of TQM?",
+                    "options": [
+                        "Color focus",
+                        "Customer focus",
+                        "Process approach",
+                        "Fact-based decision making"
+                    ],
+                    "correct_answer": "Color focus"
+                },
+                {
+                    "question": "What is the main purpose of ICH harmonization?",
+                    "options": [
+                        "Standardize requirements",
+                        "Change requirements",
+                        "Remove requirements",
+                        "Add requirements"
+                    ],
+                    "correct_answer": "Standardize requirements"
+                },
+                {
+                    "question": "Which of these is NOT an element of QbD?",
+                    "options": [
+                        "Color design",
+                        "Quality target product profile",
+                        "Critical quality attributes",
+                        "Risk assessment"
+                    ],
+                    "correct_answer": "Color design"
+                },
+                {
+                    "question": "What is the main purpose of NABL procedures?",
+                    "options": [
+                        "Ensure laboratory competence",
+                        "Change laboratory color",
+                        "Change laboratory size",
+                        "Change laboratory shape"
+                    ],
+                    "correct_answer": "Ensure laboratory competence"
+                }
+            ]
+        },
+        "unit_2": {
+            "unit_name": "Facilities and Resources",
+            "topics": [
+                "Personnel Management",
+                "Premises and Plant Layout",
+                "Equipment and Materials"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the main responsibility of personnel in QA?",
+                    "options": [
+                        "Ensure product quality",
+                        "Change product color",
+                        "Change product size",
+                        "Change product shape"
+                    ],
+                    "correct_answer": "Ensure product quality"
+                },
+                {
+                    "question": "What is the purpose of personnel training?",
+                    "options": [
+                        "Maintain competence",
+                        "Change competence",
+                        "Remove competence",
+                        "Add competence"
+                    ],
+                    "correct_answer": "Maintain competence"
+                },
+                {
+                    "question": "What is the main purpose of plant layout?",
+                    "options": [
+                        "Efficient workflow",
+                        "Color flow",
+                        "Size flow",
+                        "Shape flow"
+                    ],
+                    "correct_answer": "Efficient workflow"
+                },
+                {
+                    "question": "What is the main purpose of environmental control?",
+                    "options": [
+                        "Prevent contamination",
+                        "Change contamination",
+                        "Remove contamination",
+                        "Add contamination"
+                    ],
+                    "correct_answer": "Prevent contamination"
+                },
+                {
+                    "question": "What is the main purpose of equipment selection?",
+                    "options": [
+                        "Meet requirements",
+                        "Change requirements",
+                        "Remove requirements",
+                        "Add requirements"
+                    ],
+                    "correct_answer": "Meet requirements"
+                },
+                {
+                    "question": "What is the main purpose of raw material specifications?",
+                    "options": [
+                        "Ensure quality",
+                        "Change quality",
+                        "Remove quality",
+                        "Add quality"
+                    ],
+                    "correct_answer": "Ensure quality"
+                },
+                {
+                    "question": "Which of these is NOT a personnel responsibility?",
+                    "options": [
+                        "Color management",
+                        "Training",
+                        "Hygiene",
+                        "Documentation"
+                    ],
+                    "correct_answer": "Color management"
+                },
+                {
+                    "question": "What is the main purpose of maintenance?",
+                    "options": [
+                        "Ensure functionality",
+                        "Change functionality",
+                        "Remove functionality",
+                        "Add functionality"
+                    ],
+                    "correct_answer": "Ensure functionality"
+                },
+                {
+                    "question": "What is the main purpose of sanitation?",
+                    "options": [
+                        "Prevent contamination",
+                        "Change contamination",
+                        "Remove contamination",
+                        "Add contamination"
+                    ],
+                    "correct_answer": "Prevent contamination"
+                },
+                {
+                    "question": "Which of these is NOT an equipment requirement?",
+                    "options": [
+                        "Color specification",
+                        "Purchase specification",
+                        "Maintenance",
+                        "Calibration"
+                    ],
+                    "correct_answer": "Color specification"
+                },
+                {
+                    "question": "What is the main purpose of sterile area control?",
+                    "options": [
+                        "Prevent contamination",
+                        "Change contamination",
+                        "Remove contamination",
+                        "Add contamination"
+                    ],
+                    "correct_answer": "Prevent contamination"
+                },
+                {
+                    "question": "What is the main purpose of utilities maintenance?",
+                    "options": [
+                        "Ensure supply",
+                        "Change supply",
+                        "Remove supply",
+                        "Add supply"
+                    ],
+                    "correct_answer": "Ensure supply"
+                },
+                {
+                    "question": "Which of these is NOT a raw material requirement?",
+                    "options": [
+                        "Color specification",
+                        "Quality specification",
+                        "Storage condition",
+                        "Handling procedure"
+                    ],
+                    "correct_answer": "Color specification"
+                },
+                {
+                    "question": "What is the main purpose of contamination control?",
+                    "options": [
+                        "Ensure product quality",
+                        "Change product quality",
+                        "Remove product quality",
+                        "Add product quality"
+                    ],
+                    "correct_answer": "Ensure product quality"
+                },
+                {
+                    "question": "Which of these is NOT a plant design consideration?",
+                    "options": [
+                        "Color design",
+                        "Workflow",
+                        "Contamination control",
+                        "Safety"
+                    ],
+                    "correct_answer": "Color design"
+                },
+                {
+                    "question": "What is the main purpose of personnel records?",
+                    "options": [
+                        "Document competence",
+                        "Change competence",
+                        "Remove competence",
+                        "Add competence"
+                    ],
+                    "correct_answer": "Document competence"
+                },
+                {
+                    "question": "Which of these is NOT a maintenance activity?",
+                    "options": [
+                        "Color maintenance",
+                        "Preventive maintenance",
+                        "Corrective maintenance",
+                        "Calibration"
+                    ],
+                    "correct_answer": "Color maintenance"
+                },
+                {
+                    "question": "What is the main purpose of stores maintenance?",
+                    "options": [
+                        "Ensure material quality",
+                        "Change material quality",
+                        "Remove material quality",
+                        "Add material quality"
+                    ],
+                    "correct_answer": "Ensure material quality"
+                },
+                {
+                    "question": "Which of these is NOT a utility requirement?",
+                    "options": [
+                        "Color supply",
+                        "Water supply",
+                        "Air supply",
+                        "Power supply"
+                    ],
+                    "correct_answer": "Color supply"
+                },
+                {
+                    "question": "What is the main purpose of equipment maintenance?",
+                    "options": [
+                        "Ensure performance",
+                        "Change performance",
+                        "Remove performance",
+                        "Add performance"
+                    ],
+                    "correct_answer": "Ensure performance"
+                }
+            ]
+        },
+        "unit_3": {
+            "unit_name": "Quality Control and Laboratory Practices",
+            "topics": [
+                "Quality Control Testing",
+                "Good Laboratory Practices"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the main purpose of container testing?",
+                    "options": [
+                        "Ensure compatibility",
+                        "Change compatibility",
+                        "Remove compatibility",
+                        "Add compatibility"
+                    ],
+                    "correct_answer": "Ensure compatibility"
+                },
+                {
+                    "question": "What is GLP?",
+                    "options": [
+                        "Good Laboratory Practice",
+                        "Good Labeling Practice",
+                        "Good Loading Practice",
+                        "Good Listing Practice"
+                    ],
+                    "correct_answer": "Good Laboratory Practice"
+                },
+                {
+                    "question": "What is the main purpose of rubber closure testing?",
+                    "options": [
+                        "Ensure integrity",
+                        "Change integrity",
+                        "Remove integrity",
+                        "Add integrity"
+                    ],
+                    "correct_answer": "Ensure integrity"
+                },
+                {
+                    "question": "What is the main purpose of secondary packaging testing?",
+                    "options": [
+                        "Ensure protection",
+                        "Change protection",
+                        "Remove protection",
+                        "Add protection"
+                    ],
+                    "correct_answer": "Ensure protection"
+                },
+                {
+                    "question": "Which of these is NOT a GLP requirement?",
+                    "options": [
+                        "Color control",
+                        "Organization",
+                        "Personnel",
+                        "Facilities"
+                    ],
+                    "correct_answer": "Color control"
+                },
+                {
+                    "question": "What is the main purpose of test facilities?",
+                    "options": [
+                        "Conduct studies",
+                        "Change studies",
+                        "Remove studies",
+                        "Add studies"
+                    ],
+                    "correct_answer": "Conduct studies"
+                },
+                {
+                    "question": "Which of these is NOT a test article requirement?",
+                    "options": [
+                        "Color control",
+                        "Characterization",
+                        "Storage",
+                        "Handling"
+                    ],
+                    "correct_answer": "Color control"
+                },
+                {
+                    "question": "What is the main purpose of protocols?",
+                    "options": [
+                        "Guide studies",
+                        "Change studies",
+                        "Remove studies",
+                        "Add studies"
+                    ],
+                    "correct_answer": "Guide studies"
+                },
+                {
+                    "question": "Which of these is NOT a record requirement?",
+                    "options": [
+                        "Color records",
+                        "Raw data",
+                        "Reports",
+                        "Archives"
+                    ],
+                    "correct_answer": "Color records"
+                },
+                {
+                    "question": "What is the main purpose of facility disqualification?",
+                    "options": [
+                        "Ensure compliance",
+                        "Change compliance",
+                        "Remove compliance",
+                        "Add compliance"
+                    ],
+                    "correct_answer": "Ensure compliance"
+                },
+                {
+                    "question": "Which of these is NOT a container test?",
+                    "options": [
+                        "Color test",
+                        "Leak test",
+                        "Compatibility test",
+                        "Strength test"
+                    ],
+                    "correct_answer": "Color test"
+                },
+                {
+                    "question": "What is the main purpose of equipment in GLP?",
+                    "options": [
+                        "Conduct tests",
+                        "Change tests",
+                        "Remove tests",
+                        "Add tests"
+                    ],
+                    "correct_answer": "Conduct tests"
+                },
+                {
+                    "question": "Which of these is NOT a facility requirement?",
+                    "options": [
+                        "Color control",
+                        "Size control",
+                        "Environmental control",
+                        "Security"
+                    ],
+                    "correct_answer": "Color control"
+                },
+                {
+                    "question": "What is the main purpose of personnel in GLP?",
+                    "options": [
+                        "Conduct studies",
+                        "Change studies",
+                        "Remove studies",
+                        "Add studies"
+                    ],
+                    "correct_answer": "Conduct studies"
+                },
+                {
+                    "question": "Which of these is NOT a test requirement?",
+                    "options": [
+                        "Color testing",
+                        "Method validation",
+                        "Sample preparation",
+                        "Data analysis"
+                    ],
+                    "correct_answer": "Color testing"
+                },
+                {
+                    "question": "What is the main purpose of reports?",
+                    "options": [
+                        "Document results",
+                        "Change results",
+                        "Remove results",
+                        "Add results"
+                    ],
+                    "correct_answer": "Document results"
+                },
+                {
+                    "question": "Which of these is NOT a disqualification criterion?",
+                    "options": [
+                        "Color violation",
+                        "Data falsification",
+                        "Protocol violation",
+                        "Facility issues"
+                    ],
+                    "correct_answer": "Color violation"
+                },
+                {
+                    "question": "What is the main purpose of archives?",
+                    "options": [
+                        "Store records",
+                        "Change records",
+                        "Remove records",
+                        "Add records"
+                    ],
+                    "correct_answer": "Store records"
+                },
+                {
+                    "question": "Which of these is NOT a testing facility requirement?",
+                    "options": [
+                        "Color control",
+                        "Standard operating procedures",
+                        "Quality assurance",
+                        "Personnel training"
+                    ],
+                    "correct_answer": "Color control"
+                },
+                {
+                    "question": "What is the main purpose of control articles?",
+                    "options": [
+                        "Compare results",
+                        "Change results",
+                        "Remove results",
+                        "Add results"
+                    ],
+                    "correct_answer": "Compare results"
+                }
+            ]
+        },
+        "unit_4": {
+            "unit_name": "Complaints and Documentation",
+            "topics": [
+                "Complaint Handling",
+                "Documentation Management"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the main purpose of complaint handling?",
+                    "options": [
+                        "Resolve issues",
+                        "Change issues",
+                        "Remove issues",
+                        "Add issues"
+                    ],
+                    "correct_answer": "Resolve issues"
+                },
+                {
+                    "question": "What is the main purpose of return goods handling?",
+                    "options": [
+                        "Ensure proper disposal",
+                        "Change disposal",
+                        "Remove disposal",
+                        "Add disposal"
+                    ],
+                    "correct_answer": "Ensure proper disposal"
+                },
+                {
+                    "question": "What is the main purpose of recall procedures?",
+                    "options": [
+                        "Remove unsafe products",
+                        "Change products",
+                        "Add products",
+                        "Modify products"
+                    ],
+                    "correct_answer": "Remove unsafe products"
+                },
+                {
+                    "question": "What is the main purpose of waste disposal?",
+                    "options": [
+                        "Ensure safety",
+                        "Change safety",
+                        "Remove safety",
+                        "Add safety"
+                    ],
+                    "correct_answer": "Ensure safety"
+                },
+                {
+                    "question": "What is a Batch Formula Record?",
+                    "options": [
+                        "Document for specific batch",
+                        "Color record",
+                        "Size record",
+                        "Shape record"
+                    ],
+                    "correct_answer": "Document for specific batch"
+                },
+                {
+                    "question": "What is a Master Formula Record?",
+                    "options": [
+                        "Standard procedure document",
+                        "Color document",
+                        "Size document",
+                        "Shape document"
+                    ],
+                    "correct_answer": "Standard procedure document"
+                },
+                {
+                    "question": "What is an SOP?",
+                    "options": [
+                        "Standard Operating Procedure",
+                        "Standard Operating Protocol",
+                        "Standard Operating Process",
+                        "Standard Operating Plan"
+                    ],
+                    "correct_answer": "Standard Operating Procedure"
+                },
+                {
+                    "question": "What is the main purpose of quality audit?",
+                    "options": [
+                        "Verify compliance",
+                        "Change compliance",
+                        "Remove compliance",
+                        "Add compliance"
+                    ],
+                    "correct_answer": "Verify compliance"
+                },
+                {
+                    "question": "What is the main purpose of quality review?",
+                    "options": [
+                        "Evaluate performance",
+                        "Change performance",
+                        "Remove performance",
+                        "Add performance"
+                    ],
+                    "correct_answer": "Evaluate performance"
+                },
+                {
+                    "question": "What is the main purpose of distribution records?",
+                    "options": [
+                        "Track products",
+                        "Change products",
+                        "Remove products",
+                        "Add products"
+                    ],
+                    "correct_answer": "Track products"
+                },
+                {
+                    "question": "Which of these is NOT a complaint handling step?",
+                    "options": [
+                        "Color evaluation",
+                        "Receipt",
+                        "Investigation",
+                        "Resolution"
+                    ],
+                    "correct_answer": "Color evaluation"
+                },
+                {
+                    "question": "What is the main purpose of documentation?",
+                    "options": [
+                        "Maintain records",
+                        "Change records",
+                        "Remove records",
+                        "Add records"
+                    ],
+                    "correct_answer": "Maintain records"
+                },
+                {
+                    "question": "Which of these is NOT a document type?",
+                    "options": [
+                        "Color document",
+                        "Batch record",
+                        "SOP",
+                        "Quality report"
+                    ],
+                    "correct_answer": "Color document"
+                },
+                {
+                    "question": "What is the main purpose of quality documentation?",
+                    "options": [
+                        "Ensure compliance",
+                        "Change compliance",
+                        "Remove compliance",
+                        "Add compliance"
+                    ],
+                    "correct_answer": "Ensure compliance"
+                },
+                {
+                    "question": "Which of these is NOT a recall requirement?",
+                    "options": [
+                        "Color check",
+                        "Notification",
+                        "Investigation",
+                        "Corrective action"
+                    ],
+                    "correct_answer": "Color check"
+                },
+                {
+                    "question": "What is the main purpose of waste management?",
+                    "options": [
+                        "Ensure safety",
+                        "Change safety",
+                        "Remove safety",
+                        "Add safety"
+                    ],
+                    "correct_answer": "Ensure safety"
+                },
+                {
+                    "question": "Which of these is NOT a documentation requirement?",
+                    "options": [
+                        "Color control",
+                        "Accuracy",
+                        "Completeness",
+                        "Timeliness"
+                    ],
+                    "correct_answer": "Color control"
+                },
+                {
+                    "question": "What is the main purpose of quality reports?",
+                    "options": [
+                        "Document findings",
+                        "Change findings",
+                        "Remove findings",
+                        "Add findings"
+                    ],
+                    "correct_answer": "Document findings"
+                },
+                {
+                    "question": "Which of these is NOT a distribution record requirement?",
+                    "options": [
+                        "Color tracking",
+                        "Product identification",
+                        "Quantity",
+                        "Destination"
+                    ],
+                    "correct_answer": "Color tracking"
+                },
+                {
+                    "question": "What is the main purpose of quality records?",
+                    "options": [
+                        "Document activities",
+                        "Change activities",
+                        "Remove activities",
+                        "Add activities"
+                    ],
+                    "correct_answer": "Document activities"
+                }
+            ]
+        },
+        "unit_5": {
+            "unit_name": "Validation and Warehousing",
+            "topics": [
+                "Calibration and Validation",
+                "Analytical Method Validation",
+                "Warehousing Practices"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is calibration?",
+                    "options": [
+                        "Adjustment of equipment",
+                        "Color adjustment",
+                        "Size adjustment",
+                        "Shape adjustment"
+                    ],
+                    "correct_answer": "Adjustment of equipment"
+                },
+                {
+                    "question": "What is validation?",
+                    "options": [
+                        "Documented evidence",
+                        "Color evidence",
+                        "Size evidence",
+                        "Shape evidence"
+                    ],
+                    "correct_answer": "Documented evidence"
+                },
+                {
+                    "question": "What is the main purpose of qualification?",
+                    "options": [
+                        "Verify performance",
+                        "Change performance",
+                        "Remove performance",
+                        "Add performance"
+                    ],
+                    "correct_answer": "Verify performance"
+                },
+                {
+                    "question": "What is a validation master plan?",
+                    "options": [
+                        "Overall validation strategy",
+                        "Color strategy",
+                        "Size strategy",
+                        "Shape strategy"
+                    ],
+                    "correct_answer": "Overall validation strategy"
+                },
+                {
+                    "question": "What is the main purpose of pH meter calibration?",
+                    "options": [
+                        "Ensure accuracy",
+                        "Change accuracy",
+                        "Remove accuracy",
+                        "Add accuracy"
+                    ],
+                    "correct_answer": "Ensure accuracy"
+                },
+                {
+                    "question": "What is the main purpose of UV-Vis qualification?",
+                    "options": [
+                        "Verify performance",
+                        "Change performance",
+                        "Remove performance",
+                        "Add performance"
+                    ],
+                    "correct_answer": "Verify performance"
+                },
+                {
+                    "question": "What is the main purpose of method validation?",
+                    "options": [
+                        "Verify reliability",
+                        "Change reliability",
+                        "Remove reliability",
+                        "Add reliability"
+                    ],
+                    "correct_answer": "Verify reliability"
+                },
+                {
+                    "question": "What is GWP?",
+                    "options": [
+                        "Good Warehousing Practice",
+                        "Good Washing Practice",
+                        "Good Weighing Practice",
+                        "Good Writing Practice"
+                    ],
+                    "correct_answer": "Good Warehousing Practice"
+                },
+                {
+                    "question": "What is the main purpose of materials management?",
+                    "options": [
+                        "Control inventory",
+                        "Change inventory",
+                        "Remove inventory",
+                        "Add inventory"
+                    ],
+                    "correct_answer": "Control inventory"
+                },
+                {
+                    "question": "Which of these is NOT a validation type?",
+                    "options": [
+                        "Color validation",
+                        "Process validation",
+                        "Cleaning validation",
+                        "Analytical validation"
+                    ],
+                    "correct_answer": "Color validation"
+                },
+                {
+                    "question": "What is the main purpose of calibration?",
+                    "options": [
+                        "Ensure accuracy",
+                        "Change accuracy",
+                        "Remove accuracy",
+                        "Add accuracy"
+                    ],
+                    "correct_answer": "Ensure accuracy"
+                },
+                {
+                    "question": "Which of these is NOT a qualification type?",
+                    "options": [
+                        "Color qualification",
+                        "Installation qualification",
+                        "Operational qualification",
+                        "Performance qualification"
+                    ],
+                    "correct_answer": "Color qualification"
+                },
+                {
+                    "question": "What is the main purpose of warehousing?",
+                    "options": [
+                        "Store materials",
+                        "Change materials",
+                        "Remove materials",
+                        "Add materials"
+                    ],
+                    "correct_answer": "Store materials"
+                },
+                {
+                    "question": "Which of these is NOT a validation requirement?",
+                    "options": [
+                        "Color validation",
+                        "Protocol",
+                        "Execution",
+                        "Report"
+                    ],
+                    "correct_answer": "Color validation"
+                },
+                {
+                    "question": "What is the main purpose of materials control?",
+                    "options": [
+                        "Ensure quality",
+                        "Change quality",
+                        "Remove quality",
+                        "Add quality"
+                    ],
+                    "correct_answer": "Ensure quality"
+                },
+                {
+                    "question": "Which of these is NOT a warehousing requirement?",
+                    "options": [
+                        "Color control",
+                        "Temperature control",
+                        "Humidity control",
+                        "Security"
+                    ],
+                    "correct_answer": "Color control"
+                },
+                {
+                    "question": "What is the main purpose of inventory management?",
+                    "options": [
+                        "Control stock",
+                        "Change stock",
+                        "Remove stock",
+                        "Add stock"
+                    ],
+                    "correct_answer": "Control stock"
+                },
+                {
+                    "question": "Which of these is NOT a calibration requirement?",
+                    "options": [
+                        "Color calibration",
+                        "Frequency",
+                        "Standards",
+                        "Documentation"
+                    ],
+                    "correct_answer": "Color calibration"
+                },
+                {
+                    "question": "What is the main purpose of method validation?",
+                    "options": [
+                        "Verify reliability",
+                        "Change reliability",
+                        "Remove reliability",
+                        "Add reliability"
+                    ],
+                    "correct_answer": "Verify reliability"
+                },
+                {
+                    "question": "Which of these is NOT a warehousing practice?",
+                    "options": [
+                        "Color control",
+                        "Stock rotation",
+                        "Cleanliness",
+                        "Security"
+                    ],
+                    "correct_answer": "Color control"
+                }
+            ]
+        }
+    }
+} 
