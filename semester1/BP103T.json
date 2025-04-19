@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP103T",
+  "subject_name": "Pharmaceutical Inorganic Chemistry",
+  "units": {
+    "unit_1": {
+      "unit_name": "Impurities in Pharmaceutical Substances",
+      "topics": [
+        "Sources of impurities",
+        "Effects of impurities",
+        "Limit tests for chloride",
+        "Limit tests for sulfate",
+        "Limit tests for iron"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary source of impurities in pharmaceutical substances?",
+          "options": ["Raw materials", "Manufacturing process", "Storage conditions", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "Which of the following is NOT a common impurity in pharmaceutical substances?",
+          "options": ["Active pharmaceutical ingredient", "Heavy metals", "Chloride", "Sulfate"],
+          "correct_answer": "Active pharmaceutical ingredient"
+        },
+        {
+          "question": "What is the purpose of limit tests?",
+          "options": ["To determine maximum allowable limits of impurities", "To identify impurities", "To quantify impurities", "To remove impurities"],
+          "correct_answer": "To determine maximum allowable limits of impurities"
+        },
+        {
+          "question": "Which reagent is used in the limit test for chloride?",
+          "options": ["Silver nitrate", "Barium chloride", "Ammonium thiocyanate", "Potassium permanganate"],
+          "correct_answer": "Silver nitrate"
+        },
+        {
+          "question": "What is the color of the precipitate formed in the limit test for chloride?",
+          "options": ["White", "Yellow", "Black", "Red"],
+          "correct_answer": "White"
+        },
+        {
+          "question": "Which reagent is used in the limit test for sulfate?",
+          "options": ["Barium chloride", "Silver nitrate", "Ammonium thiocyanate", "Potassium permanganate"],
+          "correct_answer": "Barium chloride"
+        },
+        {
+          "question": "What is the color of the precipitate formed in the limit test for sulfate?",
+          "options": ["White", "Yellow", "Black", "Red"],
+          "correct_answer": "White"
+        },
+        {
+          "question": "Which reagent is used in the limit test for iron?",
+          "options": ["Ammonium thiocyanate", "Silver nitrate", "Barium chloride", "Potassium permanganate"],
+          "correct_answer": "Ammonium thiocyanate"
+        },
+        {
+          "question": "What is the color of the complex formed in the limit test for iron?",
+          "options": ["Red", "White", "Yellow", "Black"],
+          "correct_answer": "Red"
+        },
+        {
+          "question": "Which of the following is NOT a source of impurities?",
+          "options": ["Active pharmaceutical ingredient", "Reagents used in manufacturing", "Equipment used in manufacturing", "Storage containers"],
+          "correct_answer": "Active pharmaceutical ingredient"
+        },
+        {
+          "question": "What is the effect of impurities on pharmaceutical substances?",
+          "options": ["All of the above", "Decreased therapeutic effect", "Increased toxicity", "Reduced stability"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "Which of the following is a heavy metal impurity?",
+          "options": ["Lead", "Sodium", "Potassium", "Calcium"],
+          "correct_answer": "Lead"
+        },
+        {
+          "question": "What is the purpose of the standard solution in limit tests?",
+          "options": ["For comparison", "For reaction", "For dilution", "For neutralization"],
+          "correct_answer": "For comparison"
+        },
+        {
+          "question": "Which of the following is NOT a limit test?",
+          "options": ["Assay", "Chloride", "Sulfate", "Iron"],
+          "correct_answer": "Assay"
+        },
+        {
+          "question": "What is the principle of limit tests?",
+          "options": ["Comparison of opalescence or color", "Measurement of weight", "Measurement of volume", "Measurement of pH"],
+          "correct_answer": "Comparison of opalescence or color"
+        },
+        {
+          "question": "Which of the following is a source of chloride impurity?",
+          "options": ["All of the above", "Water", "Reagents", "Equipment"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the purpose of nitric acid in the limit test for chloride?",
+          "options": ["To prevent interference", "To dissolve the sample", "To neutralize the solution", "To catalyze the reaction"],
+          "correct_answer": "To prevent interference"
+        },
+        {
+          "question": "Which of the following is a source of sulfate impurity?",
+          "options": ["All of the above", "Water", "Reagents", "Equipment"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the purpose of hydrochloric acid in the limit test for sulfate?",
+          "options": ["To prevent interference", "To dissolve the sample", "To neutralize the solution", "To catalyze the reaction"],
+          "correct_answer": "To prevent interference"
+        },
+        {
+          "question": "Which of the following is a source of iron impurity?",
+          "options": ["All of the above", "Water", "Reagents", "Equipment"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Acids, Bases and Buffers",
+      "topics": [
+        "Theories of acids and bases",
+        "Buffer solutions",
+        "Buffer capacity",
+        "Buffer equation",
+        "Applications of buffers"
+      ],
+      "mcqs": [
+        {
+          "question": "According to Arrhenius theory, an acid is a substance that:",
+          "options": ["Donates H+ ions", "Accepts H+ ions", "Donates OH- ions", "Accepts OH- ions"],
+          "correct_answer": "Donates H+ ions"
+        },
+        {
+          "question": "According to Bronsted-Lowry theory, a base is a substance that:",
+          "options": ["Accepts H+ ions", "Donates H+ ions", "Donates OH- ions", "Accepts OH- ions"],
+          "correct_answer": "Accepts H+ ions"
+        },
+        {
+          "question": "What is a buffer solution?",
+          "options": ["A solution that resists changes in pH", "A solution that changes pH easily", "A solution that is always acidic", "A solution that is always basic"],
+          "correct_answer": "A solution that resists changes in pH"
+        },
+        {
+          "question": "Which of the following is NOT a component of a buffer solution?",
+          "options": ["Indicator", "Weak acid", "Conjugate base", "Salt"],
+          "correct_answer": "Indicator"
+        },
+        {
+          "question": "What is buffer capacity?",
+          "options": ["The amount of acid or base that can be added without changing pH", "The pH of the buffer", "The concentration of the buffer", "The volume of the buffer"],
+          "correct_answer": "The amount of acid or base that can be added without changing pH"
+        },
+        {
+          "question": "Which of the following is NOT a theory of acids and bases?",
+          "options": ["Molecular theory", "Arrhenius theory", "Bronsted-Lowry theory", "Lewis theory"],
+          "correct_answer": "Molecular theory"
+        },
+        {
+          "question": "What is the pH of a neutral solution?",
+          "options": ["7", "Less than 7", "Greater than 7", "Depends on concentration"],
+          "correct_answer": "7"
+        },
+        {
+          "question": "Which of the following is a weak acid?",
+          "options": ["Acetic acid", "Hydrochloric acid", "Sulfuric acid", "Nitric acid"],
+          "correct_answer": "Acetic acid"
+        },
+        {
+          "question": "Which of the following is a strong base?",
+          "options": ["Sodium hydroxide", "Ammonia", "Calcium hydroxide", "Magnesium hydroxide"],
+          "correct_answer": "Sodium hydroxide"
+        },
+        {
+          "question": "What is the Henderson-Hasselbalch equation used for?",
+          "options": ["To calculate pH of buffer solutions", "To calculate concentration", "To calculate volume", "To calculate temperature"],
+          "correct_answer": "To calculate pH of buffer solutions"
+        },
+        {
+          "question": "Which of the following is NOT an application of buffers?",
+          "options": ["Drug discovery", "Biological systems", "Pharmaceutical formulations", "Analytical methods"],
+          "correct_answer": "Drug discovery"
+        },
+        {
+          "question": "What is the pH range of a buffer solution?",
+          "options": ["pKa ± 1", "pKa ± 2", "pKa ± 3", "pKa ± 4"],
+          "correct_answer": "pKa ± 1"
+        },
+        {
+          "question": "Which of the following is a characteristic of a good buffer?",
+          "options": ["All of the above", "High buffer capacity", "Stability", "Non-toxicity"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the term for the negative logarithm of the acid dissociation constant?",
+          "options": ["pKa", "pH", "pOH", "pKw"],
+          "correct_answer": "pKa"
+        },
+        {
+          "question": "Which of the following is NOT a type of buffer?",
+          "options": ["Neutral buffer", "Acidic buffer", "Basic buffer", "Universal buffer"],
+          "correct_answer": "Neutral buffer"
+        },
+        {
+          "question": "What is the term for the substance that resists changes in pH?",
+          "options": ["Buffer", "Acid", "Base", "Salt"],
+          "correct_answer": "Buffer"
+        },
+        {
+          "question": "Which of the following is a component of a buffer solution?",
+          "options": ["All of the above", "Weak acid", "Conjugate base", "Salt"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the term for the point where the buffer capacity is maximum?",
+          "options": ["pKa", "pH", "pOH", "pKw"],
+          "correct_answer": "pKa"
+        },
+        {
+          "question": "Which of the following is NOT a factor affecting buffer capacity?",
+          "options": ["Temperature", "Concentration", "Ratio of components", "pKa value"],
+          "correct_answer": "Temperature"
+        },
+        {
+          "question": "What is the term for the process of maintaining pH?",
+          "options": ["Buffering", "Neutralization", "Titration", "Standardization"],
+          "correct_answer": "Buffering"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Major Intra and Extracellular Electrolytes",
+      "topics": [
+        "Functions of electrolytes",
+        "Sodium and potassium",
+        "Calcium and magnesium",
+        "Chloride and bicarbonate",
+        "Electrolyte replacement therapy"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary function of electrolytes in the body?",
+          "options": ["Maintain fluid balance", "Provide energy", "Store information", "Produce hormones"],
+          "correct_answer": "Maintain fluid balance"
+        },
+        {
+          "question": "Which of the following is NOT an electrolyte?",
+          "options": ["Glucose", "Sodium", "Potassium", "Chloride"],
+          "correct_answer": "Glucose"
+        },
+        {
+          "question": "What is the normal range for serum sodium?",
+          "options": ["135-145 mEq/L", "120-130 mEq/L", "150-160 mEq/L", "100-110 mEq/L"],
+          "correct_answer": "135-145 mEq/L"
+        },
+        {
+          "question": "What is the normal range for serum potassium?",
+          "options": ["3.5-5.0 mEq/L", "2.5-3.5 mEq/L", "5.0-6.0 mEq/L", "1.5-2.5 mEq/L"],
+          "correct_answer": "3.5-5.0 mEq/L"
+        },
+        {
+          "question": "Which electrolyte is primarily intracellular?",
+          "options": ["Potassium", "Sodium", "Chloride", "Bicarbonate"],
+          "correct_answer": "Potassium"
+        },
+        {
+          "question": "Which electrolyte is primarily extracellular?",
+          "options": ["Sodium", "Potassium", "Magnesium", "Phosphate"],
+          "correct_answer": "Sodium"
+        },
+        {
+          "question": "What is the normal range for serum calcium?",
+          "options": ["8.5-10.5 mg/dL", "6.5-7.5 mg/dL", "11.5-12.5 mg/dL", "4.5-5.5 mg/dL"],
+          "correct_answer": "8.5-10.5 mg/dL"
+        },
+        {
+          "question": "What is the normal range for serum magnesium?",
+          "options": ["1.5-2.5 mEq/L", "0.5-1.0 mEq/L", "3.0-4.0 mEq/L", "4.5-5.5 mEq/L"],
+          "correct_answer": "1.5-2.5 mEq/L"
+        },
+        {
+          "question": "Which of the following is NOT a function of calcium?",
+          "options": ["Energy production", "Bone formation", "Muscle contraction", "Blood clotting"],
+          "correct_answer": "Energy production"
+        },
+        {
+          "question": "Which of the following is NOT a function of magnesium?",
+          "options": ["Oxygen transport", "Enzyme activation", "Muscle relaxation", "Nerve conduction"],
+          "correct_answer": "Oxygen transport"
+        },
+        {
+          "question": "What is the normal range for serum chloride?",
+          "options": ["95-105 mEq/L", "85-95 mEq/L", "105-115 mEq/L", "75-85 mEq/L"],
+          "correct_answer": "95-105 mEq/L"
+        },
+        {
+          "question": "What is the normal range for serum bicarbonate?",
+          "options": ["22-26 mEq/L", "12-16 mEq/L", "32-36 mEq/L", "42-46 mEq/L"],
+          "correct_answer": "22-26 mEq/L"
+        },
+        {
+          "question": "Which of the following is NOT a symptom of hyponatremia?",
+          "options": ["Hyperactivity", "Confusion", "Seizures", "Coma"],
+          "correct_answer": "Hyperactivity"
+        },
+        {
+          "question": "Which of the following is NOT a symptom of hyperkalemia?",
+          "options": ["Hypotension", "Muscle weakness", "Cardiac arrhythmias", "Paralysis"],
+          "correct_answer": "Hypotension"
+        },
+        {
+          "question": "What is the term for low calcium levels?",
+          "options": ["Hypocalcemia", "Hypercalcemia", "Hypokalemia", "Hyperkalemia"],
+          "correct_answer": "Hypocalcemia"
+        },
+        {
+          "question": "What is the term for high magnesium levels?",
+          "options": ["Hypermagnesemia", "Hypomagnesemia", "Hypercalcemia", "Hypocalcemia"],
+          "correct_answer": "Hypermagnesemia"
+        },
+        {
+          "question": "Which of the following is NOT a cause of electrolyte imbalance?",
+          "options": ["Normal diet", "Diarrhea", "Vomiting", "Kidney disease"],
+          "correct_answer": "Normal diet"
+        },
+        {
+          "question": "What is the term for the replacement of lost electrolytes?",
+          "options": ["Electrolyte replacement therapy", "Fluid therapy", "Nutrition therapy", "Drug therapy"],
+          "correct_answer": "Electrolyte replacement therapy"
+        },
+        {
+          "question": "Which of the following is NOT a route of electrolyte administration?",
+          "options": ["Inhalation", "Oral", "Intravenous", "Subcutaneous"],
+          "correct_answer": "Inhalation"
+        },
+        {
+          "question": "What is the term for the balance of electrolytes in the body?",
+          "options": ["Electrolyte homeostasis", "Fluid balance", "Acid-base balance", "Osmotic balance"],
+          "correct_answer": "Electrolyte homeostasis"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Dental Products",
+      "topics": [
+        "Dentifrices",
+        "Desensitizing agents",
+        "Anticaries agents",
+        "Cement and fillers",
+        "Mouthwashes"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of dentifrices?",
+          "options": ["To clean teeth", "To whiten teeth", "To strengthen teeth", "To numb teeth"],
+          "correct_answer": "To clean teeth"
+        },
+        {
+          "question": "Which of the following is NOT a component of dentifrices?",
+          "options": ["Antibiotics", "Abrasives", "Detergents", "Humectants"],
+          "correct_answer": "Antibiotics"
+        },
+        {
+          "question": "What is the purpose of desensitizing agents?",
+          "options": ["To reduce tooth sensitivity", "To clean teeth", "To whiten teeth", "To strengthen teeth"],
+          "correct_answer": "To reduce tooth sensitivity"
+        },
+        {
+          "question": "Which of the following is a common desensitizing agent?",
+          "options": ["Potassium nitrate", "Sodium fluoride", "Calcium carbonate", "Sodium bicarbonate"],
+          "correct_answer": "Potassium nitrate"
+        },
+        {
+          "question": "What is the purpose of anticaries agents?",
+          "options": ["To prevent tooth decay", "To clean teeth", "To whiten teeth", "To strengthen teeth"],
+          "correct_answer": "To prevent tooth decay"
+        },
+        {
+          "question": "Which of the following is a common anticaries agent?",
+          "options": ["Sodium fluoride", "Potassium nitrate", "Calcium carbonate", "Sodium bicarbonate"],
+          "correct_answer": "Sodium fluoride"
+        },
+        {
+          "question": "What is the purpose of dental cements?",
+          "options": ["To fill cavities", "To clean teeth", "To whiten teeth", "To strengthen teeth"],
+          "correct_answer": "To fill cavities"
+        },
+        {
+          "question": "Which of the following is a common dental cement?",
+          "options": ["Zinc oxide eugenol", "Sodium fluoride", "Potassium nitrate", "Calcium carbonate"],
+          "correct_answer": "Zinc oxide eugen eugenol"
+        },
+        {
+          "question": "What is the purpose of mouthwashes?",
+          "options": ["To freshen breath", "To clean teeth", "To whiten teeth", "To strengthen teeth"],
+          "correct_answer": "To freshen breath"
+        },
+        {
+          "question": "Which of the following is NOT a component of mouthwashes?",
+          "options": ["Antibiotics", "Antiseptics", "Flavoring agents", "Coloring agents"],
+          "correct_answer": "Antibiotics"
+        },
+        {
+          "question": "What is the term for the process of tooth decay?",
+          "options": ["Dental caries", "Dental plaque", "Dental calculus", "Dental erosion"],
+          "correct_answer": "Dental caries"
+        },
+        {
+          "question": "Which of the following is NOT a type of dental product?",
+          "options": ["Toothpaste", "Mouthwash", "Dental floss", "Toothbrush"],
+          "correct_answer": "Toothbrush"
+        },
+        {
+          "question": "What is the term for the hard deposit on teeth?",
+          "options": ["Dental calculus", "Dental plaque", "Dental caries", "Dental erosion"],
+          "correct_answer": "Dental calculus"
+        },
+        {
+          "question": "Which of the following is NOT a function of dental products?",
+          "options": ["To cure diseases", "To clean teeth", "To prevent decay", "To reduce sensitivity"],
+          "correct_answer": "To cure diseases"
+        },
+        {
+          "question": "What is the term for the soft deposit on teeth?",
+          "options": ["Dental plaque", "Dental calculus", "Dental caries", "Dental erosion"],
+          "correct_answer": "Dental plaque"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of good dental products?",
+          "options": ["High cost", "Safety", "Efficacy", "Stability"],
+          "correct_answer": "High cost"
+        },
+        {
+          "question": "What is the term for the loss of tooth structure?",
+          "options": ["Dental erosion", "Dental plaque", "Dental calculus", "Dental caries"],
+          "correct_answer": "Dental erosion"
+        },
+        {
+          "question": "Which of the following is NOT a route of administration of dental products?",
+          "options": ["Injection", "Topical", "Oral", "Sublingual"],
+          "correct_answer": "Injection"
+        },
+        {
+          "question": "What is the term for the prevention of dental diseases?",
+          "options": ["Preventive dentistry", "Restorative dentistry", "Cosmetic dentistry", "Surgical dentistry"],
+          "correct_answer": "Preventive dentistry"
+        },
+        {
+          "question": "Which of the following is a characteristic of dental products?",
+          "options": ["All of the above", "Safety", "Efficacy", "Stability"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Gastrointestinal Agents",
+      "topics": [
+        "Antacids",
+        "Cathartics",
+        "Protectives and adsorbents",
+        "Acidifiers",
+        "Digestants"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of antacids?",
+          "options": ["To neutralize stomach acid", "To increase stomach acid", "To protect the stomach", "To digest food"],
+          "correct_answer": "To neutralize stomach acid"
+        },
+        {
+          "question": "Which of the following is NOT an antacid?",
+          "options": ["Aspirin", "Aluminum hydroxide", "Magnesium hydroxide", "Calcium carbonate"],
+          "correct_answer": "Aspirin"
+        },
+        {
+          "question": "What is the purpose of cathartics?",
+          "options": ["To relieve constipation", "To neutralize stomach acid", "To protect the stomach", "To digest food"],
+          "correct_answer": "To relieve constipation"
+        },
+        {
+          "question": "Which of the following is a common cathartic?",
+          "options": ["Magnesium sulfate", "Aluminum hydroxide", "Calcium carbonate", "Sodium bicarbonate"],
+          "correct_answer": "Magnesium sulfate"
+        },
+        {
+          "question": "What is the purpose of protectives and adsorbents?",
+          "options": ["To protect the gastrointestinal tract", "To neutralize stomach acid", "To relieve constipation", "To digest food"],
+          "correct_answer": "To protect the gastrointestinal tract"
+        },
+        {
+          "question": "Which of the following is a common protective and adsorbent?",
+          "options": ["Kaolin", "Magnesium sulfate", "Aluminum hydroxide", "Calcium carbonate"],
+          "correct_answer": "Kaolin"
+        },
+        {
+          "question": "What is the purpose of acidifiers?",
+          "options": ["To increase stomach acid", "To neutralize stomach acid", "To protect the stomach", "To digest food"],
+          "correct_answer": "To increase stomach acid"
+        },
+        {
+          "question": "Which of the following is a common acidifier?",
+          "options": ["Dilute hydrochloric acid", "Magnesium sulfate", "Aluminum hydroxide", "Calcium carbonate"],
+          "correct_answer": "Dilute hydrochloric acid"
+        },
+        {
+          "question": "What is the purpose of digestants?",
+          "options": ["To aid digestion", "To neutralize stomach acid", "To protect the stomach", "To relieve constipation"],
+          "correct_answer": "To aid digestion"
+        },
+        {
+          "question": "Which of the following is NOT a digestant?",
+          "options": ["Aspirin", "Pancreatin", "Pepsin", "Diastase"],
+          "correct_answer": "Aspirin"
+        },
+        {
+          "question": "What is the term for excessive stomach acid?",
+          "options": ["Hyperacidity", "Hypoacidity", "Achlorhydria", "Dyspepsia"],
+          "correct_answer": "Hyperacidity"
+        },
+        {
+          "question": "Which of the following is NOT a type of gastrointestinal agent?",
+          "options": ["Antibiotics", "Antacids", "Cathartics", "Protectives"],
+          "correct_answer": "Antibiotics"
+        },
+        {
+          "question": "What is the term for insufficient stomach acid?",
+          "options": ["Hypoacidity", "Hyperacidity", "Achlorhydria", "Dyspepsia"],
+          "correct_answer": "Hypoacidity"
+        },
+        {
+          "question": "Which of the following is NOT a function of gastrointestinal agents?",
+          "options": ["To cure diseases", "To neutralize acid", "To relieve constipation", "To aid digestion"],
+          "correct_answer": "To cure diseases"
+        },
+        {
+          "question": "What is the term for the absence of stomach acid?",
+          "options": ["Achlorhydria", "Hyperacidity", "Hypoacidity", "Dyspepsia"],
+          "correct_answer": "Achlorhydria"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of good gastrointestinal agents?",
+          "options": ["High cost", "Safety", "Efficacy", "Stability"],
+          "correct_answer": "High cost"
+        },
+        {
+          "question": "What is the term for indigestion?",
+          "options": ["Dyspepsia", "Hyperacidity", "Hypoacidity", "Achlorhydria"],
+          "correct_answer": "Dyspepsia"
+        },
+        {
+          "question": "Which of the following is NOT a route of administration of gastrointestinal agents?",
+          "options": ["Injection", "Oral", "Rectal", "Sublingual"],
+          "correct_answer": "Injection"
+        },
+        {
+          "question": "What is the term for the treatment of gastrointestinal disorders?",
+          "options": ["Gastrointestinal therapy", "Antacid therapy", "Cathartic therapy", "Digestant therapy"],
+          "correct_answer": "Gastrointestinal therapy"
+        },
+        {
+          "question": "Which of the following is a characteristic of gastrointestinal agents?",
+          "options": ["All of the above", "Safety", "Efficacy", "Stability"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    }
+  }
+} 

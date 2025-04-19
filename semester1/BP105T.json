@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP105T",
+  "subject_name": "Pharmaceutical Mathematics",
+  "units": {
+    "unit_1": {
+      "unit_name": "Basic Mathematics",
+      "topics": [
+        "Algebra",
+        "Logarithms",
+        "Trigonometry",
+        "Calculus",
+        "Statistics"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the value of x in the equation 2x + 5 = 15?",
+          "options": ["5", "10", "15", "20"],
+          "correct_answer": "5"
+        },
+        {
+          "question": "What is the logarithm of 100 to the base 10?",
+          "options": ["2", "1", "3", "4"],
+          "correct_answer": "2"
+        },
+        {
+          "question": "What is the value of sin(30°)?",
+          "options": ["0.5", "0.866", "1", "0.707"],
+          "correct_answer": "0.5"
+        },
+        {
+          "question": "What is the derivative of x²?",
+          "options": ["2x", "x", "2", "x²"],
+          "correct_answer": "2x"
+        },
+        {
+          "question": "What is the mean of the numbers 2, 4, 6, 8, 10?",
+          "options": ["6", "5", "7", "8"],
+          "correct_answer": "6"
+        },
+        {
+          "question": "What is the value of x in the equation 3x - 7 = 14?",
+          "options": ["7", "14", "21", "28"],
+          "correct_answer": "7"
+        },
+        {
+          "question": "What is the logarithm of 1000 to the base 10?",
+          "options": ["3", "2", "4", "5"],
+          "correct_answer": "3"
+        },
+        {
+          "question": "What is the value of cos(60°)?",
+          "options": ["0.5", "0.866", "1", "0.707"],
+          "correct_answer": "0.5"
+        },
+        {
+          "question": "What is the derivative of 3x³?",
+          "options": ["9x²", "3x²", "6x", "9x"],
+          "correct_answer": "9x²"
+        },
+        {
+          "question": "What is the median of the numbers 1, 3, 5, 7, 9?",
+          "options": ["5", "4", "6", "7"],
+          "correct_answer": "5"
+        },
+        {
+          "question": "What is the value of x in the equation 4x + 8 = 32?",
+          "options": ["6", "8", "10", "12"],
+          "correct_answer": "6"
+        },
+        {
+          "question": "What is the logarithm of 0.01 to the base 10?",
+          "options": ["-2", "-1", "-3", "-4"],
+          "correct_answer": "-2"
+        },
+        {
+          "question": "What is the value of tan(45°)?",
+          "options": ["1", "0.5", "0.866", "0.707"],
+          "correct_answer": "1"
+        },
+        {
+          "question": "What is the derivative of e^x?",
+          "options": ["e^x", "x", "1", "0"],
+          "correct_answer": "e^x"
+        },
+        {
+          "question": "What is the mode of the numbers 2, 2, 3, 4, 4, 4, 5?",
+          "options": ["4", "2", "3", "5"],
+          "correct_answer": "4"
+        },
+        {
+          "question": "What is the value of x in the equation 5x - 10 = 20?",
+          "options": ["6", "8", "10", "12"],
+          "correct_answer": "6"
+        },
+        {
+          "question": "What is the logarithm of 1 to any base?",
+          "options": ["0", "1", "-1", "Undefined"],
+          "correct_answer": "0"
+        },
+        {
+          "question": "What is the value of sin²θ + cos²θ?",
+          "options": ["1", "0", "2", "Undefined"],
+          "correct_answer": "1"
+        },
+        {
+          "question": "What is the derivative of ln(x)?",
+          "options": ["1/x", "x", "1", "0"],
+          "correct_answer": "1/x"
+        },
+        {
+          "question": "What is the range of the numbers 2, 4, 6, 8, 10?",
+          "options": ["8", "6", "10", "12"],
+          "correct_answer": "8"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Pharmaceutical Calculations",
+      "topics": [
+        "Dosage calculations",
+        "Dilution and concentration",
+        "Alligation method",
+        "Percentage calculations",
+        "Density and specific gravity"
+      ],
+      "mcqs": [
+        {
+          "question": "If a patient needs 500mg of a drug and the available tablet is 250mg, how many tablets should be given?",
+          "options": ["2", "1", "3", "4"],
+          "correct_answer": "2"
+        },
+        {
+          "question": "What is the final concentration when 100mL of a 20% solution is diluted to 200mL?",
+          "options": ["10%", "20%", "30%", "40%"],
+          "correct_answer": "10%"
+        },
+        {
+          "question": "What is the alligation method used for?",
+          "options": ["Mixing solutions of different strengths", "Calculating dosages", "Measuring density", "Determining pH"],
+          "correct_answer": "Mixing solutions of different strengths"
+        },
+        {
+          "question": "What is 25% of 200mL?",
+          "options": ["50mL", "100mL", "150mL", "200mL"],
+          "correct_answer": "50mL"
+        },
+        {
+          "question": "What is the specific gravity of water?",
+          "options": ["1", "0.5", "2", "1.5"],
+          "correct_answer": "1"
+        },
+        {
+          "question": "If a patient needs 750mg of a drug and the available tablet is 250mg, how many tablets should be given?",
+          "options": ["3", "2", "4", "5"],
+          "correct_answer": "3"
+        },
+        {
+          "question": "What is the final concentration when 50mL of a 40% solution is diluted to 100mL?",
+          "options": ["20%", "40%", "60%", "80%"],
+          "correct_answer": "20%"
+        },
+        {
+          "question": "What is the alligation alternate method used for?",
+          "options": ["Calculating proportions for mixing", "Calculating dosages", "Measuring density", "Determining pH"],
+          "correct_answer": "Calculating proportions for mixing"
+        },
+        {
+          "question": "What is 15% of 300mL?",
+          "options": ["45mL", "30mL", "60mL", "90mL"],
+          "correct_answer": "45mL"
+        },
+        {
+          "question": "What is the density of water in g/mL?",
+          "options": ["1", "0.5", "2", "1.5"],
+          "correct_answer": "1"
+        },
+        {
+          "question": "If a patient needs 1000mg of a drug and the available tablet is 500mg, how many tablets should be given?",
+          "options": ["2", "1", "3", "4"],
+          "correct_answer": "2"
+        },
+        {
+          "question": "What is the final concentration when 200mL of a 30% solution is diluted to 400mL?",
+          "options": ["15%", "30%", "45%", "60%"],
+          "correct_answer": "15%"
+        },
+        {
+          "question": "What is the alligation medial method used for?",
+          "options": ["Finding average strength", "Calculating dosages", "Measuring density", "Determining pH"],
+          "correct_answer": "Finding average strength"
+        },
+        {
+          "question": "What is 10% of 500mL?",
+          "options": ["50mL", "100mL", "150mL", "200mL"],
+          "correct_answer": "50mL"
+        },
+        {
+          "question": "What is the specific gravity of a substance with density 1.5 g/mL?",
+          "options": ["1.5", "1", "2", "0.5"],
+          "correct_answer": "1.5"
+        },
+        {
+          "question": "If a patient needs 1500mg of a drug and the available tablet is 500mg, how many tablets should be given?",
+          "options": ["3", "2", "4", "5"],
+          "correct_answer": "3"
+        },
+        {
+          "question": "What is the final concentration when 150mL of a 25% solution is diluted to 300mL?",
+          "options": ["12.5%", "25%", "37.5%", "50%"],
+          "correct_answer": "12.5%"
+        },
+        {
+          "question": "What is the alligation method used to calculate?",
+          "options": ["Proportions for mixing", "Dosages", "Density", "pH"],
+          "correct_answer": "Proportions for mixing"
+        },
+        {
+          "question": "What is 20% of 400mL?",
+          "options": ["80mL", "100mL", "120mL", "140mL"],
+          "correct_answer": "80mL"
+        },
+        {
+          "question": "What is the density of a substance with specific gravity 2?",
+          "options": ["2 g/mL", "1 g/mL", "0.5 g/mL", "1.5 g/mL"],
+          "correct_answer": "2 g/mL"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Statistics in Pharmacy",
+      "topics": [
+        "Measures of central tendency",
+        "Measures of dispersion",
+        "Probability",
+        "Normal distribution",
+        "Hypothesis testing"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the mean of the numbers 2, 4, 6, 8, 10?",
+          "options": ["6", "5", "7", "8"],
+          "correct_answer": "6"
+        },
+        {
+          "question": "What is the range of the numbers 1, 3, 5, 7, 9?",
+          "options": ["8", "6", "10", "12"],
+          "correct_answer": "8"
+        },
+        {
+          "question": "What is the probability of getting heads when flipping a fair coin?",
+          "options": ["0.5", "0.25", "0.75", "1"],
+          "correct_answer": "0.5"
+        },
+        {
+          "question": "What is the standard deviation of the numbers 2, 4, 6, 8, 10?",
+          "options": ["2.83", "2", "3", "4"],
+          "correct_answer": "2.83"
+        },
+        {
+          "question": "What is the median of the numbers 1, 2, 3, 4, 5?",
+          "options": ["3", "2", "4", "5"],
+          "correct_answer": "3"
+        },
+        {
+          "question": "What is the mode of the numbers 2, 2, 3, 4, 4, 4, 5?",
+          "options": ["4", "2", "3", "5"],
+          "correct_answer": "4"
+        },
+        {
+          "question": "What is the variance of the numbers 1, 3, 5, 7, 9?",
+          "options": ["8", "6", "10", "12"],
+          "correct_answer": "8"
+        },
+        {
+          "question": "What is the probability of rolling a 6 on a fair die?",
+          "options": ["1/6", "1/3", "1/2", "1"],
+          "correct_answer": "1/6"
+        },
+        {
+          "question": "What is the standard normal distribution?",
+          "options": ["Mean 0, SD 1", "Mean 1, SD 0", "Mean 0, SD 0", "Mean 1, SD 1"],
+          "correct_answer": "Mean 0, SD 1"
+        },
+        {
+          "question": "What is the null hypothesis?",
+          "options": ["No effect or difference", "Significant effect", "Positive effect", "Negative effect"],
+          "correct_answer": "No effect or difference"
+        },
+        {
+          "question": "What is the mean of the numbers 1, 2, 3, 4, 5?",
+          "options": ["3", "2", "4", "5"],
+          "correct_answer": "3"
+        },
+        {
+          "question": "What is the range of the numbers 2, 4, 6, 8, 10?",
+          "options": ["8", "6", "10", "12"],
+          "correct_answer": "8"
+        },
+        {
+          "question": "What is the probability of getting tails when flipping a fair coin?",
+          "options": ["0.5", "0.25", "0.75", "1"],
+          "correct_answer": "0.5"
+        },
+        {
+          "question": "What is the standard deviation of the numbers 1, 3, 5, 7, 9?",
+          "options": ["2.83", "2", "3", "4"],
+          "correct_answer": "2.83"
+        },
+        {
+          "question": "What is the median of the numbers 2, 4, 6, 8, 10?",
+          "options": ["6", "5", "7", "8"],
+          "correct_answer": "6"
+        },
+        {
+          "question": "What is the mode of the numbers 1, 1, 2, 3, 3, 3, 4?",
+          "options": ["3", "1", "2", "4"],
+          "correct_answer": "3"
+        },
+        {
+          "question": "What is the variance of the numbers 2, 4, 6, 8, 10?",
+          "options": ["8", "6", "10", "12"],
+          "correct_answer": "8"
+        },
+        {
+          "question": "What is the probability of rolling an even number on a fair die?",
+          "options": ["0.5", "0.33", "0.67", "1"],
+          "correct_answer": "0.5"
+        },
+        {
+          "question": "What is the normal distribution?",
+          "options": ["Bell-shaped curve", "Straight line", "U-shaped curve", "V-shaped curve"],
+          "correct_answer": "Bell-shaped curve"
+        },
+        {
+          "question": "What is the alternative hypothesis?",
+          "options": ["Significant effect or difference", "No effect", "Positive effect", "Negative effect"],
+          "correct_answer": "Significant effect or difference"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Biostatistics",
+      "topics": [
+        "Data collection",
+        "Data presentation",
+        "Measures of central tendency",
+        "Measures of dispersion",
+        "Correlation and regression"
+      ],
+      "mcqs": [
+        {
+          "question": "What is primary data?",
+          "options": ["Data collected directly", "Data from secondary sources", "Data from literature", "Data from internet"],
+          "correct_answer": "Data collected directly"
+        },
+        {
+          "question": "What is a frequency distribution?",
+          "options": ["Tabular arrangement of data", "Graphical representation", "Statistical analysis", "Data collection"],
+          "correct_answer": "Tabular arrangement of data"
+        },
+        {
+          "question": "What is the arithmetic mean?",
+          "options": ["Sum of values divided by number of values", "Middle value", "Most frequent value", "Difference between max and min"],
+          "correct_answer": "Sum of values divided by number of values"
+        },
+        {
+          "question": "What is standard deviation?",
+          "options": ["Measure of dispersion", "Measure of central tendency", "Measure of correlation", "Measure of regression"],
+          "correct_answer": "Measure of dispersion"
+        },
+        {
+          "question": "What is correlation coefficient?",
+          "options": ["Measure of relationship", "Measure of central tendency", "Measure of dispersion", "Measure of regression"],
+          "correct_answer": "Measure of relationship"
+        },
+        {
+          "question": "What is secondary data?",
+          "options": ["Data from existing sources", "Data collected directly", "Data from experiments", "Data from observations"],
+          "correct_answer": "Data from existing sources"
+        },
+        {
+          "question": "What is a histogram?",
+          "options": ["Graphical representation", "Tabular arrangement", "Statistical analysis", "Data collection"],
+          "correct_answer": "Graphical representation"
+        },
+        {
+          "question": "What is the median?",
+          "options": ["Middle value", "Average value", "Most frequent value", "Sum of values"],
+          "correct_answer": "Middle value"
+        },
+        {
+          "question": "What is variance?",
+          "options": ["Square of standard deviation", "Square root of standard deviation", "Inverse of standard deviation", "Logarithm of standard deviation"],
+          "correct_answer": "Square of standard deviation"
+        },
+        {
+          "question": "What is regression analysis?",
+          "options": ["Predicting one variable from another", "Measuring central tendency", "Measuring dispersion", "Measuring correlation"],
+          "correct_answer": "Predicting one variable from another"
+        },
+        {
+          "question": "What is qualitative data?",
+          "options": ["Non-numerical data", "Numerical data", "Statistical data", "Graphical data"],
+          "correct_answer": "Non-numerical data"
+        },
+        {
+          "question": "What is a pie chart?",
+          "options": ["Circular graphical representation", "Rectangular graphical representation", "Linear graphical representation", "Tabular representation"],
+          "correct_answer": "Circular graphical representation"
+        },
+        {
+          "question": "What is the mode?",
+          "options": ["Most frequent value", "Middle value", "Average value", "Sum of values"],
+          "correct_answer": "Most frequent value"
+        },
+        {
+          "question": "What is range?",
+          "options": ["Difference between max and min", "Sum of values", "Average of values", "Most frequent value"],
+          "correct_answer": "Difference between max and min"
+        },
+        {
+          "question": "What is positive correlation?",
+          "options": ["Variables increase together", "Variables decrease together", "No relationship", "Inverse relationship"],
+          "correct_answer": "Variables increase together"
+        },
+        {
+          "question": "What is quantitative data?",
+          "options": ["Numerical data", "Non-numerical data", "Statistical data", "Graphical data"],
+          "correct_answer": "Numerical data"
+        },
+        {
+          "question": "What is a bar chart?",
+          "options": ["Rectangular graphical representation", "Circular graphical representation", "Linear graphical representation", "Tabular representation"],
+          "correct_answer": "Rectangular graphical representation"
+        },
+        {
+          "question": "What is the geometric mean?",
+          "options": ["nth root of product of values", "Sum of values", "Average of values", "Most frequent value"],
+          "correct_answer": "nth root of product of values"
+        },
+        {
+          "question": "What is coefficient of variation?",
+          "options": ["SD/Mean × 100", "Mean/SD × 100", "SD × Mean", "SD/Mean"],
+          "correct_answer": "SD/Mean × 100"
+        },
+        {
+          "question": "What is negative correlation?",
+          "options": ["Variables move in opposite directions", "Variables move together", "No relationship", "Direct relationship"],
+          "correct_answer": "Variables move in opposite directions"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Computer Applications in Pharmacy",
+      "topics": [
+        "Introduction to computers",
+        "Word processing",
+        "Spreadsheets",
+        "Database management",
+        "Statistical software"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a computer?",
+          "options": ["Electronic device for processing data", "Mechanical device", "Electrical device", "Manual device"],
+          "correct_answer": "Electronic device for processing data"
+        },
+        {
+          "question": "What is word processing?",
+          "options": ["Creating and editing documents", "Calculating numbers", "Managing databases", "Analyzing statistics"],
+          "correct_answer": "Creating and editing documents"
+        },
+        {
+          "question": "What is a spreadsheet?",
+          "options": ["Grid of cells for calculations", "Document editor", "Database manager", "Statistical analyzer"],
+          "correct_answer": "Grid of cells for calculations"
+        },
+        {
+          "question": "What is database management?",
+          "options": ["Organizing and managing data", "Creating documents", "Calculating numbers", "Analyzing statistics"],
+          "correct_answer": "Organizing and managing data"
+        },
+        {
+          "question": "What is statistical software used for?",
+          "options": ["Analyzing data", "Creating documents", "Managing databases", "Calculating numbers"],
+          "correct_answer": "Analyzing data"
+        },
+        {
+          "question": "What is hardware?",
+          "options": ["Physical components of computer", "Software programs", "Data", "Information"],
+          "correct_answer": "Physical components of computer"
+        },
+        {
+          "question": "What is software?",
+          "options": ["Programs and applications", "Physical components", "Data", "Information"],
+          "correct_answer": "Programs and applications"
+        },
+        {
+          "question": "What is a cell in a spreadsheet?",
+          "options": ["Intersection of row and column", "Document page", "Database record", "Statistical value"],
+          "correct_answer": "Intersection of row and column"
+        },
+        {
+          "question": "What is a record in a database?",
+          "options": ["Collection of related fields", "Single field", "Table", "Query"],
+          "correct_answer": "Collection of related fields"
+        },
+        {
+          "question": "What is statistical analysis?",
+          "options": ["Analyzing numerical data", "Creating documents", "Managing databases", "Calculating numbers"],
+          "correct_answer": "Analyzing numerical data"
+        },
+        {
+          "question": "What is an operating system?",
+          "options": ["Software that manages computer resources", "Hardware component", "Application program", "Database"],
+          "correct_answer": "Software that manages computer resources"
+        },
+        {
+          "question": "What is a formula in a spreadsheet?",
+          "options": ["Mathematical expression", "Text entry", "Database query", "Statistical test"],
+          "correct_answer": "Mathematical expression"
+        },
+        {
+          "question": "What is a field in a database?",
+          "options": ["Single piece of information", "Collection of records", "Table", "Query"],
+          "correct_answer": "Single piece of information"
+        },
+        {
+          "question": "What is a query in a database?",
+          "options": ["Request for information", "Data entry", "Table creation", "Record deletion"],
+          "correct_answer": "Request for information"
+        },
+        {
+          "question": "What is data visualization?",
+          "options": ["Graphical representation of data", "Data entry", "Data storage", "Data deletion"],
+          "correct_answer": "Graphical representation of data"
+        },
+        {
+          "question": "What is a network?",
+          "options": ["Connected computers", "Single computer", "Software program", "Database"],
+          "correct_answer": "Connected computers"
+        },
+        {
+          "question": "What is a function in a spreadsheet?",
+          "options": ["Predefined formula", "Text entry", "Database query", "Statistical test"],
+          "correct_answer": "Predefined formula"
+        },
+        {
+          "question": "What is a table in a database?",
+          "options": ["Collection of records", "Single record", "Field", "Query"],
+          "correct_answer": "Collection of records"
+        },
+        {
+          "question": "What is data mining?",
+          "options": ["Extracting patterns from data", "Entering data", "Storing data", "Deleting data"],
+          "correct_answer": "Extracting patterns from data"
+        },
+        {
+          "question": "What is cloud computing?",
+          "options": ["Internet-based computing", "Local computing", "Manual computing", "Paper-based computing"],
+          "correct_answer": "Internet-based computing"
+        }
+      ]
+    }
+  }
+} 

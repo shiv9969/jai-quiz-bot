@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP101T",
+  "subject_name": "Human Anatomy and Physiology I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Human Body",
+      "topics": [
+        "Definition and scope of anatomy and physiology",
+        "Levels of structural organization",
+        "Basic life processes",
+        "Homeostasis",
+        "Basic anatomical terminology"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the study of the structure of the human body called?",
+          "options": ["Anatomy", "Physiology", "Pathology", "Histology"],
+          "correct_answer": "Anatomy"
+        },
+        {
+          "question": "Which of the following is NOT a basic life process?",
+          "options": ["Metabolism", "Reproduction", "Growth", "Photosynthesis"],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "What is the maintenance of a stable internal environment called?",
+          "options": ["Homeostasis", "Metabolism", "Anabolism", "Catabolism"],
+          "correct_answer": "Homeostasis"
+        },
+        {
+          "question": "Which level of structural organization includes atoms and molecules?",
+          "options": ["Chemical level", "Cellular level", "Tissue level", "Organ level"],
+          "correct_answer": "Chemical level"
+        },
+        {
+          "question": "What is the basic unit of structure and function in the human body?",
+          "options": ["Cell", "Tissue", "Organ", "System"],
+          "correct_answer": "Cell"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of life?",
+          "options": ["Responsiveness", "Growth", "Reproduction", "Inorganic composition"],
+          "correct_answer": "Inorganic composition"
+        },
+        {
+          "question": "What is the term for the sum of all chemical processes in the body?",
+          "options": ["Metabolism", "Homeostasis", "Anabolism", "Catabolism"],
+          "correct_answer": "Metabolism"
+        },
+        {
+          "question": "Which of the following is an example of a positive feedback mechanism?",
+          "options": ["Blood clotting", "Body temperature regulation", "Blood glucose regulation", "Blood pressure regulation"],
+          "correct_answer": "Blood clotting"
+        },
+        {
+          "question": "What is the anatomical position?",
+          "options": ["Standing erect, facing forward, arms at sides, palms forward", "Lying down, facing up", "Standing erect, facing forward, arms crossed", "Lying down, facing down"],
+          "correct_answer": "Standing erect, facing forward, arms at sides, palms forward"
+        },
+        {
+          "question": "Which plane divides the body into right and left parts?",
+          "options": ["Sagittal plane", "Frontal plane", "Transverse plane", "Oblique plane"],
+          "correct_answer": "Sagittal plane"
+        },
+        {
+          "question": "What is the term for the front of the body?",
+          "options": ["Anterior", "Posterior", "Superior", "Inferior"],
+          "correct_answer": "Anterior"
+        },
+        {
+          "question": "Which of the following is NOT a body cavity?",
+          "options": ["Cranial cavity", "Thoracic cavity", "Abdominal cavity", "Cellular cavity"],
+          "correct_answer": "Cellular cavity"
+        },
+        {
+          "question": "What is the study of how body parts function called?",
+          "options": ["Physiology", "Anatomy", "Pathology", "Histology"],
+          "correct_answer": "Physiology"
+        },
+        {
+          "question": "Which of the following is an example of a negative feedback mechanism?",
+          "options": ["Body temperature regulation", "Blood clotting", "Childbirth", "Fever"],
+          "correct_answer": "Body temperature regulation"
+        },
+        {
+          "question": "What is the term for the back of the body?",
+          "options": ["Posterior", "Anterior", "Superior", "Inferior"],
+          "correct_answer": "Posterior"
+        },
+        {
+          "question": "Which plane divides the body into superior and inferior parts?",
+          "options": ["Transverse plane", "Sagittal plane", "Frontal plane", "Oblique plane"],
+          "correct_answer": "Transverse plane"
+        },
+        {
+          "question": "What is the term for the study of tissues?",
+          "options": ["Histology", "Anatomy", "Physiology", "Pathology"],
+          "correct_answer": "Histology"
+        },
+        {
+          "question": "Which of the following is NOT a body system?",
+          "options": ["Cellular system", "Nervous system", "Circulatory system", "Respiratory system"],
+          "correct_answer": "Cellular system"
+        },
+        {
+          "question": "What is the term for the study of disease?",
+          "options": ["Pathology", "Anatomy", "Physiology", "Histology"],
+          "correct_answer": "Pathology"
+        },
+        {
+          "question": "Which of the following is an example of a tissue?",
+          "options": ["Epithelial tissue", "Heart", "Brain", "Liver"],
+          "correct_answer": "Epithelial tissue"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Skeletal System",
+      "topics": [
+        "Bone structure and function",
+        "Types of bones",
+        "Axial skeleton",
+        "Appendicular skeleton",
+        "Joints and their types"
+      ],
+      "mcqs": [
+        {
+          "question": "How many bones are there in the adult human body?",
+          "options": ["206", "200", "210", "216"],
+          "correct_answer": "206"
+        },
+        {
+          "question": "Which of the following is NOT a function of the skeletal system?",
+          "options": ["Production of hormones", "Support", "Protection", "Movement"],
+          "correct_answer": "Production of hormones"
+        },
+        {
+          "question": "What is the shaft of a long bone called?",
+          "options": ["Diaphysis", "Epiphysis", "Metaphysis", "Periosteum"],
+          "correct_answer": "Diaphysis"
+        },
+        {
+          "question": "Which type of bone is the femur?",
+          "options": ["Long bone", "Short bone", "Flat bone", "Irregular bone"],
+          "correct_answer": "Long bone"
+        },
+        {
+          "question": "What is the soft tissue in the center of bones that produces blood cells?",
+          "options": ["Bone marrow", "Cartilage", "Periosteum", "Endosteum"],
+          "correct_answer": "Bone marrow"
+        },
+        {
+          "question": "Which of the following is part of the axial skeleton?",
+          "options": ["Skull", "Humerus", "Femur", "Radius"],
+          "correct_answer": "Skull"
+        },
+        {
+          "question": "What type of joint is the elbow?",
+          "options": ["Hinge joint", "Ball and socket joint", "Pivot joint", "Gliding joint"],
+          "correct_answer": "Hinge joint"
+        },
+        {
+          "question": "Which bone is commonly known as the collarbone?",
+          "options": ["Clavicle", "Scapula", "Sternum", "Humerus"],
+          "correct_answer": "Clavicle"
+        },
+        {
+          "question": "What is the largest bone in the human body?",
+          "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+          "correct_answer": "Femur"
+        },
+        {
+          "question": "Which of the following is NOT a type of bone cell?",
+          "options": ["Chondrocyte", "Osteoblast", "Osteocyte", "Osteoclast"],
+          "correct_answer": "Chondrocyte"
+        },
+        {
+          "question": "What is the term for the process of bone formation?",
+          "options": ["Ossification", "Calcification", "Mineralization", "Crystallization"],
+          "correct_answer": "Ossification"
+        },
+        {
+          "question": "Which of the following is a flat bone?",
+          "options": ["Sternum", "Femur", "Humerus", "Tibia"],
+          "correct_answer": "Sternum"
+        },
+        {
+          "question": "What is the term for the end of a long bone?",
+          "options": ["Epiphysis", "Diaphysis", "Metaphysis", "Periosteum"],
+          "correct_answer": "Epiphysis"
+        },
+        {
+          "question": "Which of the following is part of the appendicular skeleton?",
+          "options": ["Humerus", "Skull", "Vertebral column", "Ribs"],
+          "correct_answer": "Humerus"
+        },
+        {
+          "question": "What type of joint is the shoulder?",
+          "options": ["Ball and socket joint", "Hinge joint", "Pivot joint", "Gliding joint"],
+          "correct_answer": "Ball and socket joint"
+        },
+        {
+          "question": "Which bone is commonly known as the shoulder blade?",
+          "options": ["Scapula", "Clavicle", "Humerus", "Sternum"],
+          "correct_answer": "Scapula"
+        },
+        {
+          "question": "What is the smallest bone in the human body?",
+          "options": ["Stapes", "Malleus", "Incus", "Carpal"],
+          "correct_answer": "Stapes"
+        },
+        {
+          "question": "Which of the following is a function of the periosteum?",
+          "options": ["Bone growth and repair", "Blood cell production", "Mineral storage", "Hormone production"],
+          "correct_answer": "Bone growth and repair"
+        },
+        {
+          "question": "What is the term for the growth plate in bones?",
+          "options": ["Epiphyseal plate", "Diaphyseal plate", "Metaphyseal plate", "Periosteal plate"],
+          "correct_answer": "Epiphyseal plate"
+        },
+        {
+          "question": "Which of the following is an irregular bone?",
+          "options": ["Vertebra", "Femur", "Humerus", "Tibia"],
+          "correct_answer": "Vertebra"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Muscular System",
+      "topics": [
+        "Types of muscle tissue",
+        "Structure of skeletal muscle",
+        "Muscle contraction",
+        "Major muscles of the body",
+        "Muscle disorders"
+      ],
+      "mcqs": [
+        {
+          "question": "How many types of muscle tissue are there in the human body?",
+          "options": ["3", "2", "4", "5"],
+          "correct_answer": "3"
+        },
+        {
+          "question": "Which type of muscle tissue is voluntary?",
+          "options": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "All of the above"],
+          "correct_answer": "Skeletal muscle"
+        },
+        {
+          "question": "What is the basic unit of a muscle fiber?",
+          "options": ["Sarcomere", "Myofibril", "Myofilament", "Fascicle"],
+          "correct_answer": "Sarcomere"
+        },
+        {
+          "question": "Which protein is responsible for muscle contraction?",
+          "options": ["Actin and myosin", "Collagen", "Elastin", "Keratin"],
+          "correct_answer": "Actin and myosin"
+        },
+        {
+          "question": "What is the term for a single muscle cell?",
+          "options": ["Muscle fiber", "Myofibril", "Sarcomere", "Fascicle"],
+          "correct_answer": "Muscle fiber"
+        },
+        {
+          "question": "Which of the following is NOT a function of muscle tissue?",
+          "options": ["Production of hormones", "Movement", "Posture maintenance", "Heat production"],
+          "correct_answer": "Production of hormones"
+        },
+        {
+          "question": "What is the term for the point where a muscle attaches to a stationary bone?",
+          "options": ["Origin", "Insertion", "Belly", "Tendon"],
+          "correct_answer": "Origin"
+        },
+        {
+          "question": "Which of the following is the largest muscle in the human body?",
+          "options": ["Gluteus maximus", "Biceps brachii", "Quadriceps femoris", "Pectoralis major"],
+          "correct_answer": "Gluteus maximus"
+        },
+        {
+          "question": "What is the term for a group of muscle fibers?",
+          "options": ["Fascicle", "Sarcomere", "Myofibril", "Myofilament"],
+          "correct_answer": "Fascicle"
+        },
+        {
+          "question": "Which of the following is a characteristic of cardiac muscle?",
+          "options": ["Involuntary control", "Voluntary control", "No striations", "Single nucleus"],
+          "correct_answer": "Involuntary control"
+        },
+        {
+          "question": "What is the term for the connective tissue that surrounds a muscle?",
+          "options": ["Epimysium", "Perimysium", "Endomysium", "Fascia"],
+          "correct_answer": "Epimysium"
+        },
+        {
+          "question": "Which of the following is a function of smooth muscle?",
+          "options": ["Peristalsis", "Voluntary movement", "Pumping blood", "Maintaining posture"],
+          "correct_answer": "Peristalsis"
+        },
+        {
+          "question": "What is the term for the point where a muscle attaches to a moving bone?",
+          "options": ["Insertion", "Origin", "Belly", "Tendon"],
+          "correct_answer": "Insertion"
+        },
+        {
+          "question": "Which of the following is NOT a type of muscle contraction?",
+          "options": ["Isometric", "Isotonic", "Isokinetic", "Isomorphic"],
+          "correct_answer": "Isomorphic"
+        },
+        {
+          "question": "What is the term for the connective tissue that surrounds a fascicle?",
+          "options": ["Perimysium", "Epimysium", "Endomysium", "Fascia"],
+          "correct_answer": "Perimysium"
+        },
+        {
+          "question": "Which of the following is a characteristic of skeletal muscle?",
+          "options": ["Striated appearance", "Involuntary control", "Single nucleus", "No striations"],
+          "correct_answer": "Striated appearance"
+        },
+        {
+          "question": "What is the term for the connective tissue that surrounds a muscle fiber?",
+          "options": ["Endomysium", "Epimysium", "Perimysium", "Fascia"],
+          "correct_answer": "Endomysium"
+        },
+        {
+          "question": "Which of the following is NOT a major muscle group?",
+          "options": ["Cranial muscles", "Quadriceps", "Hamstrings", "Pectorals"],
+          "correct_answer": "Cranial muscles"
+        },
+        {
+          "question": "What is the term for the shortening of a muscle?",
+          "options": ["Contraction", "Relaxation", "Extension", "Flexion"],
+          "correct_answer": "Contraction"
+        },
+        {
+          "question": "Which of the following is a function of the muscular system?",
+          "options": ["All of the above", "Movement", "Posture maintenance", "Heat production"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Cardiovascular System",
+      "topics": [
+        "Heart structure and function",
+        "Blood vessels",
+        "Blood composition",
+        "Cardiac cycle",
+        "Blood pressure"
+      ],
+      "mcqs": [
+        {
+          "question": "How many chambers does the human heart have?",
+          "options": ["4", "2", "3", "5"],
+          "correct_answer": "4"
+        },
+        {
+          "question": "Which of the following is NOT a function of the cardiovascular system?",
+          "options": ["Production of hormones", "Transport of oxygen", "Transport of nutrients", "Removal of waste products"],
+          "correct_answer": "Production of hormones"
+        },
+        {
+          "question": "What is the largest artery in the human body?",
+          "options": ["Aorta", "Pulmonary artery", "Coronary artery", "Carotid artery"],
+          "correct_answer": "Aorta"
+        },
+        {
+          "question": "Which chamber of the heart receives oxygenated blood from the lungs?",
+          "options": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+          "correct_answer": "Left atrium"
+        },
+        {
+          "question": "What is the normal range for human heart rate?",
+          "options": ["60-100 bpm", "40-60 bpm", "100-140 bpm", "140-180 bpm"],
+          "correct_answer": "60-100 bpm"
+        },
+        {
+          "question": "Which of the following is NOT a component of blood?",
+          "options": ["Cartilage", "Red blood cells", "White blood cells", "Platelets"],
+          "correct_answer": "Cartilage"
+        },
+        {
+          "question": "What is the term for the contraction phase of the cardiac cycle?",
+          "options": ["Systole", "Diastole", "Atrial systole", "Ventricular diastole"],
+          "correct_answer": "Systole"
+        },
+        {
+          "question": "Which blood vessels carry blood away from the heart?",
+          "options": ["Arteries", "Veins", "Capillaries", "Venules"],
+          "correct_answer": "Arteries"
+        },
+        {
+          "question": "What is the function of red blood cells?",
+          "options": ["Transport oxygen", "Fight infection", "Blood clotting", "Hormone production"],
+          "correct_answer": "Transport oxygen"
+        },
+        {
+          "question": "Which of the following is NOT a type of blood vessel?",
+          "options": ["Lymphatic vessel", "Artery", "Vein", "Capillary"],
+          "correct_answer": "Lymphatic vessel"
+        },
+        {
+          "question": "What is the term for the relaxation phase of the cardiac cycle?",
+          "options": ["Diastole", "Systole", "Atrial systole", "Ventricular systole"],
+          "correct_answer": "Diastole"
+        },
+        {
+          "question": "Which chamber of the heart pumps blood to the lungs?",
+          "options": ["Right ventricle", "Left ventricle", "Right atrium", "Left atrium"],
+          "correct_answer": "Right ventricle"
+        },
+        {
+          "question": "What is the normal range for human blood pressure?",
+          "options": ["120/80 mmHg", "100/60 mmHg", "140/90 mmHg", "160/100 mmHg"],
+          "correct_answer": "120/80 mmHg"
+        },
+        {
+          "question": "Which of the following is a function of white blood cells?",
+          "options": ["Fight infection", "Transport oxygen", "Blood clotting", "Hormone production"],
+          "correct_answer": "Fight infection"
+        },
+        {
+          "question": "What is the term for the smallest blood vessels?",
+          "options": ["Capillaries", "Arterioles", "Venules", "Veins"],
+          "correct_answer": "Capillaries"
+        },
+        {
+          "question": "Which of the following is NOT a component of the cardiac conduction system?",
+          "options": ["Pulmonary valve", "SA node", "AV node", "Bundle of His"],
+          "correct_answer": "Pulmonary valve"
+        },
+        {
+          "question": "What is the function of platelets?",
+          "options": ["Blood clotting", "Transport oxygen", "Fight infection", "Hormone production"],
+          "correct_answer": "Blood clotting"
+        },
+        {
+          "question": "Which blood vessels carry blood toward the heart?",
+          "options": ["Veins", "Arteries", "Capillaries", "Arterioles"],
+          "correct_answer": "Veins"
+        },
+        {
+          "question": "What is the term for the pacemaker of the heart?",
+          "options": ["SA node", "AV node", "Bundle of His", "Purkinje fibers"],
+          "correct_answer": "SA node"
+        },
+        {
+          "question": "Which of the following is a function of the cardiovascular system?",
+          "options": ["All of the above", "Transport of oxygen", "Transport of nutrients", "Removal of waste products"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Respiratory System",
+      "topics": [
+        "Structure of respiratory system",
+        "Mechanics of breathing",
+        "Gas exchange",
+        "Transport of gases",
+        "Respiratory disorders"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary function of the respiratory system?",
+          "options": ["Gas exchange", "Hormone production", "Blood filtration", "Nutrient absorption"],
+          "correct_answer": "Gas exchange"
+        },
+        {
+          "question": "Which of the following is NOT part of the respiratory system?",
+          "options": ["Esophagus", "Trachea", "Bronchi", "Lungs"],
+          "correct_answer": "Esophagus"
+        },
+        {
+          "question": "What is the term for the process of breathing in?",
+          "options": ["Inspiration", "Expiration", "Respiration", "Ventilation"],
+          "correct_answer": "Inspiration"
+        },
+        {
+          "question": "Which of the following is the site of gas exchange in the lungs?",
+          "options": ["Alveoli", "Bronchi", "Trachea", "Pharynx"],
+          "correct_answer": "Alveoli"
+        },
+        {
+          "question": "What is the normal respiratory rate for adults?",
+          "options": ["12-20 breaths per minute", "8-12 breaths per minute", "20-30 breaths per minute", "30-40 breaths per minute"],
+          "correct_answer": "12-20 breaths per minute"
+        },
+        {
+          "question": "Which of the following is NOT a function of the respiratory system?",
+          "options": ["Production of hormones", "Gas exchange", "Acid-base balance", "Speech production"],
+          "correct_answer": "Production of hormones"
+        },
+        {
+          "question": "What is the term for the process of breathing out?",
+          "options": ["Expiration", "Inspiration", "Respiration", "Ventilation"],
+          "correct_answer": "Expiration"
+        },
+        {
+          "question": "Which of the following is the main muscle of respiration?",
+          "options": ["Diaphragm", "Intercostal muscles", "Abdominal muscles", "Pectoral muscles"],
+          "correct_answer": "Diaphragm"
+        },
+        {
+          "question": "What is the term for the volume of air moved in and out during normal breathing?",
+          "options": ["Tidal volume", "Vital capacity", "Residual volume", "Total lung capacity"],
+          "correct_answer": "Tidal volume"
+        },
+        {
+          "question": "Which of the following is NOT a part of the upper respiratory tract?",
+          "options": ["Bronchi", "Nose", "Pharynx", "Larynx"],
+          "correct_answer": "Bronchi"
+        },
+        {
+          "question": "What is the term for the maximum amount of air that can be exhaled after maximum inhalation?",
+          "options": ["Vital capacity", "Tidal volume", "Residual volume", "Total lung capacity"],
+          "correct_answer": "Vital capacity"
+        },
+        {
+          "question": "Which of the following is a function of the nasal cavity?",
+          "options": ["All of the above", "Warming air", "Filtering air", "Humidifying air"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the term for the volume of air remaining in the lungs after maximum exhalation?",
+          "options": ["Residual volume", "Tidal volume", "Vital capacity", "Total lung capacity"],
+          "correct_answer": "Residual volume"
+        },
+        {
+          "question": "Which of the following is NOT a respiratory disorder?",
+          "options": ["Diabetes", "Asthma", "Chronic bronchitis", "Emphysema"],
+          "correct_answer": "Diabetes"
+        },
+        {
+          "question": "What is the term for the total amount of air the lungs can hold?",
+          "options": ["Total lung capacity", "Vital capacity", "Tidal volume", "Residual volume"],
+          "correct_answer": "Total lung capacity"
+        },
+        {
+          "question": "Which of the following is a function of the respiratory system?",
+          "options": ["All of the above", "Gas exchange", "Acid-base balance", "Speech production"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the term for the movement of air in and out of the lungs?",
+          "options": ["Ventilation", "Respiration", "Inspiration", "Expiration"],
+          "correct_answer": "Ventilation"
+        },
+        {
+          "question": "Which of the following is NOT a part of the lower respiratory tract?",
+          "options": ["Pharynx", "Trachea", "Bronchi", "Lungs"],
+          "correct_answer": "Pharynx"
+        },
+        {
+          "question": "What is the term for the process of gas exchange between the lungs and blood?",
+          "options": ["External respiration", "Internal respiration", "Cellular respiration", "Pulmonary ventilation"],
+          "correct_answer": "External respiration"
+        },
+        {
+          "question": "Which of the following is a function of the respiratory system?",
+          "options": ["All of the above", "Gas exchange", "Acid-base balance", "Speech production"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    }
+  }
+} 

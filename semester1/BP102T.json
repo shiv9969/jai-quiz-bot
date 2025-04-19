@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP102T",
+  "subject_name": "Pharmaceutical Analysis I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Pharmaceutical Analysis",
+      "topics": [
+        "Definition and scope",
+        "Different techniques of analysis",
+        "Methods of expressing concentration",
+        "Primary and secondary standards",
+        "Sources of errors and their minimization"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of pharmaceutical analysis?",
+          "options": ["To ensure quality of drugs", "To discover new drugs", "To manufacture drugs", "To market drugs"],
+          "correct_answer": "To ensure quality of drugs"
+        },
+        {
+          "question": "Which of the following is NOT a technique of pharmaceutical analysis?",
+          "options": ["Drug discovery", "Titrimetry", "Gravimetry", "Spectrophotometry"],
+          "correct_answer": "Drug discovery"
+        },
+        {
+          "question": "What is the most common method of expressing concentration in pharmaceutical analysis?",
+          "options": ["Percentage", "Molarity", "Normality", "Molality"],
+          "correct_answer": "Percentage"
+        },
+        {
+          "question": "Which of the following is a primary standard?",
+          "options": ["Potassium dichromate", "Sodium hydroxide", "Hydrochloric acid", "Sulfuric acid"],
+          "correct_answer": "Potassium dichromate"
+        },
+        {
+          "question": "What is the main source of systematic error in analysis?",
+          "options": ["Faulty instruments", "Human error", "Environmental conditions", "Sample contamination"],
+          "correct_answer": "Faulty instruments"
+        },
+        {
+          "question": "Which of the following is NOT a type of titration?",
+          "options": ["Drug titration", "Acid-base titration", "Redox titration", "Complexometric titration"],
+          "correct_answer": "Drug titration"
+        },
+        {
+          "question": "What is the term for the substance being analyzed?",
+          "options": ["Analyte", "Titrant", "Indicator", "Standard"],
+          "correct_answer": "Analyte"
+        },
+        {
+          "question": "Which of the following is a characteristic of a primary standard?",
+          "options": ["High purity", "Low molecular weight", "High solubility", "Low stability"],
+          "correct_answer": "High purity"
+        },
+        {
+          "question": "What is the term for the point at which the reaction is complete in a titration?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is NOT a method of minimizing errors?",
+          "options": ["Ignoring outliers", "Calibration of instruments", "Use of standards", "Proper sampling"],
+          "correct_answer": "Ignoring outliers"
+        },
+        {
+          "question": "What is the term for the substance used to indicate the end point of a titration?",
+          "options": ["Indicator", "Analyte", "Titrant", "Standard"],
+          "correct_answer": "Indicator"
+        },
+        {
+          "question": "Which of the following is a secondary standard?",
+          "options": ["Sodium hydroxide", "Potassium dichromate", "Silver nitrate", "Oxalic acid"],
+          "correct_answer": "Sodium hydroxide"
+        },
+        {
+          "question": "What is the term for the solution of known concentration used in titration?",
+          "options": ["Standard solution", "Analyte solution", "Indicator solution", "Buffer solution"],
+          "correct_answer": "Standard solution"
+        },
+        {
+          "question": "Which of the following is NOT a type of error?",
+          "options": ["Standard error", "Systematic error", "Random error", "Gross error"],
+          "correct_answer": "Standard error"
+        },
+        {
+          "question": "What is the term for the process of determining the concentration of a solution?",
+          "options": ["Standardization", "Titration", "Analysis", "Calibration"],
+          "correct_answer": "Standardization"
+        },
+        {
+          "question": "Which of the following is a characteristic of a good indicator?",
+          "options": ["Sharp color change", "Slow color change", "No color change", "Multiple color changes"],
+          "correct_answer": "Sharp color change"
+        },
+        {
+          "question": "What is the term for the solution being added from the burette?",
+          "options": ["Titrant", "Analyte", "Indicator", "Standard"],
+          "correct_answer": "Titrant"
+        },
+        {
+          "question": "Which of the following is NOT a requirement for a primary standard?",
+          "options": ["Low cost", "High purity", "Stability", "High molecular weight"],
+          "correct_answer": "Low cost"
+        },
+        {
+          "question": "What is the term for the point at which the indicator changes color?",
+          "options": ["End point", "Equivalence point", "Neutral point", "Standard point"],
+          "correct_answer": "End point"
+        },
+        {
+          "question": "Which of the following is a method of expressing concentration?",
+          "options": ["All of the above", "Percentage", "Molarity", "Normality"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Acid-Base Titration",
+      "topics": [
+        "Theories of acids and bases",
+        "Acid-base indicators",
+        "Neutralization curves",
+        "Titration of strong acids and bases",
+        "Titration of weak acids and bases"
+      ],
+      "mcqs": [
+        {
+          "question": "According to Arrhenius theory, an acid is a substance that:",
+          "options": ["Donates H+ ions", "Accepts H+ ions", "Donates OH- ions", "Accepts OH- ions"],
+          "correct_answer": "Donates H+ ions"
+        },
+        {
+          "question": "Which of the following is NOT an acid-base indicator?",
+          "options": ["Potassium permanganate", "Phenolphthalein", "Methyl orange", "Bromothymol blue"],
+          "correct_answer": "Potassium permanganate"
+        },
+        {
+          "question": "What is the pH at the equivalence point in the titration of a strong acid with a strong base?",
+          "options": ["7", "Less than 7", "Greater than 7", "Depends on concentration"],
+          "correct_answer": "7"
+        },
+        {
+          "question": "Which of the following is a weak acid?",
+          "options": ["Acetic acid", "Hydrochloric acid", "Sulfuric acid", "Nitric acid"],
+          "correct_answer": "Acetic acid"
+        },
+        {
+          "question": "What is the term for the point where the pH changes rapidly in a titration curve?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Buffer point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is NOT a theory of acids and bases?",
+          "options": ["Molecular theory", "Arrhenius theory", "Bronsted-Lowry theory", "Lewis theory"],
+          "correct_answer": "Molecular theory"
+        },
+        {
+          "question": "What is the pH range for phenolphthalein indicator?",
+          "options": ["8.3-10.0", "3.1-4.4", "6.0-7.6", "4.2-6.3"],
+          "correct_answer": "8.3-10.0"
+        },
+        {
+          "question": "Which of the following is a strong base?",
+          "options": ["Sodium hydroxide", "Ammonia", "Calcium hydroxide", "Magnesium hydroxide"],
+          "correct_answer": "Sodium hydroxide"
+        },
+        {
+          "question": "What is the term for a solution that resists changes in pH?",
+          "options": ["Buffer solution", "Standard solution", "Indicator solution", "Titrant solution"],
+          "correct_answer": "Buffer solution"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of a good acid-base indicator?",
+          "options": ["High molecular weight", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "High molecular weight"
+        },
+        {
+          "question": "What is the pH at the equivalence point in the titration of a weak acid with a strong base?",
+          "options": ["Greater than 7", "7", "Less than 7", "Depends on concentration"],
+          "correct_answer": "Greater than 7"
+        },
+        {
+          "question": "Which of the following is a weak base?",
+          "options": ["Ammonia", "Sodium hydroxide", "Potassium hydroxide", "Calcium hydroxide"],
+          "correct_answer": "Ammonia"
+        },
+        {
+          "question": "What is the term for the region of a titration curve where pH changes slowly?",
+          "options": ["Buffer region", "Equivalence region", "Neutral region", "Standard region"],
+          "correct_answer": "Buffer region"
+        },
+        {
+          "question": "Which of the following is NOT a type of acid-base titration?",
+          "options": ["Complexometric titration", "Strong acid-strong base", "Weak acid-strong base", "Strong acid-weak base"],
+          "correct_answer": "Complexometric titration"
+        },
+        {
+          "question": "What is the pH range for methyl orange indicator?",
+          "options": ["3.1-4.4", "8.3-10.0", "6.0-7.6", "4.2-6.3"],
+          "correct_answer": "3.1-4.4"
+        },
+        {
+          "question": "Which of the following is a characteristic of a strong acid?",
+          "options": ["Complete dissociation", "Partial dissociation", "No dissociation", "Variable dissociation"],
+          "correct_answer": "Complete dissociation"
+        },
+        {
+          "question": "What is the term for the point where the indicator changes color in a titration?",
+          "options": ["End point", "Equivalence point", "Neutral point", "Buffer point"],
+          "correct_answer": "End point"
+        },
+        {
+          "question": "Which of the following is NOT a component of a buffer solution?",
+          "options": ["Indicator", "Weak acid", "Conjugate base", "Salt"],
+          "correct_answer": "Indicator"
+        },
+        {
+          "question": "What is the pH at the equivalence point in the titration of a weak base with a strong acid?",
+          "options": ["Less than 7", "7", "Greater than 7", "Depends on concentration"],
+          "correct_answer": "Less than 7"
+        },
+        {
+          "question": "Which of the following is a characteristic of acid-base indicators?",
+          "options": ["All of the above", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Redox Titration",
+      "topics": [
+        "Concepts of oxidation and reduction",
+        "Redox indicators",
+        "Redox titration curves",
+        "Titration of oxidizing agents",
+        "Titration of reducing agents"
+      ],
+      "mcqs": [
+        {
+          "question": "What is oxidation?",
+          "options": ["Loss of electrons", "Gain of electrons", "Loss of protons", "Gain of protons"],
+          "correct_answer": "Loss of electrons"
+        },
+        {
+          "question": "Which of the following is NOT a redox indicator?",
+          "options": ["Phenolphthalein", "Diphenylamine", "Ferroin", "Starch"],
+          "correct_answer": "Phenolphthalein"
+        },
+        {
+          "question": "What is the term for the substance that gains electrons?",
+          "options": ["Oxidizing agent", "Reducing agent", "Indicator", "Catalyst"],
+          "correct_answer": "Oxidizing agent"
+        },
+        {
+          "question": "Which of the following is a common oxidizing agent?",
+          "options": ["Potassium permanganate", "Sodium thiosulfate", "Oxalic acid", "Sodium oxalate"],
+          "correct_answer": "Potassium permanganate"
+        },
+        {
+          "question": "What is the term for the point where oxidation and reduction are complete?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is NOT a redox titration?",
+          "options": ["Acid-base titration", "Permanganometry", "Iodometry", "Dichrometry"],
+          "correct_answer": "Acid-base titration"
+        },
+        {
+          "question": "What is the term for the substance that loses electrons?",
+          "options": ["Reducing agent", "Oxidizing agent", "Indicator", "Catalyst"],
+          "correct_answer": "Reducing agent"
+        },
+        {
+          "question": "Which of the following is a common reducing agent?",
+          "options": ["Sodium thiosulfate", "Potassium permanganate", "Potassium dichromate", "Ceric sulfate"],
+          "correct_answer": "Sodium thiosulfate"
+        },
+        {
+          "question": "What is the term for the point where the indicator changes color in a redox titration?",
+          "options": ["End point", "Equivalence point", "Neutral point", "Standard point"],
+          "correct_answer": "End point"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of a good redox indicator?",
+          "options": ["High molecular weight", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "High molecular weight"
+        },
+        {
+          "question": "What is the term for the process of determining the concentration of an oxidizing agent?",
+          "options": ["Oxidimetry", "Reductimetry", "Acidimetry", "Alkalimetry"],
+          "correct_answer": "Oxidimetry"
+        },
+        {
+          "question": "Which of the following is a characteristic of potassium permanganate?",
+          "options": ["Deep purple color", "Colorless", "Yellow color", "Blue color"],
+          "correct_answer": "Deep purple color"
+        },
+        {
+          "question": "What is the term for the process of determining the concentration of a reducing agent?",
+          "options": ["Reductimetry", "Oxidimetry", "Acidimetry", "Alkalimetry"],
+          "correct_answer": "Reductimetry"
+        },
+        {
+          "question": "Which of the following is NOT a type of redox titration?",
+          "options": ["Complexometric titration", "Permanganometry", "Iodometry", "Dichrometry"],
+          "correct_answer": "Complexometric titration"
+        },
+        {
+          "question": "What is the term for the substance that changes color at the end point?",
+          "options": ["Indicator", "Analyte", "Titrant", "Standard"],
+          "correct_answer": "Indicator"
+        },
+        {
+          "question": "Which of the following is a characteristic of a good oxidizing agent?",
+          "options": ["High oxidation potential", "Low oxidation potential", "No oxidation potential", "Variable oxidation potential"],
+          "correct_answer": "High oxidation potential"
+        },
+        {
+          "question": "What is the term for the point where the oxidation state changes?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is NOT a component of a redox titration?",
+          "options": ["Buffer solution", "Oxidizing agent", "Reducing agent", "Indicator"],
+          "correct_answer": "Buffer solution"
+        },
+        {
+          "question": "What is the term for the process of determining the concentration of a substance by redox titration?",
+          "options": ["Redox titration", "Acid-base titration", "Complexometric titration", "Precipitation titration"],
+          "correct_answer": "Redox titration"
+        },
+        {
+          "question": "Which of the following is a characteristic of redox indicators?",
+          "options": ["All of the above", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Precipitation Titration",
+      "topics": [
+        "Theory of precipitation",
+        "Precipitation indicators",
+        "Precipitation titration curves",
+        "Argentometric titrations",
+        "Complexometric titrations"
+      ],
+      "mcqs": [
+        {
+          "question": "What is precipitation?",
+          "options": ["Formation of an insoluble solid", "Formation of a soluble solid", "Formation of a gas", "Formation of a liquid"],
+          "correct_answer": "Formation of an insoluble solid"
+        },
+        {
+          "question": "Which of the following is NOT a precipitation indicator?",
+          "options": ["Phenolphthalein", "Potassium chromate", "Fluorescein", "Eosin"],
+          "correct_answer": "Phenolphthalein"
+        },
+        {
+          "question": "What is the term for the point where precipitation is complete?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is a common precipitating agent?",
+          "options": ["Silver nitrate", "Sodium hydroxide", "Hydrochloric acid", "Sulfuric acid"],
+          "correct_answer": "Silver nitrate"
+        },
+        {
+          "question": "What is the term for the point where the indicator changes color in a precipitation titration?",
+          "options": ["End point", "Equivalence point", "Neutral point", "Standard point"],
+          "correct_answer": "End point"
+        },
+        {
+          "question": "Which of the following is NOT a precipitation titration?",
+          "options": ["Acid-base titration", "Argentometric titration", "Complexometric titration", "Mohr's method"],
+          "correct_answer": "Acid-base titration"
+        },
+        {
+          "question": "What is the term for the substance that forms the precipitate?",
+          "options": ["Precipitating agent", "Analyte", "Indicator", "Standard"],
+          "correct_answer": "Precipitating agent"
+        },
+        {
+          "question": "Which of the following is a characteristic of a good precipitating agent?",
+          "options": ["Forms insoluble precipitate", "Forms soluble precipitate", "No precipitate formation", "Variable precipitate formation"],
+          "correct_answer": "Forms insoluble precipitate"
+        },
+        {
+          "question": "What is the term for the process of determining the concentration of a substance by precipitation?",
+          "options": ["Precipitation titration", "Acid-base titration", "Redox titration", "Complexometric titration"],
+          "correct_answer": "Precipitation titration"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of a good precipitation indicator?",
+          "options": ["High molecular weight", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "High molecular weight"
+        },
+        {
+          "question": "What is the term for the substance that changes color at the end point?",
+          "options": ["Indicator", "Analyte", "Titrant", "Standard"],
+          "correct_answer": "Indicator"
+        },
+        {
+          "question": "Which of the following is a characteristic of silver nitrate?",
+          "options": ["Forms white precipitate with chloride", "Forms colored precipitate", "No precipitate formation", "Variable precipitate formation"],
+          "correct_answer": "Forms white precipitate with chloride"
+        },
+        {
+          "question": "What is the term for the point where the precipitation starts?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is NOT a type of precipitation titration?",
+          "options": ["Acid-base titration", "Argentometric titration", "Complexometric titration", "Mohr's method"],
+          "correct_answer": "Acid-base titration"
+        },
+        {
+          "question": "What is the term for the substance being precipitated?",
+          "options": ["Analyte", "Precipitating agent", "Indicator", "Standard"],
+          "correct_answer": "Analyte"
+        },
+        {
+          "question": "Which of the following is a characteristic of a good precipitation reaction?",
+          "options": ["Quantitative", "Qualitative", "Variable", "Unpredictable"],
+          "correct_answer": "Quantitative"
+        },
+        {
+          "question": "What is the term for the process of determining chloride by precipitation?",
+          "options": ["Argentometric titration", "Acid-base titration", "Redox titration", "Complexometric titration"],
+          "correct_answer": "Argentometric titration"
+        },
+        {
+          "question": "Which of the following is NOT a component of a precipitation titration?",
+          "options": ["Buffer solution", "Precipitating agent", "Analyte", "Indicator"],
+          "correct_answer": "Buffer solution"
+        },
+        {
+          "question": "What is the term for the point where the precipitation is complete?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is a characteristic of precipitation indicators?",
+          "options": ["All of the above", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Complexometric Titration",
+      "topics": [
+        "Complex formation",
+        "Complexometric indicators",
+        "Complexometric titration curves",
+        "EDTA titrations",
+        "Applications of complexometric titrations"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a complex?",
+          "options": ["A compound formed by coordination", "A simple compound", "An element", "A mixture"],
+          "correct_answer": "A compound formed by coordination"
+        },
+        {
+          "question": "Which of the following is NOT a complexometric indicator?",
+          "options": ["Phenolphthalein", "Eriochrome Black T", "Murexide", "Calmagite"],
+          "correct_answer": "Phenolphthalein"
+        },
+        {
+          "question": "What is the term for the point where complex formation is complete?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is a common complexing agent?",
+          "options": ["EDTA", "Sodium hydroxide", "Hydrochloric acid", "Sulfuric acid"],
+          "correct_answer": "EDTA"
+        },
+        {
+          "question": "What is the term for the point where the indicator changes color in a complexometric titration?",
+          "options": ["End point", "Equivalence point", "Neutral point", "Standard point"],
+          "correct_answer": "End point"
+        },
+        {
+          "question": "Which of the following is NOT a complexometric titration?",
+          "options": ["Acid-base titration", "EDTA titration", "Calcium determination", "Magnesium determination"],
+          "correct_answer": "Acid-base titration"
+        },
+        {
+          "question": "What is the term for the substance that forms the complex?",
+          "options": ["Complexing agent", "Analyte", "Indicator", "Standard"],
+          "correct_answer": "Complexing agent"
+        },
+        {
+          "question": "Which of the following is a characteristic of a good complexing agent?",
+          "options": ["Forms stable complexes", "Forms unstable complexes", "No complex formation", "Variable complex formation"],
+          "correct_answer": "Forms stable complexes"
+        },
+        {
+          "question": "What is the term for the process of determining the concentration of a metal ion?",
+          "options": ["Complexometric titration", "Acid-base titration", "Redox titration", "Precipitation titration"],
+          "correct_answer": "Complexometric titration"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of a good complexometric indicator?",
+          "options": ["High molecular weight", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "High molecular weight"
+        },
+        {
+          "question": "What is the term for the substance that changes color at the end point?",
+          "options": ["Indicator", "Analyte", "Titrant", "Standard"],
+          "correct_answer": "Indicator"
+        },
+        {
+          "question": "Which of the following is a characteristic of EDTA?",
+          "options": ["Hexadentate ligand", "Monodentate ligand", "Bidentate ligand", "Tridentate ligand"],
+          "correct_answer": "Hexadentate ligand"
+        },
+        {
+          "question": "What is the term for the point where complex formation starts?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is NOT a type of complexometric titration?",
+          "options": ["Acid-base titration", "EDTA titration", "Calcium determination", "Magnesium determination"],
+          "correct_answer": "Acid-base titration"
+        },
+        {
+          "question": "What is the term for the metal ion being determined?",
+          "options": ["Analyte", "Complexing agent", "Indicator", "Standard"],
+          "correct_answer": "Analyte"
+        },
+        {
+          "question": "Which of the following is a characteristic of a good complexometric reaction?",
+          "options": ["Quantitative", "Qualitative", "Variable", "Unpredictable"],
+          "correct_answer": "Quantitative"
+        },
+        {
+          "question": "What is the term for the process of determining calcium by complexometry?",
+          "options": ["EDTA titration", "Acid-base titration", "Redox titration", "Precipitation titration"],
+          "correct_answer": "EDTA titration"
+        },
+        {
+          "question": "Which of the following is NOT a component of a complexometric titration?",
+          "options": ["Buffer solution", "Complexing agent", "Analyte", "Indicator"],
+          "correct_answer": "Buffer solution"
+        },
+        {
+          "question": "What is the term for the point where complex formation is complete?",
+          "options": ["Equivalence point", "End point", "Neutral point", "Standard point"],
+          "correct_answer": "Equivalence point"
+        },
+        {
+          "question": "Which of the following is a characteristic of complexometric indicators?",
+          "options": ["All of the above", "Sharp color change", "Good solubility", "Stability"],
+          "correct_answer": "All of the above"
+        }
+      ]
+    }
+  }
+} 

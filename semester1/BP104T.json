@@ -1,0 +1,742 @@
+{
+  "subject_code": "BP104T",
+  "subject_name": "Pharmaceutical Organic Chemistry I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Classification, Nomenclature and Isomerism",
+      "topics": [
+        "Classification of organic compounds",
+        "IUPAC nomenclature",
+        "Structural isomerism",
+        "Stereoisomerism",
+        "Conformational isomerism"
+      ],
+      "mcqs": [
+        {
+          "question": "Which of the following is NOT a classification of organic compounds?",
+          "options": ["Inorganic compounds", "Aliphatic compounds", "Aromatic compounds", "Heterocyclic compounds"],
+          "correct_answer": "Inorganic compounds"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-CH2-CH3?",
+          "options": ["Butane", "Propane", "Pentane", "Hexane"],
+          "correct_answer": "Butane"
+        },
+        {
+          "question": "Which of the following is an example of structural isomerism?",
+          "options": ["n-Butane and isobutane", "D-glucose and L-glucose", "Cis-2-butene and trans-2-butene", "Chair and boat forms of cyclohexane"],
+          "correct_answer": "n-Butane and isobutane"
+        },
+        {
+          "question": "What type of isomerism is shown by cis-2-butene and trans-2-butene?",
+          "options": ["Geometrical isomerism", "Structural isomerism", "Optical isomerism", "Conformational isomerism"],
+          "correct_answer": "Geometrical isomerism"
+        },
+        {
+          "question": "Which of the following is NOT a type of stereoisomerism?",
+          "options": ["Chain isomerism", "Geometrical isomerism", "Optical isomerism", "Conformational isomerism"],
+          "correct_answer": "Chain isomerism"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-CH2-OH?",
+          "options": ["1-Propanol", "2-Propanol", "1-Butanol", "2-Butanol"],
+          "correct_answer": "1-Propanol"
+        },
+        {
+          "question": "Which of the following is an example of optical isomerism?",
+          "options": ["D-glucose and L-glucose", "n-Butane and isobutane", "Cis-2-butene and trans-2-butene", "Chair and boat forms of cyclohexane"],
+          "correct_answer": "D-glucose and L-glucose"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-CHO?",
+          "options": ["Propanal", "Butanal", "Propanone", "Butanone"],
+          "correct_answer": "Propanal"
+        },
+        {
+          "question": "Which of the following is an example of conformational isomerism?",
+          "options": ["Chair and boat forms of cyclohexane", "n-Butane and isobutane", "Cis-2-butene and trans-2-butene", "D-glucose and L-glucose"],
+          "correct_answer": "Chair and boat forms of cyclohexane"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CO-CH3?",
+          "options": ["Propanone", "Butanone", "Propanal", "Butanal"],
+          "correct_answer": "Propanone"
+        },
+        {
+          "question": "Which of the following is NOT a type of structural isomerism?",
+          "options": ["Optical isomerism", "Chain isomerism", "Position isomerism", "Functional isomerism"],
+          "correct_answer": "Optical isomerism"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-COOH?",
+          "options": ["Propanoic acid", "Butanoic acid", "Ethanoic acid", "Methanoic acid"],
+          "correct_answer": "Propanoic acid"
+        },
+        {
+          "question": "Which of the following is an example of functional isomerism?",
+          "options": ["Ethanol and dimethyl ether", "n-Butane and isobutane", "Cis-2-butene and trans-2-butene", "D-glucose and L-glucose"],
+          "correct_answer": "Ethanol and dimethyl ether"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-NH2?",
+          "options": ["Ethanamine", "Propanamine", "Methanamine", "Butanamine"],
+          "correct_answer": "Ethanamine"
+        },
+        {
+          "question": "Which of the following is NOT a type of isomerism?",
+          "options": ["Chemical isomerism", "Structural isomerism", "Stereoisomerism", "Conformational isomerism"],
+          "correct_answer": "Chemical isomerism"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-CH2-CH2-CH3?",
+          "options": ["Pentane", "Butane", "Hexane", "Heptane"],
+          "correct_answer": "Pentane"
+        },
+        {
+          "question": "Which of the following is an example of position isomerism?",
+          "options": ["1-Propanol and 2-propanol", "n-Butane and isobutane", "Cis-2-butene and trans-2-butene", "D-glucose and L-glucose"],
+          "correct_answer": "1-Propanol and 2-propanol"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-CH2-CH2-OH?",
+          "options": ["1-Butanol", "2-Butanol", "1-Propanol", "2-Propanol"],
+          "correct_answer": "1-Butanol"
+        },
+        {
+          "question": "Which of the following is NOT a type of stereoisomerism?",
+          "options": ["Chain isomerism", "Geometrical isomerism", "Optical isomerism", "Conformational isomerism"],
+          "correct_answer": "Chain isomerism"
+        },
+        {
+          "question": "What is the IUPAC name for CH3-CH2-CH2-CHO?",
+          "options": ["Butanal", "Propanal", "Butanone", "Propanone"],
+          "correct_answer": "Butanal"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Aliphatic Hydrocarbons",
+      "topics": [
+        "Alkanes",
+        "Alkenes",
+        "Alkynes",
+        "Cycloalkanes",
+        "Chemical properties"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the general formula for alkanes?",
+          "options": ["CnH2n+2", "CnH2n", "CnH2n-2", "CnH2n-4"],
+          "correct_answer": "CnH2n+2"
+        },
+        {
+          "question": "Which of the following is NOT a property of alkanes?",
+          "options": ["High reactivity", "Low reactivity", "Non-polar", "Insoluble in water"],
+          "correct_answer": "High reactivity"
+        },
+        {
+          "question": "What is the general formula for alkenes?",
+          "options": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnH2n-4"],
+          "correct_answer": "CnH2n"
+        },
+        {
+          "question": "Which of the following is a characteristic reaction of alkenes?",
+          "options": ["Addition reactions", "Substitution reactions", "Elimination reactions", "Rearrangement reactions"],
+          "correct_answer": "Addition reactions"
+        },
+        {
+          "question": "What is the general formula for alkynes?",
+          "options": ["CnH2n-2", "CnH2n+2", "CnH2n", "CnH2n-4"],
+          "correct_answer": "CnH2n-2"
+        },
+        {
+          "question": "Which of the following is NOT a property of alkynes?",
+          "options": ["Low acidity", "High acidity", "Triple bond", "Unsaturated"],
+          "correct_answer": "Low acidity"
+        },
+        {
+          "question": "What is the general formula for cycloalkanes?",
+          "options": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnH2n-4"],
+          "correct_answer": "CnH2n"
+        },
+        {
+          "question": "Which of the following is NOT a property of cycloalkanes?",
+          "options": ["High reactivity", "Low reactivity", "Non-polar", "Insoluble in water"],
+          "correct_answer": "High reactivity"
+        },
+        {
+          "question": "What is the term for the process of breaking down alkanes into smaller molecules?",
+          "options": ["Cracking", "Reforming", "Isomerization", "Polymerization"],
+          "correct_answer": "Cracking"
+        },
+        {
+          "question": "Which of the following is NOT a type of addition reaction?",
+          "options": ["Substitution", "Hydrogenation", "Halogenation", "Hydration"],
+          "correct_answer": "Substitution"
+        },
+        {
+          "question": "What is the term for the process of converting alkanes into branched-chain isomers?",
+          "options": ["Isomerization", "Cracking", "Reforming", "Polymerization"],
+          "correct_answer": "Isomerization"
+        },
+        {
+          "question": "Which of the following is NOT a type of elimination reaction?",
+          "options": ["Addition", "Dehydration", "Dehydrohalogenation", "Dehalogenation"],
+          "correct_answer": "Addition"
+        },
+        {
+          "question": "What is the term for the process of converting alkanes into aromatic compounds?",
+          "options": ["Reforming", "Cracking", "Isomerization", "Polymerization"],
+          "correct_answer": "Reforming"
+        },
+        {
+          "question": "Which of the following is NOT a type of substitution reaction?",
+          "options": ["Addition", "Halogenation", "Nitration", "Sulfonation"],
+          "correct_answer": "Addition"
+        },
+        {
+          "question": "What is the term for the process of joining small molecules to form large molecules?",
+          "options": ["Polymerization", "Cracking", "Reforming", "Isomerization"],
+          "correct_answer": "Polymerization"
+        },
+        {
+          "question": "Which of the following is NOT a property of alkenes?",
+          "options": ["Saturated", "Unsaturated", "Reactive", "Can undergo addition reactions"],
+          "correct_answer": "Saturated"
+        },
+        {
+          "question": "What is the term for the process of adding hydrogen to unsaturated compounds?",
+          "options": ["Hydrogenation", "Halogenation", "Hydration", "Hydrohalogenation"],
+          "correct_answer": "Hydrogenation"
+        },
+        {
+          "question": "Which of the following is NOT a property of alkynes?",
+          "options": ["Saturated", "Unsaturated", "Reactive", "Can undergo addition reactions"],
+          "correct_answer": "Saturated"
+        },
+        {
+          "question": "What is the term for the process of adding water to unsaturated compounds?",
+          "options": ["Hydration", "Hydrogenation", "Halogenation", "Hydrohalogenation"],
+          "correct_answer": "Hydration"
+        },
+        {
+          "question": "Which of the following is NOT a property of cycloalkanes?",
+          "options": ["Linear structure", "Cyclic structure", "Non-polar", "Insoluble in water"],
+          "correct_answer": "Linear structure"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Aromatic Hydrocarbons",
+      "topics": [
+        "Benzene and its derivatives",
+        "Aromaticity",
+        "Electrophilic substitution",
+        "Nucleophilic substitution",
+        "Chemical properties"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the molecular formula of benzene?",
+          "options": ["C6H6", "C6H12", "C6H10", "C6H8"],
+          "correct_answer": "C6H6"
+        },
+        {
+          "question": "Which of the following is NOT a property of benzene?",
+          "options": ["High reactivity", "Low reactivity", "Stable", "Aromatic"],
+          "correct_answer": "High reactivity"
+        },
+        {
+          "question": "What is the term for the special stability of benzene?",
+          "options": ["Aromaticity", "Aliphaticity", "Cyclicity", "Linearity"],
+          "correct_answer": "Aromaticity"
+        },
+        {
+          "question": "Which of the following is NOT a criterion for aromaticity?",
+          "options": ["Linear structure", "Cyclic structure", "Planar structure", "Conjugated system"],
+          "correct_answer": "Linear structure"
+        },
+        {
+          "question": "What is the term for the substitution of an electrophile in benzene?",
+          "options": ["Electrophilic substitution", "Nucleophilic substitution", "Free radical substitution", "Elimination"],
+          "correct_answer": "Electrophilic substitution"
+        },
+        {
+          "question": "Which of the following is NOT an electrophilic substitution reaction?",
+          "options": ["Nucleophilic substitution", "Nitration", "Halogenation", "Sulfonation"],
+          "correct_answer": "Nucleophilic substitution"
+        },
+        {
+          "question": "What is the term for the substitution of a nucleophile in benzene?",
+          "options": ["Nucleophilic substitution", "Electrophilic substitution", "Free radical substitution", "Elimination"],
+          "correct_answer": "Nucleophilic substitution"
+        },
+        {
+          "question": "Which of the following is NOT a nucleophilic substitution reaction?",
+          "options": ["Electrophilic substitution", "Nucleophilic aromatic substitution", "Benzyne mechanism", "Elimination-addition mechanism"],
+          "correct_answer": "Electrophilic substitution"
+        },
+        {
+          "question": "What is the term for the process of adding a nitro group to benzene?",
+          "options": ["Nitration", "Halogenation", "Sulfonation", "Alkylation"],
+          "correct_answer": "Nitration"
+        },
+        {
+          "question": "Which of the following is NOT a property of aromatic compounds?",
+          "options": ["High reactivity", "Low reactivity", "Stable", "Aromatic"],
+          "correct_answer": "High reactivity"
+        },
+        {
+          "question": "What is the term for the process of adding a halogen to benzene?",
+          "options": ["Halogenation", "Nitration", "Sulfonation", "Alkylation"],
+          "correct_answer": "Halogenation"
+        },
+        {
+          "question": "Which of the following is NOT a property of benzene derivatives?",
+          "options": ["High reactivity", "Low reactivity", "Stable", "Aromatic"],
+          "correct_answer": "High reactivity"
+        },
+        {
+          "question": "What is the term for the process of adding a sulfonic acid group to benzene?",
+          "options": ["Sulfonation", "Nitration", "Halogenation", "Alkylation"],
+          "correct_answer": "Sulfonation"
+        },
+        {
+          "question": "Which of the following is NOT a property of aromatic hydrocarbons?",
+          "options": ["High reactivity", "Low reactivity", "Stable", "Aromatic"],
+          "correct_answer": "High reactivity"
+        },
+        {
+          "question": "What is the term for the process of adding an alkyl group to benzene?",
+          "options": ["Alkylation", "Nitration", "Halogenation", "Sulfonation"],
+          "correct_answer": "Alkylation"
+        },
+        {
+          "question": "Which of the following is NOT a type of electrophilic substitution?",
+          "options": ["Nucleophilic substitution", "Nitration", "Halogenation", "Sulfonation"],
+          "correct_answer": "Nucleophilic substitution"
+        },
+        {
+          "question": "What is the term for the process of adding an acyl group to benzene?",
+          "options": ["Acylation", "Nitration", "Halogenation", "Sulfonation"],
+          "correct_answer": "Acylation"
+        },
+        {
+          "question": "Which of the following is NOT a type of nucleophilic substitution?",
+          "options": ["Electrophilic substitution", "Nucleophilic aromatic substitution", "Benzyne mechanism", "Elimination-addition mechanism"],
+          "correct_answer": "Electrophilic substitution"
+        },
+        {
+          "question": "What is the term for the process of removing a substituent from benzene?",
+          "options": ["Dealkylation", "Denitration", "Dehalogenation", "Desulfonation"],
+          "correct_answer": "Dealkylation"
+        },
+        {
+          "question": "Which of the following is NOT a property of aromatic systems?",
+          "options": ["High reactivity", "Low reactivity", "Stable", "Aromatic"],
+          "correct_answer": "High reactivity"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Alcohols, Phenols and Ethers",
+      "topics": [
+        "Classification and nomenclature",
+        "Preparation methods",
+        "Physical properties",
+        "Chemical properties",
+        "Reactions and uses"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the functional group of alcohols?",
+          "options": ["-OH", "-COOH", "-CHO", "-CO-"],
+          "correct_answer": "-OH"
+        },
+        {
+          "question": "Which of the following is NOT a classification of alcohols?",
+          "options": ["Quaternary alcohol", "Primary alcohol", "Secondary alcohol", "Tertiary alcohol"],
+          "correct_answer": "Quaternary alcohol"
+        },
+        {
+          "question": "What is the functional group of phenols?",
+          "options": ["-OH", "-COOH", "-CHO", "-CO-"],
+          "correct_answer": "-OH"
+        },
+        {
+          "question": "Which of the following is NOT a property of alcohols?",
+          "options": ["Non-polar", "Polar", "Can form hydrogen bonds", "Soluble in water"],
+          "correct_answer": "Non-polar"
+        },
+        {
+          "question": "What is the functional group of ethers?",
+          "options": ["-O-", "-OH", "-COOH", "-CHO"],
+          "correct_answer": "-O-"
+        },
+        {
+          "question": "Which of the following is NOT a property of phenols?",
+          "options": ["Non-polar", "Polar", "Can form hydrogen bonds", "Soluble in water"],
+          "correct_answer": "Non-polar"
+        },
+        {
+          "question": "What is the term for the process of converting alcohols to alkenes?",
+          "options": ["Dehydration", "Hydration", "Oxidation", "Reduction"],
+          "correct_answer": "Dehydration"
+        },
+        {
+          "question": "Which of the following is NOT a property of ethers?",
+          "options": ["Highly reactive", "Less reactive", "Non-polar", "Insoluble in water"],
+          "correct_answer": "Highly reactive"
+        },
+        {
+          "question": "What is the term for the process of converting alcohols to aldehydes or ketones?",
+          "options": ["Oxidation", "Reduction", "Dehydration", "Hydration"],
+          "correct_answer": "Oxidation"
+        },
+        {
+          "question": "Which of the following is NOT a preparation method for alcohols?",
+          "options": ["Dehydration", "Hydration of alkenes", "Reduction of carbonyl compounds", "Grignard reaction"],
+          "correct_answer": "Dehydration"
+        },
+        {
+          "question": "What is the term for the process of converting phenols to ethers?",
+          "options": ["Williamson synthesis", "Dehydration", "Oxidation", "Reduction"],
+          "correct_answer": "Williamson synthesis"
+        },
+        {
+          "question": "Which of the following is NOT a preparation method for phenols?",
+          "options": ["Dehydration", "Diazotization", "Cumene process", "Dow process"],
+          "correct_answer": "Dehydration"
+        },
+        {
+          "question": "What is the term for the process of converting ethers to alcohols?",
+          "options": ["Cleavage", "Dehydration", "Oxidation", "Reduction"],
+          "correct_answer": "Cleavage"
+        },
+        {
+          "question": "Which of the following is NOT a preparation method for ethers?",
+          "options": ["Dehydration", "Williamson synthesis", "Alkoxymercuration-demercuration", "Acid-catalyzed dehydration"],
+          "correct_answer": "Dehydration"
+        },
+        {
+          "question": "What is the term for the process of converting alcohols to alkyl halides?",
+          "options": ["Halogenation", "Dehydration", "Oxidation", "Reduction"],
+          "correct_answer": "Halogenation"
+        },
+        {
+          "question": "Which of the following is NOT a reaction of alcohols?",
+          "options": ["Polymerization", "Dehydration", "Oxidation", "Esterification"],
+          "correct_answer": "Polymerization"
+        },
+        {
+          "question": "What is the term for the process of converting phenols to esters?",
+          "options": ["Esterification", "Dehydration", "Oxidation", "Reduction"],
+          "correct_answer": "Esterification"
+        },
+        {
+          "question": "Which of the following is NOT a reaction of phenols?",
+          "options": ["Dehydration", "Esterification", "Oxidation", "Electrophilic substitution"],
+          "correct_answer": "Dehydration"
+        },
+        {
+          "question": "What is the term for the process of converting ethers to alkyl halides?",
+          "options": ["Cleavage", "Dehydration", "Oxidation", "Reduction"],
+          "correct_answer": "Cleavage"
+        },
+        {
+          "question": "Which of the following is NOT a reaction of ethers?",
+          "options": ["Polymerization", "Cleavage", "Oxidation", "Formation of peroxides"],
+          "correct_answer": "Polymerization"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Aldehydes and Ketones",
+      "topics": [
+        "Nomenclature and structure",
+        "Preparation methods",
+        "Physical properties",
+        "Chemical properties",
+        "Reactions and uses"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the functional group of aldehydes?",
+          "options": ["-CHO", "-COOH", "-OH", "-CO-"],
+          "correct_answer": "-CHO"
+        },
+        {
+          "question": "Which of the following is NOT a property of aldehydes?",
+          "options": ["Non-polar", "Polar", "Can form hydrogen bonds", "Soluble in water"],
+          "correct_answer": "Non-polar"
+        },
+        {
+          "question": "What is the functional group of ketones?",
+          "options": ["-CO-", "-CHO", "-COOH", "-OH"],
+          "correct_answer": "-CO-"
+        },
+        {
+          "question": "Which of the following is NOT a property of ketones?",
+          "options": ["Non-polar", "Polar", "Can form hydrogen bonds", "Soluble in water"],
+          "correct_answer": "Non-polar"
+        },
+        {
+          "question": "What is the term for the process of converting aldehydes to alcohols?",
+          "options": ["Reduction", "Oxidation", "Dehydration", "Hydration"],
+          "correct_answer": "Reduction"
+        },
+        {
+          "question": "Which of the following is NOT a preparation method for aldehydes?",
+          "options": ["Dehydration", "Oxidation of primary alcohols", "Ozonolysis of alkenes", "Reduction of acid chlorides"],
+          "correct_answer": "Dehydration"
+        },
+        {
+          "question": "What is the term for the process of converting ketones to alcohols?",
+          "options": ["Reduction", "Oxidation", "Dehydration", "Hydration"],
+          "correct_answer": "Reduction"
+        },
+        {
+          "question": "Which of the following is NOT a preparation method for ketones?",
+          "options": ["Dehydration", "Oxidation of secondary alcohols", "Friedel-Crafts acylation", "Ozonolysis of alkenes"],
+          "correct_answer": "Dehydration"
+        },
+        {
+          "question": "What is the term for the process of converting aldehydes to carboxylic acids?",
+          "options": ["Oxidation", "Reduction", "Dehydration", "Hydration"],
+          "correct_answer": "Oxidation"
+        },
+        {
+          "question": "Which of the following is NOT a reaction of aldehydes?",
+          "options": ["Polymerization", "Reduction", "Oxidation", "Nucleophilic addition"],
+          "correct_answer": "Polymerization"
+        },
+        {
+          "question": "What is the term for the process of converting ketones to secondary alcohols?",
+          "options": ["Reduction", "Oxidation", "Dehydration", "Hydration"],
+          "correct_answer": "Reduction"
+        },
+        {
+          "question": "Which of the following is NOT a reaction of ketones?",
+          "options": ["Polymerization", "Reduction", "Oxidation", "Nucleophilic addition"],
+          "correct_answer": "Polymerization"
+        },
+        {
+          "question": "What is the term for the process of adding a nucleophile to carbonyl compounds?",
+          "options": ["Nucleophilic addition", "Electrophilic addition", "Free radical addition", "Elimination"],
+          "correct_answer": "Nucleophilic addition"
+        },
+        {
+          "question": "Which of the following is NOT a nucleophilic addition reaction?",
+          "options": ["Electrophilic addition", "Addition of Grignard reagents", "Addition of cyanide", "Addition of alcohols"],
+          "correct_answer": "Electrophilic addition"
+        },
+        {
+          "question": "What is the term for the process of converting aldehydes to cyanohydrins?",
+          "options": ["Addition of cyanide", "Addition of Grignard reagents", "Addition of alcohols", "Addition of amines"],
+          "correct_answer": "Addition of cyanide"
+        },
+        {
+          "question": "Which of the following is NOT a characteristic reaction of carbonyl compounds?",
+          "question": "Which of the following is NOT a common impurity in pharmaceutical substances?",
+          "options": [
+            "Chlorides",
+            "Sulphates",
+            "Iron",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The test used to determine the presence of chlorides in a substance is called:",
+          "options": [
+            "Limit test for chlorides",
+            "Limit test for sulphates",
+            "Limit test for iron",
+            "Limit test for arsenic"
+          ],
+          "correct_answer": "Limit test for chlorides"
+        },
+        {
+          "question": "Which of the following is used as a reagent in the limit test for chlorides?",
+          "options": [
+            "Silver nitrate",
+            "Barium chloride",
+            "Ammonium thiocyanate",
+            "Lead acetate"
+          ],
+          "correct_answer": "Silver nitrate"
+        },
+        {
+          "question": "The term 'limit test' refers to:",
+          "options": [
+            "A test to determine the exact amount of impurity",
+            "A test to determine if the impurity is within specified limits",
+            "A test to remove impurities",
+            "A test to identify impurities"
+          ],
+          "correct_answer": "A test to determine if the impurity is within specified limits"
+        },
+        {
+          "question": "Which of the following is NOT a source of impurities in pharmaceutical substances?",
+          "options": [
+            "Raw materials",
+            "Manufacturing process",
+            "Storage conditions",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The test used to determine the presence of sulphates in a substance is called:",
+          "options": [
+            "Limit test for chlorides",
+            "Limit test for sulphates",
+            "Limit test for iron",
+            "Limit test for arsenic"
+          ],
+          "correct_answer": "Limit test for sulphates"
+        },
+        {
+          "question": "Which of the following is used as a reagent in the limit test for sulphates?",
+          "options": [
+            "Silver nitrate",
+            "Barium chloride",
+            "Ammonium thiocyanate",
+            "Lead acetate"
+          ],
+          "correct_answer": "Barium chloride"
+        },
+        {
+          "question": "The test used to determine the presence of iron in a substance is called:",
+          "options": [
+            "Limit test for chlorides",
+            "Limit test for sulphates",
+            "Limit test for iron",
+            "Limit test for arsenic"
+          ],
+          "correct_answer": "Limit test for iron"
+        },
+        {
+          "question": "Which of the following is used as a reagent in the limit test for iron?",
+          "options": [
+            "Silver nitrate",
+            "Barium chloride",
+            "Ammonium thiocyanate",
+            "Lead acetate"
+          ],
+          "correct_answer": "Ammonium thiocyanate"
+        },
+        {
+          "question": "The test used to determine the presence of heavy metals in a substance is called:",
+          "options": [
+            "Limit test for chlorides",
+            "Limit test for sulphates",
+            "Limit test for heavy metals",
+            "Limit test for arsenic"
+          ],
+          "correct_answer": "Limit test for heavy metals"
+        },
+        {
+          "question": "Which of the following is NOT a heavy metal?",
+          "options": [
+            "Lead",
+            "Arsenic",
+            "Mercury",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The test used to determine the presence of arsenic in a substance is called:",
+          "options": [
+            "Limit test for chlorides",
+            "Limit test for sulphates",
+            "Limit test for iron",
+            "Limit test for arsenic"
+          ],
+          "correct_answer": "Limit test for arsenic"
+        },
+        {
+          "question": "Which of the following is used as a reagent in the limit test for arsenic?",
+          "options": [
+            "Silver nitrate",
+            "Barium chloride",
+            "Ammonium thiocyanate",
+            "Lead acetate"
+          ],
+          "correct_answer": "Lead acetate"
+        },
+        {
+          "question": "The term 'modified limit test' refers to:",
+          "options": [
+            "A test with higher sensitivity",
+            "A test with lower sensitivity",
+            "A test with different reagents",
+            "A test with different procedure"
+          ],
+          "correct_answer": "A test with different procedure"
+        },
+        {
+          "question": "Which of the following is NOT a test for purity of pharmaceutical substances?",
+          "options": [
+            "Melting point",
+            "Boiling point",
+            "Solubility",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'impurity' refers to:",
+          "options": [
+            "A substance that enhances the quality of a drug",
+            "A substance that has no effect on a drug",
+            "A substance that affects the quality of a drug",
+            "A substance that improves the stability of a drug"
+          ],
+          "correct_answer": "A substance that affects the quality of a drug"
+        },
+        {
+          "question": "Which of the following is NOT an effect of impurities?",
+          "options": [
+            "Toxicity",
+            "Instability",
+            "Incompatibility",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'pharmaceutical substance' refers to:",
+          "options": [
+            "A substance used in the manufacture of drugs",
+            "A substance used in the analysis of drugs",
+            "A substance used in the storage of drugs",
+            "A substance used in the packaging of drugs"
+          ],
+          "correct_answer": "A substance used in the manufacture of drugs"
+        },
+        {
+          "question": "Which of the following is NOT a method of removing impurities?",
+          "options": [
+            "Crystallization",
+            "Filtration",
+            "Distillation",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'purity' refers to:",
+          "options": [
+            "The absence of impurities",
+            "The presence of impurities",
+            "The amount of impurities",
+            "The type of impurities"
+          ],
+          "correct_answer": "The absence of impurities"
+        }
+      ]
+    }
+  }
+} 
