@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP303T",
+  "subject_name": "Pharmaceutical Microbiology",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Microbiology and Bacterial Study",
+      "topics": [
+        "History and scope of microbiology",
+        "Prokaryotes and eukaryotes",
+        "Bacterial structure and classification",
+        "Bacterial growth and culture",
+        "Microscopy techniques"
+      ],
+      "mcqs": [
+        {
+          "question": "Who is considered the father of microbiology?",
+          "options": ["Louis Pasteur", "Robert Koch", "Antonie van Leeuwenhoek", "Alexander Fleming"],
+          "correct_answer": "Antonie van Leeuwenhoek"
+        },
+        {
+          "question": "Which is a characteristic of prokaryotes?",
+          "options": ["No nucleus", "No membrane-bound organelles", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the function of bacterial cell wall?",
+          "options": ["Shape maintenance", "Protection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a nutritional requirement for bacteria?",
+          "options": ["Carbon source", "Nitrogen source", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of bacterial growth curve?",
+          "options": ["Growth phase analysis", "Population dynamics", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for pure culture isolation?",
+          "options": ["Streak plate", "Pour plate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of phase contrast microscopy?",
+          "options": ["Phase difference", "Amplitude difference", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Phase difference"
+        },
+        {
+          "question": "Which is a characteristic of electron microscopy?",
+          "options": ["High resolution", "High magnification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of dark field microscopy?",
+          "options": ["Live specimen observation", "Unstained specimen observation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for bacterial preservation?",
+          "options": ["Freezing", "Lyophilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of culture media?",
+          "options": ["Growth support", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a physical parameter for bacterial growth?",
+          "options": ["Temperature", "pH", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of anaerobic cultivation?",
+          "options": ["Obligate anaerobe growth", "Facultative anaerobe growth", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for bacterial count?",
+          "options": ["Total count", "Viable count", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of microscopy in microbiology?",
+          "options": ["Morphology study", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of bacterial classification?",
+          "options": ["Morphological", "Biochemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of bacterial isolation?",
+          "options": ["Pure culture", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of bacterial cell?",
+          "options": ["Cell wall", "Cell membrane", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of bacterial growth curve?",
+          "options": ["Growth phase analysis", "Population dynamics", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of microscopy?",
+          "options": ["Morphology study", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Bacterial Identification and Sterilization",
+      "topics": [
+        "Staining techniques",
+        "Biochemical tests",
+        "Sterilization methods",
+        "Sterilization efficiency",
+        "Quality control"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the purpose of Gram staining?",
+          "options": ["Cell wall differentiation", "Bacterial classification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of IMViC test?",
+          "options": ["Indole test", "Methyl red test", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of acid-fast staining?",
+          "options": ["Mycolic acid detection", "Cell wall differentiation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a physical method of sterilization?",
+          "options": ["Heat", "Radiation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of chemical sterilization?",
+          "options": ["Surface disinfection", "Equipment sterilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a gaseous sterilization method?",
+          "options": ["Ethylene oxide", "Formaldehyde", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of radiation sterilization?",
+          "options": ["DNA damage", "Protein denaturation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for sterilization efficiency?",
+          "options": ["Biological indicators", "Chemical indicators", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of quality control in sterilization?",
+          "options": ["Process validation", "Product safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a limitation of sterilization methods?",
+          "options": ["Material compatibility", "Process time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of biochemical tests?",
+          "options": ["Bacterial identification", "Metabolic activity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of staining technique?",
+          "options": ["Simple", "Differential", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of sterilization validation?",
+          "options": ["Process verification", "Product safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting sterilization?",
+          "options": ["Temperature", "Time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of quality control in microbiology?",
+          "options": ["Process monitoring", "Product safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for sterilization monitoring?",
+          "options": ["Biological indicators", "Chemical indicators", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of bacterial identification?",
+          "options": ["Species determination", "Strain typing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of sterilization process?",
+          "options": ["Equipment", "Procedure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of sterilization in pharmacy?",
+          "options": ["Product safety", "Patient safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of sterilization?",
+          "options": ["Equipment sterilization", "Product sterilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Fungi, Viruses and Disinfection",
+      "topics": [
+        "Fungal study",
+        "Viral study",
+        "Disinfectants",
+        "Antiseptics",
+        "Sterility testing"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the structure of fungi?",
+          "options": ["Hyphae", "Mycelium", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of fungal reproduction?",
+          "options": ["Asexual", "Sexual", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of viruses?",
+          "options": ["Nucleic acid", "Protein coat", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of viral replication?",
+          "options": ["Lytic cycle", "Lysogenic cycle", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the classification of disinfectants?",
+          "options": ["Chemical nature", "Mode of action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting disinfection?",
+          "options": ["Concentration", "Contact time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the difference between antiseptics and disinfectants?",
+          "options": ["Use on living tissue", "Use on inanimate objects", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for antiseptic evaluation?",
+          "options": ["Agar diffusion", "Broth dilution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of sterility testing?",
+          "options": ["Product safety", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for sterility testing?",
+          "options": ["Membrane filtration", "Direct inoculation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of fungi in pharmacy?",
+          "options": ["Antibiotic production", "Enzyme production", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of viral classification?",
+          "options": ["DNA virus", "RNA virus", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of disinfection?",
+          "options": ["Microbial reduction", "Infection prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting antiseptic activity?",
+          "options": ["Concentration", "Contact time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of sterility testing in pharmacy?",
+          "options": ["Product safety", "Regulatory compliance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for viral cultivation?",
+          "options": ["Cell culture", "Egg culture", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of fungal cultivation?",
+          "options": ["Identification", "Study", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of sterility testing?",
+          "options": ["Media", "Incubation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of disinfectants in pharmacy?",
+          "options": ["Surface disinfection", "Equipment disinfection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of sterility testing?",
+          "options": ["Product release", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Aseptic Area and Microbiological Assay",
+      "topics": [
+        "Aseptic area design",
+        "Contamination control",
+        "Microbiological assay",
+        "Antibiotic standardization",
+        "Quality assurance"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the purpose of aseptic area?",
+          "options": ["Contamination prevention", "Product safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of laminar flow?",
+          "options": ["HEPA filter", "Air flow", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the source of contamination?",
+          "options": ["Personnel", "Equipment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for contamination prevention?",
+          "options": ["Cleaning", "Disinfection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of microbiological assay?",
+          "options": ["Growth inhibition", "Turbidity measurement", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for antibiotic standardization?",
+          "options": ["Cylinder plate", "Turbidimetric", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of vitamin assay?",
+          "options": ["Potency determination", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for amino acid assay?",
+          "options": ["Microbiological", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of quality assurance?",
+          "options": ["Process control", "Product quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of clean area classification?",
+          "options": ["Particle count", "Microbial count", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of laminar flow?",
+          "options": ["Air purification", "Contamination control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for contamination monitoring?",
+          "options": ["Air sampling", "Surface sampling", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of microbiological assay?",
+          "options": ["Potency determination", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting assay results?",
+          "options": ["Media", "Incubation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of antibiotic assessment?",
+          "options": ["Potency determination", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for clean area monitoring?",
+          "options": ["Particle count", "Microbial count", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of aseptic area in pharmacy?",
+          "options": ["Product safety", "Quality assurance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of microbiological assay?",
+          "options": ["Media", "Standard", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of quality control in aseptic area?",
+          "options": ["Process monitoring", "Product safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of microbiological assay?",
+          "options": ["Antibiotic testing", "Vitamin testing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Microbial Spoilage and Cell Culture",
+      "topics": [
+        "Microbial spoilage",
+        "Preservation methods",
+        "Cell culture",
+        "Pharmaceutical applications",
+        "Research applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the type of microbial spoilage?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting spoilage?",
+          "options": ["Water activity", "pH", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the source of contamination?",
+          "options": ["Raw materials", "Environment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for preservation?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of cell culture?",
+          "options": ["Research", "Production", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of cell culture?",
+          "options": ["Primary", "Established", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of antimicrobial agents?",
+          "options": ["Preservation", "Sterilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for stability evaluation?",
+          "options": ["Accelerated", "Real-time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of transformed cells?",
+          "options": ["Research", "Production", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of cell culture?",
+          "options": ["Vaccine production", "Antibody production", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of preservation in pharmacy?",
+          "options": ["Product stability", "Patient safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting cell culture?",
+          "options": ["Media", "Environment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of stability testing?",
+          "options": ["Shelf life determination", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for contamination assessment?",
+          "options": ["Microbial count", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of cell culture in research?",
+          "options": ["Drug testing", "Disease study", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of cell culture?",
+          "options": ["Media", "Serum", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of preservation methods?",
+          "options": ["Product stability", "Patient safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting preservation?",
+          "options": ["Temperature", "pH", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of cell culture in industry?",
+          "options": ["Production", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of preservation?",
+          "options": ["Product stability", "Patient safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

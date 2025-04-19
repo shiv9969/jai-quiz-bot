@@ -1,0 +1,342 @@
+{
+  "subject_code": "BP302T",
+  "subject_name": "Physical Pharmaceutics I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Solubility of Drugs",
+      "topics": [
+        "Solubility expressions and mechanisms",
+        "Ideal solubility parameters",
+        "Solvation and association",
+        "Factors influencing solubility",
+        "Diffusion principles"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the expression for mole fraction solubility?",
+          "options": ["n1/(n1+n2)", "n2/(n1+n2)", "n1/n2", "n2/n1"],
+          "correct_answer": "n1/(n1+n2)"
+        },
+        {
+          "question": "Which is a mechanism of solute-solvent interaction?",
+          "options": ["Ion-dipole", "Hydrogen bonding", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is ideal solubility parameter?",
+          "options": ["Square root of cohesive energy density", "Square of cohesive energy density", "Cohesive energy density", "Reciprocal of cohesive energy density"],
+          "correct_answer": "Square root of cohesive energy density"
+        },
+        {
+          "question": "Which factor influences drug solubility?",
+          "options": ["Temperature", "pH", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Fick's first law of diffusion?",
+          "options": ["J = -D(dc/dx)", "J = D(dc/dx)", "J = -D(dx/dc)", "J = D(dx/dc)"],
+          "correct_answer": "J = -D(dc/dx)"
+        },
+        {
+          "question": "Which is a factor affecting gas solubility?",
+          "options": ["Pressure", "Temperature", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Raoult's law?",
+          "options": ["P = X1P1°", "P = X2P2°", "Both A and B", "Neither A nor B"],
+          "correct_answer": "P = X1P1°"
+        },
+        {
+          "question": "Which is a characteristic of ideal solutions?",
+          "options": ["ΔHmix = 0", "ΔVmix = 0", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is critical solution temperature?",
+          "options": ["Temperature above which components are miscible", "Temperature below which components are miscible", "Temperature at which components are immiscible", "Temperature at which components are partially miscible"],
+          "correct_answer": "Temperature above which components are miscible"
+        },
+        {
+          "question": "Which is an application of distribution law?",
+          "options": ["Drug extraction", "Partition coefficient determination", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a limitation of distribution law?",
+          "options": ["Association", "Dissociation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of binary solution?",
+          "options": ["Ideal", "Real", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the expression for distribution coefficient?",
+          "options": ["C1/C2", "C2/C1", "C1+C2", "C1-C2"],
+          "correct_answer": "C1/C2"
+        },
+        {
+          "question": "Which is a factor affecting liquid-liquid solubility?",
+          "options": ["Temperature", "Pressure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Temperature"
+        },
+        {
+          "question": "What is the role of dielectric constant in solubility?",
+          "options": ["Polarity indicator", "Solvent strength indicator", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of solvation?",
+          "options": ["Hydration", "Solvation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of temperature on solubility?",
+          "options": ["Increases", "Decreases", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method to enhance solubility?",
+          "options": ["pH adjustment", "Complexation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of diffusion in biological systems?",
+          "options": ["Drug absorption", "Drug distribution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of solubility studies?",
+          "options": ["Formulation development", "Bioavailability prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "States of Matter and Properties",
+      "topics": [
+        "States of matter",
+        "Phase changes",
+        "Physicochemical properties",
+        "Polymorphism",
+        "Thermodynamic properties"
+      ],
+      "mcqs": [
+        {
+          "question": "What is latent heat?",
+          "options": ["Heat required for phase change", "Heat required for temperature change", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Heat required for phase change"
+        },
+        {
+          "question": "Which is a state of matter?",
+          "options": ["Solid", "Liquid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is vapour pressure?",
+          "options": ["Pressure exerted by vapour", "Pressure at equilibrium", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a characteristic of eutectic mixture?",
+          "options": ["Minimum melting point", "Maximum melting point", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Minimum melting point"
+        },
+        {
+          "question": "What is critical point?",
+          "options": ["Temperature and pressure where phases become identical", "Temperature and pressure where phases separate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Temperature and pressure where phases become identical"
+        },
+        {
+          "question": "Which is a type of aerosol?",
+          "options": ["MDI", "DPI", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is relative humidity?",
+          "options": ["Ratio of actual to saturated vapour pressure", "Ratio of saturated to actual vapour pressure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Ratio of actual to saturated vapour pressure"
+        },
+        {
+          "question": "Which is a type of solid?",
+          "options": ["Crystalline", "Amorphous", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is refractive index?",
+          "options": ["Ratio of velocities", "Ratio of wavelengths", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a physicochemical property?",
+          "options": ["Dielectric constant", "Dipole moment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is dissociation constant?",
+          "options": ["Measure of acid strength", "Measure of base strength", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of polymorphism?",
+          "options": ["Enantiotropic", "Monotropic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is optical rotation?",
+          "options": ["Rotation of plane polarized light", "Measure of chirality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a liquid crystal phase?",
+          "options": ["Nematic", "Smectic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is glassy state?",
+          "options": ["Amorphous solid", "Supercooled liquid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a thermodynamic property?",
+          "options": ["Enthalpy", "Entropy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of polymorphism in pharmaceuticals?",
+          "options": ["Solubility", "Stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method to determine dipole moment?",
+          "options": ["Dielectric constant", "Refractive index", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the application of physicochemical properties?",
+          "options": ["Drug design", "Formulation development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting phase changes?",
+          "options": ["Temperature", "Pressure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Surface and Interfacial Phenomenon",
+      "topics": [
+        "Surface tension",
+        "Interfacial tension",
+        "Surface active agents",
+        "HLB scale",
+        "Adsorption"
+      ],
+      "mcqs": [
+        {
+          "question": "What is surface tension?",
+          "options": ["Force per unit length", "Energy per unit area", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method to measure surface tension?",
+          "options": ["Capillary rise", "Drop weight", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is spreading coefficient?",
+          "options": ["Work of spreading", "Work of adhesion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a surface active agent?",
+          "options": ["Surfactant", "Emulsifier", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is HLB scale?",
+          "options": ["Hydrophilic-lipophilic balance", "Measure of surfactant properties", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of adsorption?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is solubilization?",
+          "options": ["Incorporation of solute", "Formation of micelles", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a characteristic of detergency?",
+          "options": ["Wetting", "Emulsification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is surface free energy?",
+          "options": ["Work to create surface", "Excess energy at surface", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting adsorption?",
+          "options": ["Temperature", "Concentration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of surfactants?",
+          "options": ["Reduce surface tension", "Stabilize emulsions", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of HLB scale?",
+          "options": ["Emulsifier selection", "Surfactant selection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of temperature on surface tension?",
+          "options": ["Decreases", "Increases", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Decreases"
+        },
+        {
+          "question": "Which is a type of surfactant?",
+          "options": ["Anionic", "Cationic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of adsorption in pharmacy?",
+          "options": ["Drug delivery", "Formulation development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method to measure interfacial tension?",
+          "options": ["Du Noüy ring", "Wilhelmy plate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of surfactants on solubility?",
+          "options": ["Increases", "Decreases", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Increases"
+        },
+        {
+          "question": "Which is a factor affecting micelle formation?",
+          "options": ["Concentration", "Temperature", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of spreading coefficient?",
+          "options": ["Wetting", "Spreading", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of surface tension?",
+          "options": ["Formulation development", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

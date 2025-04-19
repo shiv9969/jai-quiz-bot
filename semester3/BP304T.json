@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP304T",
+  "subject_name": "Pharmaceutical Engineering",
+  "units": {
+    "unit_1": {
+      "unit_name": "Fluid Flow and Size Operations",
+      "topics": [
+        "Flow of fluids and manometers",
+        "Size reduction principles",
+        "Size reduction equipment",
+        "Size separation principles",
+        "Size separation equipment"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the purpose of Reynolds number?",
+          "options": ["Flow regime determination", "Turbulence prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of manometer?",
+          "options": ["U-tube", "Inclined", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of Bernoulli's theorem?",
+          "options": ["Energy conservation", "Pressure variation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a flow measurement device?",
+          "options": ["Orifice meter", "Venturimeter", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the objective of size reduction?",
+          "options": ["Surface area increase", "Particle size uniformity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a size reduction law?",
+          "options": ["Kick's law", "Rittinger's law", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of ball mill?",
+          "options": ["Impact", "Attrition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a size reduction equipment?",
+          "options": ["Hammer mill", "Fluid energy mill", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of size separation?",
+          "options": ["Particle size classification", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a size separation equipment?",
+          "options": ["Sieve shaker", "Cyclone separator", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of Reynolds number in fluid flow?",
+          "options": ["Flow regime prediction", "Friction factor calculation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting size reduction?",
+          "options": ["Material hardness", "Moisture content", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of fluid energy mill?",
+          "options": ["Particle impact", "Air classification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of size separation?",
+          "options": ["Sieves", "Air flow", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of size reduction in pharmacy?",
+          "options": ["Drug formulation", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method for size separation?",
+          "options": ["Sieving", "Air classification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of manometers?",
+          "options": ["Pressure measurement", "Flow rate calculation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting fluid flow?",
+          "options": ["Viscosity", "Density", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of size reduction equipment?",
+          "options": ["Particle size control", "Surface area increase", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of size separation?",
+          "options": ["Particle size analysis", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Heat Transfer and Evaporation",
+      "topics": [
+        "Heat transfer principles",
+        "Heat transfer equipment",
+        "Evaporation principles",
+        "Evaporation equipment",
+        "Distillation principles"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the principle of heat transfer?",
+          "options": ["Conduction", "Convection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a heat transfer mechanism?",
+          "options": ["Conduction", "Radiation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of heat exchangers?",
+          "options": ["Heat transfer", "Temperature control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of heat exchanger?",
+          "options": ["Shell and tube", "Plate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the objective of evaporation?",
+          "options": ["Concentration", "Solvent removal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting evaporation?",
+          "options": ["Temperature", "Pressure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of multiple effect evaporator?",
+          "options": ["Energy efficiency", "Multiple stages", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of evaporator?",
+          "options": ["Climbing film", "Forced circulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of distillation?",
+          "options": ["Separation", "Purification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of distillation?",
+          "options": ["Simple", "Fractional", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of Fourier's law?",
+          "options": ["Heat conduction", "Temperature gradient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting heat transfer?",
+          "options": ["Temperature difference", "Surface area", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of steam jacketed kettle?",
+          "options": ["Indirect heating", "Temperature control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of evaporator?",
+          "options": ["Heating surface", "Vapor space", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of evaporation in pharmacy?",
+          "options": ["Concentration", "Purification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of distillation?",
+          "options": ["Steam", "Vacuum", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of heat transfer in pharmacy?",
+          "options": ["Process control", "Product quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting evaporation rate?",
+          "options": ["Temperature", "Surface area", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of distillation in pharmacy?",
+          "options": ["Solvent recovery", "Purification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of heat transfer?",
+          "options": ["Heating", "Cooling", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Drying and Mixing",
+      "topics": [
+        "Drying principles",
+        "Drying equipment",
+        "Mixing principles",
+        "Mixing equipment",
+        "Quality control"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the objective of drying?",
+          "options": ["Moisture removal", "Product stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a drying mechanism?",
+          "options": ["Evaporation", "Diffusion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of equilibrium moisture content?",
+          "options": ["Drying endpoint", "Product stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of dryer?",
+          "options": ["Tray", "Spray", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the objective of mixing?",
+          "options": ["Uniformity", "Homogeneity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting mixing?",
+          "options": ["Particle size", "Density", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of double cone blender?",
+          "options": ["Tumbling", "Diffusion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of mixer?",
+          "options": ["Ribbon", "Planetary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of drying curve?",
+          "options": ["Process optimization", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of dryer?",
+          "options": ["Heating system", "Air flow", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of drying in pharmacy?",
+          "options": ["Product stability", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting drying rate?",
+          "options": ["Temperature", "Humidity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of fluidized bed dryer?",
+          "options": ["Air suspension", "Heat transfer", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of mixer?",
+          "options": ["Blades", "Motor", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of mixing in pharmacy?",
+          "options": ["Formulation", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of mixing?",
+          "options": ["Convective", "Shear", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of mixing equipment?",
+          "options": ["Uniformity", "Efficiency", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting mixing efficiency?",
+          "options": ["Speed", "Time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of drying equipment?",
+          "options": ["Process control", "Product quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of mixing?",
+          "options": ["Formulation", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Filtration and Centrifugation",
+      "topics": [
+        "Filtration principles",
+        "Filtration equipment",
+        "Centrifugation principles",
+        "Centrifugation equipment",
+        "Quality control"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the objective of filtration?",
+          "options": ["Separation", "Clarification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a filtration theory?",
+          "options": ["Cake filtration", "Depth filtration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of filter aids?",
+          "options": ["Flow improvement", "Clarity improvement", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of filter?",
+          "options": ["Plate and frame", "Rotary drum", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the objective of centrifugation?",
+          "options": ["Separation", "Concentration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting centrifugation?",
+          "options": ["Speed", "Time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of basket centrifuge?",
+          "options": ["Centrifugal force", "Gravity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of centrifuge?",
+          "options": ["Perforated basket", "Non-perforated basket", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of filter media?",
+          "options": ["Particle retention", "Flow control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of filter?",
+          "options": ["Filter medium", "Support", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of filtration in pharmacy?",
+          "options": ["Clarification", "Sterilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting filtration?",
+          "options": ["Pressure", "Viscosity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of membrane filter?",
+          "options": ["Size exclusion", "Adsorption", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a component of centrifuge?",
+          "options": ["Basket", "Drive", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of centrifugation in pharmacy?",
+          "options": ["Separation", "Concentration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of filtration?",
+          "options": ["Pressure", "Vacuum", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of centrifugation equipment?",
+          "options": ["Process control", "Product quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting centrifugation efficiency?",
+          "options": ["Speed", "Time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of filtration equipment?",
+          "options": ["Process control", "Product quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of centrifugation?",
+          "options": ["Separation", "Concentration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Materials and Corrosion",
+      "topics": [
+        "Plant construction materials",
+        "Corrosion principles",
+        "Corrosion prevention",
+        "Material handling",
+        "Quality control"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the factor in material selection?",
+          "options": ["Chemical resistance", "Mechanical strength", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a theory of corrosion?",
+          "options": ["Electrochemical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of corrosion prevention?",
+          "options": ["Equipment protection", "Process safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of corrosion?",
+          "options": ["Uniform", "Pitting", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the objective of material handling?",
+          "options": ["Efficiency", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a material handling system?",
+          "options": ["Conveyor", "Lift", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of corrosion prevention?",
+          "options": ["Barrier protection", "Cathodic protection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a ferrous metal?",
+          "options": ["Steel", "Cast iron", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of material selection?",
+          "options": ["Process compatibility", "Equipment life", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a non-ferrous metal?",
+          "options": ["Aluminum", "Copper", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of materials in pharmacy?",
+          "options": ["Equipment construction", "Process safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting corrosion?",
+          "options": ["Environment", "Material", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of material handling?",
+          "options": ["Efficiency", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a non-metal material?",
+          "options": ["Glass", "Plastic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of corrosion prevention in pharmacy?",
+          "options": ["Equipment protection", "Process safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of corrosion prevention?",
+          "options": ["Coating", "Alloying", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of material handling systems?",
+          "options": ["Process efficiency", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor affecting material selection?",
+          "options": ["Cost", "Availability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of materials in plant construction?",
+          "options": ["Equipment design", "Process safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of material handling?",
+          "options": ["Raw material transport", "Product handling", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

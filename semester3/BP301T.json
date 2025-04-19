@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP301T",
+  "subject_name": "Pharmaceutical Organic Chemistry II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Benzene and its Derivatives",
+      "topics": [
+        "Structure of benzene",
+        "Aromaticity and Huckel's rule",
+        "Electrophilic substitution reactions",
+        "Friedel-Crafts reactions",
+        "Substituent effects and orientation"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the molecular formula of benzene?",
+          "options": ["C6H6", "C6H12", "C6H4", "C6H8"],
+          "correct_answer": "C6H6"
+        },
+        {
+          "question": "Which theory explains the structure of benzene?",
+          "options": ["Kekule's theory", "Resonance theory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Huckel's rule for aromaticity?",
+          "options": ["4n+2 π electrons", "4n π electrons", "6 π electrons", "8 π electrons"],
+          "correct_answer": "4n+2 π electrons"
+        },
+        {
+          "question": "Which is an electrophilic substitution reaction of benzene?",
+          "options": ["Nitration", "Sulfonation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of Lewis acid in Friedel-Crafts alkylation?",
+          "options": ["Catalyst", "Reactant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Catalyst"
+        },
+        {
+          "question": "Which substituent is ortho-para directing?",
+          "options": ["-OH", "-NO2", "Both A and B", "Neither A nor B"],
+          "correct_answer": "-OH"
+        },
+        {
+          "question": "What is the structure of DDT?",
+          "options": ["1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane", "1,1-dichloro-2,2-bis(p-chlorophenyl)ethane", "1,1,1-trichloro-2,2-bis(p-hydroxyphenyl)ethane", "1,1-dichloro-2,2-bis(p-hydroxyphenyl)ethane"],
+          "correct_answer": "1,1,1-trichloro-2,2-bis(p-chlorophenyl)ethane"
+        },
+        {
+          "question": "Which is a limitation of Friedel-Crafts alkylation?",
+          "options": ["Rearrangement", "Polyalkylation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of saccharin?",
+          "options": ["1,2-benzisothiazol-3(2H)-one 1,1-dioxide", "1,2-benzisothiazol-3(2H)-one", "1,2-benzisothiazol-3(2H)-one 1-oxide", "1,2-benzisothiazol-3(2H)-one 2-oxide"],
+          "correct_answer": "1,2-benzisothiazol-3(2H)-one 1,1-dioxide"
+        },
+        {
+          "question": "Which is a meta-directing group?",
+          "options": ["-NO2", "-COOH", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of BHC?",
+          "options": ["1,2,3,4,5,6-hexachlorocyclohexane", "1,2,3,4,5,6-hexabromocyclohexane", "1,2,3,4,5,6-hexachlorobenzene", "1,2,3,4,5,6-hexabromobenzene"],
+          "correct_answer": "1,2,3,4,5,6-hexachlorocyclohexane"
+        },
+        {
+          "question": "What is the structure of chloramine?",
+          "options": ["NH2Cl", "NHCl2", "NCl3", "NH2Cl2"],
+          "correct_answer": "NH2Cl"
+        },
+        {
+          "question": "Which is an activating group?",
+          "options": ["-OH", "-NH2", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the mechanism of electrophilic substitution?",
+          "options": ["Addition-elimination", "Elimination-addition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Addition-elimination"
+        },
+        {
+          "question": "Which is a deactivating group?",
+          "options": ["-NO2", "-CN", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of resonance in benzene?",
+          "options": ["Stability", "Reactivity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Stability"
+        },
+        {
+          "question": "Which is a Friedel-Crafts acylation product?",
+          "options": ["Acetophenone", "Benzophenone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of electron-withdrawing groups?",
+          "options": ["Deactivation", "Meta direction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a characteristic of aromatic compounds?",
+          "options": ["Planarity", "Conjugation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of orbital picture in benzene?",
+          "options": ["Structure explanation", "Bonding explanation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Phenols, Aromatic Amines and Aromatic Acids",
+      "topics": [
+        "Acidity of phenols",
+        "Basicity of amines",
+        "Aromatic acids",
+        "Diazonium salts",
+        "Substituent effects"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the structure of phenol?",
+          "options": ["C6H5OH", "C6H4(OH)2", "C6H3(OH)3", "C6H2(OH)4"],
+          "correct_answer": "C6H5OH"
+        },
+        {
+          "question": "Which factor affects phenol acidity?",
+          "options": ["Substituents", "Solvent", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of resorcinol?",
+          "options": ["1,3-dihydroxybenzene", "1,2-dihydroxybenzene", "1,4-dihydroxybenzene", "1,2,3-trihydroxybenzene"],
+          "correct_answer": "1,3-dihydroxybenzene"
+        },
+        {
+          "question": "Which is a qualitative test for phenols?",
+          "options": ["Ferric chloride test", "Bromine water test", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of naphthol?",
+          "options": ["C10H7OH", "C10H6(OH)2", "C10H5(OH)3", "C10H4(OH)4"],
+          "correct_answer": "C10H7OH"
+        },
+        {
+          "question": "Which factor affects amine basicity?",
+          "options": ["Substituents", "Solvent", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of aniline?",
+          "options": ["C6H5NH2", "C6H4(NH2)2", "C6H3(NH2)3", "C6H2(NH2)4"],
+          "correct_answer": "C6H5NH2"
+        },
+        {
+          "question": "Which is a use of diazonium salts?",
+          "options": ["Dye synthesis", "Coupling reactions", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of benzoic acid?",
+          "options": ["C6H5COOH", "C6H4(COOH)2", "C6H3(COOH)3", "C6H2(COOH)4"],
+          "correct_answer": "C6H5COOH"
+        },
+        {
+          "question": "Which factor affects acid strength?",
+          "options": ["Substituents", "Resonance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of cresol?",
+          "options": ["CH3C6H4OH", "CH3C6H3(OH)2", "CH3C6H2(OH)3", "CH3C6H(OH)4"],
+          "correct_answer": "CH3C6H4OH"
+        },
+        {
+          "question": "Which is a reaction of benzoic acid?",
+          "options": ["Esterification", "Decarboxylation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of electron-donating groups on phenol acidity?",
+          "options": ["Decreases acidity", "Increases acidity", "No effect", "Variable effect"],
+          "correct_answer": "Decreases acidity"
+        },
+        {
+          "question": "Which is a use of diazonium salts in synthesis?",
+          "options": ["Sandmeyer reaction", "Gattermann reaction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of electron-withdrawing groups on amine basicity?",
+          "options": ["Decreases basicity", "Increases basicity", "No effect", "Variable effect"],
+          "correct_answer": "Decreases basicity"
+        },
+        {
+          "question": "Which is a reaction of phenols?",
+          "options": ["Kolbe reaction", "Reimer-Tiemann reaction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of phthalic acid?",
+          "options": ["1,2-benzenedicarboxylic acid", "1,3-benzenedicarboxylic acid", "1,4-benzenedicarboxylic acid", "1,2,3-benzenetricarboxylic acid"],
+          "correct_answer": "1,2-benzenedicarboxylic acid"
+        },
+        {
+          "question": "Which is a use of phenols?",
+          "options": ["Antiseptic", "Disinfectant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of resonance on acid strength?",
+          "options": ["Increases acidity", "Decreases acidity", "No effect", "Variable effect"],
+          "correct_answer": "Increases acidity"
+        },
+        {
+          "question": "Which is a reaction of aromatic amines?",
+          "options": ["Diazotization", "Acetylation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Fats and Oils",
+      "topics": [
+        "Fatty acids",
+        "Hydrolysis and hydrogenation",
+        "Saponification and rancidity",
+        "Analytical constants",
+        "Drying oils"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the general formula of fatty acids?",
+          "options": ["R-COOH", "R-CHO", "R-CO-R", "R-OH"],
+          "correct_answer": "R-COOH"
+        },
+        {
+          "question": "Which is a saturated fatty acid?",
+          "options": ["Stearic acid", "Oleic acid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Stearic acid"
+        },
+        {
+          "question": "What is hydrolysis of oils?",
+          "options": ["Breaking of ester bonds", "Formation of glycerol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a product of hydrogenation?",
+          "options": ["Saturated fats", "Trans fats", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is saponification?",
+          "options": ["Alkaline hydrolysis", "Soap formation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which factor causes rancidity?",
+          "options": ["Oxidation", "Hydrolysis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is acid value?",
+          "options": ["mg KOH/g", "mg NaOH/g", "Both A and B", "Neither A nor B"],
+          "correct_answer": "mg KOH/g"
+        },
+        {
+          "question": "Which is a drying oil?",
+          "options": ["Linseed oil", "Tung oil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is saponification value?",
+          "options": ["mg KOH/g", "mg NaOH/g", "Both A and B", "Neither A nor B"],
+          "correct_answer": "mg KOH/g"
+        },
+        {
+          "question": "Which is an unsaturated fatty acid?",
+          "options": ["Oleic acid", "Linoleic acid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is ester value?",
+          "options": ["Saponification value - Acid value", "Acid value - Saponification value", "Saponification value + Acid value", "Saponification value / Acid value"],
+          "correct_answer": "Saponification value - Acid value"
+        },
+        {
+          "question": "Which is a method to prevent rancidity?",
+          "options": ["Antioxidants", "Refrigeration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is iodine value?",
+          "options": ["g I2/100g", "mg I2/100g", "g I2/g", "mg I2/g"],
+          "correct_answer": "g I2/100g"
+        },
+        {
+          "question": "Which is a source of essential fatty acids?",
+          "options": ["Linseed oil", "Fish oil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is acetyl value?",
+          "options": ["mg KOH/g", "mg NaOH/g", "Both A and B", "Neither A nor B"],
+          "correct_answer": "mg KOH/g"
+        },
+        {
+          "question": "Which is a characteristic of drying oils?",
+          "options": ["High iodine value", "Polymerization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Reichert-Meissl value?",
+          "options": ["ml N/10 KOH", "ml N/10 NaOH", "Both A and B", "Neither A nor B"],
+          "correct_answer": "ml N/10 KOH"
+        },
+        {
+          "question": "Which is a use of analytical constants?",
+          "options": ["Quality control", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of antioxidants?",
+          "options": ["Prevent oxidation", "Delay rancidity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of hydrogenation?",
+          "options": ["Catalytic", "Non-catalytic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Polynuclear Hydrocarbons",
+      "topics": [
+        "Naphthalene",
+        "Phenanthrene",
+        "Anthracene",
+        "Diphenylmethane",
+        "Triphenylmethane"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the structure of naphthalene?",
+          "options": ["C10H8", "C10H10", "C10H12", "C10H14"],
+          "correct_answer": "C10H8"
+        },
+        {
+          "question": "Which is a synthesis method for naphthalene?",
+          "options": ["Haworth synthesis", "Diels-Alder reaction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of phenanthrene?",
+          "options": ["C14H10", "C14H12", "C14H14", "C14H16"],
+          "correct_answer": "C14H10"
+        },
+        {
+          "question": "Which is a reaction of anthracene?",
+          "options": ["Diels-Alder", "Oxidation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of diphenylmethane?",
+          "options": ["(C6H5)2CH2", "(C6H5)3CH", "(C6H5)4C", "(C6H5)CH3"],
+          "correct_answer": "(C6H5)2CH2"
+        },
+        {
+          "question": "Which is a use of naphthalene?",
+          "options": ["Moth repellent", "Synthesis intermediate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of triphenylmethane?",
+          "options": ["(C6H5)3CH", "(C6H5)2CH2", "(C6H5)4C", "(C6H5)CH3"],
+          "correct_answer": "(C6H5)3CH"
+        },
+        {
+          "question": "Which is a derivative of phenanthrene?",
+          "options": ["Morphine", "Codeine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of anthracene?",
+          "options": ["C14H10", "C14H12", "C14H14", "C14H16"],
+          "correct_answer": "C14H10"
+        },
+        {
+          "question": "Which is a use of triphenylmethane?",
+          "options": ["Dyes", "Drugs", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the reactivity of naphthalene?",
+          "options": ["Electrophilic substitution", "Nucleophilic substitution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Electrophilic substitution"
+        },
+        {
+          "question": "Which is a derivative of anthracene?",
+          "options": ["Anthraquinone", "Anthracene-9,10-dione", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of 9,10-dihydroanthracene?",
+          "options": ["C14H12", "C14H10", "C14H14", "C14H16"],
+          "correct_answer": "C14H12"
+        },
+        {
+          "question": "Which is a use of diphenylmethane?",
+          "options": ["Perfumes", "Dyes", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of phenanthrene-9,10-dione?",
+          "options": ["C14H8O2", "C14H10O2", "C14H12O2", "C14H14O2"],
+          "correct_answer": "C14H8O2"
+        },
+        {
+          "question": "Which is a reaction of triphenylmethane?",
+          "options": ["Oxidation", "Reduction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of 1,2,3,4-tetrahydronaphthalene?",
+          "options": ["C10H12", "C10H10", "C10H14", "C10H16"],
+          "correct_answer": "C10H12"
+        },
+        {
+          "question": "Which is a derivative of diphenylmethane?",
+          "options": ["Diphenylhydramine", "Diphenylmethanol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of 9,10-dihydrophenanthrene?",
+          "options": ["C14H12", "C14H10", "C14H14", "C14H16"],
+          "correct_answer": "C14H12"
+        },
+        {
+          "question": "Which is a use of polynuclear hydrocarbons?",
+          "options": ["Drug synthesis", "Dye synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Cycloalkanes",
+      "topics": [
+        "Baeyer's strain theory",
+        "Coulson and Moffitt's modification",
+        "Sachse-Mohr theory",
+        "Strainless rings",
+        "Reactions of small rings"
+      ],
+      "mcqs": [
+        {
+          "question": "What is Baeyer's strain theory?",
+          "options": ["Angle strain theory", "Torsional strain theory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Angle strain theory"
+        },
+        {
+          "question": "Which is a limitation of Baeyer's theory?",
+          "options": ["Assumes planar rings", "Ignores non-planar rings", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Coulson and Moffitt's modification?",
+          "options": ["Non-planar rings", "Puckered rings", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a strainless ring?",
+          "options": ["Cyclohexane", "Cyclopentane", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Cyclohexane"
+        },
+        {
+          "question": "What is the structure of cyclopropane?",
+          "options": ["C3H6", "C3H8", "C3H4", "C3H2"],
+          "correct_answer": "C3H6"
+        },
+        {
+          "question": "Which is a reaction of cyclopropane?",
+          "options": ["Ring opening", "Addition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of cyclobutane?",
+          "options": ["C4H8", "C4H10", "C4H6", "C4H4"],
+          "correct_answer": "C4H8"
+        },
+        {
+          "question": "Which is a conformation of cyclohexane?",
+          "options": ["Chair", "Boat", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Sachse-Mohr theory?",
+          "options": ["Theory of strainless rings", "Theory of puckered rings", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Theory of strainless rings"
+        },
+        {
+          "question": "Which is a stable conformation?",
+          "options": ["Chair", "Boat", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Chair"
+        },
+        {
+          "question": "What is the angle strain in cyclopropane?",
+          "options": ["24.7°", "49.4°", "74.1°", "98.8°"],
+          "correct_answer": "49.4°"
+        },
+        {
+          "question": "Which is a reaction of cyclobutane?",
+          "options": ["Ring opening", "Addition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of cyclohexane?",
+          "options": ["C6H12", "C6H14", "C6H10", "C6H8"],
+          "correct_answer": "C6H12"
+        },
+        {
+          "question": "Which is a type of strain?",
+          "options": ["Angle strain", "Torsional strain", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the angle strain in cyclobutane?",
+          "options": ["9.7°", "19.4°", "29.1°", "38.8°"],
+          "correct_answer": "19.4°"
+        },
+        {
+          "question": "Which is a property of strainless rings?",
+          "options": ["Stability", "Flexibility", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the structure of cyclopentane?",
+          "options": ["C5H10", "C5H12", "C5H8", "C5H6"],
+          "correct_answer": "C5H10"
+        },
+        {
+          "question": "Which is a factor affecting ring stability?",
+          "options": ["Angle strain", "Torsional strain", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the angle strain in cyclopentane?",
+          "options": ["0.7°", "1.4°", "2.1°", "2.8°"],
+          "correct_answer": "0.7°"
+        },
+        {
+          "question": "Which is a use of cycloalkanes?",
+          "options": ["Solvents", "Fuels", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 
