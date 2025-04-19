@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP401T",
+  "subject_name": "Pharmaceutical Organic Chemistry III",
+  "units": {
+    "unit_1": {
+      "unit_name": "Stereoisomerism and Optical Activity",
+      "topics": [
+        "Optical isomerism",
+        "Chirality and symmetry",
+        "Nomenclature systems",
+        "Reactions of chiral molecules",
+        "Asymmetric synthesis"
+      ],
+      "mcqs": [
+        {
+          "question": "What is optical isomerism?",
+          "options": ["Spatial arrangement", "Mirror image relationship", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of optical isomer?",
+          "options": ["Enantiomer", "Diastereomer", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of optical activity?",
+          "options": ["Plane polarized light", "Chiral center", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a chiral molecule?",
+          "options": ["With asymmetric carbon", "Without plane of symmetry", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the DL system?",
+          "options": ["Configuration system", "Nomenclature system", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sequence rule?",
+          "options": ["Atomic number", "Mass number", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the RS system?",
+          "options": ["Configuration system", "Priority rules", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of chiral molecules?",
+          "options": ["Substitution", "Addition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is racemic modification?",
+          "options": ["Racemate formation", "Resolution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of asymmetric synthesis?",
+          "options": ["Partial", "Absolute", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of symmetry elements?",
+          "options": ["Chirality determination", "Isomer classification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a meso compound?",
+          "options": ["With plane of symmetry", "Optically inactive", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of resolution?",
+          "options": ["Enantiomer separation", "Racemate resolution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of resolution?",
+          "options": ["Chemical", "Enzymatic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of asymmetric synthesis?",
+          "options": ["Enantioselective synthesis", "Chiral synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in asymmetric synthesis?",
+          "options": ["Chiral catalyst", "Chiral auxiliary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of nomenclature systems?",
+          "options": ["Configuration description", "Structure representation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a chiral center?",
+          "options": ["Asymmetric carbon", "Stereogenic center", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of optical activity?",
+          "options": ["Chirality detection", "Configuration determination", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of stereoisomerism?",
+          "options": ["Drug design", "Reaction mechanism", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Geometrical and Conformational Isomerism",
+      "topics": [
+        "Geometrical isomerism",
+        "Configuration determination",
+        "Conformational analysis",
+        "Atropisomerism",
+        "Stereospecific reactions"
+      ],
+      "mcqs": [
+        {
+          "question": "What is geometrical isomerism?",
+          "options": ["Cis-trans", "E-Z", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a nomenclature system?",
+          "options": ["Cis-trans", "Syn-anti", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the method of configuration determination?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a conformational isomer?",
+          "options": ["Ethane", "Butane", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the principle of atropisomerism?",
+          "options": ["Restricted rotation", "Chiral axis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a condition for optical activity?",
+          "options": ["Chiral center", "Chiral axis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is stereospecific reaction?",
+          "options": ["Specific configuration", "Specific product", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stereoselective reaction?",
+          "options": ["Preferential formation", "Multiple products", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of conformational analysis?",
+          "options": ["Stability prediction", "Reactivity prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in conformational stability?",
+          "options": ["Steric hindrance", "Torsional strain", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of E-Z system?",
+          "options": ["Configuration description", "Priority rules", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of physical determination?",
+          "options": ["Spectroscopy", "Polarimetry", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of cyclohexane conformation?",
+          "options": ["Stability analysis", "Reactivity prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of cyclohexane conformer?",
+          "options": ["Chair", "Boat", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of atropisomerism?",
+          "options": ["Chirality analysis", "Reactivity prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in atropisomerism?",
+          "options": ["Rotation barrier", "Substituent size", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of stereospecific reactions?",
+          "options": ["Product control", "Mechanism study", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in stereoselectivity?",
+          "options": ["Steric factors", "Electronic factors", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of conformational analysis in pharmacy?",
+          "options": ["Drug design", "Reactivity prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of geometrical isomerism?",
+          "options": ["Drug design", "Reaction mechanism", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Heterocyclic Compounds I",
+      "topics": [
+        "Heterocyclic nomenclature",
+        "Pyrrole synthesis",
+        "Furan synthesis",
+        "Thiophene synthesis",
+        "Aromaticity and reactivity"
+      ],
+      "mcqs": [
+        {
+          "question": "What is heterocyclic compound?",
+          "options": ["Ring structure", "Heteroatom presence", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a heterocyclic classification?",
+          "options": ["Aromatic", "Non-aromatic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the synthesis of pyrrole?",
+          "options": ["Paal-Knorr", "Hantzsch", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of pyrrole?",
+          "options": ["Electrophilic substitution", "Nucleophilic substitution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the synthesis of furan?",
+          "options": ["Paal-Knorr", "Feist-Benary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of furan?",
+          "options": ["Electrophilic substitution", "Diels-Alder", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the synthesis of thiophene?",
+          "options": ["Paal-Knorr", "Gewald", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of thiophene?",
+          "options": ["Electrophilic substitution", "Oxidation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is aromaticity in heterocycles?",
+          "options": ["Huckel rule", "Resonance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in reactivity?",
+          "options": ["Electron density", "Resonance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of heterocycles in pharmacy?",
+          "options": ["Drug design", "Medicinal chemistry", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a medicinal use of pyrrole?",
+          "options": ["Antibiotic", "Antifungal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of furan in pharmacy?",
+          "options": ["Drug synthesis", "Natural product", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a medicinal use of thiophene?",
+          "options": ["Antibiotic", "Antiviral", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the relative aromaticity?",
+          "options": ["Electron delocalization", "Stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in relative reactivity?",
+          "options": ["Electron density", "Resonance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of heterocyclic synthesis?",
+          "options": ["Drug development", "Natural product synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of heterocyclic synthesis?",
+          "options": ["Cyclization", "Condensation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of heterocyclic reactions?",
+          "options": ["Functional group introduction", "Structure modification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of heterocycles?",
+          "options": ["Drug design", "Material science", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Heterocyclic Compounds II",
+      "topics": [
+        "Five-membered heterocycles",
+        "Six-membered heterocycles",
+        "Fused heterocycles",
+        "Medicinal applications",
+        "Synthesis methods"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the synthesis of pyrazole?",
+          "options": ["Knorr", "Hantzsch", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of imidazole?",
+          "options": ["Electrophilic substitution", "Nucleophilic substitution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the synthesis of oxazole?",
+          "options": ["Robinson-Gabriel", "Fischer", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of thiazole?",
+          "options": ["Electrophilic substitution", "Nucleophilic substitution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the synthesis of pyridine?",
+          "options": ["Hantzsch", "Chichibabin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of quinoline?",
+          "options": ["Electrophilic substitution", "Nucleophilic substitution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the synthesis of isoquinoline?",
+          "options": ["Bischler-Napieralski", "Pictet-Spengler", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reaction of acridine?",
+          "options": ["Electrophilic substitution", "Nucleophilic substitution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the synthesis of indole?",
+          "options": ["Fischer", "Madelung", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a medicinal use of pyrimidine?",
+          "options": ["Antiviral", "Antibiotic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of purine in pharmacy?",
+          "options": ["Nucleic acid", "Drug design", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a synthesis of azepine?",
+          "options": ["Ring expansion", "Cyclization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the basicity of pyridine?",
+          "options": ["Lone pair availability", "Resonance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in heterocyclic basicity?",
+          "options": ["Nitrogen lone pair", "Ring size", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of fused heterocycles?",
+          "options": ["Drug design", "Natural product", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a medicinal application?",
+          "options": ["Antibiotic", "Antiviral", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of heterocyclic synthesis?",
+          "options": ["Drug development", "Natural product synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of synthesis?",
+          "options": ["Cyclization", "Condensation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of heterocyclic reactions?",
+          "options": ["Functional group introduction", "Structure modification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of heterocycles?",
+          "options": ["Drug design", "Material science", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Reactions of Synthetic Importance",
+      "topics": [
+        "Reduction reactions",
+        "Oxidation reactions",
+        "Rearrangement reactions",
+        "Condensation reactions",
+        "Synthetic applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is metal hydride reduction?",
+          "options": ["NaBH4", "LiAlH4", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a reduction method?",
+          "options": ["Clemmensen", "Birch", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Wolff-Kishner reduction?",
+          "options": ["Carbonyl reduction", "Hydrazone formation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an oxidation method?",
+          "options": ["Oppenauer", "Dakin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Beckmann rearrangement?",
+          "options": ["Oxime conversion", "Amide formation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a rearrangement reaction?",
+          "options": ["Beckmann", "Schmidt", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Claisen-Schmidt condensation?",
+          "options": ["Aldol type", "Crossed aldol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a synthetic application?",
+          "options": ["Drug synthesis", "Natural product synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of reduction reactions?",
+          "options": ["Functional group conversion", "Stereochemistry control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in reduction selectivity?",
+          "options": ["Reagent choice", "Reaction conditions", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of oxidation reactions?",
+          "options": ["Functional group introduction", "Structure modification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in oxidation selectivity?",
+          "options": ["Reagent choice", "Reaction conditions", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of rearrangement reactions?",
+          "options": ["Structure modification", "Functional group migration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in rearrangement?",
+          "options": ["Stability", "Stereochemistry", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of condensation reactions?",
+          "options": ["Carbon-carbon bond formation", "Ring formation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in condensation?",
+          "options": ["Reagent choice", "Reaction conditions", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of synthetic reactions?",
+          "options": ["Drug synthesis", "Natural product synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in synthetic planning?",
+          "options": ["Reaction sequence", "Protection strategy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of synthetic methods?",
+          "options": ["Efficient synthesis", "Selective synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of synthetic reactions?",
+          "options": ["Drug development", "Material synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP405T",
+  "subject_name": "Pharmacognosy and Phytochemistry I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Pharmacognosy",
+      "topics": [
+        "Definition and history",
+        "Sources of drugs",
+        "Organized and unorganized drugs",
+        "Classification methods",
+        "Quality control methods"
+      ],
+      "mcqs": [
+        {
+          "question": "What is pharmacognosy?",
+          "options": ["Drug study", "Plant study", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a drug source?",
+          "options": ["Plant", "Animal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an organized drug?",
+          "options": ["Plant part", "Animal part", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an unorganized drug?",
+          "options": ["Gum", "Resin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a classification method?",
+          "options": ["Chemical", "Pharmacological", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a quality control method?",
+          "options": ["Microscopic", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is adulteration?",
+          "options": ["Substitution", "Deterioration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an evaluation method?",
+          "options": ["Organoleptic", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is quantitative microscopy?",
+          "options": ["Spore count", "Leaf constant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a microscopic tool?",
+          "options": ["Camera lucida", "Microscope", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of pharmacognosy?",
+          "options": ["Drug discovery", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in quality?",
+          "options": ["Source", "Processing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of classification?",
+          "options": ["Organization", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in evaluation?",
+          "options": ["Method", "Standard", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of microscopy?",
+          "options": ["Identification", "Quantification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in adulteration?",
+          "options": ["Intentional", "Unintentional", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of standards?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Testing", "Documentation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Pharmaceuticals", "Herbal medicine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Cultivation and Processing",
+      "topics": [
+        "Cultivation and collection",
+        "Factors influencing cultivation",
+        "Plant hormones",
+        "Genetic modification",
+        "Conservation methods"
+      ],
+      "mcqs": [
+        {
+          "question": "What is cultivation?",
+          "options": ["Growing", "Harvesting", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cultivation factor?",
+          "options": ["Climate", "Soil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a plant hormone?",
+          "options": ["Auxin", "Gibberellin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a genetic modification?",
+          "options": ["Polyploidy", "Mutation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is conservation?",
+          "options": ["Protection", "Preservation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a processing method?",
+          "options": ["Drying", "Extraction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is storage?",
+          "options": ["Preservation", "Protection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a collection method?",
+          "options": ["Manual", "Mechanical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is hybridization?",
+          "options": ["Cross-breeding", "Selection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a conservation method?",
+          "options": ["In situ", "Ex situ", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of cultivation?",
+          "options": ["Production", "Quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in growth?",
+          "options": ["Nutrients", "Water", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of hormones?",
+          "options": ["Growth", "Development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in modification?",
+          "options": ["Genetics", "Environment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of conservation?",
+          "options": ["Biodiversity", "Sustainability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in processing?",
+          "options": ["Method", "Equipment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of storage?",
+          "options": ["Preservation", "Quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Facility", "Condition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of modification?",
+          "options": ["Improvement", "Adaptation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Agriculture", "Medicine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Plant Tissue Culture",
+      "topics": [
+        "Historical development",
+        "Types of cultures",
+        "Nutritional requirements",
+        "Growth and maintenance",
+        "Applications in pharmacognosy"
+      ],
+      "mcqs": [
+        {
+          "question": "What is tissue culture?",
+          "options": ["In vitro growth", "Cell culture", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a culture type?",
+          "options": ["Callus", "Suspension", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a nutrient requirement?",
+          "options": ["Macronutrients", "Micronutrients", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a growth factor?",
+          "options": ["Hormones", "Vitamins", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is maintenance?",
+          "options": ["Subculture", "Storage", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Micropropagation", "Secondary metabolites", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an edible vaccine?",
+          "options": ["Plant-based", "Oral delivery", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a culture medium?",
+          "options": ["Solid", "Liquid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is sterilization?",
+          "options": ["Equipment", "Medium", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a culture condition?",
+          "options": ["Temperature", "Light", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of culture?",
+          "options": ["Propagation", "Production", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in growth?",
+          "options": ["Medium", "Environment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of hormones?",
+          "options": ["Growth", "Differentiation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in maintenance?",
+          "options": ["Subculture", "Storage", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of applications?",
+          "options": ["Research", "Production", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in success?",
+          "options": ["Technique", "Condition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of vaccines?",
+          "options": ["Prevention", "Treatment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Facility", "Expertise", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of research?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Medicine", "Agriculture", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Traditional Medicine and Secondary Metabolites",
+      "topics": [
+        "Traditional systems of medicine",
+        "Role of pharmacognosy",
+        "Secondary metabolites",
+        "Classification and properties",
+        "Identification tests"
+      ],
+      "mcqs": [
+        {
+          "question": "What is traditional medicine?",
+          "options": ["Ayurveda", "Unani", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a secondary metabolite?",
+          "options": ["Alkaloid", "Glycoside", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a flavonoid?",
+          "options": ["Plant pigment", "Antioxidant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tannin?",
+          "options": ["Astringent", "Antioxidant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a volatile oil?",
+          "options": ["Essential oil", "Aromatic compound", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a resin?",
+          "options": ["Plant exudate", "Medicinal compound", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an identification test?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a traditional system?",
+          "options": ["Siddha", "Homeopathy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of pharmacognosy?",
+          "options": ["Identification", "Standardization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a property?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of traditional medicine?",
+          "options": ["Treatment", "Prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in efficacy?",
+          "options": ["Quality", "Dose", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of metabolites?",
+          "options": ["Defense", "Medicinal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in identification?",
+          "options": ["Test", "Standard", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of classification?",
+          "options": ["Organization", "Identification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in properties?",
+          "options": ["Structure", "Function", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of tests?",
+          "options": ["Identification", "Quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Method", "Standard", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Medicine", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Natural Products and Primary Metabolites",
+      "topics": [
+        "Plant fibers and products",
+        "Primary metabolites",
+        "Carbohydrates and proteins",
+        "Lipids and enzymes",
+        "Marine drugs"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a plant fiber?",
+          "options": ["Cotton", "Jute", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a primary metabolite?",
+          "options": ["Carbohydrate", "Protein", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a carbohydrate?",
+          "options": ["Acacia", "Agar", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a protein?",
+          "options": ["Gelatin", "Casein", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an enzyme?",
+          "options": ["Papain", "Bromelain", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a lipid?",
+          "options": ["Fixed oil", "Wax", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a marine drug?",
+          "options": ["Novel compound", "Natural product", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a hallucinogen?",
+          "options": ["Plant-based", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a teratogen?",
+          "options": ["Birth defect", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an allergen?",
+          "options": ["Natural", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of fibers?",
+          "options": ["Textile", "Medical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in metabolites?",
+          "options": ["Source", "Function", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of carbohydrates?",
+          "options": ["Energy", "Structure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in proteins?",
+          "options": ["Structure", "Function", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of enzymes?",
+          "options": ["Catalysis", "Therapy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in lipids?",
+          "options": ["Source", "Composition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of marine drugs?",
+          "options": ["Therapy", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Medicine", "Industry", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

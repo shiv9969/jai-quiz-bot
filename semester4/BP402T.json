@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP402T",
+  "subject_name": "Medicinal Chemistry I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Medicinal Chemistry and Drug Metabolism",
+      "topics": [
+        "History and development",
+        "Physicochemical properties",
+        "Drug metabolism principles",
+        "Phase I and II metabolism",
+        "Factors affecting metabolism"
+      ],
+      "mcqs": [
+        {
+          "question": "What is medicinal chemistry?",
+          "options": ["Drug design", "Drug discovery", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a physicochemical property?",
+          "options": ["Ionization", "Solubility", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of partition coefficient?",
+          "options": ["Lipophilicity", "Membrane permeability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in drug metabolism?",
+          "options": ["Enzyme activity", "Genetic factors", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Phase I metabolism?",
+          "options": ["Oxidation", "Reduction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a Phase II reaction?",
+          "options": ["Glucuronidation", "Sulfation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of protein binding?",
+          "options": ["Drug distribution", "Drug action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in drug metabolism?",
+          "options": ["Age", "Disease state", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is bioisosterism?",
+          "options": ["Structural replacement", "Biological activity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stereochemical aspect?",
+          "options": ["Enantiomers", "Diastereomers", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of hydrogen bonding?",
+          "options": ["Drug-receptor interaction", "Solubility", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in drug metabolism?",
+          "options": ["Enzyme induction", "Enzyme inhibition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of chelation?",
+          "options": ["Metal binding", "Drug stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in drug metabolism?",
+          "options": ["Route of administration", "Dose", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of drug metabolism?",
+          "options": ["Drug elimination", "Drug activation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in drug metabolism?",
+          "options": ["Species difference", "Gender", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of physicochemical properties?",
+          "options": ["Drug design", "Drug action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in drug metabolism?",
+          "options": ["Food", "Drug interactions", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of drug metabolism?",
+          "options": ["Drug safety", "Drug efficacy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of medicinal chemistry?",
+          "options": ["Drug discovery", "Drug development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Drugs Acting on Autonomic Nervous System",
+      "topics": [
+        "Adrenergic neurotransmitters",
+        "Adrenergic receptors",
+        "Sympathomimetic agents",
+        "Adrenergic antagonists",
+        "Structure-activity relationships"
+      ],
+      "mcqs": [
+        {
+          "question": "What is catecholamine biosynthesis?",
+          "options": ["Tyrosine hydroxylation", "DOPA decarboxylation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an adrenergic receptor?",
+          "options": ["Alpha", "Beta", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of sympathomimetic agents?",
+          "options": ["Receptor activation", "Neurotransmitter release", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a direct acting agent?",
+          "options": ["Epinephrine", "Norepinephrine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the SAR of sympathomimetics?",
+          "options": ["Phenylethylamine structure", "Substituent effects", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an indirect acting agent?",
+          "options": ["Amphetamine", "Tyramine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of adrenergic antagonists?",
+          "options": ["Receptor blockade", "Therapeutic effect", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an alpha blocker?",
+          "options": ["Phentolamine", "Prazosin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the SAR of beta blockers?",
+          "options": ["Aryloxypropanolamine", "Substituent effects", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a beta blocker?",
+          "options": ["Propranolol", "Atenolol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of catecholamine catabolism?",
+          "options": ["Neurotransmitter inactivation", "Metabolite formation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a mixed mechanism agent?",
+          "options": ["Ephedrine", "Amphetamine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of adrenergic drugs?",
+          "options": ["Therapeutic effect", "Diagnostic use", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in adrenergic drug action?",
+          "options": ["Receptor type", "Tissue distribution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of adrenergic receptors?",
+          "options": ["Signal transduction", "Drug action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in adrenergic drug design?",
+          "options": ["Receptor selectivity", "Metabolic stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of adrenergic antagonists?",
+          "options": ["Hypertension", "Cardiac arrhythmia", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in adrenergic drug metabolism?",
+          "options": ["Enzyme activity", "Route of administration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of adrenergic drugs in therapy?",
+          "options": ["Cardiovascular", "Respiratory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of adrenergic drugs?",
+          "options": ["Bronchodilation", "Vasoconstriction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Cholinergic Drugs",
+      "topics": [
+        "Cholinergic neurotransmitters",
+        "Cholinergic receptors",
+        "Parasympathomimetic agents",
+        "Cholinesterase inhibitors",
+        "Cholinergic blocking agents"
+      ],
+      "mcqs": [
+        {
+          "question": "What is acetylcholine biosynthesis?",
+          "options": ["Choline uptake", "Acetyl transfer", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cholinergic receptor?",
+          "options": ["Muscarinic", "Nicotinic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of parasympathomimetics?",
+          "options": ["Receptor activation", "Acetylcholine mimicry", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a direct acting agent?",
+          "options": ["Acetylcholine", "Carbachol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the SAR of parasympathomimetics?",
+          "options": ["Quaternary ammonium", "Ester group", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cholinesterase inhibitor?",
+          "options": ["Physostigmine", "Neostigmine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of cholinesterase inhibitors?",
+          "options": ["Enzyme inhibition", "Acetylcholine potentiation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an irreversible inhibitor?",
+          "options": ["Organophosphates", "Carbamates", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the SAR of cholinolytics?",
+          "options": ["Tertiary amine", "Ester group", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cholinergic blocking agent?",
+          "options": ["Atropine", "Scopolamine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of acetylcholine catabolism?",
+          "options": ["Neurotransmitter inactivation", "Choline recycling", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a synthetic cholinolytic?",
+          "options": ["Tropicamide", "Cyclopentolate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of cholinergic drugs?",
+          "options": ["Therapeutic effect", "Diagnostic use", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in cholinergic drug action?",
+          "options": ["Receptor type", "Tissue distribution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of cholinergic receptors?",
+          "options": ["Signal transduction", "Drug action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in cholinergic drug design?",
+          "options": ["Receptor selectivity", "Metabolic stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of cholinergic antagonists?",
+          "options": ["Antispasmodic", "Mydriatic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in cholinergic drug metabolism?",
+          "options": ["Enzyme activity", "Route of administration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of cholinergic drugs in therapy?",
+          "options": ["Ophthalmic", "Gastrointestinal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of cholinergic drugs?",
+          "options": ["Glaucoma", "Myasthenia gravis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Central Nervous System Drugs I",
+      "topics": [
+        "Sedatives and hypnotics",
+        "Antipsychotics",
+        "Anticonvulsants",
+        "Structure-activity relationships",
+        "Mechanisms of action"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the SAR of benzodiazepines?",
+          "options": ["1,4-Benzodiazepine", "Substituent effects", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a benzodiazepine?",
+          "options": ["Diazepam", "Lorazepam", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the SAR of barbiturates?",
+          "options": ["Barbituric acid", "Substituent effects", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a barbiturate?",
+          "options": ["Phenobarbital", "Secobarbital", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the SAR of phenothiazines?",
+          "options": ["Tricyclic structure", "Substituent effects", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a phenothiazine?",
+          "options": ["Chlorpromazine", "Prochlorperazine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the mechanism of anticonvulsants?",
+          "options": ["Sodium channel", "GABA enhancement", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anticonvulsant?",
+          "options": ["Phenytoin", "Carbamazepine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of sedatives?",
+          "options": ["Anxiety relief", "Sleep induction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a miscellaneous sedative?",
+          "options": ["Glutethimide", "Meprobamate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of antipsychotics?",
+          "options": ["Dopamine blockade", "Serotonin modulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a butyrophenone?",
+          "options": ["Haloperidol", "Droperidol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of anticonvulsants?",
+          "options": ["Seizure control", "Pain management", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in CNS drug action?",
+          "options": ["Receptor binding", "Neurotransmitter modulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of CNS drugs?",
+          "options": ["Symptom relief", "Disease modification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in CNS drug design?",
+          "options": ["Blood-brain barrier", "Receptor selectivity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of CNS drugs?",
+          "options": ["Therapeutic effect", "Diagnostic use", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in CNS drug metabolism?",
+          "options": ["Enzyme activity", "Route of administration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of CNS drugs in therapy?",
+          "options": ["Psychiatric", "Neurological", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of CNS drugs?",
+          "options": ["Anxiety", "Epilepsy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Central Nervous System Drugs II",
+      "topics": [
+        "General anesthetics",
+        "Analgesics",
+        "Anti-inflammatory agents",
+        "Mechanisms of action",
+        "Therapeutic applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is an inhalation anesthetic?",
+          "options": ["Halothane", "Isoflurane", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an ultra-short acting barbiturate?",
+          "options": ["Thiopental", "Methohexital", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the SAR of morphine analogues?",
+          "options": ["Phenanthrene", "Substituent effects", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a narcotic analgesic?",
+          "options": ["Morphine", "Codeine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a non-narcotic analgesic?",
+          "options": ["Aspirin", "Acetaminophen", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anti-inflammatory agent?",
+          "options": ["Indomethacin", "Ibuprofen", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the mechanism of general anesthetics?",
+          "options": ["GABA enhancement", "NMDA blockade", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a narcotic antagonist?",
+          "options": ["Naloxone", "Naltrexone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of analgesics?",
+          "options": ["Pain relief", "Inflammation reduction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in anesthetic action?",
+          "options": ["Lipid solubility", "Protein binding", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of narcotic antagonists?",
+          "options": ["Overdose treatment", "Addiction treatment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in analgesic action?",
+          "options": ["Receptor binding", "Enzyme inhibition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of anti-inflammatory agents?",
+          "options": ["Pain relief", "Inflammation reduction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in anti-inflammatory action?",
+          "options": ["COX inhibition", "Prostaglandin synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of general anesthetics?",
+          "options": ["Surgery", "Pain management", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in anesthetic design?",
+          "options": ["Safety", "Efficacy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of analgesics in therapy?",
+          "options": ["Acute pain", "Chronic pain", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in analgesic design?",
+          "options": ["Potency", "Selectivity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of anti-inflammatory agents in therapy?",
+          "options": ["Arthritis", "Inflammation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of CNS drugs?",
+          "options": ["Anesthesia", "Pain management", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

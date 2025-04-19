@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP403T",
+  "subject_name": "Physical Pharmaceutics II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Colloidal Dispersions",
+      "topics": [
+        "Classification of dispersed systems",
+        "Size and shapes of colloidal particles",
+        "Classification of colloids",
+        "Optical, kinetic and electrical properties",
+        "Effect of electrolytes and coacervation"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a colloidal dispersion?",
+          "options": ["Particle size 1-1000 nm", "Particle size >1000 nm", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Particle size 1-1000 nm"
+        },
+        {
+          "question": "Which is a property of colloids?",
+          "options": ["Tyndall effect", "Brownian motion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of electrolytes on colloids?",
+          "options": ["Coagulation", "Stabilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a type of colloid?",
+          "options": ["Lyophilic", "Lyophobic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is peptization?",
+          "options": ["Dispersion", "Aggregation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Dispersion"
+        },
+        {
+          "question": "Which is an electrical property?",
+          "options": ["Zeta potential", "Electrophoresis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is protective action?",
+          "options": ["Stabilization", "Prevention of coagulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a kinetic property?",
+          "options": ["Diffusion", "Sedimentation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is coacervation?",
+          "options": ["Phase separation", "Aggregation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an optical property?",
+          "options": ["Light scattering", "Refraction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of particle size?",
+          "options": ["Stability", "Properties", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a shape of colloidal particles?",
+          "options": ["Spherical", "Rod-shaped", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of colloidal systems?",
+          "options": ["Drug delivery", "Formulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in colloidal stability?",
+          "options": ["Charge", "Size", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of surface properties?",
+          "options": ["Adsorption", "Interaction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a method of preparation?",
+          "options": ["Dispersion", "Condensation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of characterization?",
+          "options": ["Analysis", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in colloidal behavior?",
+          "options": ["pH", "Temperature", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of additives?",
+          "options": ["Stabilization", "Modification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of colloids?",
+          "options": ["Pharmaceuticals", "Cosmetics", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Rheology and Deformation of Solids",
+      "topics": [
+        "Newtonian and non-Newtonian systems",
+        "Viscosity and flow properties",
+        "Thixotropy and rheological properties",
+        "Deformation of solids",
+        "Viscometry methods"
+      ],
+      "mcqs": [
+        {
+          "question": "What is Newtonian flow?",
+          "options": ["Linear relationship", "Constant viscosity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a non-Newtonian system?",
+          "options": ["Pseudoplastic", "Dilatant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is thixotropy?",
+          "options": ["Time-dependent", "Shear-thinning", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a viscometer?",
+          "options": ["Capillary", "Rotational", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the Heckel equation?",
+          "options": ["Compression", "Deformation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a deformation type?",
+          "options": ["Plastic", "Elastic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is stress?",
+          "options": ["Force per area", "Deformation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Force per area"
+        },
+        {
+          "question": "Which is a rheological property?",
+          "options": ["Viscosity", "Yield value", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of temperature?",
+          "options": ["Viscosity change", "Flow behavior", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a flow type?",
+          "options": ["Laminar", "Turbulent", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of rheology?",
+          "options": ["Formulation", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in flow behavior?",
+          "options": ["Concentration", "Temperature", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of additives?",
+          "options": ["Modification", "Stabilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a deformation measurement?",
+          "options": ["Stress-strain", "Modulus", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of viscometry?",
+          "options": ["Analysis", "Control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in deformation?",
+          "options": ["Material", "Force", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of rheology in formulation?",
+          "options": ["Stability", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application of rheology?",
+          "options": ["Suspensions", "Emulsions", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of deformation studies?",
+          "options": ["Characterization", "Prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a rheological parameter?",
+          "options": ["Viscosity", "Yield stress", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Coarse Dispersions",
+      "topics": [
+        "Suspensions and their properties",
+        "Emulsions and theories",
+        "Microemulsions and multiple emulsions",
+        "Stability and preservation",
+        "Formulation methods"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a suspension?",
+          "options": ["Solid in liquid", "Liquid in liquid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Solid in liquid"
+        },
+        {
+          "question": "Which is an emulsion type?",
+          "options": ["O/W", "W/O", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is interfacial tension?",
+          "options": ["Surface energy", "Interface stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an emulsifier?",
+          "options": ["Surfactant", "Polymer", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is HLB?",
+          "options": ["Hydrophilic-lipophilic balance", "Emulsifier selection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stability factor?",
+          "options": ["Sedimentation", "Creaming", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a microemulsion?",
+          "options": ["Thermodynamically stable", "Transparent", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a multiple emulsion?",
+          "options": ["W/O/W", "O/W/O", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of preservatives?",
+          "options": ["Microbial control", "Stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a formulation method?",
+          "options": ["Phase inversion", "HLB method", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of coarse dispersions?",
+          "options": ["Drug delivery", "Formulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in stability?",
+          "options": ["Particle size", "Density", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of rheology?",
+          "options": ["Flow properties", "Stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a characterization method?",
+          "options": ["Microscopy", "Particle size", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of emulsification?",
+          "options": ["Stability", "Delivery", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in emulsion formation?",
+          "options": ["Energy", "Emulsifier", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of additives?",
+          "options": ["Stabilization", "Modification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Pharmaceuticals", "Cosmetics", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of characterization?",
+          "options": ["Analysis", "Control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stability test?",
+          "options": ["Accelerated", "Real-time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Micromeretics",
+      "topics": [
+        "Particle size and distribution",
+        "Particle shape and surface area",
+        "Methods of particle size determination",
+        "Powder properties",
+        "Flow properties"
+      ],
+      "mcqs": [
+        {
+          "question": "What is particle size?",
+          "options": ["Diameter", "Volume", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a size distribution?",
+          "options": ["Number", "Weight", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is particle shape?",
+          "options": ["Spherical", "Irregular", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a size determination method?",
+          "options": ["Microscopy", "Sieving", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is specific surface area?",
+          "options": ["Area per mass", "Area per volume", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a surface area method?",
+          "options": ["Adsorption", "Permeability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is porosity?",
+          "options": ["Void space", "Packing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a density type?",
+          "options": ["True", "Bulk", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is flow property?",
+          "options": ["Flowability", "Cohesiveness", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a flow measurement?",
+          "options": ["Angle of repose", "Flow rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of micromeretics?",
+          "options": ["Characterization", "Control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in flow?",
+          "options": ["Particle size", "Shape", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of surface area?",
+          "options": ["Dissolution", "Adsorption", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a packing arrangement?",
+          "options": ["Close", "Open", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of characterization?",
+          "options": ["Analysis", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in properties?",
+          "options": ["Size", "Shape", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of additives?",
+          "options": ["Flow improvement", "Stabilization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Tablets", "Capsules", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of flow studies?",
+          "options": ["Formulation", "Processing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a property measurement?",
+          "options": ["Density", "Flow", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Drug Stability",
+      "topics": [
+        "Reaction kinetics",
+        "Factors affecting degradation",
+        "Stabilization methods",
+        "Stability testing",
+        "Photolytic degradation"
+      ],
+      "mcqs": [
+        {
+          "question": "What is zero-order kinetics?",
+          "options": ["Constant rate", "Independent of concentration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a first-order reaction?",
+          "options": ["Concentration dependent", "Exponential decay", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the effect of temperature?",
+          "options": ["Rate increase", "Activation energy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a degradation factor?",
+          "options": ["pH", "Light", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is hydrolysis?",
+          "options": ["Water reaction", "Bond cleavage", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an oxidation type?",
+          "options": ["Auto-oxidation", "Photo-oxidation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is stability testing?",
+          "options": ["Accelerated", "Real-time", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stabilization method?",
+          "options": ["Antioxidants", "Chelating agents", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is photolytic degradation?",
+          "options": ["Light-induced", "Radiation effect", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a prevention method?",
+          "options": ["Packaging", "Formulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of stability studies?",
+          "options": ["Shelf life", "Quality control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in degradation?",
+          "options": ["Oxygen", "Moisture", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of catalysts?",
+          "options": ["Rate increase", "Pathway change", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stability parameter?",
+          "options": ["Temperature", "Humidity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of accelerated testing?",
+          "options": ["Time reduction", "Prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a degradation product?",
+          "options": ["Impurities", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of formulation?",
+          "options": ["Stability", "Protection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stability indicator?",
+          "options": ["Assay", "Impurities", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of photostability?",
+          "options": ["Protection", "Testing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a stability requirement?",
+          "options": ["Regulatory", "Quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

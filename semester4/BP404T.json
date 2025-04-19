@@ -1,0 +1,294 @@
+{
+  "subject_code": "BP404T",
+  "subject_name": "Pharmacology I",
+  "units": {
+    "unit_1": {
+      "unit_name": "General Pharmacology I",
+      "topics": [
+        "Introduction to pharmacology",
+        "Pharmacokinetics",
+        "Drug absorption and distribution",
+        "Drug metabolism and excretion",
+        "Enzyme induction and inhibition"
+      ],
+      "mcqs": [
+        {
+          "question": "What is pharmacology?",
+          "options": ["Drug study", "Drug action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a route of administration?",
+          "options": ["Oral", "Parenteral", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is pharmacokinetics?",
+          "options": ["Drug movement", "Drug fate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a membrane transport?",
+          "options": ["Passive", "Active", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is drug absorption?",
+          "options": ["Entry into blood", "Entry into tissues", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in distribution?",
+          "options": ["Blood flow", "Protein binding", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is metabolism?",
+          "options": ["Biotransformation", "Drug inactivation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an excretion route?",
+          "options": ["Renal", "Biliary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is enzyme induction?",
+          "options": ["Activity increase", "Synthesis increase", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an enzyme inhibitor?",
+          "options": ["Competitive", "Non-competitive", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of pharmacokinetics?",
+          "options": ["Dosage design", "Drug action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in absorption?",
+          "options": ["pH", "Solubility", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of distribution?",
+          "options": ["Tissue access", "Drug action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in metabolism?",
+          "options": ["Enzymes", "Cofactors", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of excretion?",
+          "options": ["Drug removal", "Toxicity prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in enzyme activity?",
+          "question": "Which of the following is NOT a route of drug administration?",
+          "options": [
+            "Oral",
+            "Parenteral",
+            "Topical",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'pharmacokinetics' refers to:",
+          "options": [
+            "What body does to drug",
+            "What drug does to body",
+            "Drug synthesis",
+            "Drug storage"
+          ],
+          "correct_answer": "What body does to drug"
+        },
+        {
+          "question": "Which of the following is NOT a phase of pharmacokinetics?",
+          "options": [
+            "Absorption",
+            "Distribution",
+            "Metabolism",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'bioavailability' refers to:",
+          "options": [
+            "Fraction of drug reaching systemic circulation",
+            "Drug color",
+            "Drug taste",
+            "Drug size"
+          ],
+          "correct_answer": "Fraction of drug reaching systemic circulation"
+        },
+        {
+          "question": "Which of the following is NOT a factor affecting drug absorption?",
+          "options": [
+            "pH",
+            "Blood flow",
+            "Surface area",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'first-pass metabolism' occurs in:",
+          "options": [
+            "Liver",
+            "Kidney",
+            "Lung",
+            "Heart"
+          ],
+          "correct_answer": "Liver"
+        },
+        {
+          "question": "Which of the following is NOT a type of drug distribution?",
+          "options": [
+            "Plasma protein binding",
+            "Tissue binding",
+            "Blood-brain barrier",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'volume of distribution' refers to:",
+          "options": [
+            "Apparent volume for drug distribution",
+            "Drug color",
+            "Drug taste",
+            "Drug size"
+          ],
+          "correct_answer": "Apparent volume for drug distribution"
+        },
+        {
+          "question": "Which of the following is NOT a phase of drug metabolism?",
+          "options": [
+            "Phase I",
+            "Phase II",
+            "Phase III",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'half-life' refers to:",
+          "options": [
+            "Time for drug concentration to reduce by half",
+            "Drug color",
+            "Drug taste",
+            "Drug size"
+          ],
+          "correct_answer": "Time for drug concentration to reduce by half"
+        },
+        {
+          "question": "Which of the following is NOT a route of drug excretion?",
+          "options": [
+            "Kidney",
+            "Liver",
+            "Lung",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'pharmacodynamics' refers to:",
+          "options": [
+            "What drug does to body",
+            "What body does to drug",
+            "Drug synthesis",
+            "Drug storage"
+          ],
+          "correct_answer": "What drug does to body"
+        },
+        {
+          "question": "Which of the following is NOT a type of drug-receptor interaction?",
+          "options": [
+            "Agonist",
+            "Antagonist",
+            "Partial agonist",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'therapeutic index' refers to:",
+          "options": [
+            "Ratio of toxic to therapeutic dose",
+            "Drug color",
+            "Drug taste",
+            "Drug size"
+          ],
+          "correct_answer": "Ratio of toxic to therapeutic dose"
+        },
+        {
+          "question": "Which of the following is NOT a type of adverse drug reaction?",
+          "options": [
+            "Type A",
+            "Type B",
+            "Type C",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'tolerance' refers to:",
+          "options": [
+            "Decreased response to drug",
+            "Increased response to drug",
+            "No response to drug",
+            "Random response to drug"
+          ],
+          "correct_answer": "Decreased response to drug"
+        },
+        {
+          "question": "Which of the following is NOT a factor affecting drug response?",
+          "options": [
+            "Age",
+            "Gender",
+            "Genetics",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'drug interaction' refers to:",
+          "options": [
+            "Effect of one drug on another",
+            "Drug color",
+            "Drug taste",
+            "Drug size"
+          ],
+          "correct_answer": "Effect of one drug on another"
+        },
+        {
+          "question": "Which of the following is NOT a type of drug antagonism?",
+          "options": [
+            "Competitive",
+            "Non-competitive",
+            "Physiological",
+            "Photosynthesis"
+          ],
+          "correct_answer": "Photosynthesis"
+        },
+        {
+          "question": "The term 'dose-response relationship' refers to:",
+          "options": [
+            "Relationship between dose and effect",
+            "Drug color",
+            "Drug taste",
+            "Drug size"
+          ],
+          "correct_answer": "Relationship between dose and effect"
+        }
+      ]
+    }
+  }
+} 
