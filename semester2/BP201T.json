@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP201T",
+  "subject_name": "Human Anatomy and Physiology II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Nervous System",
+      "topics": [
+        "Organization of nervous system",
+        "Neuron structure and function",
+        "Neurotransmitters",
+        "Central nervous system",
+        "Peripheral nervous system"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the basic structural and functional unit of the nervous system?",
+          "options": ["Neuron", "Neuroglia", "Axon", "Dendrite"],
+          "correct_answer": "Neuron"
+        },
+        {
+          "question": "Which part of the neuron receives signals from other neurons?",
+          "options": ["Dendrite", "Axon", "Cell body", "Myelin sheath"],
+          "correct_answer": "Dendrite"
+        },
+        {
+          "question": "What is the function of the myelin sheath?",
+          "options": ["Speed up nerve impulse conduction", "Receive signals", "Produce neurotransmitters", "Store energy"],
+          "correct_answer": "Speed up nerve impulse conduction"
+        },
+        {
+          "question": "Which neurotransmitter is associated with pleasure and reward?",
+          "options": ["Dopamine", "Acetylcholine", "Serotonin", "GABA"],
+          "correct_answer": "Dopamine"
+        },
+        {
+          "question": "What is the largest part of the brain?",
+          "options": ["Cerebrum", "Cerebellum", "Brainstem", "Thalamus"],
+          "correct_answer": "Cerebrum"
+        },
+        {
+          "question": "Which part of the brain controls balance and coordination?",
+          "options": ["Cerebellum", "Cerebrum", "Brainstem", "Thalamus"],
+          "correct_answer": "Cerebellum"
+        },
+        {
+          "question": "What is the function of the spinal cord?",
+          "options": ["Transmit signals between brain and body", "Produce hormones", "Filter blood", "Store memories"],
+          "correct_answer": "Transmit signals between brain and body"
+        },
+        {
+          "question": "Which division of the nervous system controls voluntary movements?",
+          "options": ["Somatic nervous system", "Autonomic nervous system", "Enteric nervous system", "Central nervous system"],
+          "correct_answer": "Somatic nervous system"
+        },
+        {
+          "question": "What is the function of the autonomic nervous system?",
+          "options": ["Control involuntary functions", "Control voluntary movements", "Process thoughts", "Store memories"],
+          "correct_answer": "Control involuntary functions"
+        },
+        {
+          "question": "Which neurotransmitter is associated with muscle contraction?",
+          "options": ["Acetylcholine", "Dopamine", "Serotonin", "GABA"],
+          "correct_answer": "Acetylcholine"
+        },
+        {
+          "question": "What is the function of the thalamus?",
+          "options": ["Relay sensory information", "Control movement", "Regulate emotions", "Store memories"],
+          "correct_answer": "Relay sensory information"
+        },
+        {
+          "question": "Which part of the brain regulates body temperature?",
+          "options": ["Hypothalamus", "Cerebrum", "Cerebellum", "Thalamus"],
+          "correct_answer": "Hypothalamus"
+        },
+        {
+          "question": "What is the function of the medulla oblongata?",
+          "options": ["Control vital functions", "Process thoughts", "Store memories", "Control movement"],
+          "correct_answer": "Control vital functions"
+        },
+        {
+          "question": "Which division of the autonomic nervous system prepares the body for fight or flight?",
+          "options": ["Sympathetic", "Parasympathetic", "Enteric", "Somatic"],
+          "correct_answer": "Sympathetic"
+        },
+        {
+          "question": "What is the function of the limbic system?",
+          "options": ["Regulate emotions", "Control movement", "Process thoughts", "Store memories"],
+          "correct_answer": "Regulate emotions"
+        },
+        {
+          "question": "Which neurotransmitter is associated with mood regulation?",
+          "options": ["Serotonin", "Dopamine", "Acetylcholine", "GABA"],
+          "correct_answer": "Serotonin"
+        },
+        {
+          "question": "What is the function of the corpus callosum?",
+          "options": ["Connect cerebral hemispheres", "Control movement", "Process thoughts", "Store memories"],
+          "correct_answer": "Connect cerebral hemispheres"
+        },
+        {
+          "question": "Which part of the brain is responsible for language comprehension?",
+          "options": ["Wernicke's area", "Broca's area", "Motor cortex", "Sensory cortex"],
+          "correct_answer": "Wernicke's area"
+        },
+        {
+          "question": "What is the function of the reticular formation?",
+          "options": ["Regulate consciousness", "Control movement", "Process thoughts", "Store memories"],
+          "correct_answer": "Regulate consciousness"
+        },
+        {
+          "question": "Which neurotransmitter is inhibitory in the brain?",
+          "options": ["GABA", "Dopamine", "Acetylcholine", "Serotonin"],
+          "correct_answer": "GABA"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Endocrine System",
+      "topics": [
+        "Hormones and their classification",
+        "Pituitary gland",
+        "Thyroid gland",
+        "Adrenal glands",
+        "Pancreas and other endocrine glands"
+      ],
+      "mcqs": [
+        {
+          "question": "What are hormones?",
+          "options": ["Chemical messengers", "Energy molecules", "Structural proteins", "Genetic material"],
+          "correct_answer": "Chemical messengers"
+        },
+        {
+          "question": "Which gland is known as the master gland?",
+          "options": ["Pituitary gland", "Thyroid gland", "Adrenal gland", "Pancreas"],
+          "correct_answer": "Pituitary gland"
+        },
+        {
+          "question": "What hormone does the thyroid gland produce?",
+          "options": ["Thyroxine", "Insulin", "Adrenaline", "Growth hormone"],
+          "correct_answer": "Thyroxine"
+        },
+        {
+          "question": "Which hormone is produced by the adrenal medulla?",
+          "options": ["Adrenaline", "Cortisol", "Insulin", "Thyroxine"],
+          "correct_answer": "Adrenaline"
+        },
+        {
+          "question": "What is the function of insulin?",
+          "options": ["Lower blood glucose", "Raise blood glucose", "Regulate calcium", "Control metabolism"],
+          "correct_answer": "Lower blood glucose"
+        },
+        {
+          "question": "Which hormone is produced by the adrenal cortex?",
+          "options": ["Cortisol", "Adrenaline", "Insulin", "Thyroxine"],
+          "correct_answer": "Cortisol"
+        },
+        {
+          "question": "What is the function of growth hormone?",
+          "options": ["Promote growth", "Regulate calcium", "Control metabolism", "Lower blood glucose"],
+          "correct_answer": "Promote growth"
+        },
+        {
+          "question": "Which hormone regulates calcium levels?",
+          "options": ["Parathyroid hormone", "Insulin", "Thyroxine", "Cortisol"],
+          "correct_answer": "Parathyroid hormone"
+        },
+        {
+          "question": "What is the function of antidiuretic hormone?",
+          "options": ["Regulate water balance", "Control metabolism", "Promote growth", "Lower blood glucose"],
+          "correct_answer": "Regulate water balance"
+        },
+        {
+          "question": "Which hormone is produced by the pineal gland?",
+          "options": ["Melatonin", "Insulin", "Thyroxine", "Cortisol"],
+          "correct_answer": "Melatonin"
+        },
+        {
+          "question": "What is the function of oxytocin?",
+          "options": ["Stimulate uterine contractions", "Control metabolism", "Promote growth", "Lower blood glucose"],
+          "correct_answer": "Stimulate uterine contractions"
+        },
+        {
+          "question": "Which hormone is produced by the testes?",
+          "options": ["Testosterone", "Estrogen", "Progesterone", "Cortisol"],
+          "correct_answer": "Testosterone"
+        },
+        {
+          "question": "What is the function of estrogen?",
+          "options": ["Develop female characteristics", "Control metabolism", "Promote growth", "Lower blood glucose"],
+          "correct_answer": "Develop female characteristics"
+        },
+        {
+          "question": "Which hormone is produced by the ovaries?",
+          "options": ["Progesterone", "Testosterone", "Cortisol", "Thyroxine"],
+          "correct_answer": "Progesterone"
+        },
+        {
+          "question": "What is the function of glucagon?",
+          "options": ["Raise blood glucose", "Lower blood glucose", "Control metabolism", "Promote growth"],
+          "correct_answer": "Raise blood glucose"
+        },
+        {
+          "question": "Which hormone is produced by the thymus?",
+          "options": ["Thymosin", "Insulin", "Thyroxine", "Cortisol"],
+          "correct_answer": "Thymosin"
+        },
+        {
+          "question": "What is the function of prolactin?",
+          "options": ["Stimulate milk production", "Control metabolism", "Promote growth", "Lower blood glucose"],
+          "correct_answer": "Stimulate milk production"
+        },
+        {
+          "question": "Which hormone is produced by the kidneys?",
+          "options": ["Erythropoietin", "Insulin", "Thyroxine", "Cortisol"],
+          "correct_answer": "Erythropoietin"
+        },
+        {
+          "question": "What is the function of aldosterone?",
+          "options": ["Regulate sodium balance", "Control metabolism", "Promote growth", "Lower blood glucose"],
+          "correct_answer": "Regulate sodium balance"
+        },
+        {
+          "question": "Which hormone is produced by the heart?",
+          "options": ["Atrial natriuretic peptide", "Insulin", "Thyroxine", "Cortisol"],
+          "correct_answer": "Atrial natriuretic peptide"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Cardiovascular System",
+      "topics": [
+        "Heart anatomy",
+        "Cardiac cycle",
+        "Blood vessels",
+        "Blood pressure",
+        "Cardiac output"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the function of the heart?",
+          "options": ["Pump blood", "Filter blood", "Store blood", "Produce blood"],
+          "correct_answer": "Pump blood"
+        },
+        {
+          "question": "Which chamber of the heart receives oxygenated blood?",
+          "options": ["Left atrium", "Right atrium", "Left ventricle", "Right ventricle"],
+          "correct_answer": "Left atrium"
+        },
+        {
+          "question": "What is the function of the right ventricle?",
+          "options": ["Pump blood to lungs", "Pump blood to body", "Receive blood from lungs", "Receive blood from body"],
+          "correct_answer": "Pump blood to lungs"
+        },
+        {
+          "question": "Which blood vessel carries oxygenated blood?",
+          "options": ["Artery", "Vein", "Capillary", "Venule"],
+          "correct_answer": "Artery"
+        },
+        {
+          "question": "What is normal blood pressure?",
+          "options": ["120/80 mmHg", "140/90 mmHg", "100/60 mmHg", "160/100 mmHg"],
+          "correct_answer": "120/80 mmHg"
+        },
+        {
+          "question": "What is the function of the left ventricle?",
+          "options": ["Pump blood to body", "Pump blood to lungs", "Receive blood from lungs", "Receive blood from body"],
+          "correct_answer": "Pump blood to body"
+        },
+        {
+          "question": "Which valve prevents backflow of blood into the left atrium?",
+          "options": ["Mitral valve", "Tricuspid valve", "Aortic valve", "Pulmonary valve"],
+          "correct_answer": "Mitral valve"
+        },
+        {
+          "question": "What is the function of capillaries?",
+          "options": ["Exchange substances", "Carry blood", "Store blood", "Filter blood"],
+          "correct_answer": "Exchange substances"
+        },
+        {
+          "question": "What is cardiac output?",
+          "options": ["Volume of blood pumped per minute", "Blood pressure", "Heart rate", "Stroke volume"],
+          "correct_answer": "Volume of blood pumped per minute"
+        },
+        {
+          "question": "Which blood vessel has valves?",
+          "options": ["Vein", "Artery", "Capillary", "Arteriole"],
+          "correct_answer": "Vein"
+        },
+        {
+          "question": "What is the function of the right atrium?",
+          "options": ["Receive blood from body", "Receive blood from lungs", "Pump blood to body", "Pump blood to lungs"],
+          "correct_answer": "Receive blood from body"
+        },
+        {
+          "question": "Which valve prevents backflow of blood into the right atrium?",
+          "options": ["Tricuspid valve", "Mitral valve", "Aortic valve", "Pulmonary valve"],
+          "correct_answer": "Tricuspid valve"
+        },
+        {
+          "question": "What is the function of arteries?",
+          "options": ["Carry blood away from heart", "Carry blood to heart", "Exchange substances", "Store blood"],
+          "correct_answer": "Carry blood away from heart"
+        },
+        {
+          "question": "What is stroke volume?",
+          "options": ["Volume of blood pumped per beat", "Blood pressure", "Heart rate", "Cardiac output"],
+          "correct_answer": "Volume of blood pumped per beat"
+        },
+        {
+          "question": "Which blood vessel has the highest pressure?",
+          "options": ["Artery", "Vein", "Capillary", "Venule"],
+          "correct_answer": "Artery"
+        },
+        {
+          "question": "What is the function of the left atrium?",
+          "options": ["Receive blood from lungs", "Receive blood from body", "Pump blood to body", "Pump blood to lungs"],
+          "correct_answer": "Receive blood from lungs"
+        },
+        {
+          "question": "Which valve prevents backflow of blood into the left ventricle?",
+          "options": ["Aortic valve", "Mitral valve", "Tricuspid valve", "Pulmonary valve"],
+          "correct_answer": "Aortic valve"
+        },
+        {
+          "question": "What is the function of veins?",
+          "options": ["Carry blood to heart", "Carry blood away from heart", "Exchange substances", "Store blood"],
+          "correct_answer": "Carry blood to heart"
+        },
+        {
+          "question": "What is heart rate?",
+          "options": ["Number of beats per minute", "Blood pressure", "Stroke volume", "Cardiac output"],
+          "correct_answer": "Number of beats per minute"
+        },
+        {
+          "question": "Which blood vessel has the lowest pressure?",
+          "options": ["Vein", "Artery", "Capillary", "Arteriole"],
+          "correct_answer": "Vein"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Respiratory System",
+      "topics": [
+        "Anatomy of respiratory system",
+        "Mechanics of breathing",
+        "Gas exchange",
+        "Transport of gases",
+        "Regulation of respiration"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the function of the respiratory system?",
+          "options": ["Exchange gases", "Pump blood", "Filter blood", "Store oxygen"],
+          "correct_answer": "Exchange gases"
+        },
+        {
+          "question": "Which structure is the site of gas exchange?",
+          "options": ["Alveoli", "Bronchi", "Trachea", "Larynx"],
+          "correct_answer": "Alveoli"
+        },
+        {
+          "question": "What is the function of the diaphragm?",
+          "options": ["Help in breathing", "Pump blood", "Filter blood", "Store oxygen"],
+          "correct_answer": "Help in breathing"
+        },
+        {
+          "question": "Which gas is transported by hemoglobin?",
+          "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+          "correct_answer": "Oxygen"
+        },
+        {
+          "question": "What is the normal respiratory rate?",
+          "options": ["12-20 breaths per minute", "20-30 breaths per minute", "30-40 breaths per minute", "40-50 breaths per minute"],
+          "correct_answer": "12-20 breaths per minute"
+        },
+        {
+          "question": "What is the function of the trachea?",
+          "options": ["Conduct air", "Exchange gases", "Pump blood", "Filter blood"],
+          "correct_answer": "Conduct air"
+        },
+        {
+          "question": "Which structure prevents food from entering the trachea?",
+          "options": ["Epiglottis", "Larynx", "Pharynx", "Esophagus"],
+          "correct_answer": "Epiglottis"
+        },
+        {
+          "question": "What is the function of the bronchi?",
+          "options": ["Conduct air", "Exchange gases", "Pump blood", "Filter blood"],
+          "correct_answer": "Conduct air"
+        },
+        {
+          "question": "Which gas is transported as bicarbonate?",
+          "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+          "correct_answer": "Carbon dioxide"
+        },
+        {
+          "question": "What is tidal volume?",
+          "options": ["Volume of air in normal breath", "Maximum volume of air", "Residual volume", "Vital capacity"],
+          "correct_answer": "Volume of air in normal breath"
+        },
+        {
+          "question": "What is the function of the larynx?",
+          "options": ["Produce sound", "Exchange gases", "Pump blood", "Filter blood"],
+          "correct_answer": "Produce sound"
+        },
+        {
+          "question": "Which structure contains vocal cords?",
+          "options": ["Larynx", "Trachea", "Bronchi", "Alveoli"],
+          "correct_answer": "Larynx"
+        },
+        {
+          "question": "What is the function of the pharynx?",
+          "options": ["Conduct air and food", "Exchange gases", "Pump blood", "Filter blood"],
+          "correct_answer": "Conduct air and food"
+        },
+        {
+          "question": "Which gas is transported dissolved in plasma?",
+          "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+          "correct_answer": "Carbon dioxide"
+        },
+        {
+          "question": "What is vital capacity?",
+          "options": ["Maximum volume of air exhaled", "Volume of air in normal breath", "Residual volume", "Tidal volume"],
+          "correct_answer": "Maximum volume of air exhaled"
+        },
+        {
+          "question": "What is the function of the nasal cavity?",
+          "options": ["Warm and filter air", "Exchange gases", "Pump blood", "Store oxygen"],
+          "correct_answer": "Warm and filter air"
+        },
+        {
+          "question": "Which structure divides into bronchi?",
+          "options": ["Trachea", "Larynx", "Pharynx", "Alveoli"],
+          "correct_answer": "Trachea"
+        },
+        {
+          "question": "What is the function of the bronchioles?",
+          "options": ["Conduct air", "Exchange gases", "Pump blood", "Filter blood"],
+          "correct_answer": "Conduct air"
+        },
+        {
+          "question": "Which gas is transported by carbaminohemoglobin?",
+          "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+          "correct_answer": "Carbon dioxide"
+        },
+        {
+          "question": "What is residual volume?",
+          "options": ["Volume of air remaining in lungs", "Volume of air in normal breath", "Maximum volume of air", "Vital capacity"],
+          "correct_answer": "Volume of air remaining in lungs"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Digestive System",
+      "topics": [
+        "Anatomy of digestive system",
+        "Digestive processes",
+        "Enzymes and their functions",
+        "Absorption of nutrients",
+        "Metabolism of nutrients"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the function of the digestive system?",
+          "options": ["Break down food", "Pump blood", "Exchange gases", "Filter blood"],
+          "correct_answer": "Break down food"
+        },
+        {
+          "question": "Which organ produces bile?",
+          "options": ["Liver", "Pancreas", "Stomach", "Small intestine"],
+          "correct_answer": "Liver"
+        },
+        {
+          "question": "What is the function of the stomach?",
+          "options": ["Store and mix food", "Absorb nutrients", "Produce bile", "Filter blood"],
+          "correct_answer": "Store and mix food"
+        },
+        {
+          "question": "Which enzyme breaks down proteins?",
+          "options": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+          "correct_answer": "Pepsin"
+        },
+        {
+          "question": "What is the function of the small intestine?",
+          "options": ["Absorb nutrients", "Store food", "Produce bile", "Filter blood"],
+          "correct_answer": "Absorb nutrients"
+        },
+        {
+          "question": "Which organ produces digestive enzymes?",
+          "options": ["Pancreas", "Liver", "Stomach", "Small intestine"],
+          "correct_answer": "Pancreas"
+        },
+        {
+          "question": "What is the function of the large intestine?",
+          "options": ["Absorb water", "Absorb nutrients", "Produce bile", "Filter blood"],
+          "correct_answer": "Absorb water"
+        },
+        {
+          "question": "Which enzyme breaks down carbohydrates?",
+          "options": ["Amylase", "Pepsin", "Lipase", "Trypsin"],
+          "correct_answer": "Amylase"
+        },
+        {
+          "question": "What is the function of the esophagus?",
+          "options": ["Transport food", "Absorb nutrients", "Produce bile", "Filter blood"],
+          "correct_answer": "Transport food"
+        },
+        {
+          "question": "Which enzyme breaks down fats?",
+          "options": ["Lipase", "Amylase", "Pepsin", "Trypsin"],
+          "correct_answer": "Lipase"
+        },
+        {
+          "question": "What is the function of the mouth?",
+          "options": ["Begin digestion", "Absorb nutrients", "Produce bile", "Filter blood"],
+          "correct_answer": "Begin digestion"
+        },
+        {
+          "question": "Which organ stores bile?",
+          "options": ["Gallbladder", "Liver", "Pancreas", "Stomach"],
+          "correct_answer": "Gallbladder"
+        },
+        {
+          "question": "What is the function of the rectum?",
+          "options": ["Store feces", "Absorb nutrients", "Produce bile", "Filter blood"],
+          "correct_answer": "Store feces"
+        },
+        {
+          "question": "Which enzyme breaks down nucleic acids?",
+          "options": ["Nuclease", "Amylase", "Pepsin", "Lipase"],
+          "correct_answer": "Nuclease"
+        },
+        {
+          "question": "What is the function of the anus?",
+          "options": ["Expel feces", "Absorb nutrients", "Produce bile", "Filter blood"],
+          "correct_answer": "Expel feces"
+        },
+        {
+          "question": "Which organ produces hydrochloric acid?",
+          "options": ["Stomach", "Liver", "Pancreas", "Small intestine"],
+          "correct_answer": "Stomach"
+        },
+        {
+          "question": "What is the function of the duodenum?",
+          "options": ["Receive digestive juices", "Absorb nutrients", "Produce bile", "Filter blood"],
+          "correct_answer": "Receive digestive juices"
+        },
+        {
+          "question": "Which enzyme breaks down peptides?",
+          "options": ["Trypsin", "Amylase", "Pepsin", "Lipase"],
+          "correct_answer": "Trypsin"
+        },
+        {
+          "question": "What is the function of the jejunum?",
+          "options": ["Absorb nutrients", "Store food", "Produce bile", "Filter blood"],
+          "correct_answer": "Absorb nutrients"
+        },
+        {
+          "question": "Which enzyme breaks down lactose?",
+          "options": ["Lactase", "Amylase", "Pepsin", "Lipase"],
+          "correct_answer": "Lactase"
+        }
+      ]
+    }
+  }
+} 

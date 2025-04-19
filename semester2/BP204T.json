@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP204T",
+  "subject_name": "Pharmacognosy and Phytochemistry I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Pharmacognosy",
+      "topics": [
+        "Historical development of pharmacognosy",
+        "Sources of drugs",
+        "Organized and unorganized drugs",
+        "Classification of drugs",
+        "Drug evaluation methods"
+      ],
+      "mcqs": [
+        {
+          "question": "What is pharmacognosy?",
+          "options": ["Study of crude drugs", "Study of synthetic drugs", "Study of antibiotics", "Study of minerals"],
+          "correct_answer": "Study of crude drugs"
+        },
+        {
+          "question": "Which of the following is a source of natural drugs?",
+          "options": ["Plants", "Animals", "Minerals", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is an organized drug?",
+          "options": ["Whole plant", "Plant parts", "Plant extracts", "Plant chemicals"],
+          "correct_answer": "Plant parts"
+        },
+        {
+          "question": "Which classification system is based on morphology?",
+          "options": ["Alphabetical", "Taxonomical", "Morphological", "Chemical"],
+          "correct_answer": "Morphological"
+        },
+        {
+          "question": "What is organoleptic evaluation?",
+          "options": ["Physical evaluation", "Chemical evaluation", "Sensory evaluation", "Biological evaluation"],
+          "correct_answer": "Sensory evaluation"
+        },
+        {
+          "question": "Who is considered the father of Pharmacognosy?",
+          "options": ["Hippocrates", "Dioscorides", "Galen", "Theophrastus"],
+          "correct_answer": "Dioscorides"
+        },
+        {
+          "question": "What is an unorganized drug?",
+          "options": ["Leaf", "Bark", "Gum", "Root"],
+          "correct_answer": "Gum"
+        },
+        {
+          "question": "Which evaluation method determines ash value?",
+          "options": ["Physical", "Chemical", "Biological", "Microscopic"],
+          "correct_answer": "Physical"
+        },
+        {
+          "question": "What is the basis of chemical classification?",
+          "options": ["Active constituents", "Morphology", "Taxonomy", "Therapeutic use"],
+          "correct_answer": "Active constituents"
+        },
+        {
+          "question": "Which is a microscopic evaluation method?",
+          "options": ["Cell study", "Ash value", "Extractive value", "Foreign matter"],
+          "correct_answer": "Cell study"
+        },
+        {
+          "question": "What is crude drug?",
+          "options": ["Unrefined drug", "Pure drug", "Synthetic drug", "Semi-synthetic drug"],
+          "correct_answer": "Unrefined drug"
+        },
+        {
+          "question": "Which is a chemical evaluation method?",
+          "options": ["TLC", "Microscopy", "Taste", "Color"],
+          "correct_answer": "TLC"
+        },
+        {
+          "question": "What is taxonomical classification based on?",
+          "options": ["Plant relationships", "Chemical constituents", "Therapeutic use", "Physical properties"],
+          "correct_answer": "Plant relationships"
+        },
+        {
+          "question": "Which is not an organized drug?",
+          "options": ["Honey", "Leaf", "Flower", "Bark"],
+          "correct_answer": "Honey"
+        },
+        {
+          "question": "What determines extractive value?",
+          "options": ["Soluble constituents", "Insoluble matter", "Moisture content", "Ash content"],
+          "correct_answer": "Soluble constituents"
+        },
+        {
+          "question": "Which period marked significant development in pharmacognosy?",
+          "options": ["Middle Ages", "Renaissance", "Modern Era", "Ancient Times"],
+          "correct_answer": "Renaissance"
+        },
+        {
+          "question": "What is the primary source of drugs?",
+          "options": ["Plants", "Animals", "Minerals", "Microorganisms"],
+          "correct_answer": "Plants"
+        },
+        {
+          "question": "Which evaluation determines purity?",
+          "options": ["Foreign matter", "Moisture content", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is pharmacobotany?",
+          "options": ["Study of medicinal plants", "Study of crude drugs", "Study of chemicals", "Study of minerals"],
+          "correct_answer": "Study of medicinal plants"
+        },
+        {
+          "question": "Which classification is based on usage?",
+          "options": ["Therapeutic", "Chemical", "Morphological", "Taxonomical"],
+          "correct_answer": "Therapeutic"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Plant Products and Their Chemistry",
+      "topics": [
+        "Primary metabolites",
+        "Secondary metabolites",
+        "Plant metabolism",
+        "Biosynthetic pathways",
+        "Chemical constituents"
+      ],
+      "mcqs": [
+        {
+          "question": "What are primary metabolites?",
+          "options": ["Essential compounds", "Non-essential compounds", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Essential compounds"
+        },
+        {
+          "question": "Which is a secondary metabolite?",
+          "options": ["Alkaloids", "Proteins", "Carbohydrates", "Lipids"],
+          "correct_answer": "Alkaloids"
+        },
+        {
+          "question": "What is plant metabolism?",
+          "options": ["Chemical processes", "Physical processes", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Chemical processes"
+        },
+        {
+          "question": "Which pathway produces terpenoids?",
+          "options": ["Mevalonic acid", "Shikimic acid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Mevalonic acid"
+        },
+        {
+          "question": "What are glycosides?",
+          "options": ["Sugar derivatives", "Protein derivatives", "Lipid derivatives", "Nucleic acid derivatives"],
+          "correct_answer": "Sugar derivatives"
+        },
+        {
+          "question": "Which is a primary metabolite?",
+          "options": ["Glucose", "Morphine", "Quinine", "Atropine"],
+          "correct_answer": "Glucose"
+        },
+        {
+          "question": "What produces phenolics?",
+          "options": ["Shikimic acid pathway", "Mevalonic acid pathway", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Shikimic acid pathway"
+        },
+        {
+          "question": "Which is not a secondary metabolite?",
+          "options": ["Amino acids", "Alkaloids", "Tannins", "Glycosides"],
+          "correct_answer": "Amino acids"
+        },
+        {
+          "question": "What is biosynthesis?",
+          "options": ["Formation of compounds", "Breakdown of compounds", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Formation of compounds"
+        },
+        {
+          "question": "Which are essential for life?",
+          "options": ["Primary metabolites", "Secondary metabolites", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Primary metabolites"
+        },
+        {
+          "question": "What produces alkaloids?",
+          "options": ["Amino acids", "Acetate", "Mevalonate", "Shikimate"],
+          "correct_answer": "Amino acids"
+        },
+        {
+          "question": "Which is a carbohydrate?",
+          "options": ["Glucose", "Morphine", "Tannin", "Quercetin"],
+          "correct_answer": "Glucose"
+        },
+        {
+          "question": "What is photosynthesis?",
+          "options": ["Primary metabolism", "Secondary metabolism", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Primary metabolism"
+        },
+        {
+          "question": "Which pathway is primary?",
+          "options": ["Glycolysis", "Shikimic acid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Glycolysis"
+        },
+        {
+          "question": "What are volatile oils?",
+          "options": ["Secondary metabolites", "Primary metabolites", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Secondary metabolites"
+        },
+        {
+          "question": "Which is a protein?",
+          "options": ["Enzymes", "Alkaloids", "Glycosides", "Tannins"],
+          "correct_answer": "Enzymes"
+        },
+        {
+          "question": "What produces flavonoids?",
+          "options": ["Shikimic acid pathway", "Mevalonic acid pathway", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Shikimic acid pathway"
+        },
+        {
+          "question": "Which is a lipid?",
+          "options": ["Fixed oil", "Alkaloid", "Glycoside", "Tannin"],
+          "correct_answer": "Fixed oil"
+        },
+        {
+          "question": "What is acetate pathway?",
+          "options": ["Secondary metabolism", "Primary metabolism", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Secondary metabolism"
+        },
+        {
+          "question": "Which are defense compounds?",
+          "options": ["Secondary metabolites", "Primary metabolites", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Secondary metabolites"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Quality Control Methods",
+      "topics": [
+        "Quality control parameters",
+        "Adulteration and evaluation",
+        "Microscopic analysis",
+        "Chemical analysis",
+        "Biological standardization"
+      ],
+      "mcqs": [
+        {
+          "question": "What is quality control?",
+          "options": ["Standard maintenance", "Purity check", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an adulterant?",
+          "options": ["Foreign substance", "Active ingredient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Foreign substance"
+        },
+        {
+          "question": "What is microscopic analysis?",
+          "options": ["Cell study", "Chemical study", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Cell study"
+        },
+        {
+          "question": "Which is a chemical test?",
+          "options": ["TLC", "Microscopy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "TLC"
+        },
+        {
+          "question": "What is biological standardization?",
+          "options": ["Potency determination", "Purity determination", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Potency determination"
+        },
+        {
+          "question": "Which parameter determines moisture?",
+          "options": ["Loss on drying", "Ash value", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Loss on drying"
+        },
+        {
+          "question": "What is substitution?",
+          "options": ["Complete replacement", "Partial replacement", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Complete replacement"
+        },
+        {
+          "question": "Which stain is used in microscopy?",
+          "options": ["Safranin", "Methylene blue", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What determines total ash?",
+          "options": ["Inorganic content", "Organic content", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Inorganic content"
+        },
+        {
+          "question": "Which is a biological test?",
+          "options": ["Animal testing", "Chemical testing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Animal testing"
+        },
+        {
+          "question": "What is foreign matter?",
+          "options": ["Contaminant", "Adulterant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which determines identity?",
+          "options": ["Chemical tests", "Physical tests", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is extractive value?",
+          "options": ["Soluble content", "Insoluble content", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Soluble content"
+        },
+        {
+          "question": "Which microscope is used?",
+          "options": ["Compound", "Simple", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is chromatography?",
+          "options": ["Separation technique", "Identification technique", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which determines purity?",
+          "options": ["Quality control", "Standardization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is deterioration?",
+          "options": ["Quality loss", "Potency loss", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a physical parameter?",
+          "options": ["Moisture content", "Ash value", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is standardization?",
+          "options": ["Quality maintenance", "Standard establishment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which determines strength?",
+          "options": ["Biological assay", "Chemical assay", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Medicinal Plant Products",
+      "topics": [
+        "Herbal drug development",
+        "Plant tissue culture",
+        "Marine products",
+        "Natural allergens",
+        "Plant toxins"
+      ],
+      "mcqs": [
+        {
+          "question": "What is herbal drug?",
+          "options": ["Plant medicine", "Animal medicine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Plant medicine"
+        },
+        {
+          "question": "Which is tissue culture?",
+          "options": ["In vitro growth", "In vivo growth", "Both A and B", "Neither A nor B"],
+          "correct_answer": "In vitro growth"
+        },
+        {
+          "question": "What are marine products?",
+          "options": ["Sea-derived drugs", "Land-derived drugs", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Sea-derived drugs"
+        },
+        {
+          "question": "Which is an allergen?",
+          "options": ["Pollen", "Spores", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a toxin?",
+          "options": ["Poisonous substance", "Beneficial substance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Poisonous substance"
+        },
+        {
+          "question": "Which culture type is used?",
+          "options": ["Callus", "Cell suspension", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is biotechnology?",
+          "options": ["Biological application", "Technical application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a marine source?",
+          "options": ["Algae", "Sponges", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What causes allergy?",
+          "options": ["Immune response", "Normal response", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Immune response"
+        },
+        {
+          "question": "Which is toxic?",
+          "options": ["Ricin", "Abrin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is micropropagation?",
+          "options": ["Plant multiplication", "Plant reduction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Plant multiplication"
+        },
+        {
+          "question": "Which medium is used?",
+          "options": ["MS medium", "White's medium", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What are coral products?",
+          "options": ["Marine drugs", "Terrestrial drugs", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Marine drugs"
+        },
+        {
+          "question": "Which causes hypersensitivity?",
+          "options": ["Allergens", "Toxins", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Allergens"
+        },
+        {
+          "question": "What is LD50?",
+          "options": ["Lethal dose", "Therapeutic dose", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Lethal dose"
+        },
+        {
+          "question": "Which hormone is used?",
+          "options": ["Auxins", "Cytokinins", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is elicitation?",
+          "options": ["Stress induction", "Growth promotion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Stress induction"
+        },
+        {
+          "question": "Which marine product is used?",
+          "options": ["Agar", "Alginates", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is contact allergy?",
+          "options": ["Direct reaction", "Indirect reaction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Direct reaction"
+        },
+        {
+          "question": "Which plant is toxic?",
+          "options": ["Datura", "Aconite", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Traditional Medicine and Cosmeceuticals",
+      "topics": [
+        "Traditional medicine systems",
+        "Ayurveda principles",
+        "Traditional Chinese Medicine",
+        "Natural cosmetics",
+        "Herbal formulations"
+      ],
+      "mcqs": [
+        {
+          "question": "What is traditional medicine?",
+          "options": ["Ancient practice", "Modern practice", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Ancient practice"
+        },
+        {
+          "question": "Which is Ayurvedic concept?",
+          "options": ["Tridosha", "Five elements", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is TCM?",
+          "options": ["Chinese medicine", "Indian medicine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Chinese medicine"
+        },
+        {
+          "question": "Which is natural cosmetic?",
+          "options": ["Herbal product", "Synthetic product", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Herbal product"
+        },
+        {
+          "question": "What is formulation?",
+          "options": ["Preparation method", "Application method", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Preparation method"
+        },
+        {
+          "question": "Which system is Indian?",
+          "options": ["Ayurveda", "Siddha", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Vata?",
+          "options": ["Air principle", "Fire principle", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Air principle"
+        },
+        {
+          "question": "Which is TCM concept?",
+          "options": ["Yin-Yang", "Five elements", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is cosmeceutical?",
+          "options": ["Cosmetic drug", "Pure cosmetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Cosmetic drug"
+        },
+        {
+          "question": "Which is herbal preparation?",
+          "options": ["Decoction", "Infusion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Unani?",
+          "options": ["Greek medicine", "Chinese medicine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Greek medicine"
+        },
+        {
+          "question": "Which is Pitta?",
+          "options": ["Fire principle", "Water principle", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Fire principle"
+        },
+        {
+          "question": "What is acupuncture?",
+          "options": ["TCM therapy", "Ayurvedic therapy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "TCM therapy"
+        },
+        {
+          "question": "Which is natural preservative?",
+          "options": ["Essential oils", "Synthetic chemicals", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Essential oils"
+        },
+        {
+          "question": "What is standardization?",
+          "options": ["Quality control", "Quality assurance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is Kapha?",
+          "options": ["Water principle", "Air principle", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Water principle"
+        },
+        {
+          "question": "What is meridian?",
+          "options": ["Energy pathway", "Blood pathway", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Energy pathway"
+        },
+        {
+          "question": "Which is herbal cosmetic?",
+          "options": ["Natural product", "Synthetic product", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Natural product"
+        },
+        {
+          "question": "What is extraction?",
+          "options": ["Separation process", "Mixing process", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Separation process"
+        },
+        {
+          "question": "Which system uses pulse diagnosis?",
+          "options": ["Ayurveda", "TCM", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

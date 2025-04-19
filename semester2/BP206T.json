@@ -1,0 +1,566 @@
+{
+    "subject_code": "BP206T",
+    "subject_name": "Computer Applications in Pharmacy",
+    "units": {
+        "unit_1": {
+            "unit_name": "Introduction to Computers",
+            "topics": [
+                "Computer fundamentals",
+                "Hardware and software",
+                "Operating systems",
+                "Input and output devices",
+                "Memory and storage"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is a computer?",
+                    "options": ["Electronic device", "Data processor", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is computer hardware?",
+                    "options": ["CPU", "Monitor", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is software?",
+                    "options": ["Programs", "Instructions", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is an operating system?",
+                    "options": ["Windows", "Linux", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is RAM?",
+                    "options": ["Random Access Memory", "Temporary storage", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is an input device?",
+                    "options": ["Keyboard", "Mouse", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is ROM?",
+                    "options": ["Read Only Memory", "Permanent storage", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is an output device?",
+                    "options": ["Monitor", "Printer", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is a hard disk?",
+                    "options": ["Storage device", "Secondary memory", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is system software?",
+                    "options": ["Operating system", "Device drivers", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is application software?",
+                    "options": ["Word processor", "Spreadsheet", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a storage device?",
+                    "options": ["USB drive", "DVD", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is a processor?",
+                    "options": ["CPU", "Brain of computer", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is volatile memory?",
+                    "options": ["RAM", "Cache", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is non-volatile memory?",
+                    "options": ["ROM", "Hard disk", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a pointing device?",
+                    "options": ["Mouse", "Trackpad", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is a motherboard?",
+                    "options": ["Main circuit board", "System board", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a display device?",
+                    "options": ["Monitor", "LCD", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is cache memory?",
+                    "options": ["Fast memory", "Small memory", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is utility software?",
+                    "options": ["Antivirus", "Disk cleanup", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                }
+            ]
+        },
+        "unit_2": {
+            "unit_name": "Web Technologies",
+            "topics": [
+                "Internet basics",
+                "Web browsers",
+                "HTML fundamentals",
+                "Website development",
+                "Web security"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the Internet?",
+                    "options": ["Network of networks", "Global network", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a web browser?",
+                    "options": ["Chrome", "Firefox", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is HTML?",
+                    "options": ["Markup language", "Web language", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a domain name?",
+                    "options": [".com", ".org", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is URL?",
+                    "options": ["Web address", "Resource locator", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a web server?",
+                    "options": ["Apache", "IIS", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is HTTP?",
+                    "options": ["Transfer protocol", "Web protocol", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is web security?",
+                    "options": ["HTTPS", "SSL", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is CSS?",
+                    "options": ["Style sheet", "Design language", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is client-side?",
+                    "options": ["HTML", "JavaScript", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is server-side?",
+                    "options": ["PHP", "Python", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a web host?",
+                    "options": ["Server provider", "Domain provider", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is DNS?",
+                    "options": ["Name system", "Address resolver", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is web content?",
+                    "options": ["Text", "Images", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is bandwidth?",
+                    "options": ["Data rate", "Transfer speed", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is web design?",
+                    "options": ["Layout", "Graphics", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is responsive design?",
+                    "options": ["Mobile friendly", "Screen adaptive", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is web hosting?",
+                    "options": ["File storage", "Website storage", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is SEO?",
+                    "options": ["Search optimization", "Website ranking", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is web analytics?",
+                    "options": ["Traffic analysis", "User tracking", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                }
+            ]
+        },
+        "unit_3": {
+            "unit_name": "Pharmacy Drug Database Management",
+            "topics": [
+                "Database fundamentals",
+                "Drug information systems",
+                "Data entry and retrieval",
+                "Database security",
+                "Drug database applications"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is a database?",
+                    "options": ["Data collection", "Information storage", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is a DBMS?",
+                    "options": ["MySQL", "Oracle", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is data entry?",
+                    "options": ["Input process", "Data recording", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is drug information?",
+                    "options": ["Dosage", "Side effects", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is data security?",
+                    "options": ["Protection", "Privacy", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is database design?",
+                    "options": ["Schema", "Structure", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is data retrieval?",
+                    "options": ["Search", "Query", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is data backup?",
+                    "options": ["Copy", "Storage", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is data integrity?",
+                    "options": ["Accuracy", "Consistency", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is data validation?",
+                    "options": ["Checking", "Verification", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is data redundancy?",
+                    "options": ["Duplication", "Repetition", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is data normalization?",
+                    "options": ["Organization", "Structuring", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is data encryption?",
+                    "options": ["Coding", "Protection", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is data backup?",
+                    "options": ["Safety copy", "Recovery copy", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is data mining?",
+                    "options": ["Analysis", "Pattern finding", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is data warehousing?",
+                    "options": ["Storage", "Management", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is query language?",
+                    "options": ["SQL", "Database language", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is data model?",
+                    "options": ["Structure", "Relationship", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is primary key?",
+                    "options": ["Unique identifier", "Record identifier", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is foreign key?",
+                    "options": ["Reference key", "Relationship key", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                }
+            ]
+        },
+        "unit_4": {
+            "unit_name": "Application of Computers in Pharmacy",
+            "topics": [
+                "Drug information storage",
+                "Inventory management",
+                "Prescription processing",
+                "Hospital pharmacy",
+                "Clinical pharmacy"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is pharmacy software?",
+                    "options": ["Management system", "Drug database", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is inventory control?",
+                    "options": ["Stock management", "Supply chain", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is prescription processing?",
+                    "options": ["Order entry", "Verification", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is hospital pharmacy?",
+                    "options": ["Inpatient", "Outpatient", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is clinical pharmacy?",
+                    "options": ["Patient care", "Drug therapy", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is drug interaction?",
+                    "options": ["Drug-drug", "Drug-food", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is billing system?",
+                    "options": ["Invoice", "Payment", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is patient record?",
+                    "options": ["Medical history", "Prescription history", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is drug dispensing?",
+                    "options": ["Distribution", "Supply", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is pharmacy management?",
+                    "options": ["Staff", "Operations", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is drug ordering?",
+                    "options": ["Purchase", "Procurement", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is stock control?",
+                    "options": ["Inventory", "Supply", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is patient counseling?",
+                    "options": ["Education", "Guidance", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is drug information?",
+                    "options": ["Properties", "Usage", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is pharmacy automation?",
+                    "options": ["Robotics", "Technology", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is quality control?",
+                    "options": ["Standards", "Compliance", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is drug safety?",
+                    "options": ["Monitoring", "Reporting", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is pharmacy network?",
+                    "options": ["Connection", "Communication", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is drug tracking?",
+                    "options": ["Location", "Movement", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is pharmacy security?",
+                    "options": ["Protection", "Control", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                }
+            ]
+        },
+        "unit_5": {
+            "unit_name": "Bioinformatics",
+            "topics": [
+                "Introduction to bioinformatics",
+                "Biological databases",
+                "Sequence analysis",
+                "Structure prediction",
+                "Drug design"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is bioinformatics?",
+                    "options": ["Biological data analysis", "Computer applications in biology", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is biological database?",
+                    "options": ["GenBank", "PDB", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is sequence analysis?",
+                    "options": ["DNA analysis", "Protein analysis", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is structure prediction?",
+                    "options": ["Protein structure", "RNA structure", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is drug design?",
+                    "options": ["Molecular modeling", "Structure-based design", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is sequence alignment?",
+                    "options": ["Local alignment", "Global alignment", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is BLAST?",
+                    "options": ["Sequence tool", "Search tool", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is molecular docking?",
+                    "options": ["Binding prediction", "Interaction study", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is phylogenetics?",
+                    "options": ["Evolution study", "Relationship study", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is homology modeling?",
+                    "options": ["Structure prediction", "Protein modeling", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is genomics?",
+                    "options": ["Gene study", "DNA study", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is proteomics?",
+                    "options": ["Protein study", "Structure study", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is virtual screening?",
+                    "options": ["Drug screening", "Compound screening", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is data mining?",
+                    "options": ["Pattern finding", "Knowledge discovery", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is systems biology?",
+                    "options": ["System study", "Network analysis", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is structural biology?",
+                    "options": ["3D structure", "Molecular structure", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is cheminformatics?",
+                    "options": ["Chemical information", "Drug information", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is database search?",
+                    "options": ["Data retrieval", "Information search", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "What is protein modeling?",
+                    "options": ["Structure modeling", "Function prediction", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                },
+                {
+                    "question": "Which is drug discovery?",
+                    "options": ["Lead identification", "Drug development", "Both A and B", "Neither A nor B"],
+                    "correct_answer": "Both A and B"
+                }
+            ]
+        }
+    }
+} 

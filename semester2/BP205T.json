@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP205T",
+  "subject_name": "Environmental Sciences",
+  "units": {
+    "unit_1": {
+      "unit_name": "Environmental Science and Ecosystems",
+      "topics": [
+        "Introduction to environmental science",
+        "Components of environment",
+        "Types of ecosystems",
+        "Energy flow in ecosystems",
+        "Ecological succession"
+      ],
+      "mcqs": [
+        {
+          "question": "What is environmental science?",
+          "options": ["Study of environment", "Study of ecosystems", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which are components of environment?",
+          "options": ["Biotic", "Abiotic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an ecosystem?",
+          "options": ["Biological community", "Physical environment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a terrestrial ecosystem?",
+          "options": ["Forest", "Desert", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is ecological succession?",
+          "options": ["Community change", "Environmental change", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an aquatic ecosystem?",
+          "options": ["Pond", "Ocean", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is energy flow?",
+          "options": ["Transfer of energy", "Loss of energy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a biotic component?",
+          "options": ["Plants", "Animals", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is primary succession?",
+          "options": ["On bare rock", "On existing soil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "On bare rock"
+        },
+        {
+          "question": "Which is an abiotic component?",
+          "options": ["Air", "Water", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a food chain?",
+          "options": ["Energy transfer", "Matter transfer", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a producer?",
+          "options": ["Green plants", "Algae", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is secondary succession?",
+          "options": ["After disturbance", "On new surface", "Both A and B", "Neither A nor B"],
+          "correct_answer": "After disturbance"
+        },
+        {
+          "question": "Which is a consumer?",
+          "options": ["Herbivore", "Carnivore", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a food web?",
+          "options": ["Multiple food chains", "Single food chain", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Multiple food chains"
+        },
+        {
+          "question": "Which is a decomposer?",
+          "options": ["Bacteria", "Fungi", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a habitat?",
+          "options": ["Living place", "Feeding place", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Living place"
+        },
+        {
+          "question": "Which is a niche?",
+          "options": ["Functional role", "Physical space", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Functional role"
+        },
+        {
+          "question": "What is biomass?",
+          "options": ["Living material", "Dead material", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Living material"
+        },
+        {
+          "question": "Which is a trophic level?",
+          "options": ["Producers", "Consumers", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Environmental Pollution",
+      "topics": [
+        "Air pollution",
+        "Water pollution",
+        "Soil pollution",
+        "Noise pollution",
+        "Radioactive pollution"
+      ],
+      "mcqs": [
+        {
+          "question": "What is pollution?",
+          "options": ["Environmental contamination", "Resource depletion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Environmental contamination"
+        },
+        {
+          "question": "Which are air pollutants?",
+          "options": ["CO2", "SO2", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What causes water pollution?",
+          "options": ["Industrial waste", "Domestic waste", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which causes soil pollution?",
+          "options": ["Pesticides", "Heavy metals", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is noise pollution?",
+          "options": ["Unwanted sound", "Harmful sound", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which causes radioactive pollution?",
+          "options": ["Nuclear plants", "Nuclear tests", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is acid rain?",
+          "options": ["pH below 5.6", "Contains acids", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which causes ozone depletion?",
+          "options": ["CFCs", "Halons", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is eutrophication?",
+          "options": ["Nutrient enrichment", "Algal bloom", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which measures noise?",
+          "options": ["Decibel", "Hertz", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Decibel"
+        },
+        {
+          "question": "What is BOD?",
+          "options": ["Oxygen demand", "Pollution indicator", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a greenhouse gas?",
+          "options": ["CO2", "CH4", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is bioaccumulation?",
+          "options": ["Toxin accumulation", "Nutrient accumulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Toxin accumulation"
+        },
+        {
+          "question": "Which causes smog?",
+          "options": ["Air pollutants", "Sunlight", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is thermal pollution?",
+          "options": ["Temperature change", "Heat addition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is biodegradable?",
+          "options": ["Food waste", "Plastic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Food waste"
+        },
+        {
+          "question": "What is radiation?",
+          "options": ["Energy emission", "Particle emission", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which causes indoor pollution?",
+          "options": ["Smoking", "Cooking", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is COD?",
+          "options": ["Chemical demand", "Oxygen demand", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is non-biodegradable?",
+          "options": ["Plastic", "Metal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Natural Resources and Conservation",
+      "topics": [
+        "Water resources",
+        "Forest resources",
+        "Mineral resources",
+        "Food resources",
+        "Energy resources"
+      ],
+      "mcqs": [
+        {
+          "question": "What are natural resources?",
+          "options": ["Earth's materials", "Natural processes", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a renewable resource?",
+          "options": ["Solar energy", "Wind energy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is conservation?",
+          "options": ["Resource protection", "Sustainable use", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is non-renewable?",
+          "options": ["Coal", "Oil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is deforestation?",
+          "options": ["Forest clearing", "Tree cutting", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a water source?",
+          "options": ["Rivers", "Lakes", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is mining?",
+          "options": ["Mineral extraction", "Resource exploitation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is sustainable?",
+          "options": ["Solar power", "Wind power", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is watershed?",
+          "options": ["Drainage area", "Water source", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a fossil fuel?",
+          "options": ["Coal", "Petroleum", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is afforestation?",
+          "options": ["Tree planting", "Forest creation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is groundwater?",
+          "options": ["Underground water", "Aquifer water", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is overgrazing?",
+          "options": ["Excessive grazing", "Land degradation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is alternative energy?",
+          "options": ["Solar", "Wind", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is soil erosion?",
+          "options": ["Soil loss", "Land degradation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is water conservation?",
+          "options": ["Rainwater harvesting", "Water recycling", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is sustainable development?",
+          "options": ["Resource conservation", "Economic growth", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is energy conservation?",
+          "options": ["Efficient use", "Reduced waste", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is organic farming?",
+          "options": ["Natural farming", "Chemical-free farming", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is resource management?",
+          "options": ["Efficient use", "Conservation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Social Issues and Environment",
+      "topics": [
+        "Urban problems",
+        "Climate change",
+        "Waste management",
+        "Environmental ethics",
+        "Environmental awareness"
+      ],
+      "mcqs": [
+        {
+          "question": "What are urban problems?",
+          "options": ["Overcrowding", "Pollution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which causes climate change?",
+          "options": ["Greenhouse gases", "Deforestation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is waste management?",
+          "options": ["Collection", "Disposal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is environmental ethics?",
+          "options": ["Moral values", "Environmental protection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental awareness?",
+          "options": ["Knowledge", "Understanding", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is urbanization?",
+          "options": ["City growth", "Population increase", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is global warming?",
+          "options": ["Temperature rise", "Climate change", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is waste segregation?",
+          "options": ["Dry waste", "Wet waste", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental education?",
+          "options": ["Awareness", "Action", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is sustainable living?",
+          "options": ["Resource conservation", "Minimal impact", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is population growth?",
+          "options": ["Number increase", "Resource pressure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is recycling?",
+          "options": ["Waste reuse", "Material recovery", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental policy?",
+          "options": ["Rules", "Regulations", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is environmental impact?",
+          "options": ["Direct effect", "Indirect effect", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is carbon footprint?",
+          "options": ["CO2 emission", "Environmental impact", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is environmental law?",
+          "options": ["Protection rules", "Conservation rules", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is sustainable city?",
+          "options": ["Eco-friendly", "Resource efficient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is environmental movement?",
+          "options": ["Social action", "Environmental protection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental justice?",
+          "options": ["Equal rights", "Fair treatment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is environmental responsibility?",
+          "options": ["Individual duty", "Collective duty", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Environmental Protection",
+      "topics": [
+        "Environmental laws",
+        "Environmental impact assessment",
+        "Disaster management",
+        "Environmental organizations",
+        "International conventions"
+      ],
+      "mcqs": [
+        {
+          "question": "What is environmental protection?",
+          "options": ["Conservation", "Preservation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is environmental law?",
+          "options": ["Air Act", "Water Act", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is EIA?",
+          "options": ["Impact assessment", "Project planning", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is disaster management?",
+          "options": ["Prevention", "Response", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is UNEP?",
+          "options": ["UN organization", "Environmental body", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is international convention?",
+          "options": ["Kyoto Protocol", "Montreal Protocol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental audit?",
+          "options": ["Assessment", "Evaluation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is natural disaster?",
+          "options": ["Earthquake", "Flood", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is WHO?",
+          "options": ["Health organization", "UN agency", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is Paris Agreement?",
+          "options": ["Climate action", "Global commitment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental monitoring?",
+          "options": ["Regular check", "Data collection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is man-made disaster?",
+          "options": ["Nuclear accident", "Chemical spill", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is WWF?",
+          "options": ["Wildlife organization", "Conservation body", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is Basel Convention?",
+          "options": ["Waste control", "Hazardous materials", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental standard?",
+          "options": ["Quality measure", "Performance measure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is disaster preparedness?",
+          "options": ["Planning", "Training", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is Greenpeace?",
+          "options": ["NGO", "Environmental organization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is Stockholm Convention?",
+          "options": ["Pollutant control", "Chemical regulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is environmental certification?",
+          "options": ["Standard compliance", "Quality assurance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is disaster recovery?",
+          "options": ["Restoration", "Rehabilitation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

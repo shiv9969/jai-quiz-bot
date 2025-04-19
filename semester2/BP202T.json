@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP202T",
+  "subject_name": "Pharmaceutical Organic Chemistry II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Carboxylic Acids and their Derivatives",
+      "topics": [
+        "Classification and nomenclature",
+        "Methods of preparation",
+        "Physical and chemical properties",
+        "Reactions and mechanisms",
+        "Pharmaceutical applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the general formula of carboxylic acids?",
+          "options": ["R-COOH", "R-OH", "R-CHO", "R-CO-R"],
+          "correct_answer": "R-COOH"
+        },
+        {
+          "question": "Which of the following is the strongest acid?",
+          "options": ["Formic acid", "Acetic acid", "Propionic acid", "Butyric acid"],
+          "correct_answer": "Formic acid"
+        },
+        {
+          "question": "What is the product of esterification?",
+          "options": ["Ester", "Alcohol", "Aldehyde", "Ketone"],
+          "correct_answer": "Ester"
+        },
+        {
+          "question": "Which reagent is used for the reduction of carboxylic acids to alcohols?",
+          "options": ["LiAlH4", "NaBH4", "H2/Pd", "Zn/HCl"],
+          "correct_answer": "LiAlH4"
+        },
+        {
+          "question": "What is the product of decarboxylation?",
+          "options": ["Alkane", "Alkene", "Alkyne", "Alcohol"],
+          "correct_answer": "Alkane"
+        },
+        {
+          "question": "Which derivative is formed when carboxylic acid reacts with ammonia?",
+          "options": ["Amide", "Ester", "Acid chloride", "Anhydride"],
+          "correct_answer": "Amide"
+        },
+        {
+          "question": "What is the product of hydrolysis of an ester?",
+          "options": ["Carboxylic acid and alcohol", "Aldehyde and alcohol", "Ketone and alcohol", "Acid chloride and alcohol"],
+          "correct_answer": "Carboxylic acid and alcohol"
+        },
+        {
+          "question": "Which test is used to identify carboxylic acids?",
+          "options": ["Sodium bicarbonate test", "Fehling's test", "Tollen's test", "Iodoform test"],
+          "correct_answer": "Sodium bicarbonate test"
+        },
+        {
+          "question": "What is the product of the Hell-Volhard-Zelinsky reaction?",
+          "options": ["α-Halo acid", "β-Halo acid", "γ-Halo acid", "δ-Halo acid"],
+          "correct_answer": "α-Halo acid"
+        },
+        {
+          "question": "Which derivative is most reactive towards nucleophilic substitution?",
+          "options": ["Acid chloride", "Ester", "Amide", "Anhydride"],
+          "correct_answer": "Acid chloride"
+        },
+        {
+          "question": "What is the product of the Arndt-Eistert synthesis?",
+          "options": ["Homologous acid", "Reduced acid", "Oxidized acid", "Dehydrated acid"],
+          "correct_answer": "Homologous acid"
+        },
+        {
+          "question": "Which reagent is used for the conversion of acid to acid chloride?",
+          "options": ["SOCl2", "PCl3", "PCl5", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the product of the Perkin reaction?",
+          "options": ["Cinnamic acid", "Benzoic acid", "Acetic acid", "Formic acid"],
+          "correct_answer": "Cinnamic acid"
+        },
+        {
+          "question": "Which derivative is used as a local anesthetic?",
+          "options": ["Benzocaine", "Aspirin", "Paracetamol", "Ibuprofen"],
+          "correct_answer": "Benzocaine"
+        },
+        {
+          "question": "What is the product of the Knoevenagel condensation?",
+          "options": ["α,β-Unsaturated acid", "β-Hydroxy acid", "γ-Hydroxy acid", "δ-Hydroxy acid"],
+          "correct_answer": "α,β-Unsaturated acid"
+        },
+        {
+          "question": "Which test is used to identify esters?",
+          "options": ["Hydroxamic acid test", "Fehling's test", "Tollen's test", "Iodoform test"],
+          "correct_answer": "Hydroxamic acid test"
+        },
+        {
+          "question": "What is the product of the Reformatsky reaction?",
+          "options": ["β-Hydroxy ester", "α-Hydroxy ester", "γ-Hydroxy ester", "δ-Hydroxy ester"],
+          "correct_answer": "β-Hydroxy ester"
+        },
+        {
+          "question": "Which derivative is used as a plasticizer?",
+          "options": ["Dibutyl phthalate", "Acetamide", "Acetic anhydride", "Acetyl chloride"],
+          "correct_answer": "Dibutyl phthalate"
+        },
+        {
+          "question": "What is the product of the Dieckmann condensation?",
+          "options": ["Cyclic β-keto ester", "Acyclic β-keto ester", "Cyclic α-keto ester", "Acyclic α-keto ester"],
+          "correct_answer": "Cyclic β-keto ester"
+        },
+        {
+          "question": "Which derivative is used as a solvent?",
+          "options": ["Ethyl acetate", "Acetamide", "Acetic anhydride", "Acetyl chloride"],
+          "correct_answer": "Ethyl acetate"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Amines and their Derivatives",
+      "topics": [
+        "Classification and nomenclature",
+        "Methods of preparation",
+        "Physical and chemical properties",
+        "Reactions and mechanisms",
+        "Pharmaceutical applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the general formula of primary amines?",
+          "options": ["R-NH2", "R2NH", "R3N", "R4N+X-"],
+          "correct_answer": "R-NH2"
+        },
+        {
+          "question": "Which of the following is the strongest base?",
+          "options": ["Ammonia", "Methylamine", "Dimethylamine", "Trimethylamine"],
+          "correct_answer": "Dimethylamine"
+        },
+        {
+          "question": "What is the product of the Gabriel phthalimide synthesis?",
+          "options": ["Primary amine", "Secondary amine", "Tertiary amine", "Quaternary ammonium salt"],
+          "correct_answer": "Primary amine"
+        },
+        {
+          "question": "Which reagent is used for the reduction of nitro compounds to amines?",
+          "options": ["Sn/HCl", "H2/Pd", "LiAlH4", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the product of the Hofmann degradation?",
+          "options": ["Primary amine", "Secondary amine", "Tertiary amine", "Quaternary ammonium salt"],
+          "correct_answer": "Primary amine"
+        },
+        {
+          "question": "Which test is used to identify primary amines?",
+          "options": ["Carbylamine test", "Hinsberg test", "Nitrous acid test", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the product of the Mannich reaction?",
+          "options": ["β-Amino carbonyl compound", "α-Amino carbonyl compound", "γ-Amino carbonyl compound", "δ-Amino carbonyl compound"],
+          "correct_answer": "β-Amino carbonyl compound"
+        },
+        {
+          "question": "Which derivative is used as an antihistamine?",
+          "options": ["Diphenhydramine", "Aniline", "Methylamine", "Ethylamine"],
+          "correct_answer": "Diphenhydramine"
+        },
+        {
+          "question": "What is the product of the Curtius rearrangement?",
+          "options": ["Isocyanate", "Amine", "Nitrile", "Amide"],
+          "correct_answer": "Isocyanate"
+        },
+        {
+          "question": "Which derivative is used as a local anesthetic?",
+          "options": ["Lidocaine", "Aniline", "Methylamine", "Ethylamine"],
+          "correct_answer": "Lidocaine"
+        },
+        {
+          "question": "What is the product of the Schmidt reaction?",
+          "options": ["Amide", "Amine", "Nitrile", "Isocyanate"],
+          "correct_answer": "Amide"
+        },
+        {
+          "question": "Which test is used to identify secondary amines?",
+          "options": ["Hinsberg test", "Carbylamine test", "Nitrous acid test", "All of the above"],
+          "correct_answer": "Hinsberg test"
+        },
+        {
+          "question": "What is the product of the Leuckart reaction?",
+          "options": ["N-Methyl amine", "N-Ethyl amine", "N-Propyl amine", "N-Butyl amine"],
+          "correct_answer": "N-Methyl amine"
+        },
+        {
+          "question": "Which derivative is used as an antidepressant?",
+          "options": ["Amitriptyline", "Aniline", "Methylamine", "Ethylamine"],
+          "correct_answer": "Amitriptyline"
+        },
+        {
+          "question": "What is the product of the Hofmann elimination?",
+          "options": ["Alkene", "Alkane", "Alkyne", "Alcohol"],
+          "correct_answer": "Alkene"
+        },
+        {
+          "question": "Which test is used to identify tertiary amines?",
+          "options": ["Hinsberg test", "Carbylamine test", "Nitrous acid test", "All of the above"],
+          "correct_answer": "Hinsberg test"
+        },
+        {
+          "question": "What is the product of the reductive amination?",
+          "options": ["Amine", "Imine", "Enamine", "Nitrone"],
+          "correct_answer": "Amine"
+        },
+        {
+          "question": "Which derivative is used as a vasodilator?",
+          "options": ["Nitroglycerin", "Aniline", "Methylamine", "Ethylamine"],
+          "correct_answer": "Nitroglycerin"
+        },
+        {
+          "question": "What is the product of the Gabriel synthesis?",
+          "options": ["Primary amine", "Secondary amine", "Tertiary amine", "Quaternary ammonium salt"],
+          "correct_answer": "Primary amine"
+        },
+        {
+          "question": "Which derivative is used as a bronchodilator?",
+          "options": ["Ephedrine", "Aniline", "Methylamine", "Ethylamine"],
+          "correct_answer": "Ephedrine"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Heterocyclic Compounds",
+      "topics": [
+        "Classification and nomenclature",
+        "Methods of preparation",
+        "Physical and chemical properties",
+        "Reactions and mechanisms",
+        "Pharmaceutical applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the general formula of pyrrole?",
+          "options": ["C4H5N", "C4H4N2", "C5H5N", "C6H5N"],
+          "correct_answer": "C4H5N"
+        },
+        {
+          "question": "Which of the following is a five-membered heterocycle?",
+          "options": ["Furan", "Pyridine", "Quinoline", "Isoquinoline"],
+          "correct_answer": "Furan"
+        },
+        {
+          "question": "What is the product of the Paal-Knorr synthesis?",
+          "options": ["Pyrrole", "Furan", "Thiophene", "Pyridine"],
+          "correct_answer": "Pyrrole"
+        },
+        {
+          "question": "Which reagent is used for the synthesis of pyridine?",
+          "options": ["Hantzsch synthesis", "Knorr synthesis", "Paal-Knorr synthesis", "All of the above"],
+          "correct_answer": "Hantzsch synthesis"
+        },
+        {
+          "question": "What is the product of the Skraup synthesis?",
+          "options": ["Quinoline", "Isoquinoline", "Pyridine", "Pyrrole"],
+          "correct_answer": "Quinoline"
+        },
+        {
+          "question": "Which test is used to identify pyrrole?",
+          "options": ["Ehrlich's test", "Fehling's test", "Tollen's test", "Iodoform test"],
+          "correct_answer": "Ehrlich's test"
+        },
+        {
+          "question": "What is the product of the Knorr synthesis?",
+          "options": ["Pyrrole", "Furan", "Thiophene", "Pyridine"],
+          "correct_answer": "Pyrrole"
+        },
+        {
+          "question": "Which derivative is used as an antimalarial?",
+          "options": ["Chloroquine", "Quinoline", "Isoquinoline", "Pyridine"],
+          "correct_answer": "Chloroquine"
+        },
+        {
+          "question": "What is the product of the Pictet-Spengler synthesis?",
+          "options": ["Isoquinoline", "Quinoline", "Pyridine", "Pyrrole"],
+          "correct_answer": "Isoquinoline"
+        },
+        {
+          "question": "Which derivative is used as an antihistamine?",
+          "options": ["Promethazine", "Pyrrole", "Furan", "Thiophene"],
+          "correct_answer": "Promethazine"
+        },
+        {
+          "question": "What is the product of the Hantzsch synthesis?",
+          "options": ["Dihydropyridine", "Pyridine", "Pyrrole", "Furan"],
+          "correct_answer": "Dihydropyridine"
+        },
+        {
+          "question": "Which test is used to identify furan?",
+          "options": ["Furfural test", "Fehling's test", "Tollen's test", "Iodoform test"],
+          "correct_answer": "Furfural test"
+        },
+        {
+          "question": "What is the product of the Feist-Benary synthesis?",
+          "options": ["Furan", "Pyrrole", "Thiophene", "Pyridine"],
+          "correct_answer": "Furan"
+        },
+        {
+          "question": "Which derivative is used as an antifungal?",
+          "options": ["Griseofulvin", "Pyrrole", "Furan", "Thiophene"],
+          "correct_answer": "Griseofulvin"
+        },
+        {
+          "question": "What is the product of the Gewald synthesis?",
+          "options": ["Thiophene", "Pyrrole", "Furan", "Pyridine"],
+          "correct_answer": "Thiophene"
+        },
+        {
+          "question": "Which test is used to identify thiophene?",
+          "options": ["Indophenin test", "Fehling's test", "Tollen's test", "Iodoform test"],
+          "correct_answer": "Indophenin test"
+        },
+        {
+          "question": "What is the product of the Piloty-Robinson synthesis?",
+          "options": ["Pyrrole", "Furan", "Thiophene", "Pyridine"],
+          "correct_answer": "Pyrrole"
+        },
+        {
+          "question": "Which derivative is used as an antibiotic?",
+          "options": ["Penicillin", "Pyrrole", "Furan", "Thiophene"],
+          "correct_answer": "Penicillin"
+        },
+        {
+          "question": "What is the product of the Bischler-Napieralski synthesis?",
+          "options": ["Isoquinoline", "Quinoline", "Pyridine", "Pyrrole"],
+          "correct_answer": "Isoquinoline"
+        },
+        {
+          "question": "Which derivative is used as an anticancer agent?",
+          "options": ["5-Fluorouracil", "Pyrrole", "Furan", "Thiophene"],
+          "correct_answer": "5-Fluorouracil"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Amino Acids and Proteins",
+      "topics": [
+        "Classification and structure",
+        "Physical and chemical properties",
+        "Synthesis and reactions",
+        "Protein structure",
+        "Pharmaceutical applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the general structure of an α-amino acid?",
+          "options": ["NH2-CHR-COOH", "NH2-CH2-COOH", "NH2-CH2-CH2-COOH", "NH2-CH2-CH2-CH2-COOH"],
+          "correct_answer": "NH2-CHR-COOH"
+        },
+        {
+          "question": "Which of the following is an essential amino acid?",
+          "options": ["Leucine", "Glycine", "Alanine", "Serine"],
+          "correct_answer": "Leucine"
+        },
+        {
+          "question": "What is the isoelectric point?",
+          "options": ["pH at which amino acid is neutral", "pH at which amino acid is acidic", "pH at which amino acid is basic", "pH at which amino acid is zwitterionic"],
+          "correct_answer": "pH at which amino acid is neutral"
+        },
+        {
+          "question": "Which reagent is used for the synthesis of amino acids?",
+          "options": ["Strecker synthesis", "Gabriel synthesis", "Hell-Volhard-Zelinsky synthesis", "All of the above"],
+          "correct_answer": "Strecker synthesis"
+        },
+        {
+          "question": "What is the product of the ninhydrin test?",
+          "options": ["Purple color", "Blue color", "Green color", "Red color"],
+          "correct_answer": "Purple color"
+        },
+        {
+          "question": "Which test is used to identify proteins?",
+          "options": ["Biuret test", "Ninhydrin test", "Xanthoproteic test", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the primary structure of a protein?",
+          "options": ["Sequence of amino acids", "α-Helix", "β-Sheet", "Tertiary structure"],
+          "correct_answer": "Sequence of amino acids"
+        },
+        {
+          "question": "Which force stabilizes the α-helix?",
+          "options": ["Hydrogen bonds", "Ionic bonds", "Disulfide bonds", "Hydrophobic interactions"],
+          "correct_answer": "Hydrogen bonds"
+        },
+        {
+          "question": "What is the product of the Edman degradation?",
+          "options": ["PTH-amino acid", "Free amino acid", "Peptide", "Protein"],
+          "correct_answer": "PTH-amino acid"
+        },
+        {
+          "question": "Which derivative is used as a sweetener?",
+          "options": ["Aspartame", "Glycine", "Alanine", "Serine"],
+          "correct_answer": "Aspartame"
+        },
+        {
+          "question": "What is the secondary structure of a protein?",
+          "options": ["α-Helix and β-Sheet", "Sequence of amino acids", "Tertiary structure", "Quaternary structure"],
+          "correct_answer": "α-Helix and β-Sheet"
+        },
+        {
+          "question": "Which force stabilizes the β-sheet?",
+          "options": ["Hydrogen bonds", "Ionic bonds", "Disulfide bonds", "Hydrophobic interactions"],
+          "correct_answer": "Hydrogen bonds"
+        },
+        {
+          "question": "What is the product of the Sanger's method?",
+          "options": ["DNP-amino acid", "Free amino acid", "Peptide", "Protein"],
+          "correct_answer": "DNP-amino acid"
+        },
+        {
+          "question": "Which derivative is used as a nutritional supplement?",
+          "options": ["L-Glutamine", "Glycine", "Alanine", "Serine"],
+          "correct_answer": "L-Glutamine"
+        },
+        {
+          "question": "What is the tertiary structure of a protein?",
+          "options": ["3D structure", "Sequence of amino acids", "α-Helix and β-Sheet", "Quaternary structure"],
+          "correct_answer": "3D structure"
+        },
+        {
+          "question": "Which force stabilizes the tertiary structure?",
+          "options": ["All of the above", "Hydrogen bonds", "Ionic bonds", "Disulfide bonds"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the product of the dansyl chloride method?",
+          "options": ["Dansyl-amino acid", "Free amino acid", "Peptide", "Protein"],
+          "correct_answer": "Dansyl-amino acid"
+        },
+        {
+          "question": "Which derivative is used as a neurotransmitter?",
+          "options": ["GABA", "Glycine", "Alanine", "Serine"],
+          "correct_answer": "GABA"
+        },
+        {
+          "question": "What is the quaternary structure of a protein?",
+          "options": ["Assembly of subunits", "Sequence of amino acids", "α-Helix and β-Sheet", "3D structure"],
+          "correct_answer": "Assembly of subunits"
+        },
+        {
+          "question": "Which derivative is used as an antioxidant?",
+          "options": ["Glutathione", "Glycine", "Alanine", "Serine"],
+          "correct_answer": "Glutathione"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Carbohydrates",
+      "topics": [
+        "Classification and structure",
+        "Physical and chemical properties",
+        "Reactions and mechanisms",
+        "Stereochemistry",
+        "Pharmaceutical applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the general formula of monosaccharides?",
+          "options": ["(CH2O)n", "(CH2)n", "(CHO)n", "(CO2)n"],
+          "correct_answer": "(CH2O)n"
+        },
+        {
+          "question": "Which of the following is an aldose?",
+          "options": ["Glucose", "Fructose", "Ribose", "All of the above"],
+          "correct_answer": "Glucose"
+        },
+        {
+          "question": "What is the product of the Benedict's test?",
+          "options": ["Red precipitate", "Blue solution", "Green solution", "Yellow solution"],
+          "correct_answer": "Red precipitate"
+        },
+        {
+          "question": "Which reagent is used for the oxidation of aldoses?",
+          "options": ["Tollen's reagent", "Fehling's solution", "Benedict's solution", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the product of the Kiliani-Fischer synthesis?",
+          "options": ["Higher aldose", "Lower aldose", "Ketose", "Sugar alcohol"],
+          "correct_answer": "Higher aldose"
+        },
+        {
+          "question": "Which test is used to identify ketoses?",
+          "options": ["Seliwanoff's test", "Fehling's test", "Benedict's test", "Tollen's test"],
+          "correct_answer": "Seliwanoff's test"
+        },
+        {
+          "question": "What is the product of the Ruff degradation?",
+          "options": ["Lower aldose", "Higher aldose", "Ketose", "Sugar alcohol"],
+          "correct_answer": "Lower aldose"
+        },
+        {
+          "question": "Which derivative is used as a sweetener?",
+          "options": ["Sucrose", "Glucose", "Fructose", "Lactose"],
+          "correct_answer": "Sucrose"
+        },
+        {
+          "question": "What is the product of the Wohl degradation?",
+          "options": ["Lower aldose", "Higher aldose", "Ketose", "Sugar alcohol"],
+          "correct_answer": "Lower aldose"
+        },
+        {
+          "question": "Which derivative is used as a blood volume expander?",
+          "options": ["Dextran", "Glucose", "Fructose", "Lactose"],
+          "correct_answer": "Dextran"
+        },
+        {
+          "question": "What is the product of the Lobry de Bruyn-van Ekenstein transformation?",
+          "options": ["Epimerization", "Oxidation", "Reduction", "Hydrolysis"],
+          "correct_answer": "Epimerization"
+        },
+        {
+          "question": "Which test is used to identify reducing sugars?",
+          "options": ["Fehling's test", "Benedict's test", "Tollen's test", "All of the above"],
+          "correct_answer": "All of the above"
+        },
+        {
+          "question": "What is the product of the Fischer glycosidation?",
+          "options": ["Glycoside", "Sugar alcohol", "Aldonic acid", "Uronic acid"],
+          "correct_answer": "Glycoside"
+        },
+        {
+          "question": "Which derivative is used as a plasma expander?",
+          "options": ["Hydroxyethyl starch", "Glucose", "Fructose", "Lactose"],
+          "correct_answer": "Hydroxyethyl starch"
+        },
+        {
+          "question": "What is the product of the Haworth synthesis?",
+          "options": ["Glycoside", "Sugar alcohol", "Aldonic acid", "Uronic acid"],
+          "correct_answer": "Glycoside"
+        },
+        {
+          "question": "Which test is used to identify pentoses?",
+          "options": ["Bial's test", "Fehling's test", "Benedict's test", "Tollen's test"],
+          "correct_answer": "Bial's test"
+        },
+        {
+          "question": "What is the product of the Koenigs-Knorr synthesis?",
+          "options": ["Glycoside", "Sugar alcohol", "Aldonic acid", "Uronic acid"],
+          "correct_answer": "Glycoside"
+        },
+        {
+          "question": "Which derivative is used as an anticoagulant?",
+          "options": ["Heparin", "Glucose", "Fructose", "Lactose"],
+          "correct_answer": "Heparin"
+        },
+        {
+          "question": "What is the product of the Helferich method?",
+          "options": ["Glycoside", "Sugar alcohol", "Aldonic acid", "Uronic acid"],
+          "correct_answer": "Glycoside"
+        },
+        {
+          "question": "Which derivative is used as a laxative?",
+          "options": ["Lactulose", "Glucose", "Fructose", "Sucrose"],
+          "correct_answer": "Lactulose"
+        }
+      ]
+    }
+  }
+} 
