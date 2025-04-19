@@ -6,7 +6,7 @@ from telebot import types
 from datetime import datetime
 
 # Initialize bot with your token
-BOT_TOKEN = "8127208601:AAHBW0ajCuIH7g3EpgRuYB_t_rThg15RaO4"
+BOT_TOKEN = "7979336472:AAH-T5-pEfxmVItmr6JArOPmAZJ6iMk5Qw0"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Store user states
