@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP502T",
+  "subject_name": "Industrial Pharmacy I",
+  "units": {
+    "unit_1": {
+      "unit_name": "Preformulation Studies",
+      "topics": [
+        "Introduction and objectives",
+        "Physical properties",
+        "Chemical properties",
+        "BCS classification",
+        "Application in dosage forms"
+      ],
+      "mcqs": [
+        {
+          "question": "What is preformulation?",
+          "options": ["Drug study", "Formulation study", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a physical property?",
+          "options": ["Particle size", "Solubility", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a chemical property?",
+          "options": ["Hydrolysis", "Oxidation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a BCS class?",
+          "options": ["Class I", "Class II", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an application?",
+          "options": ["Solid dosage", "Liquid dosage", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in stability?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is polymorphism?",
+          "options": ["Crystal form", "Amorphous form", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a flow property?",
+          "options": ["Angle of repose", "Bulk density", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is pKa?",
+          "options": ["Acid strength", "Solubility", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a degradation pathway?",
+          "options": ["Hydrolysis", "Oxidation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of preformulation?",
+          "options": ["Understanding", "Development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in solubility?",
+          "options": ["pH", "Temperature", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of BCS?",
+          "options": ["Classification", "Prediction", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in development?",
+          "options": ["Properties", "Stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Characterization", "Optimization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in formulation?",
+          "options": ["Drug", "Excipient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of stability?",
+          "options": ["Shelf life", "Quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of testing?",
+          "options": ["Characterization", "Validation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Development", "Manufacturing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Tablets and Liquid Orals",
+      "topics": [
+        "Tablet formulation and processing",
+        "Tablet coating",
+        "Quality control tests",
+        "Liquid oral formulations",
+        "Evaluation of liquid orals"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a tablet?",
+          "options": ["Solid dosage", "Oral dosage", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an excipient?",
+          "options": ["Binder", "Disintegrant", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is granulation?",
+          "options": ["Wet", "Dry", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a coating type?",
+          "options": ["Sugar", "Film", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a quality test?",
+          "options": ["Hardness", "Disintegration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a liquid oral?",
+          "options": ["Syrup", "Suspension", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an emulsion?",
+          "options": ["Oil in water", "Water in oil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a formulation factor?",
+          "options": ["Drug", "Vehicle", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is packaging?",
+          "options": ["Filling", "Sealing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an evaluation test?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of tablets?",
+          "options": ["Dosing", "Stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in coating?",
+          "options": ["Material", "Method", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of quality control?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in liquids?",
+          "options": ["Viscosity", "Stability", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in manufacturing?",
+          "options": ["Equipment", "Process", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of formulation?",
+          "options": ["Development", "Production", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of testing?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Tablets", "Liquids", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Capsules and Pellets",
+      "topics": [
+        "Hard gelatin capsules",
+        "Soft gelatin capsules",
+        "Quality control tests",
+        "Pellets formulation",
+        "Manufacturing processes"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a hard capsule?",
+          "options": ["Two-piece", "One-piece", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Two-piece"
+        },
+        {
+          "question": "Which is a soft capsule?",
+          "options": ["One-piece", "Two-piece", "Both A and B", "Neither A nor B"],
+          "correct_answer": "One-piece"
+        },
+        {
+          "question": "What is shell material?",
+          "options": ["Gelatin", "Other", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a filling method?",
+          "options": ["Manual", "Automatic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a pellet?",
+          "options": ["Small sphere", "Granule", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a pelletization method?",
+          "options": ["Extrusion", "Spheronization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is quality control?",
+          "options": ["In-process", "Final", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a defect?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is stability?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an equipment?",
+          "options": ["Filling", "Sealing", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of capsules?",
+          "options": ["Dosing", "Protection", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in formulation?",
+          "options": ["Drug", "Excipient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of quality control?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in pellets?",
+          "options": ["Size", "Shape", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of manufacturing?",
+          "options": ["Production", "Quality", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in process?",
+          "options": ["Equipment", "Method", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of testing?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Capsules", "Pellets", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Parenteral and Ophthalmic Products",
+      "topics": [
+        "Parenteral formulations",
+        "Production and controls",
+        "Containers and closures",
+        "Ophthalmic preparations",
+        "Quality control tests"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a parenteral?",
+          "options": ["Injection", "Infusion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Sterility", "Pyrogen-free", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a vehicle?",
+          "options": ["Water", "Oil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a container?",
+          "options": ["Ampoule", "Vial", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an ophthalmic?",
+          "options": ["Drops", "Ointment", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in formulation?",
+          "options": ["Drug", "Vehicle", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is aseptic processing?",
+          "options": ["Sterile", "Clean", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Sterile"
+        },
+        {
+          "question": "Which is a quality test?",
+          "options": ["Sterility", "Pyrogen", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is isotonicity?",
+          "options": ["Tonicity", "Osmolarity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an evaluation?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of parenterals?",
+          "options": ["Systemic", "Local", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in production?",
+          "options": ["Equipment", "Process", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of containers?",
+          "options": ["Protection", "Delivery", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in ophthalmic?",
+          "options": ["Sterility", "Tonicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of quality control?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in testing?",
+          "options": ["Method", "Standard", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of evaluation?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of testing?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Parenteral", "Ophthalmic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Cosmetics, Aerosols and Packaging",
+      "topics": [
+        "Cosmetic formulations",
+        "Pharmaceutical aerosols",
+        "Packaging materials",
+        "Quality control tests",
+        "Stability studies"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a cosmetic?",
+          "options": ["Lipstick", "Shampoo", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an aerosol?",
+          "options": ["Spray", "Foam", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a propellant?",
+          "options": ["Gas", "Liquid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a packaging material?",
+          "options": ["Glass", "Plastic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a container?",
+          "options": ["Bottle", "Tube", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a formulation factor?",
+          "options": ["Ingredient", "Process", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a valve?",
+          "options": ["Metered", "Non-metered", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a quality test?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is stability?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an evaluation?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of cosmetics?",
+          "options": ["Beauty", "Care", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in aerosols?",
+          "options": ["Propellant", "Container", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of packaging?",
+          "options": ["Protection", "Delivery", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in quality?",
+          "options": ["Material", "Process", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of testing?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in stability?",
+          "options": ["Time", "Condition", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of evaluation?",
+          "options": ["Quality", "Performance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Cosmetics", "Aerosols", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP504T",
+  "subject_name": "Pharmacognosy and Phytochemistry II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Metabolic Pathways in Higher Plants",
+      "topics": [
+        "Shikimic acid pathway",
+        "Acetate pathways",
+        "Amino acid pathway",
+        "Radioactive isotopes",
+        "Biogenetic studies"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the shikimic acid pathway?",
+          "options": ["Aromatic biosynthesis", "Secondary metabolism", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an acetate pathway?",
+          "options": ["Fatty acids", "Polyketides", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an amino acid pathway?",
+          "options": ["Alkaloids", "Peptides", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a radioactive isotope?",
+          "options": ["C-14", "H-3", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is biogenetic study?",
+          "options": ["Pathway tracing", "Metabolite origin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a metabolic pathway?",
+          "options": ["Primary", "Secondary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a precursor?",
+          "options": ["Starting material", "Intermediate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tracer?",
+          "options": ["Radioactive", "Stable", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is biosynthesis?",
+          "options": ["Natural", "Enzymatic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a metabolite?",
+          "options": ["Primary", "Secondary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a pathway?",
+          "options": ["Linear", "Branched", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a study method?",
+          "options": ["In vitro", "In vivo", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a tracer study?",
+          "options": ["Incorporation", "Distribution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a metabolic product?",
+          "options": ["End product", "Intermediate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a pathway study?",
+          "options": ["Enzymes", "Products", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tracer technique?",
+          "options": ["Autoradiography", "Scintillation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a metabolic route?",
+          "options": ["Direct", "Indirect", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a study approach?",
+          "options": ["Chemical", "Biological", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a pathway analysis?",
+          "options": ["Qualitative", "Quantitative", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a metabolic study?",
+          "options": ["In vitro", "In vivo", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Secondary Metabolites",
+      "topics": [
+        "Alkaloids",
+        "Phenylpropanoids and Flavonoids",
+        "Steroids and Glycosides",
+        "Volatile oils",
+        "Tannins and Resins"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is an alkaloid?",
+          "options": ["Vinca", "Rauwolfia", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a phenylpropanoid?",
+          "options": ["Lignan", "Flavonoid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a steroid?",
+          "options": ["Cardiac glycoside", "Triterpenoid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a volatile oil?",
+          "options": ["Mentha", "Clove", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a tannin?",
+          "options": ["Catechu", "Pterocarpus", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a resin?",
+          "options": ["Benzoin", "Guggul", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a glycoside?",
+          "options": ["Senna", "Aloes", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an iridoid?",
+          "options": ["Gentian", "Artemisia", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a terpenoid?",
+          "options": ["Taxus", "Carotenoid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a naphthaquinone?",
+          "options": ["Natural", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a source?",
+          "options": ["Plant", "Animal", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a use?",
+          "options": ["Therapeutic", "Commercial", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a property?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a class?",
+          "options": ["Primary", "Secondary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a metabolite?",
+          "options": ["Natural", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a compound?",
+          "options": ["Simple", "Complex", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a product?",
+          "options": ["Natural", "Modified", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a derivative?",
+          "options": ["Natural", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a form?",
+          "options": ["Pure", "Mixture", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a preparation?",
+          "options": ["Crude", "Refined", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Isolation and Analysis of Phytoconstituents",
+      "topics": [
+        "Terpenoids isolation",
+        "Glycosides isolation",
+        "Alkaloids isolation",
+        "Resins isolation",
+        "Analysis methods"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is a terpenoid?",
+          "options": ["Menthol", "Citral", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a glycoside?",
+          "options": ["Glycyrhetinic acid", "Rutin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an alkaloid?",
+          "options": ["Atropine", "Quinine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a resin?",
+          "options": ["Podophyllotoxin", "Curcumin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an isolation method?",
+          "options": ["Extraction", "Purification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an analysis method?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a purification method?",
+          "options": ["Chromatography", "Crystallization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an identification method?",
+          "options": ["Spectroscopy", "Chromatography", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a characterization method?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a separation method?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an extraction method?",
+          "options": ["Solvent", "Supercritical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a purification technique?",
+          "options": ["Column", "Preparative", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an analysis technique?",
+          "options": ["Qualitative", "Quantitative", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an identification technique?",
+          "options": ["Spectroscopic", "Chromatographic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a characterization technique?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a separation technique?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an extraction technique?",
+          "options": ["Traditional", "Modern", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a purification process?",
+          "options": ["Simple", "Complex", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an analysis process?",
+          "options": ["Routine", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an identification process?",
+          "options": ["Standard", "Advanced", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Industrial Production and Utilization",
+      "topics": [
+        "Forskolin and Sennoside",
+        "Artemisinin and Diosgenin",
+        "Digoxin and Atropine",
+        "Podophyllotoxin and Caffeine",
+        "Taxol and Vinca alkaloids"
+      ],
+      "mcqs": [
+        {
+          "question": "Which is a diterpene?",
+          "options": ["Forskolin", "Taxol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a glycoside?",
+          "options": ["Sennoside", "Digoxin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sesquiterpene?",
+          "options": ["Artemisinin", "Diosgenin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an alkaloid?",
+          "options": ["Atropine", "Caffeine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a lignan?",
+          "options": ["Podophyllotoxin", "Taxol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a production method?",
+          "options": ["Natural", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an estimation method?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a utilization method?",
+          "options": ["Therapeutic", "Industrial", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a production process?",
+          "options": ["Extraction", "Synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an estimation process?",
+          "options": ["Qualitative", "Quantitative", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a utilization process?",
+          "options": ["Direct", "Indirect", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a production technique?",
+          "options": ["Traditional", "Modern", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an estimation technique?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a utilization technique?",
+          "options": ["Therapeutic", "Industrial", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a production approach?",
+          "options": ["Natural", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an estimation approach?",
+          "options": ["Direct", "Indirect", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a utilization approach?",
+          "options": ["Therapeutic", "Industrial", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a production system?",
+          "options": ["Batch", "Continuous", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an estimation system?",
+          "options": ["Manual", "Automated", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a utilization system?",
+          "options": ["Direct", "Indirect", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Basics of Phytochemistry",
+      "topics": [
+        "Modern extraction methods",
+        "Spectroscopy techniques",
+        "Chromatography techniques",
+        "Electrophoresis techniques",
+        "Isolation and identification"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a modern extraction?",
+          "options": ["Supercritical", "Ultrasound", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a spectroscopy?",
+          "options": ["UV-Vis", "IR", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a chromatography?",
+          "options": ["HPLC", "TLC", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an electrophoresis?",
+          "options": ["Gel", "Capillary", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an isolation method?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an identification method?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a purification method?",
+          "options": ["Chromatography", "Crystallization", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an analysis method?",
+          "options": ["Qualitative", "Quantitative", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a characterization method?",
+          "options": ["Chemical", "Physical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a separation method?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an extraction technique?",
+          "options": ["Traditional", "Modern", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a purification technique?",
+          "options": ["Column", "Preparative", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an analysis technique?",
+          "options": ["Qualitative", "Quantitative", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an identification technique?",
+          "options": ["Spectroscopic", "Chromatographic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a characterization technique?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a separation technique?",
+          "options": ["Physical", "Chemical", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an extraction process?",
+          "options": ["Simple", "Complex", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a purification process?",
+          "options": ["Simple", "Complex", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an analysis process?",
+          "options": ["Routine", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an identification process?",
+          "options": ["Standard", "Advanced", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

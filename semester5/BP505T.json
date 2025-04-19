@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP505T",
+  "subject_name": "Pharmaceutical Jurisprudence",
+  "units": {
+    "unit_1": {
+      "unit_name": "Drugs and Cosmetics Act I",
+      "topics": [
+        "Objectives and Definitions",
+        "Legal definitions of schedules",
+        "Import of drugs",
+        "Manufacture of drugs",
+        "Offences and penalties"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the Drugs and Cosmetics Act?",
+          "options": ["1940", "1945", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a prohibited import?",
+          "options": ["Drugs", "Cosmetics", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a manufacturing license?",
+          "options": ["Regular", "Loan", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a manufacturing condition?",
+          "options": ["License", "Permit", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a new drug?",
+          "options": ["Test", "Analysis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a license type?",
+          "options": ["Regular", "Loan", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a manufacturing requirement?",
+          "options": ["License", "Permit", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a prohibited activity?",
+          "options": ["Manufacture", "Sale", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a license condition?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a manufacturing permit?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a drug test?",
+          "options": ["Analysis", "Examination", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a manufacturing license?",
+          "options": ["Regular", "Loan", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a repacking license?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a manufacturing condition?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a drug import?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a prohibited drug?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a manufacturing permit?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a license condition?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a drug test?",
+          "options": ["Analysis", "Examination", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a manufacturing license?",
+          "options": ["Regular", "Loan", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Drugs and Cosmetics Act II",
+      "topics": [
+        "Schedule G, H, M, N, P, T, U, V, X, Y",
+        "Sale of Drugs",
+        "Labeling and Packing",
+        "Administration of Act",
+        "Drugs Technical Advisory Board"
+      ],
+      "mcqs": [
+        {
+          "question": "What is Schedule G?",
+          "options": ["Drugs", "Cosmetics", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sale type?",
+          "options": ["Wholesale", "Retail", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is labeling?",
+          "options": ["General", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an authority?",
+          "options": ["Central", "State", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a board?",
+          "options": ["Technical", "Advisory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a schedule?",
+          "options": ["G", "H", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a sale license?",
+          "options": ["Wholesale", "Retail", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a labeling requirement?",
+          "options": ["General", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an administration?",
+          "options": ["Central", "State", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a board function?",
+          "options": ["Technical", "Advisory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a schedule type?",
+          "options": ["G", "H", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sale condition?",
+          "options": ["Wholesale", "Retail", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a labeling rule?",
+          "options": ["General", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an administration body?",
+          "options": ["Central", "State", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a board role?",
+          "options": ["Technical", "Advisory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a schedule requirement?",
+          "options": ["G", "H", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a sale rule?",
+          "options": ["Wholesale", "Retail", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a labeling condition?",
+          "options": ["General", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an administration function?",
+          "options": ["Central", "State", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a board responsibility?",
+          "options": ["Technical", "Advisory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Pharmacy and Medicinal Acts",
+      "topics": [
+        "Pharmacy Act 1948",
+        "Medicinal and Toilet Preparation Act 1955",
+        "Narcotic Drugs and Psychotropic Substances Act 1985",
+        "Licensing and Manufacture",
+        "Offences and Penalties"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the Pharmacy Act?",
+          "options": ["1948", "1955", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a medicinal act?",
+          "options": ["1955", "1985", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a narcotic act?",
+          "options": ["1985", "1995", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a license type?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a manufacture type?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an offence?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a penalty?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a council?",
+          "options": ["Central", "State", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a registration?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a preparation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a substance?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a committee?",
+          "options": ["Central", "State", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a fund?",
+          "options": ["National", "State", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a cultivation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a production?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a manufacture?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a sale?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an export?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a preparation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a substance?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Drugs and Magic Remedies Act",
+      "topics": [
+        "Objectives and Definitions",
+        "Prohibited Advertisements",
+        "Animal Ethics",
+        "Drugs Price Control",
+        "Essential Medicines"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the Drugs and Magic Remedies Act?",
+          "options": ["1954", "1960", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a prohibited advertisement?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is animal ethics?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a price control?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an essential medicine?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an advertisement?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an ethics committee?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a price order?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a medicine list?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a remedy?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an advertisement rule?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an ethics guideline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a price regulation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a medicine regulation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a remedy rule?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an advertisement guideline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an ethics regulation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a price guideline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a medicine guideline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a remedy guideline?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Pharmaceutical Legislations and Ethics",
+      "topics": [
+        "Pharmaceutical Legislations",
+        "Code of Pharmaceutical Ethics",
+        "Medical Termination of Pregnancy Act",
+        "Right to Information Act",
+        "Intellectual Property Rights"
+      ],
+      "mcqs": [
+        {
+          "question": "What is pharmaceutical legislation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a code of ethics?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a termination act?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an information act?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an IPR?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a legislation?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an ethics code?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a termination?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an information?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a property right?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a legislation type?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an ethics type?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a termination type?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an information type?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a property type?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a legislation rule?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an ethics rule?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a termination rule?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an information rule?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a property rule?",
+          "options": ["Regular", "Special", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

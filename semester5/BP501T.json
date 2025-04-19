@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP501T",
+  "subject_name": "Medicinal Chemistry II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Antihistaminic and Antineoplastic Agents",
+      "topics": [
+        "Histamine receptors and distribution",
+        "H1-antagonists",
+        "H2-antagonists and proton pump inhibitors",
+        "Alkylating agents and antimetabolites",
+        "Antibiotics and plant products"
+      ],
+      "mcqs": [
+        {
+          "question": "What is histamine?",
+          "options": ["Neurotransmitter", "Hormone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an H1-antagonist?",
+          "options": ["Diphenhydramine", "Cimetidine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Diphenhydramine"
+        },
+        {
+          "question": "What is an H2-antagonist?",
+          "options": ["Ranitidine", "Omeprazole", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Ranitidine"
+        },
+        {
+          "question": "Which is an alkylating agent?",
+          "options": ["Cyclophosphamide", "Methotrexate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Cyclophosphamide"
+        },
+        {
+          "question": "What is an antimetabolite?",
+          "options": ["Mercaptopurine", "Doxorubicin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Mercaptopurine"
+        },
+        {
+          "question": "Which is an antibiotic?",
+          "options": ["Dactinomycin", "Etoposide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Dactinomycin"
+        },
+        {
+          "question": "What is a plant product?",
+          "options": ["Vinblastin", "Cisplatin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Vinblastin"
+        },
+        {
+          "question": "Which is a proton pump inhibitor?",
+          "options": ["Omeprazole", "Famotidine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Omeprazole"
+        },
+        {
+          "question": "What is the role of H1-antagonists?",
+          "options": ["Allergy", "Acid secretion", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Allergy"
+        },
+        {
+          "question": "Which is a mechanism of alkylating agents?",
+          "options": ["DNA damage", "Protein synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "DNA damage"
+        },
+        {
+          "question": "What is the purpose of antimetabolites?",
+          "options": ["Cell growth", "DNA synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in antibiotic action?",
+          "options": ["DNA binding", "Cell membrane", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of plant products?",
+          "options": ["Microtubule", "DNA synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Microtubule"
+        },
+        {
+          "question": "Which is a factor in H2-antagonists?",
+          "options": ["Acid secretion", "Allergy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Acid secretion"
+        },
+        {
+          "question": "What is the purpose of proton pump inhibitors?",
+          "options": ["Acid reduction", "Allergy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Acid reduction"
+        },
+        {
+          "question": "Which is a factor in antineoplastic agents?",
+          "options": ["Selectivity", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of antibiotics?",
+          "options": ["DNA binding", "RNA synthesis", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of therapy?",
+          "options": ["Treatment", "Prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Cancer", "Allergy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Anti-anginal, Diuretics and Anti-hypertensive Agents",
+      "topics": [
+        "Vasodilators and calcium channel blockers",
+        "Carbonic anhydrase inhibitors",
+        "Thiazides and loop diuretics",
+        "Potassium sparing and osmotic diuretics",
+        "Anti-hypertensive agents"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a vasodilator?",
+          "options": ["Nitroglycerin", "Verapamil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Nitroglycerin"
+        },
+        {
+          "question": "Which is a calcium channel blocker?",
+          "options": ["Nifedipine", "Furosemide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Nifedipine"
+        },
+        {
+          "question": "What is a carbonic anhydrase inhibitor?",
+          "options": ["Acetazolamide", "Hydrochlorothiazide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Acetazolamide"
+        },
+        {
+          "question": "Which is a thiazide?",
+          "options": ["Chlorthiazide", "Spironolactone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Chlorthiazide"
+        },
+        {
+          "question": "What is a loop diuretic?",
+          "options": ["Furosemide", "Mannitol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Furosemide"
+        },
+        {
+          "question": "Which is a potassium sparing diuretic?",
+          "options": ["Spironolactone", "Hydrochlorothiazide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Spironolactone"
+        },
+        {
+          "question": "What is an osmotic diuretic?",
+          "options": ["Mannitol", "Furosemide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Mannitol"
+        },
+        {
+          "question": "Which is an anti-hypertensive?",
+          "options": ["Captopril", "Timolol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of vasodilators?",
+          "options": ["Blood flow", "Heart rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Blood flow"
+        },
+        {
+          "question": "Which is a mechanism of calcium blockers?",
+          "options": ["Vasodilation", "Heart rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of diuretics?",
+          "options": ["Fluid removal", "Electrolyte balance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in thiazides?",
+          "options": ["Sodium", "Potassium", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of loop diuretics?",
+          "options": ["Strong diuresis", "Electrolyte loss", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in potassium sparing?",
+          "options": ["Potassium", "Sodium", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Potassium"
+        },
+        {
+          "question": "What is the purpose of anti-hypertensives?",
+          "options": ["Blood pressure", "Heart rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Dose", "Duration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of ACE inhibitors?",
+          "options": ["Vasodilation", "Fluid balance", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Symptom relief", "Disease control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Hypertension", "Heart failure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Anti-arrhythmic, Anti-hyperlipidemic and Heart Failure Drugs",
+      "topics": [
+        "Anti-arrhythmic drugs",
+        "Anti-hyperlipidemic agents",
+        "Coagulants and anticoagulants",
+        "Drugs for congestive heart failure",
+        "Mechanisms of action"
+      ],
+      "mcqs": [
+        {
+          "question": "What is an anti-arrhythmic?",
+          "options": ["Quinidine", "Clofibrate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Quinidine"
+        },
+        {
+          "question": "Which is an anti-hyperlipidemic?",
+          "options": ["Lovastatin", "Warfarin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Lovastatin"
+        },
+        {
+          "question": "What is a coagulant?",
+          "options": ["Menadione", "Warfarin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Menadione"
+        },
+        {
+          "question": "Which is an anticoagulant?",
+          "options": ["Warfarin", "Digoxin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Warfarin"
+        },
+        {
+          "question": "What is a heart failure drug?",
+          "options": ["Digoxin", "Lovastatin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Digoxin"
+        },
+        {
+          "question": "Which is a mechanism of anti-arrhythmics?",
+          "options": ["Ion channels", "Receptors", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of statins?",
+          "options": ["Cholesterol", "Lipids", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in coagulation?",
+          "options": ["Vitamin K", "Calcium", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of anticoagulants?",
+          "options": ["Clot prevention", "Clot dissolution", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Clot prevention"
+        },
+        {
+          "question": "Which is a mechanism of heart failure drugs?",
+          "options": ["Contractility", "Rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of ion channels?",
+          "options": ["Rhythm", "Rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in lipid control?",
+          "options": ["Synthesis", "Absorption", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of coagulation?",
+          "options": ["Clot formation", "Bleeding control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in heart failure?",
+          "options": ["Contractility", "Volume", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of digoxin?",
+          "options": ["Contractility", "Rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Dose", "Monitoring", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Symptom relief", "Disease control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of monitoring?",
+          "options": ["Efficacy", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Arrhythmia", "Heart failure", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Drugs Acting on Endocrine System",
+      "topics": [
+        "Steroid nomenclature and metabolism",
+        "Sex hormones",
+        "Drugs for erectile dysfunction",
+        "Oral contraceptives",
+        "Corticosteroids and thyroid drugs"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a steroid?",
+          "options": ["Hormone", "Lipid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sex hormone?",
+          "options": ["Testosterone", "Cortisone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Testosterone"
+        },
+        {
+          "question": "What is an erectile dysfunction drug?",
+          "options": ["Sildenafil", "Mifepristone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Sildenafil"
+        },
+        {
+          "question": "Which is an oral contraceptive?",
+          "options": ["Norgestril", "Levothyroxine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Norgestril"
+        },
+        {
+          "question": "What is a corticosteroid?",
+          "options": ["Prednisolone", "Propylthiouracil", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Prednisolone"
+        },
+        {
+          "question": "Which is a thyroid drug?",
+          "options": ["Levothyroxine", "Methimazole", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of steroids?",
+          "options": ["Metabolism", "Development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in sex hormones?",
+          "options": ["Reproduction", "Development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of erectile drugs?",
+          "options": ["Vasodilation", "Hormone regulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Vasodilation"
+        },
+        {
+          "question": "Which is a mechanism of contraceptives?",
+          "options": ["Hormone regulation", "Ovulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of corticosteroids?",
+          "options": ["Inflammation", "Immunity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in thyroid drugs?",
+          "options": ["Hormone", "Metabolism", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of hormone therapy?",
+          "options": ["Replacement", "Regulation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in treatment?",
+          "options": ["Dose", "Duration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of metabolism?",
+          "options": ["Activation", "Inactivation", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of monitoring?",
+          "options": ["Efficacy", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Individual", "Disease", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Symptom relief", "Disease control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Hormone therapy", "Contraception", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Antidiabetic Agents and Local Anesthetics",
+      "topics": [
+        "Insulin and its preparations",
+        "Sulfonylureas and biguanides",
+        "Thiazolidinediones and meglitinides",
+        "Glucosidase inhibitors",
+        "Local anesthetics and their SAR"
+      ],
+      "mcqs": [
+        {
+          "question": "What is insulin?",
+          "options": ["Hormone", "Protein", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a sulfonylurea?",
+          "options": ["Tolbutamide", "Metformin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Tolbutamide"
+        },
+        {
+          "question": "What is a biguanide?",
+          "options": ["Metformin", "Pioglitazone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Metformin"
+        },
+        {
+          "question": "Which is a thiazolidinedione?",
+          "options": ["Pioglitazone", "Repaglinide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Pioglitazone"
+        },
+        {
+          "question": "What is a meglitinide?",
+          "options": ["Repaglinide", "Acarbose", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Repaglinide"
+        },
+        {
+          "question": "Which is a glucosidase inhibitor?",
+          "options": ["Acarbose", "Tolbutamide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Acarbose"
+        },
+        {
+          "question": "What is a local anesthetic?",
+          "options": ["Lidocaine", "Cocaine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a benzoic acid derivative?",
+          "options": ["Cocaine", "Benzocaine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Cocaine"
+        },
+        {
+          "question": "What is an amino benzoic acid derivative?",
+          "options": ["Benzocaine", "Lidocaine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Benzocaine"
+        },
+        {
+          "question": "Which is a lidocaine derivative?",
+          "options": ["Mepivacaine", "Benzocaine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Mepivacaine"
+        },
+        {
+          "question": "What is the role of insulin?",
+          "options": ["Glucose uptake", "Storage", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a mechanism of sulfonylureas?",
+          "options": ["Insulin release", "Sensitivity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Insulin release"
+        },
+        {
+          "question": "What is the purpose of biguanides?",
+          "options": ["Glucose production", "Sensitivity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in thiazolidinediones?",
+          "options": ["Insulin sensitivity", "Glucose uptake", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of meglitinides?",
+          "options": ["Insulin release", "Glucose absorption", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Insulin release"
+        },
+        {
+          "question": "Which is a mechanism of glucosidase inhibitors?",
+          "options": ["Carbohydrate digestion", "Absorption", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of local anesthetics?",
+          "options": ["Pain relief", "Nerve block", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in SAR?",
+          "options": ["Structure", "Activity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Symptom relief", "Disease control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Diabetes", "Pain", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 

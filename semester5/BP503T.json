@@ -1,0 +1,566 @@
+{
+  "subject_code": "BP503T",
+  "subject_name": "Pharmacology II",
+  "units": {
+    "unit_1": {
+      "unit_name": "Cardiovascular Pharmacology I",
+      "topics": [
+        "Hemodynamics and electrophysiology",
+        "Congestive heart failure drugs",
+        "Anti-hypertensive drugs",
+        "Anti-anginal drugs",
+        "Anti-arrhythmic drugs"
+      ],
+      "mcqs": [
+        {
+          "question": "What is hemodynamics?",
+          "options": ["Blood flow", "Heart function", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a heart failure drug?",
+          "options": ["Digoxin", "Furosemide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an anti-hypertensive?",
+          "options": ["ACE inhibitor", "Beta blocker", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anti-anginal?",
+          "options": ["Nitrate", "Calcium blocker", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an anti-arrhythmic?",
+          "options": ["Lidocaine", "Amiodarone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a mechanism of action?",
+          "options": ["Ion channel", "Receptor", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of electrophysiology?",
+          "options": ["Rhythm", "Rate", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Dose", "Duration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Symptom relief", "Disease control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of monitoring?",
+          "options": ["Efficacy", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in selection?",
+          "options": ["Patient", "Disease", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of therapy?",
+          "options": ["Treatment", "Prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in response?",
+          "options": ["Drug", "Patient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of combination?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in monitoring?",
+          "options": ["Clinical", "Laboratory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Clinical", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Cardiovascular Pharmacology II and Urinary System",
+      "topics": [
+        "Shock therapy drugs",
+        "Hematinics and coagulants",
+        "Fibrinolytics and anti-platelets",
+        "Plasma volume expanders",
+        "Diuretics and anti-diuretics"
+      ],
+      "mcqs": [
+        {
+          "question": "What is a shock drug?",
+          "options": ["Vasopressor", "Inotrope", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a hematinic?",
+          "options": ["Iron", "Vitamin B12", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a coagulant?",
+          "options": ["Vitamin K", "Fibrinogen", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a fibrinolytic?",
+          "options": ["Streptokinase", "tPA", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a plasma expander?",
+          "options": ["Dextran", "Albumin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a diuretic?",
+          "options": ["Loop", "Thiazide", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an anti-diuretic?",
+          "options": ["ADH", "Desmopressin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a mechanism?",
+          "options": ["Receptor", "Enzyme", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of therapy?",
+          "options": ["Treatment", "Prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in selection?",
+          "options": ["Patient", "Disease", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Symptom relief", "Disease control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in response?",
+          "options": ["Drug", "Patient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of monitoring?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Dose", "Duration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in application?",
+          "options": ["Clinical", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of research?",
+          "options": ["Discovery", "Development", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Clinical", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Autocoids and Related Drugs",
+      "topics": [
+        "Introduction and classification",
+        "Histamine and 5-HT",
+        "Prostaglandins and related compounds",
+        "Angiotensin and related peptides",
+        "Anti-inflammatory and anti-gout drugs"
+      ],
+      "mcqs": [
+        {
+          "question": "What is an autocoid?",
+          "options": ["Local hormone", "Mediator", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a histamine antagonist?",
+          "options": ["H1 blocker", "H2 blocker", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a prostaglandin?",
+          "options": ["Inflammatory", "Protective", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an angiotensin?",
+          "options": ["Vasoconstrictor", "Hormone", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is an NSAID?",
+          "options": ["Anti-inflammatory", "Analgesic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an anti-gout drug?",
+          "options": ["Allopurinol", "Colchicine", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a mechanism?",
+          "options": ["Receptor", "Enzyme", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Dose", "Duration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Symptom relief", "Disease control", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of monitoring?",
+          "options": ["Efficacy", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in selection?",
+          "options": ["Patient", "Disease", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of therapy?",
+          "options": ["Treatment", "Prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in response?",
+          "options": ["Drug", "Patient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of combination?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in monitoring?",
+          "options": ["Clinical", "Laboratory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Clinical", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Endocrine Pharmacology I",
+      "topics": [
+        "Basic concepts",
+        "Anterior pituitary hormones",
+        "Thyroid hormones",
+        "Calcium regulating hormones",
+        "Insulin and corticosteroids"
+      ],
+      "mcqs": [
+        {
+          "question": "What is an endocrine hormone?",
+          "options": ["Peptide", "Steroid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a pituitary hormone?",
+          "options": ["ACTH", "TSH", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a thyroid hormone?",
+          "options": ["T3", "T4", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a calcium regulator?",
+          "options": ["PTH", "Calcitonin", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is insulin?",
+          "options": ["Hormone", "Protein", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a corticosteroid?",
+          "options": ["Glucocorticoid", "Mineralocorticoid", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a mechanism?",
+          "options": ["Receptor", "Enzyme", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Dose", "Duration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Replacement", "Therapy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of monitoring?",
+          "options": ["Efficacy", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in selection?",
+          "options": ["Patient", "Disease", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of therapy?",
+          "options": ["Treatment", "Prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in response?",
+          "options": ["Drug", "Patient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of combination?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in monitoring?",
+          "options": ["Clinical", "Laboratory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Clinical", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Endocrine Pharmacology II and Bioassay",
+      "topics": [
+        "Sex hormones and steroids",
+        "Estrogens and progestins",
+        "Uterine drugs",
+        "Bioassay principles",
+        "Bioassay applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is an androgen?",
+          "options": ["Testosterone", "Anabolic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an estrogen?",
+          "options": ["Estradiol", "Estriol", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a progestin?",
+          "options": ["Progesterone", "Synthetic", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a uterine drug?",
+          "options": ["Oxytocin", "Ergot", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is bioassay?",
+          "options": ["Biological test", "Potency test", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a bioassay type?",
+          "options": ["Quantal", "Graded", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is a mechanism?",
+          "options": ["Receptor", "Enzyme", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in therapy?",
+          "options": ["Dose", "Duration", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of treatment?",
+          "options": ["Replacement", "Therapy", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of monitoring?",
+          "options": ["Efficacy", "Toxicity", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in selection?",
+          "options": ["Patient", "Disease", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of therapy?",
+          "options": ["Treatment", "Prevention", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in response?",
+          "options": ["Drug", "Patient", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the role of combination?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a factor in monitoring?",
+          "options": ["Clinical", "Laboratory", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of evaluation?",
+          "options": ["Efficacy", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is a requirement?",
+          "options": ["Quality", "Safety", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "What is the purpose of study?",
+          "options": ["Understanding", "Application", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        },
+        {
+          "question": "Which is an application?",
+          "options": ["Clinical", "Research", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B"
+        }
+      ]
+    }
+  }
+} 
