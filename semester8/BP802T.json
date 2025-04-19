@@ -1,0 +1,1061 @@
+{
+  "subject_code": "BP802T",
+  "subject_name": "Social and Preventive Pharmacy",
+  "units": {
+    "unit_1": {
+      "unit_name": "Health and Disease Concepts",
+      "topics": [
+        "Health and Disease",
+        "Social and Health Education",
+        "Sociology and Health",
+        "Hygiene and Health"
+      ],
+      "mcqs": [
+        {
+          "question": "Which of the following best defines public health according to WHO?",
+          "options": [
+            "The science and art of preventing disease, prolonging life, and promoting health through organized efforts",
+            "The study of disease patterns in populations",
+            "The management of healthcare facilities",
+            "The distribution of medicines to the public"
+          ],
+          "correct_answer": "The science and art of preventing disease, prolonging life, and promoting health through organized efforts"
+        },
+        {
+          "question": "What is the primary focus of social determinants of health?",
+          "options": [
+            "Conditions in which people are born, grow, live, work and age",
+            "Genetic predisposition to diseases",
+            "Availability of healthcare facilities",
+            "Government health policies"
+          ],
+          "correct_answer": "Conditions in which people are born, grow, live, work and age"
+        },
+        {
+          "question": "Which vitamin deficiency is associated with night blindness?",
+          "options": [
+            "Vitamin A",
+            "Vitamin B12",
+            "Vitamin C",
+            "Vitamin D"
+          ],
+          "correct_answer": "Vitamin A"
+        },
+        {
+          "question": "What is the primary cause of protein-energy malnutrition?",
+          "options": [
+            "Inadequate intake of protein and calories",
+            "Excessive consumption of fats",
+            "Lack of vitamin supplements",
+            "Poor water quality"
+          ],
+          "correct_answer": "Inadequate intake of protein and calories"
+        },
+        {
+          "question": "Which of the following is NOT a socio-cultural factor affecting health?",
+          "options": [
+            "Blood pressure levels",
+            "Dietary habits",
+            "Religious practices",
+            "Social support systems"
+          ],
+          "correct_answer": "Blood pressure levels"
+        },
+        {
+          "question": "What is the primary impact of urbanization on health?",
+          "options": [
+            "Increased risk of non-communicable diseases",
+            "Decreased access to healthcare",
+            "Reduced air pollution",
+            "Improved water quality"
+          ],
+          "correct_answer": "Increased risk of non-communicable diseases"
+        },
+        {
+          "question": "Which of the following is NOT a component of personal hygiene?",
+          "options": [
+            "Regular exercise",
+            "Hand washing",
+            "Oral hygiene",
+            "Clean clothing"
+          ],
+          "correct_answer": "Regular exercise"
+        },
+        {
+          "question": "What is the primary purpose of health education?",
+          "options": [
+            "To promote healthy behaviors and prevent disease",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To promote healthy behaviors and prevent disease"
+        },
+        {
+          "question": "Which of the following is NOT a social problem of the sick?",
+          "options": [
+            "Improved immune response",
+            "Loss of employment",
+            "Social isolation",
+            "Financial burden"
+          ],
+          "correct_answer": "Improved immune response"
+        },
+        {
+          "question": "What is the primary cause of vitamin D deficiency?",
+          "options": [
+            "Inadequate sunlight exposure",
+            "Excessive protein intake",
+            "High carbohydrate diet",
+            "Lack of exercise"
+          ],
+          "correct_answer": "Inadequate sunlight exposure"
+        },
+        {
+          "question": "Which of the following is NOT a component of a balanced diet?",
+          "options": [
+            "Processed foods",
+            "Fruits and vegetables",
+            "Whole grains",
+            "Lean proteins"
+          ],
+          "correct_answer": "Processed foods"
+        },
+        {
+          "question": "What is the primary impact of poverty on health?",
+          "options": [
+            "Increased risk of communicable diseases",
+            "Better access to healthcare",
+            "Improved nutrition",
+            "Reduced stress levels"
+          ],
+          "correct_answer": "Increased risk of communicable diseases"
+        },
+        {
+          "question": "Which of the following is NOT an avoidable health habit?",
+          "options": [
+            "Regular exercise",
+            "Tobacco use",
+            "Excessive alcohol consumption",
+            "Drug abuse"
+          ],
+          "correct_answer": "Regular exercise"
+        },
+        {
+          "question": "What is the primary purpose of disease prevention?",
+          "options": [
+            "To reduce the incidence of disease",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To reduce the incidence of disease"
+        },
+        {
+          "question": "Which of the following is NOT a social cause of disease?",
+          "options": [
+            "Genetic mutations",
+            "Poor sanitation",
+            "Inadequate housing",
+            "Unsafe working conditions"
+          ],
+          "correct_answer": "Genetic mutations"
+        },
+        {
+          "question": "What is the primary purpose of health promotion?",
+          "options": [
+            "To enable people to increase control over their health",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To enable people to increase control over their health"
+        },
+        {
+          "question": "Which of the following is NOT a component of public health?",
+          "options": [
+            "Individual medical treatment",
+            "Disease prevention",
+            "Health promotion",
+            "Community health"
+          ],
+          "correct_answer": "Individual medical treatment"
+        },
+        {
+          "question": "What is the primary impact of malnutrition on health?",
+          "options": [
+            "Impaired physical and mental development",
+            "Improved immune function",
+            "Reduced risk of chronic diseases",
+            "Better cognitive function"
+          ],
+          "correct_answer": "Impaired physical and mental development"
+        },
+        {
+          "question": "Which of the following is NOT a principle of disease control?",
+          "options": [
+            "Promoting disease spread",
+            "Early detection",
+            "Treatment",
+            "Prevention"
+          ],
+          "correct_answer": "Promoting disease spread"
+        },
+        {
+          "question": "What is the primary purpose of social health programs?",
+          "options": [
+            "To improve community health and well-being",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To improve community health and well-being"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Preventive Medicine",
+      "topics": [
+        "Disease Prevention",
+        "Infectious Diseases",
+        "Non-communicable Diseases",
+        "Substance Abuse"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary mode of transmission for cholera?",
+          "options": [
+            "Contaminated water and food",
+            "Airborne droplets",
+            "Direct contact",
+            "Vector-borne"
+          ],
+          "correct_answer": "Contaminated water and food"
+        },
+        {
+          "question": "Which of the following is NOT a symptom of SARS?",
+          "options": [
+            "Increased appetite",
+            "Fever",
+            "Cough",
+            "Difficulty breathing"
+          ],
+          "correct_answer": "Increased appetite"
+        },
+        {
+          "question": "What is the primary vector for malaria transmission?",
+          "options": [
+            "Anopheles mosquito",
+            "Housefly",
+            "Cockroach",
+            "Rat"
+          ],
+          "correct_answer": "Anopheles mosquito"
+        },
+        {
+          "question": "Which of the following is NOT a risk factor for hypertension?",
+          "options": [
+            "Regular exercise",
+            "High salt intake",
+            "Obesity",
+            "Stress"
+          ],
+          "correct_answer": "Regular exercise"
+        },
+        {
+          "question": "What is the primary cause of type 2 diabetes mellitus?",
+          "options": [
+            "Insulin resistance",
+            "Viral infection",
+            "Bacterial infection",
+            "Genetic mutation"
+          ],
+          "correct_answer": "Insulin resistance"
+        },
+        {
+          "question": "Which of the following is NOT a preventive measure for dengue?",
+          "options": [
+            "Antibiotic use",
+            "Vector control",
+            "Personal protection",
+            "Environmental management"
+          ],
+          "correct_answer": "Antibiotic use"
+        },
+        {
+          "question": "What is the primary mode of transmission for lymphatic filariasis?",
+          "options": [
+            "Mosquito bite",
+            "Contaminated water",
+            "Airborne droplets",
+            "Direct contact"
+          ],
+          "correct_answer": "Mosquito bite"
+        },
+        {
+          "question": "Which of the following is NOT a risk factor for cancer?",
+          "options": [
+            "Regular exercise",
+            "Tobacco use",
+            "Alcohol consumption",
+            "Unhealthy diet"
+          ],
+          "correct_answer": "Regular exercise"
+        },
+        {
+          "question": "What is the primary cause of drug addiction?",
+          "options": [
+            "Complex interaction of biological, psychological, and social factors",
+            "Genetic predisposition only",
+            "Environmental factors only",
+            "Psychological factors only"
+          ],
+          "correct_answer": "Complex interaction of biological, psychological, and social factors"
+        },
+        {
+          "question": "Which of the following is NOT a symptom of pneumonia?",
+          "options": [
+            "Increased appetite",
+            "Fever",
+            "Cough",
+            "Difficulty breathing"
+          ],
+          "correct_answer": "Increased appetite"
+        },
+        {
+          "question": "What is the primary mode of transmission for influenza?",
+          "options": [
+            "Airborne droplets",
+            "Contaminated water",
+            "Direct contact",
+            "Vector-borne"
+          ],
+          "correct_answer": "Airborne droplets"
+        },
+        {
+          "question": "Which of the following is NOT a preventive measure for chickenpox?",
+          "options": [
+            "Antibiotic use",
+            "Vaccination",
+            "Isolation of cases",
+            "Good hygiene"
+          ],
+          "correct_answer": "Antibiotic use"
+        },
+        {
+          "question": "What is the primary cause of acute respiratory infections?",
+          "options": [
+            "Viral or bacterial pathogens",
+            "Genetic factors",
+            "Environmental pollution only",
+            "Poor nutrition only"
+          ],
+          "correct_answer": "Viral or bacterial pathogens"
+        },
+        {
+          "question": "Which of the following is NOT a risk factor for substance abuse?",
+          "options": [
+            "Regular exercise",
+            "Peer pressure",
+            "Family history",
+            "Mental health issues"
+          ],
+          "correct_answer": "Regular exercise"
+        },
+        {
+          "question": "What is the primary mode of transmission for Ebola virus?",
+          "options": [
+            "Direct contact with bodily fluids",
+            "Airborne droplets",
+            "Contaminated water",
+            "Vector-borne"
+          ],
+          "correct_answer": "Direct contact with bodily fluids"
+        },
+        {
+          "question": "Which of the following is NOT a preventive measure for malaria?",
+          "options": [
+            "Antibiotic use",
+            "Insecticide-treated nets",
+            "Indoor residual spraying",
+            "Antimalarial drugs"
+          ],
+          "correct_answer": "Antibiotic use"
+        },
+        {
+          "question": "What is the primary cause of hypertension?",
+          "options": [
+            "Multiple factors including lifestyle and genetics",
+            "Genetic factors only",
+            "Environmental factors only",
+            "Psychological factors only"
+          ],
+          "correct_answer": "Multiple factors including lifestyle and genetics"
+        },
+        {
+          "question": "Which of the following is NOT a symptom of diabetes mellitus?",
+          "options": [
+            "Increased energy levels",
+            "Increased thirst",
+            "Frequent urination",
+            "Blurred vision"
+          ],
+          "correct_answer": "Increased energy levels"
+        },
+        {
+          "question": "What is the primary mode of transmission for COVID-19?",
+          "options": [
+            "Airborne droplets and contact",
+            "Contaminated water",
+            "Vector-borne",
+            "Food-borne"
+          ],
+          "correct_answer": "Airborne droplets and contact"
+        },
+        {
+          "question": "Which of the following is NOT a preventive measure for cancer?",
+          "options": [
+            "Regular use of antibiotics",
+            "Healthy diet",
+            "Regular exercise",
+            "Avoiding tobacco"
+          ],
+          "correct_answer": "Regular use of antibiotics"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "National Health Programs",
+      "topics": [
+        "HIV/AIDS Control",
+        "Tuberculosis Control",
+        "Disease Surveillance",
+        "Immunization Programs"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary objective of the National AIDS Control Programme?",
+          "options": [
+            "To reduce new infections and provide comprehensive care",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To reduce new infections and provide comprehensive care"
+        },
+        {
+          "question": "Which of the following is NOT a component of the Revised National Tuberculosis Control Programme?",
+          "options": [
+            "Surgical treatment for all cases",
+            "Directly Observed Treatment Short-course",
+            "Free diagnosis and treatment",
+            "Patient support"
+          ],
+          "correct_answer": "Surgical treatment for all cases"
+        },
+        {
+          "question": "What is the primary purpose of the Integrated Disease Surveillance Programme?",
+          "options": [
+            "To detect and respond to disease outbreaks",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To detect and respond to disease outbreaks"
+        },
+        {
+          "question": "Which of the following is NOT an objective of the National Leprosy Control Programme?",
+          "options": [
+            "To increase leprosy cases",
+            "To reduce disease burden",
+            "To prevent disabilities",
+            "To provide treatment"
+          ],
+          "correct_answer": "To increase leprosy cases"
+        },
+        {
+          "question": "What is the primary focus of the National Mental Health Programme?",
+          "options": [
+            "To provide mental healthcare to all",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To provide mental healthcare to all"
+        },
+        {
+          "question": "Which of the following is NOT a component of the Universal Immunization Programme?",
+          "options": [
+            "Treatment of chronic diseases",
+            "Vaccination against preventable diseases",
+            "Cold chain maintenance",
+            "Community awareness"
+          ],
+          "correct_answer": "Treatment of chronic diseases"
+        },
+        {
+          "question": "What is the primary objective of the National Programme for Control of Blindness?",
+          "options": [
+            "To reduce avoidable blindness",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To reduce avoidable blindness"
+        },
+        {
+          "question": "Which of the following is NOT a component of the Pulse Polio Programme?",
+          "options": [
+            "Treatment of polio cases",
+            "Mass immunization campaigns",
+            "Surveillance",
+            "Community mobilization"
+          ],
+          "correct_answer": "Treatment of polio cases"
+        },
+        {
+          "question": "What is the primary purpose of the National Programme for Prevention and Control of Deafness?",
+          "options": [
+            "To prevent hearing loss and provide rehabilitation",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To prevent hearing loss and provide rehabilitation"
+        },
+        {
+          "question": "Which of the following is NOT a strategy of the National AIDS Control Programme?",
+          "options": [
+            "Promoting unsafe sex",
+            "Prevention of parent-to-child transmission",
+            "Targeted interventions",
+            "Care and support"
+          ],
+          "correct_answer": "Promoting unsafe sex"
+        },
+        {
+          "question": "What is the primary focus of the Revised National Tuberculosis Control Programme?",
+          "options": [
+            "To achieve TB-free India",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To achieve TB-free India"
+        },
+        {
+          "question": "Which of the following is NOT a component of the Integrated Disease Surveillance Programme?",
+          "options": [
+            "Treatment of all diseases",
+            "Disease surveillance",
+            "Outbreak investigation",
+            "Laboratory support"
+          ],
+          "correct_answer": "Treatment of all diseases"
+        },
+        {
+          "question": "What is the primary objective of the National Leprosy Control Programme?",
+          "options": [
+            "To eliminate leprosy as a public health problem",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To eliminate leprosy as a public health problem"
+        },
+        {
+          "question": "Which of the following is NOT a component of the National Mental Health Programme?",
+          "options": [
+            "Promotion of mental illness",
+            "Treatment of mental disorders",
+            "Rehabilitation",
+            "Prevention"
+          ],
+          "correct_answer": "Promotion of mental illness"
+        },
+        {
+          "question": "What is the primary purpose of the Universal Immunization Programme?",
+          "options": [
+            "To protect children from vaccine-preventable diseases",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To protect children from vaccine-preventable diseases"
+        },
+        {
+          "question": "Which of the following is NOT a strategy of the National Programme for Control of Blindness?",
+          "options": [
+            "Promoting eye injuries",
+            "Cataract surgery",
+            "School eye screening",
+            "Vitamin A supplementation"
+          ],
+          "correct_answer": "Promoting eye injuries"
+        },
+        {
+          "question": "What is the primary focus of the Pulse Polio Programme?",
+          "options": [
+            "To eradicate poliomyelitis",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To eradicate poliomyelitis"
+        },
+        {
+          "question": "Which of the following is NOT a component of the National Programme for Prevention and Control of Deafness?",
+          "options": [
+            "Promoting noise exposure",
+            "Early identification",
+            "Treatment",
+            "Rehabilitation"
+          ],
+          "correct_answer": "Promoting noise exposure"
+        },
+        {
+          "question": "What is the primary objective of the National AIDS Control Programme's targeted interventions?",
+          "options": [
+            "To prevent HIV transmission in high-risk groups",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To prevent HIV transmission in high-risk groups"
+        },
+        {
+          "question": "Which of the following is NOT a component of the Revised National Tuberculosis Control Programme's DOTS strategy?",
+          "options": [
+            "Irregular treatment",
+            "Direct observation",
+            "Short-course chemotherapy",
+            "Regular drug supply"
+          ],
+          "correct_answer": "Irregular treatment"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "National Health Intervention Programs",
+      "topics": [
+        "Maternal and Child Health",
+        "Family Welfare",
+        "Tobacco Control",
+        "WHO Collaboration"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary objective of the National Health Intervention Programme for Mother and Child?",
+          "options": [
+            "To reduce maternal and child mortality",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To reduce maternal and child mortality"
+        },
+        {
+          "question": "Which of the following is NOT a component of the National Family Welfare Programme?",
+          "options": [
+            "Promoting large families",
+            "Family planning services",
+            "Maternal health care",
+            "Child health care"
+          ],
+          "correct_answer": "Promoting large families"
+        },
+        {
+          "question": "What is the primary purpose of the National Tobacco Control Programme?",
+          "options": [
+            "To reduce tobacco consumption and related diseases",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To reduce tobacco consumption and related diseases"
+        },
+        {
+          "question": "Which of the following is NOT a strategy of the National Malaria Prevention Program?",
+          "options": [
+            "Promoting mosquito breeding",
+            "Vector control",
+            "Early diagnosis",
+            "Prompt treatment"
+          ],
+          "correct_answer": "Promoting mosquito breeding"
+        },
+        {
+          "question": "What is the primary focus of the National Programme for the Health Care for the Elderly?",
+          "options": [
+            "To provide comprehensive healthcare to the elderly",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To provide comprehensive healthcare to the elderly"
+        },
+        {
+          "question": "Which of the following is NOT a component of social health programmes?",
+          "options": [
+            "Promoting unhealthy lifestyles",
+            "Health education",
+            "Disease prevention",
+            "Health promotion"
+          ],
+          "correct_answer": "Promoting unhealthy lifestyles"
+        },
+        {
+          "question": "What is the primary role of WHO in Indian national programs?",
+          "options": [
+            "To provide technical assistance and support",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To provide technical assistance and support"
+        },
+        {
+          "question": "Which of the following is NOT a component of maternal health care?",
+          "options": [
+            "Promoting unsafe delivery practices",
+            "Antenatal care",
+            "Safe delivery",
+            "Postnatal care"
+          ],
+          "correct_answer": "Promoting unsafe delivery practices"
+        },
+        {
+          "question": "What is the primary objective of family planning services?",
+          "options": [
+            "To enable couples to achieve desired family size",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To enable couples to achieve desired family size"
+        },
+        {
+          "question": "Which of the following is NOT a strategy of tobacco control?",
+          "options": [
+            "Promoting tobacco use",
+            "Public awareness",
+            "Legislation",
+            "Cessation services"
+          ],
+          "correct_answer": "Promoting tobacco use"
+        },
+        {
+          "question": "What is the primary focus of malaria prevention?",
+          "options": [
+            "To reduce malaria transmission and burden",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To reduce malaria transmission and burden"
+        },
+        {
+          "question": "Which of the following is NOT a component of elderly health care?",
+          "options": [
+            "Promoting age-related diseases",
+            "Preventive care",
+            "Curative care",
+            "Rehabilitative care"
+          ],
+          "correct_answer": "Promoting age-related diseases"
+        },
+        {
+          "question": "What is the primary purpose of health education in social health programmes?",
+          "options": [
+            "To promote healthy behaviors and prevent disease",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To promote healthy behaviors and prevent disease"
+        },
+        {
+          "question": "Which of the following is NOT a WHO strategy for supporting national programs?",
+          "options": [
+            "Promoting disease spread",
+            "Technical assistance",
+            "Capacity building",
+            "Policy development"
+          ],
+          "correct_answer": "Promoting disease spread"
+        },
+        {
+          "question": "What is the primary objective of child health care?",
+          "options": [
+            "To ensure optimal growth and development",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To ensure optimal growth and development"
+        },
+        {
+          "question": "Which of the following is NOT a component of tobacco control legislation?",
+          "options": [
+            "Promoting tobacco advertising",
+            "Smoke-free public places",
+            "Health warnings",
+            "Advertising bans"
+          ],
+          "correct_answer": "Promoting tobacco advertising"
+        },
+        {
+          "question": "What is the primary focus of malaria vector control?",
+          "options": [
+            "To reduce mosquito populations",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To reduce mosquito populations"
+        },
+        {
+          "question": "Which of the following is NOT a component of elderly preventive care?",
+          "options": [
+            "Promoting chronic diseases",
+            "Regular health check-ups",
+            "Vaccination",
+            "Nutrition counseling"
+          ],
+          "correct_answer": "Promoting chronic diseases"
+        },
+        {
+          "question": "What is the primary purpose of WHO technical assistance?",
+          "options": [
+            "To strengthen health systems and programs",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To strengthen health systems and programs"
+        },
+        {
+          "question": "Which of the following is NOT a component of family welfare services?",
+          "options": [
+            "Promoting population growth",
+            "Family planning",
+            "Maternal health",
+            "Child health"
+          ],
+          "correct_answer": "Promoting population growth"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Community Health Services",
+      "topics": [
+        "Primary Health Care",
+        "Rural Health",
+        "Urban Health",
+        "School Health"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary function of a Primary Health Centre (PHC)?",
+          "options": [
+            "To provide comprehensive primary healthcare",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To provide comprehensive primary healthcare"
+        },
+        {
+          "question": "Which of the following is NOT a component of rural sanitation improvement?",
+          "options": [
+            "Promoting open defecation",
+            "Construction of toilets",
+            "Safe drinking water",
+            "Waste management"
+          ],
+          "correct_answer": "Promoting open defecation"
+        },
+        {
+          "question": "What is the primary objective of the National Urban Health Mission?",
+          "options": [
+            "To improve health outcomes in urban areas",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To improve health outcomes in urban areas"
+        },
+        {
+          "question": "Which of the following is NOT a component of school health promotion?",
+          "options": [
+            "Promoting unhealthy habits",
+            "Health education",
+            "Nutrition services",
+            "Physical activity"
+          ],
+          "correct_answer": "Promoting unhealthy habits"
+        },
+        {
+          "question": "What is the primary focus of community health services?",
+          "options": [
+            "To improve community health and well-being",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To improve community health and well-being"
+        },
+        {
+          "question": "Which of the following is NOT a function of a PHC?",
+          "options": [
+            "Specialized surgery",
+            "Maternal and child health",
+            "Family planning",
+            "Treatment of common ailments"
+          ],
+          "correct_answer": "Specialized surgery"
+        },
+        {
+          "question": "What is the primary purpose of rural sanitation programs?",
+          "options": [
+            "To improve hygiene and prevent diseases",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To improve hygiene and prevent diseases"
+        },
+        {
+          "question": "Which of the following is NOT a component of urban health services?",
+          "options": [
+            "Promoting slum development",
+            "Primary healthcare",
+            "Disease surveillance",
+            "Health education"
+          ],
+          "correct_answer": "Promoting slum development"
+        },
+        {
+          "question": "What is the primary objective of school health education?",
+          "options": [
+            "To promote healthy behaviors among students",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To promote healthy behaviors among students"
+        },
+        {
+          "question": "Which of the following is NOT a component of community health services?",
+          "options": [
+            "Promoting disease spread",
+            "Preventive care",
+            "Curative care",
+            "Health promotion"
+          ],
+          "correct_answer": "Promoting disease spread"
+        },
+        {
+          "question": "What is the primary focus of PHC services?",
+          "options": [
+            "To provide accessible and affordable healthcare",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To provide accessible and affordable healthcare"
+        },
+        {
+          "question": "Which of the following is NOT a component of rural health services?",
+          "options": [
+            "Promoting poor sanitation",
+            "Primary healthcare",
+            "Health education",
+            "Disease prevention"
+          ],
+          "correct_answer": "Promoting poor sanitation"
+        },
+        {
+          "question": "What is the primary purpose of urban health missions?",
+          "options": [
+            "To address urban health challenges",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To address urban health challenges"
+        },
+        {
+          "question": "Which of the following is NOT a component of school health services?",
+          "options": [
+            "Promoting unhealthy habits",
+            "Health screening",
+            "Nutrition services",
+            "First aid"
+          ],
+          "correct_answer": "Promoting unhealthy habits"
+        },
+        {
+          "question": "What is the primary objective of community health programs?",
+          "options": [
+            "To improve community health outcomes",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To improve community health outcomes"
+        },
+        {
+          "question": "Which of the following is NOT a function of rural health services?",
+          "options": [
+            "Promoting poor hygiene",
+            "Primary healthcare",
+            "Health education",
+            "Disease prevention"
+          ],
+          "correct_answer": "Promoting poor hygiene"
+        },
+        {
+          "question": "What is the primary focus of urban health initiatives?",
+          "options": [
+            "To improve health in urban slums",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To improve health in urban slums"
+        },
+        {
+          "question": "Which of the following is NOT a component of school health promotion?",
+          "options": [
+            "Promoting unhealthy diets",
+            "Physical education",
+            "Health education",
+            "Nutrition education"
+          ],
+          "correct_answer": "Promoting unhealthy diets"
+        },
+        {
+          "question": "What is the primary purpose of community health education?",
+          "options": [
+            "To promote healthy behaviors and prevent disease",
+            "To increase hospital admissions",
+            "To promote pharmaceutical sales",
+            "To reduce healthcare costs"
+          ],
+          "correct_answer": "To promote healthy behaviors and prevent disease"
+        },
+        {
+          "question": "Which of the following is NOT a component of primary healthcare?",
+          "options": [
+            "Specialized surgery",
+            "Preventive care",
+            "Curative care",
+            "Health promotion"
+          ],
+          "correct_answer": "Specialized surgery"
+        }
+      ]
+    }
+  }
+} 

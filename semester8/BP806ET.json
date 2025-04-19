@@ -1,0 +1,1057 @@
+{
+  "subject_code": "BP806ET",
+  "subject_name": "Quality Control and Standardization of Herbals",
+  "units": {
+    "unit_1": {
+      "unit_name": "Basic Tests and Quality Control",
+      "topics": [
+        "Basic Tests for Drugs",
+        "WHO Guidelines",
+        "Commercial Crude Drugs"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of basic tests for pharmaceutical substances?",
+          "options": [
+            "To ensure quality and purity",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure quality and purity"
+        },
+        {
+          "question": "Which of the following is NOT a basic test for medicinal plant materials?",
+          "options": [
+            "Office decoration",
+            "Macroscopic examination",
+            "Microscopic examination",
+            "Chemical tests"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of WHO guidelines for herbal drugs?",
+          "options": [
+            "To standardize quality control procedures",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To standardize quality control procedures"
+        },
+        {
+          "question": "Which of the following is NOT a component of commercial crude drug evaluation?",
+          "options": [
+            "Office temperature",
+            "Identity",
+            "Purity",
+            "Potency"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of dosage form testing?",
+          "options": [
+            "To ensure product quality and consistency",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure product quality and consistency"
+        },
+        {
+          "question": "Which of the following is NOT a quality parameter for herbal drugs?",
+          "options": [
+            "Office layout",
+            "Ash value",
+            "Extractive value",
+            "Moisture content"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of identity testing?",
+          "options": [
+            "To confirm correct plant species",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To confirm correct plant species"
+        },
+        {
+          "question": "Which of the following is NOT a component of purity testing?",
+          "options": [
+            "Office decor",
+            "Foreign matter",
+            "Heavy metals",
+            "Pesticide residues"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of potency testing?",
+          "options": [
+            "To determine active constituent content",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To determine active constituent content"
+        },
+        {
+          "question": "Which of the following is NOT a WHO guideline parameter?",
+          "options": [
+            "Office maintenance",
+            "Quality control",
+            "Safety assessment",
+            "Efficacy evaluation"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of macroscopic examination?",
+          "options": [
+            "To assess physical characteristics",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To assess physical characteristics"
+        },
+        {
+          "question": "Which of the following is NOT a component of microscopic examination?",
+          "options": [
+            "Office lighting",
+            "Tissue structure",
+            "Cell types",
+            "Stomatal index"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of chemical tests?",
+          "options": [
+            "To identify active constituents",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To identify active constituents"
+        },
+        {
+          "question": "Which of the following is NOT a quality control parameter?",
+          "options": [
+            "Office location",
+            "Standardization",
+            "Validation",
+            "Documentation"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of standardization?",
+          "options": [
+            "To ensure consistent quality",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure consistent quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of validation?",
+          "options": [
+            "Office furniture",
+            "Method validation",
+            "Process validation",
+            "Equipment validation"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of documentation?",
+          "options": [
+            "To maintain quality records",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To maintain quality records"
+        },
+        {
+          "question": "Which of the following is NOT a component of quality assurance?",
+          "options": [
+            "Office decor",
+            "Quality control",
+            "Quality management",
+            "Quality improvement"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of quality management?",
+          "options": [
+            "To ensure product quality",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure product quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of quality improvement?",
+          "options": [
+            "Office maintenance",
+            "Process optimization",
+            "Quality control",
+            "Continuous improvement"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Quality Assurance and Good Practices",
+      "topics": [
+        "Quality Assurance Systems",
+        "Good Practices",
+        "WHO Guidelines"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of cGMP in herbal industry?",
+          "options": [
+            "To ensure product quality and safety",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure product quality and safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of GAP?",
+          "options": [
+            "Office decoration",
+            "Cultivation practices",
+            "Harvesting methods",
+            "Post-harvest handling"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of GMP in traditional medicine?",
+          "options": [
+            "To standardize manufacturing processes",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To standardize manufacturing processes"
+        },
+        {
+          "question": "Which of the following is NOT a component of GLP?",
+          "options": [
+            "Office temperature",
+            "Laboratory practices",
+            "Data recording",
+            "Quality control"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of WHO cGMP guidelines?",
+          "options": [
+            "To ensure quality manufacturing",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure quality manufacturing"
+        },
+        {
+          "question": "Which of the following is NOT a component of GACP?",
+          "options": [
+            "Office layout",
+            "Cultivation",
+            "Collection",
+            "Processing"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of quality assurance systems?",
+          "options": [
+            "To maintain product quality",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To maintain product quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of good practices?",
+          "options": [
+            "Office decor",
+            "Documentation",
+            "Validation",
+            "Training"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of WHO guidelines?",
+          "options": [
+            "To standardize practices",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To standardize practices"
+        },
+        {
+          "question": "Which of the following is NOT a component of manufacturing practices?",
+          "options": [
+            "Office maintenance",
+            "Facility design",
+            "Equipment validation",
+            "Process control"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of facility design?",
+          "options": [
+            "To ensure proper manufacturing environment",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure proper manufacturing environment"
+        },
+        {
+          "question": "Which of the following is NOT a component of equipment validation?",
+          "options": [
+            "Office lighting",
+            "Installation qualification",
+            "Operational qualification",
+            "Performance qualification"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of process control?",
+          "options": [
+            "To ensure consistent production",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure consistent production"
+        },
+        {
+          "question": "Which of the following is NOT a component of documentation?",
+          "options": [
+            "Office location",
+            "Standard operating procedures",
+            "Batch records",
+            "Quality records"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of training?",
+          "options": [
+            "To ensure competent personnel",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure competent personnel"
+        },
+        {
+          "question": "Which of the following is NOT a component of validation?",
+          "options": [
+            "Office furniture",
+            "Process validation",
+            "Method validation",
+            "Cleaning validation"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of quality control?",
+          "options": [
+            "To verify product quality",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To verify product quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of quality management?",
+          "options": [
+            "Office decor",
+            "Quality planning",
+            "Quality control",
+            "Quality improvement"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of quality improvement?",
+          "options": [
+            "To enhance product quality",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To enhance product quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of quality planning?",
+          "options": [
+            "Office maintenance",
+            "Quality objectives",
+            "Quality standards",
+            "Quality procedures"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "International Guidelines and Research",
+      "topics": [
+        "EU and ICH Guidelines",
+        "Research Guidelines",
+        "Safety and Efficacy"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of EU guidelines for herbal drugs?",
+          "options": [
+            "To ensure quality and safety",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure quality and safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of ICH guidelines?",
+          "options": [
+            "Office decoration",
+            "Quality guidelines",
+            "Safety guidelines",
+            "Efficacy guidelines"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of research guidelines?",
+          "options": [
+            "To standardize research methods",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To standardize research methods"
+        },
+        {
+          "question": "Which of the following is NOT a component of safety evaluation?",
+          "options": [
+            "Office temperature",
+            "Toxicity studies",
+            "Pharmacovigilance",
+            "Risk assessment"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of efficacy evaluation?",
+          "options": [
+            "To demonstrate therapeutic benefits",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To demonstrate therapeutic benefits"
+        },
+        {
+          "question": "Which of the following is NOT a component of quality guidelines?",
+          "options": [
+            "Office layout",
+            "Specifications",
+            "Testing methods",
+            "Validation"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of safety guidelines?",
+          "options": [
+            "To ensure product safety",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure product safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of efficacy guidelines?",
+          "options": [
+            "Office decor",
+            "Clinical trials",
+            "Pharmacological studies",
+            "Therapeutic evaluation"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of toxicity studies?",
+          "options": [
+            "To assess safety profile",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To assess safety profile"
+        },
+        {
+          "question": "Which of the following is NOT a component of pharmacovigilance?",
+          "options": [
+            "Office maintenance",
+            "Adverse event reporting",
+            "Risk management",
+            "Safety monitoring"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of risk assessment?",
+          "options": [
+            "To evaluate safety concerns",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To evaluate safety concerns"
+        },
+        {
+          "question": "Which of the following is NOT a component of clinical trials?",
+          "options": [
+            "Office lighting",
+            "Study design",
+            "Patient selection",
+            "Data analysis"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of pharmacological studies?",
+          "options": [
+            "To understand drug action",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To understand drug action"
+        },
+        {
+          "question": "Which of the following is NOT a component of therapeutic evaluation?",
+          "options": [
+            "Office location",
+            "Efficacy assessment",
+            "Safety monitoring",
+            "Quality control"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of specifications?",
+          "options": [
+            "To define quality requirements",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To define quality requirements"
+        },
+        {
+          "question": "Which of the following is NOT a component of testing methods?",
+          "options": [
+            "Office furniture",
+            "Identity tests",
+            "Purity tests",
+            "Potency tests"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of validation?",
+          "options": [
+            "To verify method reliability",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To verify method reliability"
+        },
+        {
+          "question": "Which of the following is NOT a component of study design?",
+          "options": [
+            "Office decor",
+            "Protocol development",
+            "Sample size",
+            "Statistical analysis"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of patient selection?",
+          "options": [
+            "To ensure study validity",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure study validity"
+        },
+        {
+          "question": "Which of the following is NOT a component of data analysis?",
+          "options": [
+            "Office maintenance",
+            "Statistical methods",
+            "Data interpretation",
+            "Report generation"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Stability Testing and Standardization",
+      "topics": [
+        "Stability Testing",
+        "Chromatographic Techniques",
+        "Regulatory Documentation"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of stability testing?",
+          "options": [
+            "To assess product shelf life",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To assess product shelf life"
+        },
+        {
+          "question": "Which of the following is NOT a chromatographic technique?",
+          "options": [
+            "Office decoration",
+            "HPLC",
+            "TLC",
+            "GC"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of chromatographic analysis?",
+          "options": [
+            "To identify and quantify constituents",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To identify and quantify constituents"
+        },
+        {
+          "question": "Which of the following is NOT a component of new drug application?",
+          "options": [
+            "Office temperature",
+            "Quality data",
+            "Safety data",
+            "Efficacy data"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of export registration?",
+          "options": [
+            "To comply with international requirements",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To comply with international requirements"
+        },
+        {
+          "question": "Which of the following is NOT a GMP requirement?",
+          "options": [
+            "Office layout",
+            "Facility requirements",
+            "Equipment validation",
+            "Quality control"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of facility requirements?",
+          "options": [
+            "To ensure proper manufacturing environment",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure proper manufacturing environment"
+        },
+        {
+          "question": "Which of the following is NOT a component of equipment validation?",
+          "options": [
+            "Office decor",
+            "Installation qualification",
+            "Operational qualification",
+            "Performance qualification"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of quality control?",
+          "options": [
+            "To verify product quality",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To verify product quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of D&C Act provisions?",
+          "options": [
+            "Office maintenance",
+            "Manufacturing license",
+            "Product registration",
+            "Quality standards"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of manufacturing license?",
+          "options": [
+            "To authorize production",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To authorize production"
+        },
+        {
+          "question": "Which of the following is NOT a component of product registration?",
+          "options": [
+            "Office lighting",
+            "Quality data",
+            "Safety data",
+            "Efficacy data"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of quality standards?",
+          "options": [
+            "To define product requirements",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To define product requirements"
+        },
+        {
+          "question": "Which of the following is NOT a component of stability testing?",
+          "options": [
+            "Office location",
+            "Accelerated testing",
+            "Long-term testing",
+            "Stress testing"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of accelerated testing?",
+          "options": [
+            "To predict shelf life",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To predict shelf life"
+        },
+        {
+          "question": "Which of the following is NOT a component of long-term testing?",
+          "options": [
+            "Office furniture",
+            "Storage conditions",
+            "Sampling schedule",
+            "Test parameters"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of stress testing?",
+          "options": [
+            "To identify degradation pathways",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To identify degradation pathways"
+        },
+        {
+          "question": "Which of the following is NOT a component of chromatographic analysis?",
+          "options": [
+            "Office decor",
+            "Sample preparation",
+            "Method development",
+            "Data analysis"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of sample preparation?",
+          "options": [
+            "To prepare samples for analysis",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To prepare samples for analysis"
+        },
+        {
+          "question": "Which of the following is NOT a component of method development?",
+          "options": [
+            "Office maintenance",
+            "Column selection",
+            "Mobile phase optimization",
+            "Detection method"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Regulatory Requirements and Standardization",
+      "topics": [
+        "Regulatory Requirements",
+        "WHO Guidelines",
+        "Herbal Pharmacopoeias",
+        "Standardization Markers"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of regulatory requirements?",
+          "options": [
+            "To ensure product quality and safety",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure product quality and safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of WHO guidelines?",
+          "options": [
+            "Office decoration",
+            "Quality control",
+            "Safety monitoring",
+            "Efficacy evaluation"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of herbal pharmacopoeias?",
+          "options": [
+            "To standardize herbal medicines",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To standardize herbal medicines"
+        },
+        {
+          "question": "Which of the following is NOT a component of safety monitoring?",
+          "options": [
+            "Office temperature",
+            "Adverse event reporting",
+            "Risk assessment",
+            "Safety evaluation"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of chemical markers?",
+          "options": [
+            "To identify and quantify constituents",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To identify and quantify constituents"
+        },
+        {
+          "question": "Which of the following is NOT a component of biological markers?",
+          "options": [
+            "Office layout",
+            "Pharmacological activity",
+            "Therapeutic effect",
+            "Toxicity profile"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of standardization?",
+          "options": [
+            "To ensure consistent quality",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure consistent quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of quality control?",
+          "options": [
+            "Office decor",
+            "Identity testing",
+            "Purity testing",
+            "Potency testing"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of safety evaluation?",
+          "options": [
+            "To assess product safety",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To assess product safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of efficacy evaluation?",
+          "options": [
+            "Office maintenance",
+            "Clinical trials",
+            "Pharmacological studies",
+            "Therapeutic assessment"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of adverse event reporting?",
+          "options": [
+            "To monitor product safety",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To monitor product safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of risk assessment?",
+          "options": [
+            "Office lighting",
+            "Hazard identification",
+            "Risk characterization",
+            "Risk management"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of pharmacological activity?",
+          "options": [
+            "To demonstrate biological effects",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To demonstrate biological effects"
+        },
+        {
+          "question": "Which of the following is NOT a component of therapeutic effect?",
+          "options": [
+            "Office location",
+            "Clinical efficacy",
+            "Safety profile",
+            "Quality control"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of toxicity profile?",
+          "options": [
+            "To assess safety concerns",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To assess safety concerns"
+        },
+        {
+          "question": "Which of the following is NOT a component of identity testing?",
+          "options": [
+            "Office furniture",
+            "Macroscopic examination",
+            "Microscopic examination",
+            "Chemical tests"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of purity testing?",
+          "options": [
+            "To ensure product purity",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure product purity"
+        },
+        {
+          "question": "Which of the following is NOT a component of potency testing?",
+          "options": [
+            "Office decor",
+            "Active constituent content",
+            "Biological activity",
+            "Therapeutic effect"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of clinical trials?",
+          "options": [
+            "To evaluate therapeutic effects",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To evaluate therapeutic effects"
+        },
+        {
+          "question": "Which of the following is NOT a component of therapeutic assessment?",
+          "options": [
+            "Office maintenance",
+            "Efficacy evaluation",
+            "Safety monitoring",
+            "Quality control"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    }
+  }
+} 

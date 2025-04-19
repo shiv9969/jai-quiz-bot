@@ -1,0 +1,1061 @@
+{
+  "subject_code": "BP803ET",
+  "subject_name": "Pharma Marketing Management",
+  "units": {
+    "unit_1": {
+      "unit_name": "Marketing Fundamentals",
+      "topics": [
+        "Marketing Concepts",
+        "Pharmaceutical Market",
+        "Consumer Behavior",
+        "Market Research"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary difference between marketing and selling?",
+          "options": [
+            "Marketing focuses on customer needs while selling focuses on product features",
+            "Marketing is more expensive than selling",
+            "Selling is more effective than marketing",
+            "Marketing is only for large companies"
+          ],
+          "correct_answer": "Marketing focuses on customer needs while selling focuses on product features"
+        },
+        {
+          "question": "Which of the following is NOT a component of marketing environment analysis?",
+          "options": [
+            "Product pricing",
+            "Political factors",
+            "Economic conditions",
+            "Social trends"
+          ],
+          "correct_answer": "Product pricing"
+        },
+        {
+          "question": "What is the primary purpose of market segmentation in pharmaceutical marketing?",
+          "options": [
+            "To identify and target specific customer groups",
+            "To reduce production costs",
+            "To increase product prices",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To identify and target specific customer groups"
+        },
+        {
+          "question": "Which of the following is NOT a factor influencing physician prescribing habits?",
+          "options": [
+            "Patient's favorite color",
+            "Clinical evidence",
+            "Drug efficacy",
+            "Safety profile"
+          ],
+          "correct_answer": "Patient's favorite color"
+        },
+        {
+          "question": "What is the primary purpose of consumer profile analysis?",
+          "options": [
+            "To understand customer needs and preferences",
+            "To increase product prices",
+            "To reduce marketing costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To understand customer needs and preferences"
+        },
+        {
+          "question": "Which of the following is NOT a component of industrial buying behavior?",
+          "options": [
+            "Personal preferences",
+            "Technical specifications",
+            "Budget constraints",
+            "Quality requirements"
+          ],
+          "correct_answer": "Personal preferences"
+        },
+        {
+          "question": "What is the primary purpose of market research in pharmaceutical marketing?",
+          "options": [
+            "To gather information for decision-making",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To gather information for decision-making"
+        },
+        {
+          "question": "Which of the following is NOT a demographic factor in pharmaceutical marketing?",
+          "options": [
+            "Brand loyalty",
+            "Age",
+            "Gender",
+            "Income level"
+          ],
+          "correct_answer": "Brand loyalty"
+        },
+        {
+          "question": "What is the primary purpose of competitive analysis?",
+          "options": [
+            "To identify market opportunities and threats",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To identify market opportunities and threats"
+        },
+        {
+          "question": "Which of the following is NOT a socio-psychological characteristic of pharmaceutical consumers?",
+          "options": [
+            "Product packaging",
+            "Health beliefs",
+            "Lifestyle",
+            "Cultural values"
+          ],
+          "correct_answer": "Product packaging"
+        },
+        {
+          "question": "What is the primary purpose of market targeting?",
+          "options": [
+            "To focus marketing efforts on specific segments",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To focus marketing efforts on specific segments"
+        },
+        {
+          "question": "Which of the following is NOT a factor in patient's choice of physician?",
+          "options": [
+            "Physician's car model",
+            "Professional reputation",
+            "Location",
+            "Insurance acceptance"
+          ],
+          "correct_answer": "Physician's car model"
+        },
+        {
+          "question": "What is the primary purpose of consumer behavior analysis?",
+          "options": [
+            "To understand purchase decision process",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To understand purchase decision process"
+        },
+        {
+          "question": "Which of the following is NOT a component of pharmaceutical market analysis?",
+          "options": [
+            "Weather patterns",
+            "Market size",
+            "Growth trends",
+            "Competitive landscape"
+          ],
+          "correct_answer": "Weather patterns"
+        },
+        {
+          "question": "What is the primary purpose of market research in product development?",
+          "options": [
+            "To identify unmet medical needs",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To identify unmet medical needs"
+        },
+        {
+          "question": "Which of the following is NOT a factor in physician motivation?",
+          "options": [
+            "Patient's favorite color",
+            "Clinical outcomes",
+            "Patient satisfaction",
+            "Professional development"
+          ],
+          "correct_answer": "Patient's favorite color"
+        },
+        {
+          "question": "What is the primary purpose of market segmentation analysis?",
+          "options": [
+            "To identify profitable customer groups",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To identify profitable customer groups"
+        },
+        {
+          "question": "Which of the following is NOT a component of pharmaceutical market environment?",
+          "options": [
+            "Product packaging",
+            "Regulatory framework",
+            "Economic conditions",
+            "Technological trends"
+          ],
+          "correct_answer": "Product packaging"
+        },
+        {
+          "question": "What is the primary purpose of consumer profile development?",
+          "options": [
+            "To create targeted marketing strategies",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To create targeted marketing strategies"
+        },
+        {
+          "question": "Which of the following is NOT a factor in retail pharmacist selection?",
+          "options": [
+            "Store color scheme",
+            "Location",
+            "Product availability",
+            "Customer service"
+          ],
+          "correct_answer": "Store color scheme"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Product Management",
+      "topics": [
+        "Product Decisions",
+        "Product Life Cycle",
+        "Branding and Packaging",
+        "Pharmaceutical Products"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of product portfolio analysis?",
+          "options": [
+            "To optimize product mix and resource allocation",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To optimize product mix and resource allocation"
+        },
+        {
+          "question": "Which of the following is NOT a stage in product life cycle?",
+          "options": [
+            "Stagnation",
+            "Introduction",
+            "Growth",
+            "Maturity"
+          ],
+          "correct_answer": "Stagnation"
+        },
+        {
+          "question": "What is the primary purpose of product positioning?",
+          "options": [
+            "To create a distinct image in consumer's mind",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To create a distinct image in consumer's mind"
+        },
+        {
+          "question": "Which of the following is NOT a factor in new product decisions?",
+          "options": [
+            "Competitor's office location",
+            "Market demand",
+            "Technical feasibility",
+            "Regulatory requirements"
+          ],
+          "correct_answer": "Competitor's office location"
+        },
+        {
+          "question": "What is the primary purpose of product branding?",
+          "options": [
+            "To create brand identity and loyalty",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To create brand identity and loyalty"
+        },
+        {
+          "question": "Which of the following is NOT a component of product packaging decisions?",
+          "options": [
+            "Competitor's logo",
+            "Safety features",
+            "Dosage information",
+            "Storage requirements"
+          ],
+          "correct_answer": "Competitor's logo"
+        },
+        {
+          "question": "What is the primary purpose of product line decisions?",
+          "options": [
+            "To optimize product offerings",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To optimize product offerings"
+        },
+        {
+          "question": "Which of the following is NOT a factor in product mix decisions?",
+          "options": [
+            "Weather forecast",
+            "Market demand",
+            "Production capacity",
+            "Resource availability"
+          ],
+          "correct_answer": "Weather forecast"
+        },
+        {
+          "question": "What is the primary purpose of product classification?",
+          "options": [
+            "To organize products for effective management",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To organize products for effective management"
+        },
+        {
+          "question": "Which of the following is NOT a component of pharmaceutical product management?",
+          "options": [
+            "Office decor",
+            "Quality control",
+            "Regulatory compliance",
+            "Market research"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of product life cycle management?",
+          "options": [
+            "To optimize product performance at each stage",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To optimize product performance at each stage"
+        },
+        {
+          "question": "Which of the following is NOT a factor in product positioning?",
+          "options": [
+            "Competitor's lunch menu",
+            "Target market",
+            "Competitive advantage",
+            "Brand image"
+          ],
+          "correct_answer": "Competitor's lunch menu"
+        },
+        {
+          "question": "What is the primary purpose of new product development?",
+          "options": [
+            "To meet unmet medical needs",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To meet unmet medical needs"
+        },
+        {
+          "question": "Which of the following is NOT a component of product branding?",
+          "options": [
+            "Competitor's slogan",
+            "Brand name",
+            "Logo",
+            "Brand promise"
+          ],
+          "correct_answer": "Competitor's slogan"
+        },
+        {
+          "question": "What is the primary purpose of product labeling?",
+          "options": [
+            "To provide essential information to users",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To provide essential information to users"
+        },
+        {
+          "question": "Which of the following is NOT a factor in product portfolio analysis?",
+          "options": [
+            "Employee vacation schedule",
+            "Market share",
+            "Growth potential",
+            "Profitability"
+          ],
+          "correct_answer": "Employee vacation schedule"
+        },
+        {
+          "question": "What is the primary purpose of product line extension?",
+          "options": [
+            "To leverage existing brand equity",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To leverage existing brand equity"
+        },
+        {
+          "question": "Which of the following is NOT a component of product management?",
+          "options": [
+            "Office furniture",
+            "Quality assurance",
+            "Regulatory compliance",
+            "Market analysis"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of product differentiation?",
+          "options": [
+            "To create competitive advantage",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To create competitive advantage"
+        },
+        {
+          "question": "Which of the following is NOT a factor in pharmaceutical product decisions?",
+          "options": [
+            "Competitor's office hours",
+            "Clinical efficacy",
+            "Safety profile",
+            "Cost-effectiveness"
+          ],
+          "correct_answer": "Competitor's office hours"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Promotion Strategies",
+      "topics": [
+        "Promotional Methods",
+        "Promotional Mix",
+        "Advertising",
+        "Digital Marketing"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of promotional mix?",
+          "options": [
+            "To optimize communication with target audience",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To optimize communication with target audience"
+        },
+        {
+          "question": "Which of the following is NOT a component of promotional budget?",
+          "options": [
+            "Employee vacation fund",
+            "Advertising costs",
+            "Sales promotion",
+            "Public relations"
+          ],
+          "correct_answer": "Employee vacation fund"
+        },
+        {
+          "question": "What is the primary purpose of personal selling?",
+          "options": [
+            "To build relationships with healthcare professionals",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To build relationships with healthcare professionals"
+        },
+        {
+          "question": "Which of the following is NOT a method of pharmaceutical promotion?",
+          "options": [
+            "Cold calling patients",
+            "Medical journals",
+            "Sampling",
+            "Medical exhibitions"
+          ],
+          "correct_answer": "Cold calling patients"
+        },
+        {
+          "question": "What is the primary purpose of direct mail in pharmaceutical marketing?",
+          "options": [
+            "To provide detailed product information",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To provide detailed product information"
+        },
+        {
+          "question": "Which of the following is NOT a component of medical journal advertising?",
+          "options": [
+            "Celebrity endorsements",
+            "Clinical data",
+            "Dosage information",
+            "Safety profile"
+          ],
+          "correct_answer": "Celebrity endorsements"
+        },
+        {
+          "question": "What is the primary purpose of product sampling?",
+          "options": [
+            "To allow product trial and evaluation",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To allow product trial and evaluation"
+        },
+        {
+          "question": "Which of the following is NOT a component of medical exhibitions?",
+          "options": [
+            "Fashion show",
+            "Product displays",
+            "Scientific presentations",
+            "Professional networking"
+          ],
+          "correct_answer": "Fashion show"
+        },
+        {
+          "question": "What is the primary purpose of public relations in pharmaceutical marketing?",
+          "options": [
+            "To build positive company image",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To build positive company image"
+        },
+        {
+          "question": "Which of the following is NOT a component of online promotion?",
+          "options": [
+            "Door-to-door sales",
+            "Website content",
+            "Social media",
+            "Email marketing"
+          ],
+          "correct_answer": "Door-to-door sales"
+        },
+        {
+          "question": "What is the primary purpose of OTC product promotion?",
+          "options": [
+            "To influence consumer purchase decisions",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To influence consumer purchase decisions"
+        },
+        {
+          "question": "Which of the following is NOT a determinant of promotional mix?",
+          "options": [
+            "Office location",
+            "Target audience",
+            "Product type",
+            "Budget"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of advertising in pharmaceutical marketing?",
+          "options": [
+            "To create product awareness",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To create product awareness"
+        },
+        {
+          "question": "Which of the following is NOT a component of promotional strategy?",
+          "options": [
+            "Employee lunch menu",
+            "Message content",
+            "Media selection",
+            "Timing"
+          ],
+          "correct_answer": "Employee lunch menu"
+        },
+        {
+          "question": "What is the primary purpose of retail promotion?",
+          "options": [
+            "To increase product visibility",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To increase product visibility"
+        },
+        {
+          "question": "Which of the following is NOT a method of digital promotion?",
+          "options": [
+            "Fax marketing",
+            "Social media",
+            "Email campaigns",
+            "Website content"
+          ],
+          "correct_answer": "Fax marketing"
+        },
+        {
+          "question": "What is the primary purpose of promotional budget allocation?",
+          "options": [
+            "To optimize promotional effectiveness",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To optimize promotional effectiveness"
+        },
+        {
+          "question": "Which of the following is NOT a component of public relations?",
+          "options": [
+            "Office gossip",
+            "Media relations",
+            "Crisis management",
+            "Community engagement"
+          ],
+          "correct_answer": "Office gossip"
+        },
+        {
+          "question": "What is the primary purpose of medical journal advertising?",
+          "options": [
+            "To reach healthcare professionals",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To reach healthcare professionals"
+        },
+        {
+          "question": "Which of the following is NOT a factor in promotional effectiveness?",
+          "options": [
+            "Office decor",
+            "Message clarity",
+            "Target audience",
+            "Timing"
+          ],
+          "correct_answer": "Office decor"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Distribution and Sales",
+      "topics": [
+        "Marketing Channels",
+        "Physical Distribution",
+        "Sales Management",
+        "Professional Sales"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of channel design in pharmaceutical marketing?",
+          "options": [
+            "To optimize product distribution",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To optimize product distribution"
+        },
+        {
+          "question": "Which of the following is NOT a channel member in pharmaceutical distribution?",
+          "options": [
+            "Food delivery service",
+            "Manufacturer",
+            "Wholesaler",
+            "Retailer"
+          ],
+          "correct_answer": "Food delivery service"
+        },
+        {
+          "question": "What is the primary purpose of physical distribution management?",
+          "options": [
+            "To ensure efficient product delivery",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To ensure efficient product delivery"
+        },
+        {
+          "question": "Which of the following is NOT a duty of a Professional Sales Representative?",
+          "options": [
+            "Cooking meals",
+            "Product detailing",
+            "Customer service",
+            "Market feedback"
+          ],
+          "correct_answer": "Cooking meals"
+        },
+        {
+          "question": "What is the primary purpose of channel conflict management?",
+          "options": [
+            "To maintain harmonious channel relationships",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To maintain harmonious channel relationships"
+        },
+        {
+          "question": "Which of the following is NOT a component of PSR training?",
+          "options": [
+            "Dancing lessons",
+            "Product knowledge",
+            "Selling skills",
+            "Regulatory compliance"
+          ],
+          "correct_answer": "Dancing lessons"
+        },
+        {
+          "question": "What is the primary purpose of customer call norms?",
+          "options": [
+            "To optimize sales representative time",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To optimize sales representative time"
+        },
+        {
+          "question": "Which of the following is NOT a factor in PSR selection?",
+          "options": [
+            "Favorite color",
+            "Communication skills",
+            "Product knowledge",
+            "Professional attitude"
+          ],
+          "correct_answer": "Favorite color"
+        },
+        {
+          "question": "What is the primary purpose of PSR supervision?",
+          "options": [
+            "To ensure performance standards",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To ensure performance standards"
+        },
+        {
+          "question": "Which of the following is NOT a component of PSR compensation?",
+          "options": [
+            "Vacation home",
+            "Base salary",
+            "Commission",
+            "Benefits"
+          ],
+          "correct_answer": "Vacation home"
+        },
+        {
+          "question": "What is the primary purpose of channel member selection?",
+          "options": [
+            "To ensure efficient distribution",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To ensure efficient distribution"
+        },
+        {
+          "question": "Which of the following is NOT a task in physical distribution?",
+          "options": [
+            "Office decoration",
+            "Inventory management",
+            "Order processing",
+            "Transportation"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of PSR motivation?",
+          "options": [
+            "To enhance sales performance",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To enhance sales performance"
+        },
+        {
+          "question": "Which of the following is NOT a component of channel design?",
+          "options": [
+            "Office layout",
+            "Channel length",
+            "Channel width",
+            "Channel type"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of PSR evaluation?",
+          "options": [
+            "To measure performance and provide feedback",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To measure performance and provide feedback"
+        },
+        {
+          "question": "Which of the following is NOT a factor in channel selection?",
+          "options": [
+            "Office location",
+            "Market coverage",
+            "Cost efficiency",
+            "Control requirements"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of detailing?",
+          "options": [
+            "To provide product information to healthcare professionals",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To provide product information to healthcare professionals"
+        },
+        {
+          "question": "Which of the following is NOT a component of PSR training program?",
+          "options": [
+            "Cooking skills",
+            "Product knowledge",
+            "Selling techniques",
+            "Regulatory guidelines"
+          ],
+          "correct_answer": "Cooking skills"
+        },
+        {
+          "question": "What is the primary purpose of channel management?",
+          "options": [
+            "To optimize distribution efficiency",
+            "To increase product prices",
+            "To reduce production costs",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To optimize distribution efficiency"
+        },
+        {
+          "question": "Which of the following is NOT a factor in PSR performance?",
+          "options": [
+            "Favorite sports team",
+            "Product knowledge",
+            "Communication skills",
+            "Professional attitude"
+          ],
+          "correct_answer": "Favorite sports team"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Pricing and Emerging Concepts",
+      "topics": [
+        "Pricing Strategies",
+        "Price Control",
+        "Emerging Marketing",
+        "Global Marketing"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of pricing in pharmaceutical marketing?",
+          "options": [
+            "To balance profitability and accessibility",
+            "To maximize profits only",
+            "To minimize costs only",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To balance profitability and accessibility"
+        },
+        {
+          "question": "Which of the following is NOT a determinant of price?",
+          "options": [
+            "Office location",
+            "Production costs",
+            "Market demand",
+            "Competition"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of DPCO?",
+          "options": [
+            "To regulate drug prices",
+            "To increase profits",
+            "To reduce quality",
+            "To simplify distribution"
+          ],
+          "correct_answer": "To regulate drug prices"
+        },
+        {
+          "question": "Which of the following is NOT a function of NPPA?",
+          "options": [
+            "Office decoration",
+            "Price fixation",
+            "Price revision",
+            "Price monitoring"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of vertical marketing?",
+          "options": [
+            "To coordinate channel members",
+            "To increase prices",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To coordinate channel members"
+        },
+        {
+          "question": "Which of the following is NOT a component of rural marketing?",
+          "options": [
+            "Luxury car sales",
+            "Affordable pricing",
+            "Local distribution",
+            "Rural promotion"
+          ],
+          "correct_answer": "Luxury car sales"
+        },
+        {
+          "question": "What is the primary purpose of consumerism in pharmaceutical marketing?",
+          "options": [
+            "To protect consumer rights",
+            "To increase prices",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To protect consumer rights"
+        },
+        {
+          "question": "Which of the following is NOT a component of industrial marketing?",
+          "options": [
+            "Retail sales",
+            "B2B relationships",
+            "Technical specifications",
+            "Long-term contracts"
+          ],
+          "correct_answer": "Retail sales"
+        },
+        {
+          "question": "What is the primary purpose of global marketing?",
+          "options": [
+            "To expand market reach",
+            "To increase prices",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To expand market reach"
+        },
+        {
+          "question": "Which of the following is NOT a pricing method?",
+          "options": [
+            "Office rent",
+            "Cost-plus pricing",
+            "Value-based pricing",
+            "Competitive pricing"
+          ],
+          "correct_answer": "Office rent"
+        },
+        {
+          "question": "What is the primary purpose of price management?",
+          "options": [
+            "To optimize pricing strategy",
+            "To increase prices",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To optimize pricing strategy"
+        },
+        {
+          "question": "Which of the following is NOT a component of horizontal marketing?",
+          "options": [
+            "Vertical integration",
+            "Strategic alliances",
+            "Joint ventures",
+            "Partnerships"
+          ],
+          "correct_answer": "Vertical integration"
+        },
+        {
+          "question": "What is the primary purpose of rural market development?",
+          "options": [
+            "To serve underserved populations",
+            "To increase prices",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To serve underserved populations"
+        },
+        {
+          "question": "Which of the following is NOT a factor in global marketing?",
+          "options": [
+            "Local weather",
+            "Cultural differences",
+            "Regulatory requirements",
+            "Market conditions"
+          ],
+          "correct_answer": "Local weather"
+        },
+        {
+          "question": "What is the primary purpose of industrial marketing?",
+          "options": [
+            "To serve business customers",
+            "To increase prices",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To serve business customers"
+        },
+        {
+          "question": "Which of the following is NOT a component of consumer protection?",
+          "options": [
+            "Price fixing",
+            "Product safety",
+            "Fair pricing",
+            "Quality assurance"
+          ],
+          "correct_answer": "Price fixing"
+        },
+        {
+          "question": "What is the primary purpose of price control regulations?",
+          "options": [
+            "To ensure affordable healthcare",
+            "To increase profits",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To ensure affordable healthcare"
+        },
+        {
+          "question": "Which of the following is NOT a component of emerging marketing concepts?",
+          "options": [
+            "Traditional methods",
+            "Digital marketing",
+            "Social media",
+            "E-commerce"
+          ],
+          "correct_answer": "Traditional methods"
+        },
+        {
+          "question": "What is the primary purpose of market expansion?",
+          "options": [
+            "To increase market share",
+            "To increase prices",
+            "To reduce quality",
+            "To simplify manufacturing"
+          ],
+          "correct_answer": "To increase market share"
+        },
+        {
+          "question": "Which of the following is NOT a factor in pricing strategy?",
+          "options": [
+            "Office decor",
+            "Cost structure",
+            "Market demand",
+            "Competition"
+          ],
+          "correct_answer": "Office decor"
+        }
+      ]
+    }
+  }
+} 

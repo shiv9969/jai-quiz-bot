@@ -1,0 +1,1061 @@
+{
+    "subject_code": "BP805T",
+    "subject_name": "Pharmacovigilance",
+    "units": {
+        "unit_1": {
+            "unit_name": "Introduction to Pharmacovigilance",
+            "topics": [
+                "History and Development",
+                "Adverse Drug Reactions",
+                "Safety Monitoring",
+                "Pharmacovigilance Programs"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the primary purpose of pharmacovigilance?",
+                    "options": [
+                        "To monitor and prevent adverse drug reactions",
+                        "To increase drug sales",
+                        "To design packaging",
+                        "To train sales representatives"
+                    ],
+                    "correct_answer": "To monitor and prevent adverse drug reactions"
+                },
+                {
+                    "question": "Which of the following is NOT a component of WHO international drug monitoring programme?",
+                    "options": [
+                        "Office decoration",
+                        "Adverse reaction reporting",
+                        "Signal detection",
+                        "Risk assessment"
+                    ],
+                    "correct_answer": "Office decoration"
+                },
+                {
+                    "question": "What is the primary purpose of PvPI (Pharmacovigilance Program of India)?",
+                    "options": [
+                        "To monitor drug safety in India",
+                        "To increase drug prices",
+                        "To simplify packaging",
+                        "To reduce market competition"
+                    ],
+                    "correct_answer": "To monitor drug safety in India"
+                },
+                {
+                    "question": "Which of the following is NOT a type of adverse drug reaction?",
+                    "options": [
+                        "Office temperature change",
+                        "Type A",
+                        "Type B",
+                        "Type C"
+                    ],
+                    "correct_answer": "Office temperature change"
+                },
+                {
+                    "question": "What is the primary purpose of causality assessment?",
+                    "options": [
+                        "To determine if a drug caused an adverse event",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To determine if a drug caused an adverse event"
+                },
+                {
+                    "question": "Which of the following is NOT a method of ADR detection?",
+                    "options": [
+                        "Office surveillance",
+                        "Spontaneous reporting",
+                        "Active surveillance",
+                        "Electronic health records"
+                    ],
+                    "correct_answer": "Office surveillance"
+                },
+                {
+                    "question": "What is the primary purpose of severity assessment?",
+                    "options": [
+                        "To evaluate the intensity of adverse reactions",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To evaluate the intensity of adverse reactions"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ADR management?",
+                    "options": [
+                        "Office maintenance",
+                        "Drug withdrawal",
+                        "Dose adjustment",
+                        "Alternative therapy"
+                    ],
+                    "correct_answer": "Office maintenance"
+                },
+                {
+                    "question": "What is the primary purpose of preventability assessment?",
+                    "options": [
+                        "To determine if ADR could have been prevented",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To determine if ADR could have been prevented"
+                },
+                {
+                    "question": "Which of the following is NOT a regulatory terminology in pharmacovigilance?",
+                    "options": [
+                        "Office layout",
+                        "Signal",
+                        "Risk-benefit",
+                        "Safety profile"
+                    ],
+                    "correct_answer": "Office layout"
+                },
+                {
+                    "question": "What is the primary purpose of ADR classification?",
+                    "options": [
+                        "To categorize adverse reactions",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To categorize adverse reactions"
+                },
+                {
+                    "question": "Which of the following is NOT a component of safety monitoring?",
+                    "options": [
+                        "Office temperature",
+                        "Risk assessment",
+                        "Signal detection",
+                        "Benefit-risk evaluation"
+                    ],
+                    "correct_answer": "Office temperature"
+                },
+                {
+                    "question": "What is the primary purpose of pharmacovigilance history?",
+                    "options": [
+                        "To understand evolution of drug safety monitoring",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To understand evolution of drug safety monitoring"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ADR reporting?",
+                    "options": [
+                        "Office decoration",
+                        "Case details",
+                        "Causality assessment",
+                        "Outcome"
+                    ],
+                    "correct_answer": "Office decoration"
+                },
+                {
+                    "question": "What is the primary purpose of predictability assessment?",
+                    "options": [
+                        "To evaluate if ADR was expected",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To evaluate if ADR was expected"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ADR management?",
+                    "options": [
+                        "Office lighting",
+                        "Drug withdrawal",
+                        "Dose adjustment",
+                        "Alternative therapy"
+                    ],
+                    "correct_answer": "Office lighting"
+                },
+                {
+                    "question": "What is the primary purpose of regulatory terminologies?",
+                    "options": [
+                        "To standardize communication",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To standardize communication"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ADR detection?",
+                    "options": [
+                        "Office maintenance",
+                        "Spontaneous reporting",
+                        "Active surveillance",
+                        "Electronic health records"
+                    ],
+                    "correct_answer": "Office maintenance"
+                },
+                {
+                    "question": "What is the primary purpose of ADR reporting systems?",
+                    "options": [
+                        "To collect safety data",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To collect safety data"
+                },
+                {
+                    "question": "Which of the following is NOT a component of pharmacovigilance programs?",
+                    "options": [
+                        "Office furniture",
+                        "Data collection",
+                        "Signal detection",
+                        "Risk management"
+                    ],
+                    "correct_answer": "Office furniture"
+                }
+            ]
+        },
+        "unit_2": {
+            "unit_name": "Drug and Disease Classification",
+            "topics": [
+                "Drug Classification Systems",
+                "Disease Classification",
+                "Drug Dictionaries",
+                "Information Resources"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the primary purpose of ATC classification?",
+                    "options": [
+                        "To classify drugs systematically",
+                        "To increase drug prices",
+                        "To design packaging",
+                        "To train sales staff"
+                    ],
+                    "correct_answer": "To classify drugs systematically"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ICD?",
+                    "options": [
+                        "Office decoration",
+                        "Disease codes",
+                        "Diagnosis categories",
+                        "Procedure codes"
+                    ],
+                    "correct_answer": "Office decoration"
+                },
+                {
+                    "question": "What is the primary purpose of DDD?",
+                    "options": [
+                        "To standardize drug dosage measurement",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To standardize drug dosage measurement"
+                },
+                {
+                    "question": "Which of the following is NOT a component of INN?",
+                    "options": [
+                        "Office temperature",
+                        "Generic name",
+                        "Chemical structure",
+                        "Therapeutic class"
+                    ],
+                    "correct_answer": "Office temperature"
+                },
+                {
+                    "question": "What is the primary purpose of MedDRA?",
+                    "options": [
+                        "To standardize adverse event terminology",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To standardize adverse event terminology"
+                },
+                {
+                    "question": "Which of the following is NOT a component of WHO drug dictionary?",
+                    "options": [
+                        "Office layout",
+                        "Drug names",
+                        "ATC codes",
+                        "Manufacturers"
+                    ],
+                    "correct_answer": "Office layout"
+                },
+                {
+                    "question": "What is the primary purpose of Eudravigilance dictionary?",
+                    "options": [
+                        "To standardize medicinal product information",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To standardize medicinal product information"
+                },
+                {
+                    "question": "Which of the following is NOT a pharmacovigilance resource?",
+                    "options": [
+                        "Office decor",
+                        "VigiBase",
+                        "FAERS",
+                        "EudraVigilance"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of drug safety department?",
+                    "options": [
+                        "To monitor drug safety",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To monitor drug safety"
+                },
+                {
+                    "question": "Which of the following is NOT a component of CRO services?",
+                    "options": [
+                        "Office maintenance",
+                        "Safety monitoring",
+                        "Data management",
+                        "Regulatory reporting"
+                    ],
+                    "correct_answer": "Office maintenance"
+                },
+                {
+                    "question": "What is the primary purpose of national pharmacovigilance program?",
+                    "options": [
+                        "To monitor drug safety nationally",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To monitor drug safety nationally"
+                },
+                {
+                    "question": "Which of the following is NOT a component of drug classification?",
+                    "options": [
+                        "Office lighting",
+                        "ATC code",
+                        "Therapeutic class",
+                        "Chemical structure"
+                    ],
+                    "correct_answer": "Office lighting"
+                },
+                {
+                    "question": "What is the primary purpose of disease classification?",
+                    "options": [
+                        "To standardize disease coding",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To standardize disease coding"
+                },
+                {
+                    "question": "Which of the following is NOT a component of drug dictionaries?",
+                    "options": [
+                        "Office location",
+                        "Drug names",
+                        "ATC codes",
+                        "Manufacturers"
+                    ],
+                    "correct_answer": "Office location"
+                },
+                {
+                    "question": "What is the primary purpose of SMQs?",
+                    "options": [
+                        "To standardize safety queries",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To standardize safety queries"
+                },
+                {
+                    "question": "Which of the following is NOT a component of information resources?",
+                    "options": [
+                        "Office furniture",
+                        "Databases",
+                        "Guidelines",
+                        "Regulatory documents"
+                    ],
+                    "correct_answer": "Office furniture"
+                },
+                {
+                    "question": "What is the primary purpose of hospital pharmacovigilance?",
+                    "options": [
+                        "To monitor ADRs in hospital setting",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To monitor ADRs in hospital setting"
+                },
+                {
+                    "question": "Which of the following is NOT a component of industry pharmacovigilance?",
+                    "options": [
+                        "Office decor",
+                        "Safety monitoring",
+                        "Risk management",
+                        "Regulatory reporting"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of CRO pharmacovigilance?",
+                    "options": [
+                        "To provide safety monitoring services",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To provide safety monitoring services"
+                },
+                {
+                    "question": "Which of the following is NOT a component of national program?",
+                    "options": [
+                        "Office maintenance",
+                        "Data collection",
+                        "Signal detection",
+                        "Risk management"
+                    ],
+                    "correct_answer": "Office maintenance"
+                }
+            ]
+        },
+        "unit_3": {
+            "unit_name": "Vaccine Safety and Methods",
+            "topics": [
+                "Vaccine Safety",
+                "Surveillance Methods",
+                "Communication",
+                "Crisis Management"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the primary purpose of vaccine pharmacovigilance?",
+                    "options": [
+                        "To monitor vaccine safety",
+                        "To increase vaccine prices",
+                        "To design packaging",
+                        "To train sales staff"
+                    ],
+                    "correct_answer": "To monitor vaccine safety"
+                },
+                {
+                    "question": "Which of the following is NOT a component of vaccination failure?",
+                    "options": [
+                        "Office decoration",
+                        "Primary failure",
+                        "Secondary failure",
+                        "Tertiary failure"
+                    ],
+                    "correct_answer": "Office decoration"
+                },
+                {
+                    "question": "What is the primary purpose of AEFI monitoring?",
+                    "options": [
+                        "To detect vaccine-related adverse events",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To detect vaccine-related adverse events"
+                },
+                {
+                    "question": "Which of the following is NOT a method of passive surveillance?",
+                    "options": [
+                        "Office temperature",
+                        "Spontaneous reporting",
+                        "Case series",
+                        "Literature review"
+                    ],
+                    "correct_answer": "Office temperature"
+                },
+                {
+                    "question": "What is the primary purpose of active surveillance?",
+                    "options": [
+                        "To systematically collect safety data",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To systematically collect safety data"
+                },
+                {
+                    "question": "Which of the following is NOT a component of sentinel sites?",
+                    "options": [
+                        "Office layout",
+                        "Data collection",
+                        "Case reporting",
+                        "Signal detection"
+                    ],
+                    "correct_answer": "Office layout"
+                },
+                {
+                    "question": "What is the primary purpose of drug event monitoring?",
+                    "options": [
+                        "To track drug safety in real-world use",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To track drug safety in real-world use"
+                },
+                {
+                    "question": "Which of the following is NOT a type of observational study?",
+                    "options": [
+                        "Office decor",
+                        "Cross-sectional",
+                        "Case-control",
+                        "Cohort"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of targeted investigations?",
+                    "options": [
+                        "To study specific safety concerns",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To study specific safety concerns"
+                },
+                {
+                    "question": "Which of the following is NOT a component of crisis communication?",
+                    "options": [
+                        "Office maintenance",
+                        "Risk assessment",
+                        "Message development",
+                        "Stakeholder engagement"
+                    ],
+                    "correct_answer": "Office maintenance"
+                },
+                {
+                    "question": "What is the primary purpose of regulatory communication?",
+                    "options": [
+                        "To report safety concerns",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To report safety concerns"
+                },
+                {
+                    "question": "Which of the following is NOT a component of media communication?",
+                    "options": [
+                        "Office lighting",
+                        "Press releases",
+                        "Public statements",
+                        "Social media"
+                    ],
+                    "correct_answer": "Office lighting"
+                },
+                {
+                    "question": "What is the primary purpose of healthcare communication?",
+                    "options": [
+                        "To inform healthcare providers",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To inform healthcare providers"
+                },
+                {
+                    "question": "Which of the following is NOT a component of business communication?",
+                    "options": [
+                        "Office location",
+                        "Safety updates",
+                        "Risk management",
+                        "Regulatory reporting"
+                    ],
+                    "correct_answer": "Office location"
+                },
+                {
+                    "question": "What is the primary purpose of stimulated reporting?",
+                    "options": [
+                        "To enhance ADR detection",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To enhance ADR detection"
+                },
+                {
+                    "question": "Which of the following is NOT a component of registries?",
+                    "options": [
+                        "Office furniture",
+                        "Patient enrollment",
+                        "Data collection",
+                        "Follow-up"
+                    ],
+                    "correct_answer": "Office furniture"
+                },
+                {
+                    "question": "What is the primary purpose of cross-sectional studies?",
+                    "options": [
+                        "To assess prevalence of ADRs",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To assess prevalence of ADRs"
+                },
+                {
+                    "question": "Which of the following is NOT a component of case-control studies?",
+                    "options": [
+                        "Office decor",
+                        "Case selection",
+                        "Control matching",
+                        "Exposure assessment"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of cohort studies?",
+                    "options": [
+                        "To assess incidence of ADRs",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To assess incidence of ADRs"
+                },
+                {
+                    "question": "Which of the following is NOT a component of crisis management?",
+                    "options": [
+                        "Office maintenance",
+                        "Risk assessment",
+                        "Communication plan",
+                        "Response strategy"
+                    ],
+                    "correct_answer": "Office maintenance"
+                }
+            ]
+        },
+        "unit_4": {
+            "unit_name": "Safety Data and Guidelines",
+            "topics": [
+                "Safety Data Generation",
+                "ICH Guidelines",
+                "Safety Reporting",
+                "Good Clinical Practice"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the primary purpose of preclinical safety data?",
+                    "options": [
+                        "To assess initial drug safety",
+                        "To increase drug prices",
+                        "To design packaging",
+                        "To train sales staff"
+                    ],
+                    "correct_answer": "To assess initial drug safety"
+                },
+                {
+                    "question": "Which of the following is NOT a phase of clinical safety data?",
+                    "options": [
+                        "Office decoration",
+                        "Phase I",
+                        "Phase II",
+                        "Phase III"
+                    ],
+                    "correct_answer": "Office decoration"
+                },
+                {
+                    "question": "What is the primary purpose of post-marketing surveillance?",
+                    "options": [
+                        "To monitor drug safety in real-world use",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To monitor drug safety in real-world use"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ICH guidelines?",
+                    "options": [
+                        "Office temperature",
+                        "E2A",
+                        "E2B",
+                        "E2C"
+                    ],
+                    "correct_answer": "Office temperature"
+                },
+                {
+                    "question": "What is the primary purpose of expedited reporting?",
+                    "options": [
+                        "To report serious adverse events quickly",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To report serious adverse events quickly"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ICSR?",
+                    "options": [
+                        "Office layout",
+                        "Patient details",
+                        "Adverse event",
+                        "Causality assessment"
+                    ],
+                    "correct_answer": "Office layout"
+                },
+                {
+                    "question": "What is the primary purpose of PSUR?",
+                    "options": [
+                        "To provide periodic safety updates",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To provide periodic safety updates"
+                },
+                {
+                    "question": "Which of the following is NOT a component of pharmacovigilance planning?",
+                    "options": [
+                        "Office decor",
+                        "Risk management",
+                        "Safety monitoring",
+                        "Data collection"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of GCP in pharmacovigilance?",
+                    "options": [
+                        "To ensure quality of safety data",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To ensure quality of safety data"
+                },
+                {
+                    "question": "Which of the following is NOT a component of safety data generation?",
+                    "options": [
+                        "Office maintenance",
+                        "Data collection",
+                        "Analysis",
+                        "Reporting"
+                    ],
+                    "correct_answer": "Office maintenance"
+                },
+                {
+                    "question": "What is the primary purpose of ICH organization?",
+                    "options": [
+                        "To harmonize regulatory requirements",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To harmonize regulatory requirements"
+                },
+                {
+                    "question": "Which of the following is NOT a component of safety reporting?",
+                    "options": [
+                        "Office lighting",
+                        "Case reports",
+                        "Aggregate reports",
+                        "Signal detection"
+                    ],
+                    "correct_answer": "Office lighting"
+                },
+                {
+                    "question": "What is the primary purpose of post-approval reporting?",
+                    "options": [
+                        "To monitor safety after marketing",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To monitor safety after marketing"
+                },
+                {
+                    "question": "Which of the following is NOT a component of GCP requirements?",
+                    "options": [
+                        "Office location",
+                        "Protocol compliance",
+                        "Data quality",
+                        "Ethical conduct"
+                    ],
+                    "correct_answer": "Office location"
+                },
+                {
+                    "question": "What is the primary purpose of safety monitoring?",
+                    "options": [
+                        "To detect safety signals",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To detect safety signals"
+                },
+                {
+                    "question": "Which of the following is NOT a component of risk management?",
+                    "options": [
+                        "Office furniture",
+                        "Risk assessment",
+                        "Risk minimization",
+                        "Risk communication"
+                    ],
+                    "correct_answer": "Office furniture"
+                },
+                {
+                    "question": "What is the primary purpose of data quality?",
+                    "options": [
+                        "To ensure reliable safety data",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To ensure reliable safety data"
+                },
+                {
+                    "question": "Which of the following is NOT a component of ethical conduct?",
+                    "options": [
+                        "Office decor",
+                        "Informed consent",
+                        "Patient protection",
+                        "Data confidentiality"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of protocol compliance?",
+                    "options": [
+                        "To ensure study integrity",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To ensure study integrity"
+                },
+                {
+                    "question": "Which of the following is NOT a component of safety assessment?",
+                    "options": [
+                        "Office maintenance",
+                        "Risk evaluation",
+                        "Benefit assessment",
+                        "Risk management"
+                    ],
+                    "correct_answer": "Office maintenance"
+                }
+            ]
+        },
+        "unit_5": {
+            "unit_name": "Special Populations and Regulations",
+            "topics": [
+                "Pharmacogenomics",
+                "Special Populations",
+                "CIOMS",
+                "CDSCO Requirements"
+            ],
+            "mcqs": [
+                {
+                    "question": "What is the primary purpose of pharmacogenomics in ADRs?",
+                    "options": [
+                        "To understand genetic basis of ADRs",
+                        "To increase drug prices",
+                        "To design packaging",
+                        "To train sales staff"
+                    ],
+                    "correct_answer": "To understand genetic basis of ADRs"
+                },
+                {
+                    "question": "Which of the following is NOT a special population?",
+                    "options": [
+                        "Office workers",
+                        "Pediatrics",
+                        "Pregnancy",
+                        "Geriatrics"
+                    ],
+                    "correct_answer": "Office workers"
+                },
+                {
+                    "question": "What is the primary purpose of CIOMS?",
+                    "options": [
+                        "To develop pharmacovigilance guidelines",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To develop pharmacovigilance guidelines"
+                },
+                {
+                    "question": "Which of the following is NOT a component of CIOMS forms?",
+                    "options": [
+                        "Office temperature",
+                        "Patient details",
+                        "Adverse event",
+                        "Causality assessment"
+                    ],
+                    "correct_answer": "Office temperature"
+                },
+                {
+                    "question": "What is the primary purpose of CDSCO in pharmacovigilance?",
+                    "options": [
+                        "To regulate drug safety in India",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To regulate drug safety in India"
+                },
+                {
+                    "question": "Which of the following is NOT a component of Schedule Y?",
+                    "options": [
+                        "Office layout",
+                        "Clinical trials",
+                        "Safety reporting",
+                        "Post-marketing surveillance"
+                    ],
+                    "correct_answer": "Office layout"
+                },
+                {
+                    "question": "What is the primary purpose of pediatric safety evaluation?",
+                    "options": [
+                        "To assess drug safety in children",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To assess drug safety in children"
+                },
+                {
+                    "question": "Which of the following is NOT a consideration in pregnancy safety?",
+                    "options": [
+                        "Office decor",
+                        "Fetal risk",
+                        "Maternal benefit",
+                        "Lactation risk"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of geriatric safety evaluation?",
+                    "options": [
+                        "To assess drug safety in elderly",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To assess drug safety in elderly"
+                },
+                {
+                    "question": "Which of the following is NOT a component of CIOMS working groups?",
+                    "options": [
+                        "Office maintenance",
+                        "Safety reporting",
+                        "Risk management",
+                        "Signal detection"
+                    ],
+                    "correct_answer": "Office maintenance"
+                },
+                {
+                    "question": "What is the primary purpose of genetic testing in ADRs?",
+                    "options": [
+                        "To identify genetic risk factors",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To identify genetic risk factors"
+                },
+                {
+                    "question": "Which of the following is NOT a component of PK parameters?",
+                    "options": [
+                        "Office lighting",
+                        "Absorption",
+                        "Distribution",
+                        "Metabolism"
+                    ],
+                    "correct_answer": "Office lighting"
+                },
+                {
+                    "question": "What is the primary purpose of lactation safety evaluation?",
+                    "options": [
+                        "To assess drug safety during breastfeeding",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To assess drug safety during breastfeeding"
+                },
+                {
+                    "question": "Which of the following is NOT a component of D&C Act?",
+                    "options": [
+                        "Office location",
+                        "Drug regulation",
+                        "Clinical trials",
+                        "Safety monitoring"
+                    ],
+                    "correct_answer": "Office location"
+                },
+                {
+                    "question": "What is the primary purpose of global pharmacovigilance requirements?",
+                    "options": [
+                        "To harmonize safety standards",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To harmonize safety standards"
+                },
+                {
+                    "question": "Which of the following is NOT a component of Indian requirements?",
+                    "options": [
+                        "Office furniture",
+                        "PvPI",
+                        "Schedule Y",
+                        "CDSCO guidelines"
+                    ],
+                    "correct_answer": "Office furniture"
+                },
+                {
+                    "question": "What is the primary purpose of risk assessment in special populations?",
+                    "options": [
+                        "To evaluate specific safety concerns",
+                        "To increase market price",
+                        "To simplify packaging",
+                        "To reduce production costs"
+                    ],
+                    "correct_answer": "To evaluate specific safety concerns"
+                },
+                {
+                    "question": "Which of the following is NOT a component of safety monitoring?",
+                    "options": [
+                        "Office decor",
+                        "Data collection",
+                        "Signal detection",
+                        "Risk management"
+                    ],
+                    "correct_answer": "Office decor"
+                },
+                {
+                    "question": "What is the primary purpose of regulatory compliance?",
+                    "options": [
+                        "To ensure adherence to requirements",
+                        "To increase production costs",
+                        "To simplify packaging",
+                        "To reduce market price"
+                    ],
+                    "correct_answer": "To ensure adherence to requirements"
+                },
+                {
+                    "question": "Which of the following is NOT a component of safety evaluation?",
+                    "options": [
+                        "Office maintenance",
+                        "Risk assessment",
+                        "Benefit evaluation",
+                        "Risk management"
+                    ],
+                    "correct_answer": "Office maintenance"
+                }
+            ]
+        }
+    }
+} 

@@ -1,0 +1,1056 @@
+{
+  "subject_code": "BP807ET",
+  "subject_name": "Computer Aided Drug Design",
+  "units": {
+    "unit_1": {
+      "unit_name": "Drug Discovery and Development",
+      "topics": [
+        "Drug Discovery Process",
+        "Lead Discovery",
+        "Analog Based Design"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of drug discovery and development?",
+          "options": [
+            "To identify and develop new therapeutic agents",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To identify and develop new therapeutic agents"
+        },
+        {
+          "question": "Which of the following is NOT a stage of drug discovery?",
+          "options": [
+            "Office decoration",
+            "Target identification",
+            "Lead optimization",
+            "Clinical trials"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of lead discovery?",
+          "options": [
+            "To identify potential drug candidates",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To identify potential drug candidates"
+        },
+        {
+          "question": "Which of the following is NOT a method of lead discovery?",
+          "options": [
+            "Office temperature",
+            "Random screening",
+            "Non-random screening",
+            "Clinical observation"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of analog-based drug design?",
+          "options": [
+            "To modify existing compounds for improved properties",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To modify existing compounds for improved properties"
+        },
+        {
+          "question": "Which of the following is NOT a component of bioisosterism?",
+          "options": [
+            "Office layout",
+            "Classical bioisosteres",
+            "Non-classical bioisosteres",
+            "Ring equivalents"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of traditional medicine in drug discovery?",
+          "options": [
+            "To identify potential lead compounds",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To identify potential lead compounds"
+        },
+        {
+          "question": "Which of the following is NOT a component of random screening?",
+          "options": [
+            "Office decor",
+            "High-throughput screening",
+            "Virtual screening",
+            "Combinatorial chemistry"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of non-random screening?",
+          "options": [
+            "To focus on specific target classes",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To focus on specific target classes"
+        },
+        {
+          "question": "Which of the following is NOT a component of serendipitous discovery?",
+          "options": [
+            "Office maintenance",
+            "Accidental findings",
+            "Clinical observations",
+            "Mechanism elucidation"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of drug metabolism studies?",
+          "options": [
+            "To identify active metabolites",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To identify active metabolites"
+        },
+        {
+          "question": "Which of the following is NOT a component of clinical observation?",
+          "options": [
+            "Office lighting",
+            "Side effects",
+            "Drug interactions",
+            "Efficacy studies"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of bioisosteric replacement?",
+          "options": [
+            "To maintain biological activity while improving properties",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To maintain biological activity while improving properties"
+        },
+        {
+          "question": "Which of the following is NOT a type of bioisostere?",
+          "options": [
+            "Office location",
+            "Classical",
+            "Non-classical",
+            "Ring equivalents"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of case studies in drug design?",
+          "options": [
+            "To illustrate successful drug development strategies",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To illustrate successful drug development strategies"
+        },
+        {
+          "question": "Which of the following is NOT a component of lead optimization?",
+          "options": [
+            "Office furniture",
+            "Structure-activity relationships",
+            "Pharmacokinetic optimization",
+            "Toxicity assessment"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of target identification?",
+          "options": [
+            "To identify molecular targets for drug intervention",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To identify molecular targets for drug intervention"
+        },
+        {
+          "question": "Which of the following is NOT a component of drug development?",
+          "options": [
+            "Office decor",
+            "Preclinical studies",
+            "Clinical trials",
+            "Regulatory approval"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of preclinical studies?",
+          "options": [
+            "To assess safety and efficacy in animals",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To assess safety and efficacy in animals"
+        },
+        {
+          "question": "Which of the following is NOT a component of clinical trials?",
+          "options": [
+            "Office maintenance",
+            "Phase I",
+            "Phase II",
+            "Phase III"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Quantitative Structure Activity Relationship",
+      "topics": [
+        "QSAR Fundamentals",
+        "Physicochemical Parameters",
+        "3D-QSAR Approaches"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of QSAR?",
+          "options": [
+            "To predict biological activity from chemical structure",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To predict biological activity from chemical structure"
+        },
+        {
+          "question": "Which of the following is NOT a difference between SAR and QSAR?",
+          "options": [
+            "Office decoration",
+            "Quantitative nature",
+            "Mathematical models",
+            "Statistical analysis"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of physicochemical parameters?",
+          "options": [
+            "To describe molecular properties",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To describe molecular properties"
+        },
+        {
+          "question": "Which of the following is NOT a physicochemical parameter?",
+          "options": [
+            "Office temperature",
+            "Partition coefficient",
+            "Hammet's constant",
+            "Taft's constant"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of partition coefficient?",
+          "options": [
+            "To measure lipophilicity",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To measure lipophilicity"
+        },
+        {
+          "question": "Which of the following is NOT a component of Hammet's constant?",
+          "options": [
+            "Office layout",
+            "Electronic effects",
+            "Substituent effects",
+            "Aromatic systems"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of Taft's steric constant?",
+          "options": [
+            "To measure steric effects",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To measure steric effects"
+        },
+        {
+          "question": "Which of the following is NOT a component of Hansch analysis?",
+          "options": [
+            "Office decor",
+            "Linear regression",
+            "Multiple regression",
+            "Parameter optimization"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of Free Wilson analysis?",
+          "options": [
+            "To analyze substituent contributions",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To analyze substituent contributions"
+        },
+        {
+          "question": "Which of the following is NOT a 3D-QSAR approach?",
+          "options": [
+            "Office maintenance",
+            "COMFA",
+            "COMSIA",
+            "Molecular docking"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of COMFA?",
+          "options": [
+            "To analyze steric and electrostatic fields",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To analyze steric and electrostatic fields"
+        },
+        {
+          "question": "Which of the following is NOT a component of COMSIA?",
+          "options": [
+            "Office lighting",
+            "Steric fields",
+            "Electrostatic fields",
+            "Hydrophobic fields"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of experimental parameter determination?",
+          "options": [
+            "To obtain accurate molecular properties",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To obtain accurate molecular properties"
+        },
+        {
+          "question": "Which of the following is NOT a theoretical approach?",
+          "options": [
+            "Office location",
+            "Quantum mechanics",
+            "Molecular mechanics",
+            "Density functional theory"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of statistical analysis in QSAR?",
+          "options": [
+            "To validate predictive models",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To validate predictive models"
+        },
+        {
+          "question": "Which of the following is NOT a statistical method?",
+          "options": [
+            "Office furniture",
+            "Multiple regression",
+            "Partial least squares",
+            "Principal component analysis"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of model validation?",
+          "options": [
+            "To ensure predictive reliability",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure predictive reliability"
+        },
+        {
+          "question": "Which of the following is NOT a validation method?",
+          "options": [
+            "Office decor",
+            "Cross-validation",
+            "External validation",
+            "Internal validation"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of 3D-QSAR?",
+          "options": [
+            "To analyze spatial relationships",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To analyze spatial relationships"
+        },
+        {
+          "question": "Which of the following is NOT a 3D-QSAR application?",
+          "options": [
+            "Office maintenance",
+            "Receptor mapping",
+            "Pharmacophore modeling",
+            "Docking studies"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Molecular Modeling and Virtual Screening",
+      "topics": [
+        "Virtual Screening",
+        "Pharmacophore Mapping",
+        "Molecular Docking"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of virtual screening?",
+          "options": [
+            "To identify potential drug candidates",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To identify potential drug candidates"
+        },
+        {
+          "question": "Which of the following is NOT a virtual screening technique?",
+          "options": [
+            "Office decoration",
+            "Ligand-based screening",
+            "Structure-based screening",
+            "Pharmacophore screening"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of drug-likeness screening?",
+          "options": [
+            "To filter compounds by drug-like properties",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To filter compounds by drug-like properties"
+        },
+        {
+          "question": "Which of the following is NOT a drug-likeness parameter?",
+          "options": [
+            "Office temperature",
+            "Lipinski's rule of five",
+            "Molecular weight",
+            "LogP"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of pharmacophore mapping?",
+          "options": [
+            "To identify essential features for activity",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To identify essential features for activity"
+        },
+        {
+          "question": "Which of the following is NOT a pharmacophore feature?",
+          "options": [
+            "Office layout",
+            "Hydrogen bond donor",
+            "Hydrogen bond acceptor",
+            "Hydrophobic region"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of molecular docking?",
+          "options": [
+            "To predict binding modes",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To predict binding modes"
+        },
+        {
+          "question": "Which of the following is NOT a docking type?",
+          "options": [
+            "Office decor",
+            "Rigid docking",
+            "Flexible docking",
+            "Manual docking"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of rigid docking?",
+          "options": [
+            "To dock rigid molecules",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To dock rigid molecules"
+        },
+        {
+          "question": "Which of the following is NOT a component of flexible docking?",
+          "options": [
+            "Office maintenance",
+            "Ligand flexibility",
+            "Receptor flexibility",
+            "Binding site optimization"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of manual docking?",
+          "options": [
+            "To manually position ligands",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To manually position ligands"
+        },
+        {
+          "question": "Which of the following is NOT a docking scoring function?",
+          "options": [
+            "Office lighting",
+            "Force field based",
+            "Empirical",
+            "Knowledge-based"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of de novo drug design?",
+          "options": [
+            "To design new compounds",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To design new compounds"
+        },
+        {
+          "question": "Which of the following is NOT a de novo design method?",
+          "options": [
+            "Office location",
+            "Fragment-based",
+            "Ligand-based",
+            "Structure-based"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of binding site analysis?",
+          "options": [
+            "To identify interaction sites",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To identify interaction sites"
+        },
+        {
+          "question": "Which of the following is NOT a binding site feature?",
+          "options": [
+            "Office furniture",
+            "Hydrophobic pockets",
+            "Hydrogen bond sites",
+            "Electrostatic regions"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of scoring functions?",
+          "options": [
+            "To rank docking poses",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To rank docking poses"
+        },
+        {
+          "question": "Which of the following is NOT a scoring method?",
+          "options": [
+            "Office decor",
+            "Force field scoring",
+            "Empirical scoring",
+            "Knowledge-based scoring"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of binding energy calculation?",
+          "options": [
+            "To estimate binding affinity",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To estimate binding affinity"
+        },
+        {
+          "question": "Which of the following is NOT an energy term?",
+          "options": [
+            "Office maintenance",
+            "Van der Waals",
+            "Electrostatic",
+            "Solvation"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Informatics and Drug Design",
+      "topics": [
+        "Bioinformatics",
+        "Chemoinformatics",
+        "Databases"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of bioinformatics?",
+          "options": [
+            "To analyze biological data",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To analyze biological data"
+        },
+        {
+          "question": "Which of the following is NOT a bioinformatics application?",
+          "options": [
+            "Office decoration",
+            "Sequence analysis",
+            "Structure prediction",
+            "Function annotation"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of chemoinformatics?",
+          "options": [
+            "To analyze chemical data",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To analyze chemical data"
+        },
+        {
+          "question": "Which of the following is NOT a chemoinformatics tool?",
+          "options": [
+            "Office temperature",
+            "Molecular descriptors",
+            "Similarity searching",
+            "Virtual screening"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of ADME databases?",
+          "options": [
+            "To predict drug properties",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To predict drug properties"
+        },
+        {
+          "question": "Which of the following is NOT an ADME property?",
+          "options": [
+            "Office layout",
+            "Absorption",
+            "Distribution",
+            "Metabolism"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of chemical databases?",
+          "options": [
+            "To store chemical information",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To store chemical information"
+        },
+        {
+          "question": "Which of the following is NOT a chemical database?",
+          "options": [
+            "Office decor",
+            "PubChem",
+            "ChEMBL",
+            "DrugBank"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of biochemical databases?",
+          "options": [
+            "To store biological data",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To store biological data"
+        },
+        {
+          "question": "Which of the following is NOT a biochemical database?",
+          "options": [
+            "Office maintenance",
+            "UniProt",
+            "PDB",
+            "KEGG"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of pharmaceutical databases?",
+          "options": [
+            "To store drug information",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To store drug information"
+        },
+        {
+          "question": "Which of the following is NOT a pharmaceutical database?",
+          "options": [
+            "Office lighting",
+            "DrugBank",
+            "PharmGKB",
+            "TTD"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of sequence databases?",
+          "options": [
+            "To store genetic information",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To store genetic information"
+        },
+        {
+          "question": "Which of the following is NOT a sequence database?",
+          "options": [
+            "Office location",
+            "GenBank",
+            "EMBL",
+            "DDBJ"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of structure databases?",
+          "options": [
+            "To store molecular structures",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To store molecular structures"
+        },
+        {
+          "question": "Which of the following is NOT a structure database?",
+          "options": [
+            "Office furniture",
+            "PDB",
+            "CSD",
+            "ZINC"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of pathway databases?",
+          "options": [
+            "To store metabolic pathways",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To store metabolic pathways"
+        },
+        {
+          "question": "Which of the following is NOT a pathway database?",
+          "options": [
+            "Office decor",
+            "KEGG",
+            "Reactome",
+            "BioCyc"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of interaction databases?",
+          "options": [
+            "To store molecular interactions",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To store molecular interactions"
+        },
+        {
+          "question": "Which of the following is NOT an interaction database?",
+          "options": [
+            "Office maintenance",
+            "STRING",
+            "IntAct",
+            "MINT"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Molecular Modeling",
+      "topics": [
+        "Molecular Mechanics",
+        "Quantum Mechanics",
+        "Conformational Analysis"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of molecular mechanics?",
+          "options": [
+            "To calculate molecular energies",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To calculate molecular energies"
+        },
+        {
+          "question": "Which of the following is NOT a force field term?",
+          "options": [
+            "Office decoration",
+            "Bond stretching",
+            "Angle bending",
+            "Torsion rotation"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of quantum mechanics?",
+          "options": [
+            "To calculate electronic structure",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To calculate electronic structure"
+        },
+        {
+          "question": "Which of the following is NOT a quantum mechanical method?",
+          "options": [
+            "Office temperature",
+            "Hartree-Fock",
+            "Density functional theory",
+            "Molecular mechanics"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of energy minimization?",
+          "options": [
+            "To find stable conformations",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To find stable conformations"
+        },
+        {
+          "question": "Which of the following is NOT an energy minimization method?",
+          "options": [
+            "Office layout",
+            "Steepest descent",
+            "Conjugate gradient",
+            "Newton-Raphson"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of conformational analysis?",
+          "options": [
+            "To explore molecular flexibility",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To explore molecular flexibility"
+        },
+        {
+          "question": "Which of the following is NOT a conformational search method?",
+          "options": [
+            "Office decor",
+            "Systematic search",
+            "Random search",
+            "Molecular dynamics"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of global minima determination?",
+          "options": [
+            "To find lowest energy conformation",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To find lowest energy conformation"
+        },
+        {
+          "question": "Which of the following is NOT a global optimization method?",
+          "options": [
+            "Office maintenance",
+            "Simulated annealing",
+            "Genetic algorithms",
+            "Local optimization"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of molecular dynamics?",
+          "options": [
+            "To simulate molecular motion",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To simulate molecular motion"
+        },
+        {
+          "question": "Which of the following is NOT a molecular dynamics parameter?",
+          "options": [
+            "Office lighting",
+            "Temperature",
+            "Pressure",
+            "Force field"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of Monte Carlo methods?",
+          "options": [
+            "To sample conformational space",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To sample conformational space"
+        },
+        {
+          "question": "Which of the following is NOT a Monte Carlo application?",
+          "options": [
+            "Office location",
+            "Conformational sampling",
+            "Free energy calculation",
+            "Structure prediction"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of free energy calculations?",
+          "options": [
+            "To predict binding affinities",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To predict binding affinities"
+        },
+        {
+          "question": "Which of the following is NOT a free energy method?",
+          "options": [
+            "Office furniture",
+            "Thermodynamic integration",
+            "Free energy perturbation",
+            "Molecular mechanics"
+          ],
+          "correct_answer": "Office furniture"
+        },
+        {
+          "question": "What is the primary purpose of solvation models?",
+          "options": [
+            "To account for solvent effects",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To account for solvent effects"
+        },
+        {
+          "question": "Which of the following is NOT a solvation model?",
+          "options": [
+            "Office decor",
+            "PCM",
+            "GBSA",
+            "MMPBSA"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of force field development?",
+          "options": [
+            "To improve molecular modeling",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To improve molecular modeling"
+        },
+        {
+          "question": "Which of the following is NOT a force field parameter?",
+          "options": [
+            "Office maintenance",
+            "Bond lengths",
+            "Angle values",
+            "Torsion barriers"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    }
+  }
+} 

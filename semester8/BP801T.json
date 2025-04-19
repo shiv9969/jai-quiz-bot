@@ -1,0 +1,1061 @@
+{
+  "subject_code": "BP801T",
+  "subject_name": "Biostatistics and Research Methodology",
+  "units": {
+    "unit_1": {
+      "unit_name": "Introduction to Statistics",
+      "topics": [
+        "Basic Statistics",
+        "Measures of Central Tendency",
+        "Measures of Dispersion",
+        "Correlation Analysis"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of biostatistics in pharmaceutical research?",
+          "options": [
+            "To analyze and interpret biological and pharmaceutical data",
+            "To design drug packaging",
+            "To plan marketing strategies",
+            "To increase drug prices"
+          ],
+          "correct_answer": "To analyze and interpret biological and pharmaceutical data"
+        },
+        {
+          "question": "Which measure of central tendency is most affected by extreme values?",
+          "options": [
+            "Mean",
+            "Median",
+            "Mode",
+            "Range"
+          ],
+          "correct_answer": "Mean"
+        },
+        {
+          "question": "In a pharmaceutical study, what does standard deviation measure?",
+          "options": [
+            "The spread of data points around the mean",
+            "The average drug price",
+            "The packaging size",
+            "The marketing budget"
+          ],
+          "correct_answer": "The spread of data points around the mean"
+        },
+        {
+          "question": "What is the range of Karl Pearson's correlation coefficient?",
+          "options": [
+            "-1 to +1",
+            "0 to 1",
+            "-∞ to +∞",
+            "0 to 100"
+          ],
+          "correct_answer": "-1 to +1"
+        },
+        {
+          "question": "Which of the following is NOT a measure of dispersion?",
+          "options": [
+            "Mode",
+            "Range",
+            "Standard deviation",
+            "Variance"
+          ],
+          "correct_answer": "Mode"
+        },
+        {
+          "question": "In a frequency distribution, what does the class width represent?",
+          "options": [
+            "The range of values in each class interval",
+            "The number of observations",
+            "The mean value",
+            "The median value"
+          ],
+          "correct_answer": "The range of values in each class interval"
+        },
+        {
+          "question": "What is the primary advantage of using median over mean?",
+          "options": [
+            "Less affected by extreme values",
+            "Easier to calculate",
+            "More precise",
+            "More commonly used"
+          ],
+          "correct_answer": "Less affected by extreme values"
+        },
+        {
+          "question": "Which of the following best describes a bimodal distribution?",
+          "options": [
+            "A distribution with two peaks",
+            "A normal distribution",
+            "A skewed distribution",
+            "A uniform distribution"
+          ],
+          "correct_answer": "A distribution with two peaks"
+        },
+        {
+          "question": "What does a correlation coefficient of -0.85 indicate?",
+          "options": [
+            "Strong negative correlation",
+            "Weak negative correlation",
+            "No correlation",
+            "Perfect positive correlation"
+          ],
+          "correct_answer": "Strong negative correlation"
+        },
+        {
+          "question": "Which measure of central tendency is most appropriate for categorical data?",
+          "options": [
+            "Mode",
+            "Mean",
+            "Median",
+            "Standard deviation"
+          ],
+          "correct_answer": "Mode"
+        },
+        {
+          "question": "What is the primary purpose of multiple correlation analysis?",
+          "options": [
+            "To study the relationship between multiple variables",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To study the relationship between multiple variables"
+        },
+        {
+          "question": "Which of the following is NOT a property of standard deviation?",
+          "options": [
+            "It can be negative",
+            "It measures dispersion",
+            "It is in the same units as the data",
+            "It is sensitive to outliers"
+          ],
+          "correct_answer": "It can be negative"
+        },
+        {
+          "question": "What does a frequency distribution table show?",
+          "options": [
+            "The number of observations in each class interval",
+            "The mean of each class",
+            "The median of each class",
+            "The mode of each class"
+          ],
+          "correct_answer": "The number of observations in each class interval"
+        },
+        {
+          "question": "Which of the following is NOT a measure of central tendency?",
+          "options": [
+            "Range",
+            "Mean",
+            "Median",
+            "Mode"
+          ],
+          "correct_answer": "Range"
+        },
+        {
+          "question": "What is the primary purpose of correlation analysis in pharmaceutical research?",
+          "options": [
+            "To identify relationships between variables",
+            "To set drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To identify relationships between variables"
+        },
+        {
+          "question": "Which of the following is NOT a type of correlation?",
+          "options": [
+            "Causal correlation",
+            "Positive correlation",
+            "Negative correlation",
+            "Zero correlation"
+          ],
+          "correct_answer": "Causal correlation"
+        },
+        {
+          "question": "What does a standard deviation of zero indicate?",
+          "options": [
+            "All values are identical",
+            "The mean is zero",
+            "The data is normally distributed",
+            "The sample size is zero"
+          ],
+          "correct_answer": "All values are identical"
+        },
+        {
+          "question": "Which of the following is NOT a property of mean?",
+          "options": [
+            "It is always the most frequent value",
+            "It uses all data points",
+            "It is affected by extreme values",
+            "It is a measure of central tendency"
+          ],
+          "correct_answer": "It is always the most frequent value"
+        },
+        {
+          "question": "What is the primary purpose of measures of dispersion?",
+          "options": [
+            "To describe the spread of data",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To describe the spread of data"
+        },
+        {
+          "question": "Which of the following is NOT a property of correlation coefficient?",
+          "options": [
+            "It can be greater than 1",
+            "It is unitless",
+            "It ranges from -1 to +1",
+            "It measures linear relationship"
+          ],
+          "correct_answer": "It can be greater than 1"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Regression and Probability",
+      "topics": [
+        "Regression Analysis",
+        "Probability Distributions",
+        "Sampling Theory",
+        "Parametric Tests"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of regression analysis in pharmaceutical research?",
+          "options": [
+            "To model relationships between variables",
+            "To design drug packaging",
+            "To plan marketing strategies",
+            "To set drug prices"
+          ],
+          "correct_answer": "To model relationships between variables"
+        },
+        {
+          "question": "Which of the following is NOT a property of normal distribution?",
+          "options": [
+            "It is always positively skewed",
+            "It is symmetric",
+            "It is bell-shaped",
+            "Mean equals median equals mode"
+          ],
+          "correct_answer": "It is always positively skewed"
+        },
+        {
+          "question": "What does the method of least squares minimize?",
+          "options": [
+            "The sum of squared residuals",
+            "The mean of the data",
+            "The standard deviation",
+            "The correlation coefficient"
+          ],
+          "correct_answer": "The sum of squared residuals"
+        },
+        {
+          "question": "Which of the following is NOT a type of sampling error?",
+          "options": [
+            "Systematic error",
+            "Type I error",
+            "Type II error",
+            "Standard error"
+          ],
+          "correct_answer": "Systematic error"
+        },
+        {
+          "question": "What is the primary purpose of ANOVA?",
+          "options": [
+            "To compare means of multiple groups",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To compare means of multiple groups"
+        },
+        {
+          "question": "Which of the following is NOT a property of binomial distribution?",
+          "options": [
+            "It is continuous",
+            "It has two outcomes",
+            "It has fixed number of trials",
+            "It has constant probability"
+          ],
+          "correct_answer": "It is continuous"
+        },
+        {
+          "question": "What does the standard error of regression measure?",
+          "options": [
+            "The average distance of data points from the regression line",
+            "The mean of the data",
+            "The standard deviation",
+            "The correlation coefficient"
+          ],
+          "correct_answer": "The average distance of data points from the regression line"
+        },
+        {
+          "question": "Which of the following is NOT a type of t-test?",
+          "options": [
+            "Paired t-test",
+            "Independent t-test",
+            "One-sample t-test",
+            "Two-way t-test"
+          ],
+          "correct_answer": "Two-way t-test"
+        },
+        {
+          "question": "What is the primary purpose of multiple regression?",
+          "options": [
+            "To model relationships with multiple predictors",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To model relationships with multiple predictors"
+        },
+        {
+          "question": "Which of the following is NOT a property of Poisson distribution?",
+          "options": [
+            "It is continuous",
+            "It is discrete",
+            "Mean equals variance",
+            "Events are independent"
+          ],
+          "correct_answer": "It is continuous"
+        },
+        {
+          "question": "What does the null hypothesis represent?",
+          "options": [
+            "A statement of no effect or no difference",
+            "The research hypothesis",
+            "The alternative hypothesis",
+            "The experimental hypothesis"
+          ],
+          "correct_answer": "A statement of no effect or no difference"
+        },
+        {
+          "question": "Which of the following is NOT a type of sampling?",
+          "options": [
+            "Convenience sampling",
+            "Random sampling",
+            "Stratified sampling",
+            "Systematic sampling"
+          ],
+          "correct_answer": "Convenience sampling"
+        },
+        {
+          "question": "What is the primary purpose of standard error of mean?",
+          "options": [
+            "To measure the precision of sample mean",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To measure the precision of sample mean"
+        },
+        {
+          "question": "Which of the following is NOT a property of probability?",
+          "options": [
+            "It can be negative",
+            "It ranges from 0 to 1",
+            "Sum of probabilities equals 1",
+            "It measures likelihood"
+          ],
+          "correct_answer": "It can be negative"
+        },
+        {
+          "question": "What does the least significance difference test compare?",
+          "options": [
+            "Means of multiple groups",
+            "Variances of groups",
+            "Correlation coefficients",
+            "Regression coefficients"
+          ],
+          "correct_answer": "Means of multiple groups"
+        },
+        {
+          "question": "Which of the following is NOT a type of ANOVA?",
+          "options": [
+            "One-way ANOVA",
+            "Two-way ANOVA",
+            "Three-way ANOVA",
+            "Four-way ANOVA"
+          ],
+          "correct_answer": "Four-way ANOVA"
+        },
+        {
+          "question": "What is the primary purpose of probability distributions?",
+          "options": [
+            "To model random phenomena",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To model random phenomena"
+        },
+        {
+          "question": "Which of the following is NOT a property of regression line?",
+          "options": [
+            "It always passes through the origin",
+            "It minimizes sum of squared residuals",
+            "It has a slope and intercept",
+            "It predicts Y from X"
+          ],
+          "correct_answer": "It always passes through the origin"
+        },
+        {
+          "question": "What does the alternative hypothesis represent?",
+          "options": [
+            "A statement of effect or difference",
+            "The null hypothesis",
+            "The research question",
+            "The experimental design"
+          ],
+          "correct_answer": "A statement of effect or difference"
+        },
+        {
+          "question": "Which of the following is NOT a property of sampling distribution?",
+          "options": [
+            "It is always normal",
+            "It has a mean",
+            "It has a standard deviation",
+            "It describes sample statistics"
+          ],
+          "correct_answer": "It is always normal"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "Non-Parametric Tests and Research Design",
+      "topics": [
+        "Non-Parametric Tests",
+        "Research Methodology",
+        "Data Visualization",
+        "Experimental Design"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of non-parametric tests?",
+          "options": [
+            "To analyze data without distribution assumptions",
+            "To design drug packaging",
+            "To plan marketing strategies",
+            "To set drug prices"
+          ],
+          "correct_answer": "To analyze data without distribution assumptions"
+        },
+        {
+          "question": "Which of the following is NOT a non-parametric test?",
+          "options": [
+            "t-test",
+            "Wilcoxon Rank Sum Test",
+            "Mann-Whitney U test",
+            "Kruskal-Wallis test"
+          ],
+          "correct_answer": "t-test"
+        },
+        {
+          "question": "What is the primary purpose of research design?",
+          "options": [
+            "To plan and structure research studies",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To plan and structure research studies"
+        },
+        {
+          "question": "Which of the following is NOT a type of graph?",
+          "options": [
+            "Cubic graph",
+            "Histogram",
+            "Pie chart",
+            "Response surface plot"
+          ],
+          "correct_answer": "Cubic graph"
+        },
+        {
+          "question": "What does the Wilcoxon Rank Sum Test compare?",
+          "options": [
+            "Medians of two independent groups",
+            "Means of two groups",
+            "Variances of two groups",
+            "Correlation coefficients"
+          ],
+          "correct_answer": "Medians of two independent groups"
+        },
+        {
+          "question": "Which of the following is NOT a component of research protocol?",
+          "options": [
+            "Marketing strategy",
+            "Study objectives",
+            "Methodology",
+            "Data analysis plan"
+          ],
+          "correct_answer": "Marketing strategy"
+        },
+        {
+          "question": "What is the primary purpose of sample size determination?",
+          "options": [
+            "To ensure adequate statistical power",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To ensure adequate statistical power"
+        },
+        {
+          "question": "Which of the following is NOT a type of clinical trial?",
+          "options": [
+            "Marketing trial",
+            "Phase I trial",
+            "Phase II trial",
+            "Phase III trial"
+          ],
+          "correct_answer": "Marketing trial"
+        },
+        {
+          "question": "What does the Kruskal-Wallis test compare?",
+          "options": [
+            "Medians of multiple independent groups",
+            "Means of two groups",
+            "Variances of groups",
+            "Correlation coefficients"
+          ],
+          "correct_answer": "Medians of multiple independent groups"
+        },
+        {
+          "question": "Which of the following is NOT a type of observational study?",
+          "options": [
+            "Experimental study",
+            "Cohort study",
+            "Case-control study",
+            "Cross-sectional study"
+          ],
+          "correct_answer": "Experimental study"
+        },
+        {
+          "question": "What is the primary purpose of data visualization?",
+          "options": [
+            "To present data in graphical form",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To present data in graphical form"
+        },
+        {
+          "question": "Which of the following is NOT a property of histogram?",
+          "options": [
+            "It shows correlation",
+            "It shows frequency distribution",
+            "It has bars",
+            "It shows data range"
+          ],
+          "correct_answer": "It shows correlation"
+        },
+        {
+          "question": "What does the Friedman test compare?",
+          "options": [
+            "Medians of multiple related groups",
+            "Means of two groups",
+            "Variances of groups",
+            "Correlation coefficients"
+          ],
+          "correct_answer": "Medians of multiple related groups"
+        },
+        {
+          "question": "Which of the following is NOT a type of experimental design?",
+          "options": [
+            "Marketing design",
+            "Randomized design",
+            "Block design",
+            "Factorial design"
+          ],
+          "correct_answer": "Marketing design"
+        },
+        {
+          "question": "What is the primary purpose of power analysis?",
+          "options": [
+            "To determine sample size needed",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To determine sample size needed"
+        },
+        {
+          "question": "Which of the following is NOT a type of cohort study?",
+          "options": [
+            "Marketing cohort",
+            "Prospective cohort",
+            "Retrospective cohort",
+            "Ambidirectional cohort"
+          ],
+          "correct_answer": "Marketing cohort"
+        },
+        {
+          "question": "What does the Mann-Whitney U test compare?",
+          "options": [
+            "Medians of two independent groups",
+            "Means of two groups",
+            "Variances of groups",
+            "Correlation coefficients"
+          ],
+          "correct_answer": "Medians of two independent groups"
+        },
+        {
+          "question": "Which of the following is NOT a component of research report?",
+          "options": [
+            "Marketing plan",
+            "Introduction",
+            "Methods",
+            "Results"
+          ],
+          "correct_answer": "Marketing plan"
+        },
+        {
+          "question": "What is the primary purpose of experimental design?",
+          "options": [
+            "To control variables and minimize bias",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To control variables and minimize bias"
+        },
+        {
+          "question": "Which of the following is NOT a type of data presentation?",
+          "options": [
+            "Marketing presentation",
+            "Tables",
+            "Graphs",
+            "Charts"
+          ],
+          "correct_answer": "Marketing presentation"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Advanced Statistical Methods",
+      "topics": [
+        "Factorial Design",
+        "Regression Modeling",
+        "Statistical Software",
+        "Industrial Applications"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of factorial design?",
+          "options": [
+            "To study multiple factors simultaneously",
+            "To design drug packaging",
+            "To plan marketing strategies",
+            "To set drug prices"
+          ],
+          "correct_answer": "To study multiple factors simultaneously"
+        },
+        {
+          "question": "Which of the following is NOT a type of factorial design?",
+          "options": [
+            "Marketing design",
+            "2^2 design",
+            "2^3 design",
+            "2^k design"
+          ],
+          "correct_answer": "Marketing design"
+        },
+        {
+          "question": "What is the primary purpose of regression modeling?",
+          "options": [
+            "To predict and explain relationships",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To predict and explain relationships"
+        },
+        {
+          "question": "Which of the following is NOT a statistical software?",
+          "options": [
+            "Marketing Pro",
+            "SPSS",
+            "MINITAB",
+            "R"
+          ],
+          "correct_answer": "Marketing Pro"
+        },
+        {
+          "question": "What does blocking in experimental design achieve?",
+          "options": [
+            "Controls for known sources of variation",
+            "Increases sample size",
+            "Decreases precision",
+            "Simplifies analysis"
+          ],
+          "correct_answer": "Controls for known sources of variation"
+        },
+        {
+          "question": "Which of the following is NOT a component of hypothesis testing in regression?",
+          "options": [
+            "Marketing test",
+            "t-test for coefficients",
+            "F-test for model",
+            "R-squared test"
+          ],
+          "correct_answer": "Marketing test"
+        },
+        {
+          "question": "What is the primary purpose of confounding in experimental design?",
+          "options": [
+            "To identify and control for mixed effects",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To identify and control for mixed effects"
+        },
+        {
+          "question": "Which of the following is NOT a feature of statistical software?",
+          "options": [
+            "Marketing tools",
+            "Data analysis",
+            "Graphical capabilities",
+            "Statistical tests"
+          ],
+          "correct_answer": "Marketing tools"
+        },
+        {
+          "question": "What does the central composite design achieve?",
+          "options": [
+            "Efficient estimation of quadratic effects",
+            "Simple linear relationships",
+            "Basic comparisons",
+            "Single factor studies"
+          ],
+          "correct_answer": "Efficient estimation of quadratic effects"
+        },
+        {
+          "question": "Which of the following is NOT a type of regression model?",
+          "options": [
+            "Marketing regression",
+            "Simple regression",
+            "Multiple regression",
+            "Polynomial regression"
+          ],
+          "correct_answer": "Marketing regression"
+        },
+        {
+          "question": "What is the primary purpose of response surface methodology?",
+          "options": [
+            "To optimize processes and products",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To optimize processes and products"
+        },
+        {
+          "question": "Which of the following is NOT a property of factorial design?",
+          "options": [
+            "It studies one factor at a time",
+            "It is efficient",
+            "It studies interactions",
+            "It requires fewer runs"
+          ],
+          "correct_answer": "It studies one factor at a time"
+        },
+        {
+          "question": "What does historical design in optimization achieve?",
+          "options": [
+            "Uses existing data for analysis",
+            "Requires new experiments",
+            "Ignores past data",
+            "Focuses on future trends"
+          ],
+          "correct_answer": "Uses existing data for analysis"
+        },
+        {
+          "question": "Which of the following is NOT a component of statistical analysis?",
+          "options": [
+            "Marketing analysis",
+            "Descriptive statistics",
+            "Inferential statistics",
+            "Hypothesis testing"
+          ],
+          "correct_answer": "Marketing analysis"
+        },
+        {
+          "question": "What is the primary purpose of optimization techniques?",
+          "options": [
+            "To find optimal conditions",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To find optimal conditions"
+        },
+        {
+          "question": "Which of the following is NOT a type of experimental design?",
+          "options": [
+            "Marketing design",
+            "Factorial design",
+            "Response surface design",
+            "Mixture design"
+          ],
+          "correct_answer": "Marketing design"
+        },
+        {
+          "question": "What does the 2^2 factorial design study?",
+          "options": [
+            "Two factors at two levels each",
+            "One factor at two levels",
+            "Two factors at three levels",
+            "Three factors at two levels"
+          ],
+          "correct_answer": "Two factors at two levels each"
+        },
+        {
+          "question": "Which of the following is NOT a feature of R software?",
+          "options": [
+            "Marketing tools",
+            "Statistical analysis",
+            "Data visualization",
+            "Programming capabilities"
+          ],
+          "correct_answer": "Marketing tools"
+        },
+        {
+          "question": "What is the primary purpose of statistical software in research?",
+          "options": [
+            "To analyze and interpret data",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To analyze and interpret data"
+        },
+        {
+          "question": "Which of the following is NOT a type of optimization technique?",
+          "options": [
+            "Marketing optimization",
+            "Response surface methodology",
+            "Factorial design",
+            "Mixture design"
+          ],
+          "correct_answer": "Marketing optimization"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Design and Analysis of Experiments",
+      "topics": [
+        "Factorial Design",
+        "Response Surface Methodology",
+        "Optimization Techniques",
+        "Experimental Analysis"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of factorial design in experiments?",
+          "options": [
+            "To study multiple factors and their interactions",
+            "To design drug packaging",
+            "To plan marketing strategies",
+            "To set drug prices"
+          ],
+          "correct_answer": "To study multiple factors and their interactions"
+        },
+        {
+          "question": "Which of the following is NOT a property of 2^3 factorial design?",
+          "options": [
+            "It studies 4 factors",
+            "It has 8 runs",
+            "It studies interactions",
+            "It is efficient"
+          ],
+          "correct_answer": "It studies 4 factors"
+        },
+        {
+          "question": "What is the primary purpose of response surface methodology?",
+          "options": [
+            "To optimize processes and products",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To optimize processes and products"
+        },
+        {
+          "question": "Which of the following is NOT a component of central composite design?",
+          "options": [
+            "Marketing points",
+            "Factorial points",
+            "Axial points",
+            "Center points"
+          ],
+          "correct_answer": "Marketing points"
+        },
+        {
+          "question": "What does the advantage of factorial design include?",
+          "options": [
+            "Efficiency in studying multiple factors",
+            "Simplicity in analysis",
+            "Reduced cost",
+            "Faster execution"
+          ],
+          "correct_answer": "Efficiency in studying multiple factors"
+        },
+        {
+          "question": "Which of the following is NOT a type of optimization technique?",
+          "options": [
+            "Marketing optimization",
+            "Response surface methodology",
+            "Factorial design",
+            "Mixture design"
+          ],
+          "correct_answer": "Marketing optimization"
+        },
+        {
+          "question": "What is the primary purpose of historical design?",
+          "options": [
+            "To use existing data for analysis",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To use existing data for analysis"
+        },
+        {
+          "question": "Which of the following is NOT a property of response surface design?",
+          "options": [
+            "It studies only linear effects",
+            "It studies quadratic effects",
+            "It is rotatable",
+            "It is efficient"
+          ],
+          "correct_answer": "It studies only linear effects"
+        },
+        {
+          "question": "What does the 2^2 design study?",
+          "options": [
+            "Two factors at two levels",
+            "One factor at two levels",
+            "Two factors at three levels",
+            "Three factors at two levels"
+          ],
+          "correct_answer": "Two factors at two levels"
+        },
+        {
+          "question": "Which of the following is NOT a component of optimization?",
+          "options": [
+            "Marketing strategy",
+            "Response surface",
+            "Design points",
+            "Analysis methods"
+          ],
+          "correct_answer": "Marketing strategy"
+        },
+        {
+          "question": "What is the primary purpose of experimental analysis?",
+          "options": [
+            "To interpret and draw conclusions from data",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To interpret and draw conclusions from data"
+        },
+        {
+          "question": "Which of the following is NOT a type of factorial design?",
+          "options": [
+            "Marketing design",
+            "2^2 design",
+            "2^3 design",
+            "2^k design"
+          ],
+          "correct_answer": "Marketing design"
+        },
+        {
+          "question": "What does the central composite design achieve?",
+          "options": [
+            "Efficient estimation of quadratic effects",
+            "Simple linear relationships",
+            "Basic comparisons",
+            "Single factor studies"
+          ],
+          "correct_answer": "Efficient estimation of quadratic effects"
+        },
+        {
+          "question": "Which of the following is NOT a component of response surface methodology?",
+          "options": [
+            "Marketing analysis",
+            "Experimental design",
+            "Statistical analysis",
+            "Optimization"
+          ],
+          "correct_answer": "Marketing analysis"
+        },
+        {
+          "question": "What is the primary purpose of optimization techniques?",
+          "options": [
+            "To find optimal conditions",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To find optimal conditions"
+        },
+        {
+          "question": "Which of the following is NOT a property of factorial design?",
+          "options": [
+            "It studies one factor at a time",
+            "It is efficient",
+            "It studies interactions",
+            "It requires fewer runs"
+          ],
+          "correct_answer": "It studies one factor at a time"
+        },
+        {
+          "question": "What does the historical design in optimization achieve?",
+          "options": [
+            "Uses existing data for analysis",
+            "Requires new experiments",
+            "Ignores past data",
+            "Focuses on future trends"
+          ],
+          "correct_answer": "Uses existing data for analysis"
+        },
+        {
+          "question": "Which of the following is NOT a component of experimental design?",
+          "options": [
+            "Marketing design",
+            "Factorial design",
+            "Response surface design",
+            "Mixture design"
+          ],
+          "correct_answer": "Marketing design"
+        },
+        {
+          "question": "What is the primary purpose of design points in experiments?",
+          "options": [
+            "To represent different factor combinations",
+            "To calculate drug prices",
+            "To design packaging",
+            "To plan marketing"
+          ],
+          "correct_answer": "To represent different factor combinations"
+        },
+        {
+          "question": "Which of the following is NOT a type of analysis method?",
+          "options": [
+            "Marketing analysis",
+            "ANOVA",
+            "Regression",
+            "Response surface"
+          ],
+          "correct_answer": "Marketing analysis"
+        }
+      ]
+    }
+  }
+} 

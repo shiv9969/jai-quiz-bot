@@ -1,0 +1,1061 @@
+{
+  "subject_code": "BP804ET",
+  "subject_name": "Pharmaceutical Regulatory Science",
+  "units": {
+    "unit_1": {
+      "unit_name": "Drug Discovery and Development",
+      "topics": [
+        "Drug Discovery Process",
+        "Pre-clinical Studies",
+        "Clinical Development",
+        "Generic Drug Development"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of pre-clinical studies in drug development?",
+          "options": [
+            "To evaluate safety and efficacy in animal models",
+            "To determine market price",
+            "To design packaging",
+            "To train sales representatives"
+          ],
+          "correct_answer": "To evaluate safety and efficacy in animal models"
+        },
+        {
+          "question": "Which of the following is NOT a stage in drug discovery?",
+          "options": [
+            "Market research",
+            "Target identification",
+            "Lead optimization",
+            "Hit identification"
+          ],
+          "correct_answer": "Market research"
+        },
+        {
+          "question": "What is the primary difference between innovator and generic drugs?",
+          "options": [
+            "Generic drugs are bioequivalent to innovator drugs",
+            "Generic drugs are more expensive",
+            "Generic drugs require more clinical trials",
+            "Generic drugs have different active ingredients"
+          ],
+          "correct_answer": "Generic drugs are bioequivalent to innovator drugs"
+        },
+        {
+          "question": "Which of the following is NOT a component of non-clinical activities?",
+          "options": [
+            "Sales forecasting",
+            "Toxicology studies",
+            "Pharmacokinetics",
+            "Pharmacodynamics"
+          ],
+          "correct_answer": "Sales forecasting"
+        },
+        {
+          "question": "What is the primary purpose of clinical studies?",
+          "options": [
+            "To evaluate safety and efficacy in humans",
+            "To determine packaging design",
+            "To set market price",
+            "To train medical representatives"
+          ],
+          "correct_answer": "To evaluate safety and efficacy in humans"
+        },
+        {
+          "question": "Which of the following is NOT a requirement for generic drug development?",
+          "options": [
+            "New clinical trials for all indications",
+            "Bioequivalence studies",
+            "Quality control testing",
+            "Stability testing"
+          ],
+          "correct_answer": "New clinical trials for all indications"
+        },
+        {
+          "question": "What is the primary purpose of lead optimization?",
+          "options": [
+            "To improve drug properties",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To improve drug properties"
+        },
+        {
+          "question": "Which of the following is NOT a component of drug development process?",
+          "options": [
+            "Office decoration",
+            "Formulation development",
+            "Process development",
+            "Scale-up studies"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of hit identification?",
+          "options": [
+            "To find potential drug candidates",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To find potential drug candidates"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in generic drug product development?",
+          "options": [
+            "Competitor's office location",
+            "Bioequivalence requirements",
+            "Quality standards",
+            "Regulatory guidelines"
+          ],
+          "correct_answer": "Competitor's office location"
+        },
+        {
+          "question": "What is the primary purpose of target identification?",
+          "options": [
+            "To identify disease-related molecules",
+            "To determine market price",
+            "To design packaging",
+            "To train medical representatives"
+          ],
+          "correct_answer": "To identify disease-related molecules"
+        },
+        {
+          "question": "Which of the following is NOT a component of pre-clinical studies?",
+          "options": [
+            "Market research",
+            "Toxicology",
+            "Pharmacology",
+            "Safety pharmacology"
+          ],
+          "correct_answer": "Market research"
+        },
+        {
+          "question": "What is the primary purpose of formulation development?",
+          "options": [
+            "To develop stable and effective dosage forms",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To develop stable and effective dosage forms"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in clinical development?",
+          "options": [
+            "Office decor",
+            "Patient safety",
+            "Study design",
+            "Data collection"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of process development?",
+          "options": [
+            "To optimize manufacturing processes",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce quality standards"
+          ],
+          "correct_answer": "To optimize manufacturing processes"
+        },
+        {
+          "question": "Which of the following is NOT a component of scale-up studies?",
+          "options": [
+            "Office layout",
+            "Process validation",
+            "Equipment qualification",
+            "Technology transfer"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of stability testing?",
+          "options": [
+            "To determine shelf life",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To determine shelf life"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in toxicology studies?",
+          "options": [
+            "Office temperature",
+            "Acute toxicity",
+            "Chronic toxicity",
+            "Carcinogenicity"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of pharmacokinetic studies?",
+          "options": [
+            "To study drug absorption and distribution",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To study drug absorption and distribution"
+        },
+        {
+          "question": "Which of the following is NOT a component of pharmacodynamic studies?",
+          "options": [
+            "Office lighting",
+            "Mechanism of action",
+            "Dose-response",
+            "Efficacy parameters"
+          ],
+          "correct_answer": "Office lighting"
+        }
+      ]
+    },
+    "unit_2": {
+      "unit_name": "Regulatory Approval Process",
+      "topics": [
+        "IND/NDA/ANDA Process",
+        "Regulatory Authorities",
+        "Application Types",
+        "Approval Timelines"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of an Investigational New Drug (IND) application?",
+          "options": [
+            "To obtain permission for clinical trials",
+            "To set market price",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To obtain permission for clinical trials"
+        },
+        {
+          "question": "Which of the following is NOT a component of New Drug Application (NDA)?",
+          "options": [
+            "Office decoration",
+            "Clinical data",
+            "CMC information",
+            "Labeling"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary difference between NDA and ANDA?",
+          "options": [
+            "ANDA relies on reference drug data",
+            "ANDA requires more clinical trials",
+            "ANDA is more expensive",
+            "ANDA takes longer to approve"
+          ],
+          "correct_answer": "ANDA relies on reference drug data"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory authority?",
+          "options": [
+            "Pharmaceutical Marketing Association",
+            "FDA",
+            "EMA",
+            "PMDA"
+          ],
+          "correct_answer": "Pharmaceutical Marketing Association"
+        },
+        {
+          "question": "What is the primary purpose of post-approval changes?",
+          "options": [
+            "To maintain product quality and safety",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To maintain product quality and safety"
+        },
+        {
+          "question": "Which of the following is NOT a type of regulatory application?",
+          "options": [
+            "Office renovation permit",
+            "IND",
+            "NDA",
+            "ANDA"
+          ],
+          "correct_answer": "Office renovation permit"
+        },
+        {
+          "question": "What is the primary purpose of regulatory timelines?",
+          "options": [
+            "To ensure efficient review process",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure efficient review process"
+        },
+        {
+          "question": "Which of the following is NOT a function of regulatory authorities?",
+          "options": [
+            "Office decoration",
+            "Product approval",
+            "Quality oversight",
+            "Safety monitoring"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of CMC information in regulatory submissions?",
+          "options": [
+            "To demonstrate product quality",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To demonstrate product quality"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in regulatory approval?",
+          "options": [
+            "Office location",
+            "Product safety",
+            "Efficacy",
+            "Quality"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of labeling requirements?",
+          "options": [
+            "To provide essential product information",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To provide essential product information"
+        },
+        {
+          "question": "Which of the following is NOT a component of regulatory review?",
+          "options": [
+            "Office temperature",
+            "Clinical data",
+            "CMC data",
+            "Safety data"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of regulatory inspections?",
+          "options": [
+            "To verify compliance with regulations",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To verify compliance with regulations"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory requirement?",
+          "options": [
+            "Office decor",
+            "GMP compliance",
+            "Quality control",
+            "Documentation"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of regulatory guidelines?",
+          "options": [
+            "To provide clear requirements",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To provide clear requirements"
+        },
+        {
+          "question": "Which of the following is NOT a component of regulatory submissions?",
+          "options": [
+            "Office layout",
+            "Clinical data",
+            "CMC data",
+            "Safety data"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of regulatory meetings?",
+          "options": [
+            "To discuss development plans",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To discuss development plans"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory consideration?",
+          "options": [
+            "Office lighting",
+            "Product quality",
+            "Patient safety",
+            "Efficacy"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of regulatory compliance?",
+          "options": [
+            "To ensure product safety and quality",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To ensure product safety and quality"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory authority responsibility?",
+          "options": [
+            "Office maintenance",
+            "Product approval",
+            "Quality oversight",
+            "Safety monitoring"
+          ],
+          "correct_answer": "Office maintenance"
+        }
+      ]
+    },
+    "unit_3": {
+      "unit_name": "International Registration",
+      "topics": [
+        "Export Procedures",
+        "Technical Documentation",
+        "Regulatory Dossiers",
+        "International Guidelines"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of Drug Master Files (DMF)?",
+          "options": [
+            "To provide confidential manufacturing information",
+            "To set market price",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To provide confidential manufacturing information"
+        },
+        {
+          "question": "Which of the following is NOT a component of Common Technical Document (CTD)?",
+          "options": [
+            "Office decoration",
+            "Quality",
+            "Safety",
+            "Efficacy"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary advantage of electronic Common Technical Document (eCTD)?",
+          "options": [
+            "Efficient regulatory review",
+            "Higher production costs",
+            "Simpler packaging",
+            "Lower market price"
+          ],
+          "correct_answer": "Efficient regulatory review"
+        },
+        {
+          "question": "Which of the following is NOT a requirement for export of pharmaceutical products?",
+          "options": [
+            "Office renovation permit",
+            "GMP certification",
+            "Product registration",
+            "Quality documentation"
+          ],
+          "correct_answer": "Office renovation permit"
+        },
+        {
+          "question": "What is the primary purpose of technical documentation?",
+          "options": [
+            "To demonstrate product quality and safety",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To demonstrate product quality and safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of ASEAN Common Technical Document (ACTD)?",
+          "options": [
+            "Office layout",
+            "Quality",
+            "Safety",
+            "Efficacy"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of export procedures?",
+          "options": [
+            "To ensure regulatory compliance",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To ensure regulatory compliance"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in international registration?",
+          "options": [
+            "Office temperature",
+            "Regulatory requirements",
+            "Quality standards",
+            "Documentation"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of regulatory dossiers?",
+          "options": [
+            "To provide comprehensive product information",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To provide comprehensive product information"
+        },
+        {
+          "question": "Which of the following is NOT a component of international guidelines?",
+          "options": [
+            "Office decor",
+            "Quality requirements",
+            "Safety standards",
+            "Documentation format"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of product registration?",
+          "options": [
+            "To obtain marketing authorization",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To obtain marketing authorization"
+        },
+        {
+          "question": "Which of the following is NOT a requirement for technical documentation?",
+          "options": [
+            "Office lighting",
+            "Manufacturing process",
+            "Quality control",
+            "Stability data"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of GMP certification?",
+          "options": [
+            "To ensure quality standards",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure quality standards"
+        },
+        {
+          "question": "Which of the following is NOT a component of regulatory dossiers?",
+          "options": [
+            "Office maintenance",
+            "Clinical data",
+            "CMC data",
+            "Safety data"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of quality documentation?",
+          "options": [
+            "To demonstrate product quality",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To demonstrate product quality"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in export procedures?",
+          "options": [
+            "Office location",
+            "Regulatory requirements",
+            "Quality standards",
+            "Documentation"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of international guidelines?",
+          "options": [
+            "To standardize requirements",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To standardize requirements"
+        },
+        {
+          "question": "Which of the following is NOT a component of export documentation?",
+          "options": [
+            "Office decor",
+            "Product specifications",
+            "Quality certificates",
+            "Regulatory approvals"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of regulatory compliance in exports?",
+          "options": [
+            "To ensure product safety and quality",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To ensure product safety and quality"
+        },
+        {
+          "question": "Which of the following is NOT a requirement for international registration?",
+          "options": [
+            "Office furniture",
+            "Product registration",
+            "Quality documentation",
+            "Regulatory approvals"
+          ],
+          "correct_answer": "Office furniture"
+        }
+      ]
+    },
+    "unit_4": {
+      "unit_name": "Clinical Trials",
+      "topics": [
+        "Clinical Trial Protocols",
+        "Ethics Committees",
+        "Informed Consent",
+        "Clinical Trial Management"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of clinical trial protocols?",
+          "options": [
+            "To outline study procedures",
+            "To set market price",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To outline study procedures"
+        },
+        {
+          "question": "Which of the following is NOT a function of Institutional Review Board (IRB)?",
+          "options": [
+            "Office decoration",
+            "Protocol review",
+            "Patient protection",
+            "Ethical oversight"
+          ],
+          "correct_answer": "Office decoration"
+        },
+        {
+          "question": "What is the primary purpose of informed consent?",
+          "options": [
+            "To protect patient rights",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To protect patient rights"
+        },
+        {
+          "question": "Which of the following is NOT a GCP obligation of investigators?",
+          "options": [
+            "Office maintenance",
+            "Patient safety",
+            "Protocol compliance",
+            "Data accuracy"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of clinical trial monitoring?",
+          "options": [
+            "To ensure protocol compliance",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure protocol compliance"
+        },
+        {
+          "question": "Which of the following is NOT a component of pharmacovigilance?",
+          "options": [
+            "Office temperature",
+            "Adverse event reporting",
+            "Safety monitoring",
+            "Risk assessment"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of ethics committees?",
+          "options": [
+            "To protect study participants",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To protect study participants"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in clinical trial management?",
+          "options": [
+            "Office layout",
+            "Patient recruitment",
+            "Data collection",
+            "Quality control"
+          ],
+          "correct_answer": "Office layout"
+        },
+        {
+          "question": "What is the primary purpose of sponsor obligations?",
+          "options": [
+            "To ensure trial quality",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To ensure trial quality"
+        },
+        {
+          "question": "Which of the following is NOT a component of clinical trial protocols?",
+          "options": [
+            "Office decor",
+            "Study objectives",
+            "Inclusion criteria",
+            "Safety monitoring"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of patient recruitment?",
+          "options": [
+            "To enroll suitable participants",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To enroll suitable participants"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in data collection?",
+          "options": [
+            "Office lighting",
+            "Data accuracy",
+            "Protocol compliance",
+            "Quality control"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of safety monitoring?",
+          "options": [
+            "To protect patient safety",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To protect patient safety"
+        },
+        {
+          "question": "Which of the following is NOT a component of quality control?",
+          "options": [
+            "Office maintenance",
+            "Data verification",
+            "Protocol compliance",
+            "Documentation"
+          ],
+          "correct_answer": "Office maintenance"
+        },
+        {
+          "question": "What is the primary purpose of risk assessment?",
+          "options": [
+            "To evaluate safety concerns",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To evaluate safety concerns"
+        },
+        {
+          "question": "Which of the following is NOT a consideration in protocol compliance?",
+          "options": [
+            "Office location",
+            "Study procedures",
+            "Data collection",
+            "Patient safety"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of data accuracy?",
+          "options": [
+            "To ensure reliable results",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure reliable results"
+        },
+        {
+          "question": "Which of the following is NOT a component of patient protection?",
+          "options": [
+            "Office decor",
+            "Informed consent",
+            "Safety monitoring",
+            "Ethical oversight"
+          ],
+          "correct_answer": "Office decor"
+        },
+        {
+          "question": "What is the primary purpose of ethical oversight?",
+          "options": [
+            "To ensure ethical conduct",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To ensure ethical conduct"
+        },
+        {
+          "question": "Which of the following is NOT a requirement for clinical trials?",
+          "options": [
+            "Office furniture",
+            "Protocol approval",
+            "Ethics approval",
+            "Regulatory approval"
+          ],
+          "correct_answer": "Office furniture"
+        }
+      ]
+    },
+    "unit_5": {
+      "unit_name": "Regulatory Concepts",
+      "topics": [
+        "Regulatory Terminology",
+        "Guidelines and Regulations",
+        "Regulatory Publications",
+        "Laws and Acts"
+      ],
+      "mcqs": [
+        {
+          "question": "What is the primary purpose of the Orange Book?",
+          "options": [
+            "To list approved drug products",
+            "To set market price",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To list approved drug products"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory publication?",
+          "options": [
+            "Office decoration guide",
+            "Federal Register",
+            "Code of Federal Regulations",
+            "Purple Book"
+          ],
+          "correct_answer": "Office decoration guide"
+        },
+        {
+          "question": "What is the primary purpose of regulatory guidelines?",
+          "options": [
+            "To provide clear requirements",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To provide clear requirements"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory law?",
+          "options": [
+            "Office maintenance act",
+            "Food, Drug and Cosmetic Act",
+            "Public Health Service Act",
+            "Prescription Drug User Fee Act"
+          ],
+          "correct_answer": "Office maintenance act"
+        },
+        {
+          "question": "What is the primary purpose of the Federal Register?",
+          "options": [
+            "To publish regulatory notices",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To publish regulatory notices"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory term?",
+          "options": [
+            "Office temperature",
+            "NDA",
+            "ANDA",
+            "IND"
+          ],
+          "correct_answer": "Office temperature"
+        },
+        {
+          "question": "What is the primary purpose of the Code of Federal Regulations?",
+          "options": [
+            "To codify regulatory requirements",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To codify regulatory requirements"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory guideline?",
+          "options": [
+            "Office layout guide",
+            "ICH guidelines",
+            "FDA guidance",
+            "EMA guidelines"
+          ],
+          "correct_answer": "Office layout guide"
+        },
+        {
+          "question": "What is the primary purpose of regulatory terminology?",
+          "options": [
+            "To standardize communication",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To standardize communication"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory act?",
+          "options": [
+            "Office decoration act",
+            "Drug Price Competition Act",
+            "Orphan Drug Act",
+            "Biologics Price Competition Act"
+          ],
+          "correct_answer": "Office decoration act"
+        },
+        {
+          "question": "What is the primary purpose of the Purple Book?",
+          "options": [
+            "To list biological products",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To list biological products"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory requirement?",
+          "options": [
+            "Office lighting",
+            "GMP compliance",
+            "Quality control",
+            "Documentation"
+          ],
+          "correct_answer": "Office lighting"
+        },
+        {
+          "question": "What is the primary purpose of regulatory laws?",
+          "options": [
+            "To ensure product safety",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To ensure product safety"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory publication?",
+          "options": [
+            "Office maintenance manual",
+            "Federal Register",
+            "Code of Federal Regulations",
+            "Orange Book"
+          ],
+          "correct_answer": "Office maintenance manual"
+        },
+        {
+          "question": "What is the primary purpose of regulatory acts?",
+          "options": [
+            "To establish legal framework",
+            "To increase production costs",
+            "To simplify packaging",
+            "To reduce market price"
+          ],
+          "correct_answer": "To establish legal framework"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory guideline?",
+          "options": [
+            "Office decor guide",
+            "ICH guidelines",
+            "FDA guidance",
+            "EMA guidelines"
+          ],
+          "correct_answer": "Office decor guide"
+        },
+        {
+          "question": "What is the primary purpose of regulatory publications?",
+          "options": [
+            "To disseminate information",
+            "To increase market price",
+            "To simplify packaging",
+            "To reduce production costs"
+          ],
+          "correct_answer": "To disseminate information"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory term?",
+          "options": [
+            "Office location",
+            "NDA",
+            "ANDA",
+            "IND"
+          ],
+          "correct_answer": "Office location"
+        },
+        {
+          "question": "What is the primary purpose of regulatory framework?",
+          "options": [
+            "To ensure product safety and quality",
+            "To determine market size",
+            "To design packaging",
+            "To train sales staff"
+          ],
+          "correct_answer": "To ensure product safety and quality"
+        },
+        {
+          "question": "Which of the following is NOT a regulatory requirement?",
+          "options": [
+            "Office furniture",
+            "GMP compliance",
+            "Quality control",
+            "Documentation"
+          ],
+          "correct_answer": "Office furniture"
+        }
+      ]
+    }
+  }
+} 
